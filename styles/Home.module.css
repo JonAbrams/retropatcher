@@ -101,6 +101,19 @@
   margin-left: 0.5rem;
 }
 
+.fileChooser {
+  margin-top: 2rem;
+}
+
+.fileInfo {
+  margin-top: 1rem;
+}
+
+.patchNotFound {
+  margin-top: 1rem;
+  color: red;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
