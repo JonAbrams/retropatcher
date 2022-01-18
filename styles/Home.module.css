@@ -109,9 +109,13 @@
   margin-top: 1rem;
 }
 
-.patchNotFound {
+.errorOutput {
   margin-top: 1rem;
   color: red;
+}
+
+.patchInfo {
+  margin-top: 1rem;
 }
 
 @media (max-width: 600px) {

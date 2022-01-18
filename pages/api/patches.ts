@@ -1,13 +1,13 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { roms } from "./patches.json";
 
-type Rom = {
+export type Rom = {
   md5: string;
   name: string;
   patches: Patch[];
 };
 
-type Patch = {
+export type Patch = {
   name: string;
   patchIps: string;
   originalUrL?: string;
