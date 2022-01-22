@@ -59,7 +59,7 @@ const Home: NextPage = () => {
   };
 
   const handleApplyPatch = () => {
-    if (!fileBytes || !patchInfo) return;
+    if (!fileBytes || !patchInfo || patchInfo === "loading") return;
     const ipsAsArray = Base64.toUint8Array(patchInfo.patchIps);
     setPatchedBytes(applyPatch(fileBytes, ipsAsArray));
   };
