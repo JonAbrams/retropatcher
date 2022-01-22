@@ -3,6 +3,7 @@ import Head from "next/head";
 import { ChangeEventHandler, useEffect, useState } from "react";
 import md5 from "js-md5";
 import { Base64 } from "js-base64";
+import { saveAs } from "file-saver";
 import { Patch } from "./api/patches";
 import { applyPatch } from "../lib/ips";
 
@@ -26,9 +27,12 @@ const Home: NextPage = () => {
   }, [fileBytes]);
 
   useEffect(() => {
-    if (!patchedBytes) return;
-    // TODO: Generate download
-  }, [patchedBytes]);
+    if (!patchedBytes || !filename) return;
+    const blob = new Blob([patchedBytes]);
+    const matched = filename.match(/(.*)\.gbc?/);
+    if (!matched) return;
+    saveAs(blob, matched[1] + ".pocket");
+  }, [filename, patchedBytes]);
 
   const handleFileChosen = ({ target }: { target: HTMLInputElement }) => {
     const reader = new FileReader();
@@ -67,8 +71,9 @@ const Home: NextPage = () => {
 
             {patchInfo && (
               <div className={styles.patchInfo}>
+                <div>Patch found!</div>
                 <div>
-                  Patch found: {patchInfo.name} by {patchInfo.authorName} [
+                  Created by {patchInfo.authorName} [
                   <a href={patchInfo.originalUrl}>url</a>]
                 </div>
                 <button
