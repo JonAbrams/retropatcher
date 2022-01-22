@@ -71,10 +71,19 @@ const Home: NextPage = () => {
 
             {patchInfo && (
               <div className={styles.patchInfo}>
-                <div>Patch found!</div>
+                <div>
+                  <strong>Patch found!</strong>
+                </div>
                 <div>
                   Created by {patchInfo.authorName} [
-                  <a href={patchInfo.originalUrl}>url</a>]
+                  <a
+                    href={patchInfo.originalUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    url
+                  </a>
+                  ]
                 </div>
                 <button
                   className={styles.downloadButton}

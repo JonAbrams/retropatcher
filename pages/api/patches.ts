@@ -8,13 +8,9 @@ export type Rom = {
 };
 
 export type Patch = {
-  name: string;
   patchIps: string;
   authorName: string;
   originalUrl: string;
-  outputName?: string;
-  authorReddit?: string;
-  authorTwitter?: string;
 };
 
 type ApiError = {
