@@ -13,7 +13,7 @@ const Home: NextPage = () => {
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
   const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
-  const [patchInfo, setPatchInfo] = useState<Patch | null>(null);
+  const [patchInfo, setPatchInfo] = useState<Patch | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
 
   useEffect(() => {
@@ -21,8 +21,15 @@ const Home: NextPage = () => {
     fetch(`/api/patches?md5=${md5(fileBytes)}`)
       .then((res) => res.json())
       .then((patchesFromServer) => {
+        if (patchesFromServer.status) {
+          setErrorOutput(patchesFromServer.status);
+          setPatchInfo(null);
+          return;
+        }
         if (!patchesFromServer[0]) return;
+        // TODO: Support multiple patches?
         setPatchInfo(patchesFromServer[0]);
+        setErrorOutput("");
       });
   }, [fileBytes]);
 
@@ -32,13 +39,21 @@ const Home: NextPage = () => {
     const matched = filename.match(/(.*)\.gbc?/);
     if (!matched) return;
     saveAs(blob, matched[1] + ".pocket");
+    setPatchedBytes(null);
   }, [filename, patchedBytes]);
 
   const handleFileChosen = ({ target }: { target: HTMLInputElement }) => {
+    setPatchInfo("loading");
     const reader = new FileReader();
     reader.onload = () =>
       setFileBytes(new Uint8Array(reader.result as ArrayBuffer));
-    if (!target.files || !target.files.length) return;
+    if (!target.files || !target.files.length) {
+      setPatchInfo(null);
+      setErrorOutput("");
+      setFilename("");
+      setFileBytes(null);
+      return;
+    }
     setFilename(target.files[0].name);
     reader.readAsArrayBuffer(target.files[0]);
   };
@@ -69,7 +84,8 @@ const Home: NextPage = () => {
             <div>Name: {filename}</div>
             <div>MD5: {md5(fileBytes)}</div>
 
-            {patchInfo && (
+            {patchInfo === "loading" && <div>Looking for a patch…</div>}
+            {patchInfo && typeof patchInfo !== "string" && (
               <div className={styles.patchInfo}>
                 <div>
                   <strong>Patch found!</strong>
@@ -107,7 +123,16 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <div>
-          Created by <a href="https://twitter.com/JonathanAbrams">Jon Abrams</a>
+          Created by <a href="https://twitter.com/JonathanAbrams">Jon Abrams</a>{" "}
+          [
+          <a
+            href="https://github.com/JonAbrams/retropatcher"
+            target="_blank"
+            rel="noreferrer"
+          >
+            github
+          </a>
+          ]
         </div>
       </footer>
     </div>

@@ -25,7 +25,7 @@ export default function handler(
 ) {
   const rom = roms.find((rom) => rom.md5 === req.query.md5) as Rom;
   if (!rom) {
-    return res.status(404).json({ status: "Rom not found." });
+    return res.status(404).json({ status: "No patches found." });
   }
 
   res.json(rom.patches);
