@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { roms } from "./patches.json";
+import patches from "./patches.json";
 
 export type Rom = {
   md5: string;
@@ -10,9 +10,9 @@ export type Rom = {
 export type Patch = {
   name: string;
   patchIps: string;
-  originalUrL?: string;
+  authorName: string;
+  originalUrl: string;
   outputName?: string;
-  authorName?: string;
   authorReddit?: string;
   authorTwitter?: string;
 };
@@ -20,6 +20,8 @@ export type Patch = {
 type ApiError = {
   status: string;
 };
+
+const { roms } = patches;
 
 export default function handler(
   req: NextApiRequest,

@@ -2,13 +2,16 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { ChangeEventHandler, useEffect, useState } from "react";
 import md5 from "js-md5";
+import { Base64 } from "js-base64";
 import { Patch } from "./api/patches";
+import { applyPatch } from "../lib/ips";
 
 import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
+  const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
   const [patchInfo, setPatchInfo] = useState<Patch | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
 
@@ -22,6 +25,11 @@ const Home: NextPage = () => {
       });
   }, [fileBytes]);
 
+  useEffect(() => {
+    if (!patchedBytes) return;
+    // TODO: Generate download
+  }, [patchedBytes]);
+
   const handleFileChosen = ({ target }: { target: HTMLInputElement }) => {
     const reader = new FileReader();
     reader.onload = () =>
@@ -29,6 +37,12 @@ const Home: NextPage = () => {
     if (!target.files || !target.files.length) return;
     setFilename(target.files[0].name);
     reader.readAsArrayBuffer(target.files[0]);
+  };
+
+  const handleApplyPatch = () => {
+    if (!fileBytes || !patchInfo) return;
+    const ipsAsArray = Base64.toUint8Array(patchInfo.patchIps);
+    setPatchedBytes(applyPatch(fileBytes, ipsAsArray));
   };
 
   return (
@@ -53,7 +67,23 @@ const Home: NextPage = () => {
 
             {patchInfo && (
               <div className={styles.patchInfo}>
-                <div>Patch found: {patchInfo.name}</div>
+                <div>
+                  Patch found: {patchInfo.name} by {patchInfo.authorName} [
+                  <a href={patchInfo.originalUrl}>url</a>]
+                </div>
+                <button
+                  className={styles.downloadButton}
+                  onClick={handleApplyPatch}
+                >
+                  Apply and Save
+                </button>
+                <p className={styles.note}>
+                  {
+                    'Note: Clicking "Apply and Save" will let you "download" the \
+                  patched ROM, but the patching and downloading all occurs on \
+                  your device.'
+                  }
+                </p>
               </div>
             )}
           </div>
