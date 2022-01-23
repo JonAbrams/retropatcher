@@ -62,7 +62,13 @@ const bestBigSrc =
     );
     if (!match) continue;
     const { name, md5, url } = match.groups;
-    const rom = { name, md5: md5.toLowerCase() };
+    const rom = {
+      name,
+      md5: md5.toLowerCase(),
+      authorName: "BestPig",
+      originalUrl:
+        "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
+    };
     console.log("Fetching IPS for", name);
     const downloadUrl = url.replace(
       "shareit.bestpig.fr/file",
