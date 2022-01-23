@@ -106,18 +106,35 @@ const Home: NextPage = () => {
                 >
                   Apply and Save
                 </button>
-                <p className={styles.note}>
-                  {
-                    'Note: Clicking "Apply and Save" will let you "download" the \
-                  patched ROM, but the patching and downloading all occurs on \
-                  your device.'
-                  }
-                </p>
               </div>
             )}
           </div>
         )}
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
+        <p className={styles.note}>
+          {
+            'Note: This site will let you "download" the \
+                  patched ROM, but the patching and downloading all occurs on \
+                  your device, no copyrighted content is sent or received. No warranty provided, use at your own risk.'
+          }
+        </p>
+        <div className={styles.knownIssues}>
+          <h3>Known issues:</h3>
+          <ul>
+            <li>Missing &quot;Link&apos;s Awakening (DX)&quot;!</li>
+            <li>
+              If a rom has multiple patches, one will be chosen… randomly.
+            </li>
+            <li>No zip file support.</li>
+            <li>
+              Please report other issues{" "}
+              <a href="https://github.com/JonAbrams/retropatcher/issues">
+                here
+              </a>
+              .
+            </li>
+          </ul>
+        </div>
       </main>
 
       <footer className={styles.footer}>
