@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import patchesJson from "../../public/patches.json";
+import patchesJson from "./patches.json";
 
 export type Patch = {
   md5: string;

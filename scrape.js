@@ -68,7 +68,11 @@ const sources = {
     return -1;
   });
 
-  writeFileSync("public/patches.json", JSON.stringify(output, null, 2) + "\n", {
-    encoding: "utf8",
-  });
+  writeFileSync(
+    "pages/api/patches.json",
+    JSON.stringify(output, null, 2) + "\n",
+    {
+      encoding: "utf8",
+    }
+  );
 })();
