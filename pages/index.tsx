@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { ChangeEventHandler, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import md5 from "js-md5";
 import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
@@ -80,7 +80,7 @@ const Home: NextPage = () => {
         </form>
         {fileBytes && (
           <div className={styles.fileInfo}>
-            <div>Name: {filename}</div>
+            <div>ROM File Name: {filename}</div>
             <div>MD5: {md5(fileBytes)}</div>
 
             {patchInfo === "loading" && <div>Looking for a patch…</div>}
@@ -90,6 +90,7 @@ const Home: NextPage = () => {
                   <strong>Patch found!</strong>
                 </div>
                 <div>
+                  <div>Name: {patchInfo.name}</div>
                   Created by {patchInfo.authorName} [
                   <a
                     href={patchInfo.originalUrl}
