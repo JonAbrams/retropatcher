@@ -20,15 +20,14 @@ const Home: NextPage = () => {
     if (!fileBytes) return;
     fetch(`/api/patches?md5=${md5(fileBytes)}`)
       .then((res) => res.json())
-      .then((patchesFromServer) => {
-        if (patchesFromServer.status) {
-          setErrorOutput(patchesFromServer.status);
+      .then((patchFromServer) => {
+        if (patchFromServer.status) {
+          setErrorOutput(patchFromServer.status);
           setPatchInfo(null);
           return;
         }
-        if (!patchesFromServer[0]) return;
         // TODO: Support multiple patches?
-        setPatchInfo(patchesFromServer[0]);
+        setPatchInfo(patchFromServer);
         setErrorOutput("");
       });
   }, [fileBytes]);

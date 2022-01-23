@@ -1,13 +1,9 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import patches from "./patches.json";
-
-export type Rom = {
-  md5: string;
-  name: string;
-  patches: Patch[];
-};
+import patchesJson from "../../public/patches.json";
 
 export type Patch = {
+  md5: string;
+  name: string;
   patchIps: string;
   authorName: string;
   originalUrl: string;
@@ -17,16 +13,16 @@ type ApiError = {
   status: string;
 };
 
-const { roms } = patches;
+const roms = (patchesJson as { roms: Patch[] }).roms;
 
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Patch[] | ApiError>
+  res: NextApiResponse<Patch | ApiError>
 ) {
-  const rom = roms.find((rom) => rom.md5 === req.query.md5) as Rom;
-  if (!rom) {
+  const patch = roms.find((rom: Patch) => rom.md5 === req.query.md5);
+  if (!patch) {
     return res.status(404).json({ status: "No patches found." });
   }
 
-  res.json(rom.patches);
+  res.json(patch);
 }
