@@ -3,6 +3,8 @@ const fetch = (...args) =>
 const { writeFileSync } = require("fs");
 const { Base64 } = require("js-base64");
 
+const { isValidIPS } = require("./lib/ips");
+
 const sources = {
   JoseJX: {
     md: "https://raw.githubusercontent.com/JoseJX/analogue-pocket-patches/main/README.md",
@@ -56,7 +58,9 @@ const sources = {
       };
       console.log("Fetching IPS for", name);
       const buffer = await fetch(downloadUrl).then((res) => res.arrayBuffer());
-      rom.patchIps = Base64.fromUint8Array(new Uint8Array(buffer));
+      const bitArray = new Uint8Array(buffer);
+      if (!isValidIPS(bitArray)) continue;
+      rom.patchIps = Base64.fromUint8Array(bitArray);
       output.roms.push(rom);
     }
   }

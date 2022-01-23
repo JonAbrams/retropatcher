@@ -52,6 +52,9 @@
 
 .patchInfo {
   margin-top: 1rem;
+  border: solid 1px #aaa;
+  background-color: #e4e4e4;
+  padding: 1rem;
 }
 
 .downloadButton {

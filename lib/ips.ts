@@ -9,12 +9,12 @@ export function isValidIPS(buffer: Uint8Array): boolean {
 function isEOF(buffer: Uint8Array): boolean {
   return (
     buffer.length === 0 ||
-    String.fromCharCode.apply(null, Array.from(buffer)) === "EOF"
+    String.fromCharCode.apply(null, Array.from(buffer.slice(0, 3))) === "EOF"
   );
 }
 
 export function applyPatch(romFile: Uint8Array, patch: Uint8Array): Uint8Array {
-  const patched = new Uint8Array(romFile);
+  const patched = Array.from(romFile);
   let index = 5;
 
   while (!isEOF(patch.slice(index))) {
@@ -27,16 +27,15 @@ export function applyPatch(romFile: Uint8Array, patch: Uint8Array): Uint8Array {
       for (let i = 0; i < len; i++) {
         patched[offset + i] = patch[index + i];
       }
+      index += len;
     } else {
       len = (patch[index] << 8) + patch[index + 1];
-      index += 2;
-      const val = patch[index];
-      index += 1;
+      const val = patch[index + 2];
+      index += 3;
       for (let i = 0; i < len; i++) {
         patched[offset + i] = val;
       }
     }
-    index += len;
   }
-  return patched;
+  return new Uint8Array(patched);
 }

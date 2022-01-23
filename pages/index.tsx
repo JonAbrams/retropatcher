@@ -13,21 +13,20 @@ const Home: NextPage = () => {
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
   const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
-  const [patchInfo, setPatchInfo] = useState<Patch | "loading" | null>(null);
+  const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
 
   useEffect(() => {
     if (!fileBytes) return;
     fetch(`/api/patches?md5=${md5(fileBytes)}`)
       .then((res) => res.json())
-      .then((patchFromServer) => {
-        if (patchFromServer.status) {
-          setErrorOutput(patchFromServer.status);
+      .then((patchesFromServer) => {
+        if (patchesFromServer.status) {
+          setErrorOutput(patchesFromServer.status);
           setPatchInfo(null);
           return;
         }
-        // TODO: Support multiple patches?
-        setPatchInfo(patchFromServer);
+        setPatchInfo(patchesFromServer);
         setErrorOutput("");
       });
   }, [fileBytes]);
@@ -57,9 +56,9 @@ const Home: NextPage = () => {
     reader.readAsArrayBuffer(target.files[0]);
   };
 
-  const handleApplyPatch = () => {
-    if (!fileBytes || !patchInfo || patchInfo === "loading") return;
-    const ipsAsArray = Base64.toUint8Array(patchInfo.patchIps);
+  const handleApplyPatch = (patchIps: string) => {
+    if (!fileBytes) return;
+    const ipsAsArray = Base64.toUint8Array(patchIps);
     setPatchedBytes(applyPatch(fileBytes, ipsAsArray));
   };
 
@@ -84,31 +83,33 @@ const Home: NextPage = () => {
             <div>MD5: {md5(fileBytes)}</div>
 
             {patchInfo === "loading" && <div>Looking for a patch…</div>}
-            {patchInfo && typeof patchInfo !== "string" && (
-              <div className={styles.patchInfo}>
-                <div>
-                  <strong>Patch found!</strong>
-                </div>
-                <div>
-                  <div>Name: {patchInfo.name}</div>
-                  Created by {patchInfo.authorName} [
-                  <a
-                    href={patchInfo.originalUrl}
-                    target="_blank"
-                    rel="noreferrer"
+            {patchInfo &&
+              typeof patchInfo !== "string" &&
+              patchInfo.map((patch) => (
+                <div key={patch.name} className={styles.patchInfo}>
+                  <div>
+                    <strong>Patch found!</strong>
+                  </div>
+                  <div>
+                    <div>Name: {patch.name}</div>
+                    Created by {patch.authorName} [
+                    <a
+                      href={patch.originalUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      url
+                    </a>
+                    ]
+                  </div>
+                  <button
+                    className={styles.downloadButton}
+                    onClick={() => handleApplyPatch(patch.patchIps)}
                   >
-                    url
-                  </a>
-                  ]
+                    Apply and Save
+                  </button>
                 </div>
-                <button
-                  className={styles.downloadButton}
-                  onClick={handleApplyPatch}
-                >
-                  Apply and Save
-                </button>
-              </div>
-            )}
+              ))}
           </div>
         )}
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
@@ -123,9 +124,6 @@ const Home: NextPage = () => {
           <h3>Known issues:</h3>
           <ul>
             <li>Missing &quot;Link&apos;s Awakening (DX)&quot;!</li>
-            <li>
-              If a rom has multiple patches, one will be chosen… randomly.
-            </li>
             <li>No zip file support.</li>
             <li>
               Please report other issues{" "}
