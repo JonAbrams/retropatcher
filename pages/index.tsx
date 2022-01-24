@@ -118,7 +118,7 @@ const Home: NextPage = () => {
             'Note: This site will let you "download" the \
                   patched ROM, but the patching and downloading all occurs on \
                   your device, no copyrighted content is sent or received. No warranty provided, use at your own risk. \
-                  Patches created by JoseJX, BestPig, Infinest, jsky0, Trey Turner, and r0r0. All patches listed '
+                  All patches listed '
           }
           <a
             href="https://strt-slct.com/analogue-pocket-patches/"
@@ -157,6 +157,10 @@ const Home: NextPage = () => {
             github
           </a>
           ]
+        </div>
+        <div>
+          Patches created by JoseJX, BestPig, Infinest, jsky0, Trey Turner, and
+          r0r0.
         </div>
       </footer>
     </div>
