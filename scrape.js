@@ -1,7 +1,8 @@
 const fetch = (...args) =>
   import("node-fetch").then(({ default: fetch }) => fetch(...args));
-const { writeFileSync } = require("fs");
+const fs = require("fs/promises");
 const { Base64 } = require("js-base64");
+const process = require("process");
 
 const sources = {
   JoseJX: {
@@ -72,11 +73,23 @@ const sources = {
     return -1;
   });
 
-  writeFileSync(
-    "pages/api/patches.json",
-    JSON.stringify(output, null, 2) + "\n",
-    {
-      encoding: "utf8",
-    }
-  );
+  const oldJSON = await fs.readFile("./pages/api/patches.json", "utf8");
+  const newJSON = JSON.stringify(output, null, 2) + "\n";
+
+  if (newJSON.length < oldJSON.length) {
+    console.error(
+      "Uh oh, patches.json got smaller?",
+      "Existing file size:",
+      oldJSON.length,
+      "New size:",
+      newJSON.length
+    );
+    process.exit(2);
+  } else if (newJSON.length > oldJSON.length) {
+    await fs.writeFile("pages/api/patches.json", newJSON);
+    console.log("Wrote new patches.json");
+    process.exit(0); // yay
+  }
+  console.log("patches.json didn't seem to change.");
+  process.exit(1); // file didn't change… probably.
 })();
