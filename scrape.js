@@ -21,7 +21,7 @@ const sources = {
     md: "https://raw.githubusercontent.com/jduckett95/misc-pocket-patches/main/r0r0-patches.md",
   },
   BestPig: {
-    md: "https://gist.githubusercontent.com/BestPig/528fb9a19cbb638fac1278a641041881/raw/75b5236f40a9128c4de28e892bae41ebe99afc2c/analogue-pocket-game-patches.md",
+    md: "https://gist.githubusercontent.com/BestPig/528fb9a19cbb638fac1278a641041881/raw/analogue-pocket-game-patches.md",
   },
 };
 
