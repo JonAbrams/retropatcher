@@ -4,6 +4,8 @@ const fs = require("fs/promises");
 const { Base64 } = require("js-base64");
 const process = require("process");
 
+const permaPatches = require("./pages/api/permaPatches.json").patches;
+
 const sources = {
   JoseJX: {
     md: "https://raw.githubusercontent.com/JoseJX/analogue-pocket-patches/main/README.md",
@@ -28,7 +30,7 @@ const sources = {
 (async () => {
   const output = {
     updated: new Date().toISOString(),
-    roms: [],
+    patches: permaPatches,
   };
   for (const authorName of Object.keys(sources)) {
     const mdUrl = sources[authorName].md;
@@ -47,9 +49,18 @@ const sources = {
         authorName === "BestPig"
           ? url.replace("shareit.bestpig.fr/file", "shareit.bestpig.fr/get")
           : url;
-      const rom = {
+      if (
+        permaPatches.some((p) => p.authorName === authorName && p.name === name)
+      ) {
+        console.log(
+          `Skipping ${name} by ${authorName} due to existing patch found`
+        );
+        continue;
+      }
+      const patch = {
         name,
         authorName,
+        url,
         md5: md5.toLowerCase(),
         originalUrl:
           authorName === "BestPig"
@@ -61,12 +72,12 @@ const sources = {
       console.log("Fetching IPS for", name);
       const buffer = await fetch(downloadUrl).then((res) => res.arrayBuffer());
       const bitArray = new Uint8Array(buffer);
-      rom.patchIps = Base64.fromUint8Array(bitArray);
-      output.roms.push(rom);
+      patch.patchIps = Base64.fromUint8Array(bitArray);
+      output.patches.push(patch);
     }
   }
 
-  output.roms.sort((a, b) => {
+  output.patches.sort((a, b) => {
     if (a.name > b.name) {
       return 1;
     }
@@ -91,5 +102,4 @@ const sources = {
     process.exit(0); // yay
   }
   console.log("patches.json didn't seem to change.");
-  process.exit(1); // file didn't change… probably.
 })();

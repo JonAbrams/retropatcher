@@ -129,20 +129,6 @@ const Home: NextPage = () => {
           </a>
           .
         </p>
-        <div className={styles.knownIssues}>
-          <h3>Known issues:</h3>
-          <ul>
-            <li>Missing &quot;Link&apos;s Awakening (DX)&quot;!</li>
-            <li>No zip file support.</li>
-            <li>
-              Please report other issues{" "}
-              <a href="https://github.com/JonAbrams/retropatcher/issues">
-                here
-              </a>
-              .
-            </li>
-          </ul>
-        </div>
       </main>
 
       <footer className={styles.footer}>

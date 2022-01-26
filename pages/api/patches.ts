@@ -7,22 +7,23 @@ export type Patch = {
   patchIps: string;
   authorName: string;
   originalUrl: string;
+  url?: string;
 };
 
 type ApiError = {
   status: string;
 };
 
-const roms = (patchesJson as { roms: Patch[] }).roms;
+const patches = (patchesJson as { patches: Patch[] }).patches;
 
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Patch[] | ApiError>
 ) {
-  const patches = roms.filter((rom: Patch) => rom.md5 === req.query.md5);
-  if (patches.length === 0) {
+  let results = patches.filter((patch: Patch) => patch.md5 === req.query.md5);
+  if (results.length === 0) {
     return res.status(404).json({ status: "No patches found." });
   }
 
-  res.json(patches);
+  res.json(results);
 }
