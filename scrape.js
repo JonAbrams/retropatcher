@@ -48,9 +48,13 @@ const sources = {
       const downloadUrl =
         authorName === "BestPig"
           ? url.replace("shareit.bestpig.fr/file", "shareit.bestpig.fr/get")
-          : url;
+          : url.replace("/blob/main/", "/raw/main/");
       if (
-        permaPatches.some((p) => p.authorName === authorName && p.name === name)
+        permaPatches.some(
+          (p) =>
+            (p.authorName === authorName && p.name === name) ||
+            p.downloadUrl === downloadUrl
+        )
       ) {
         console.log(
           `Skipping ${name} by ${authorName} due to existing patch found`
@@ -60,7 +64,7 @@ const sources = {
       const patch = {
         name,
         authorName,
-        url,
+        downloadUrl,
         md5: md5.toLowerCase(),
         originalUrl:
           authorName === "BestPig"
@@ -69,10 +73,6 @@ const sources = {
                 .replace("raw.githubusercontent.com", "github.com")
                 .replace("/main", "/blob/main"),
       };
-      console.log("Fetching IPS for", name);
-      const buffer = await fetch(downloadUrl).then((res) => res.arrayBuffer());
-      const bitArray = new Uint8Array(buffer);
-      patch.patchIps = Base64.fromUint8Array(bitArray);
       output.patches.push(patch);
     }
   }

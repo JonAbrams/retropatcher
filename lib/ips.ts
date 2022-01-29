@@ -14,6 +14,8 @@ function isEOF(buffer: Uint8Array): boolean {
 }
 
 export function applyPatch(romFile: Uint8Array, patch: Uint8Array): Uint8Array {
+  if (!isValidIPS(patch)) throw new Error("Invalid patch");
+
   const patched = Array.from(romFile);
   let index = 5;
 

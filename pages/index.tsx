@@ -56,10 +56,18 @@ const Home: NextPage = () => {
     reader.readAsArrayBuffer(target.files[0]);
   };
 
-  const handleApplyPatch = (patchIps: string) => {
+  const handleApplyPatch = async (patch: Patch) => {
     if (!fileBytes) return;
-    const ipsAsArray = Base64.toUint8Array(patchIps);
-    setPatchedBytes(applyPatch(fileBytes, ipsAsArray));
+    let patchIps;
+    if (patch.downloadUrl) {
+      patchIps = await fetch(
+        `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`
+      ).then((res) => res.arrayBuffer());
+    } else if (patch.patchIps) {
+      patchIps = Base64.toUint8Array(patch.patchIps);
+    }
+    if (!patchIps) return;
+    setPatchedBytes(applyPatch(fileBytes, new Uint8Array(patchIps)));
   };
 
   return (
@@ -104,7 +112,7 @@ const Home: NextPage = () => {
                   </div>
                   <button
                     className={styles.downloadButton}
-                    onClick={() => handleApplyPatch(patch.patchIps)}
+                    onClick={() => handleApplyPatch(patch)}
                   >
                     Apply and Save
                   </button>

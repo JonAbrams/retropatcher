@@ -4,13 +4,13 @@ import patchesJson from "./patches.json";
 export type Patch = {
   md5: string;
   name: string;
-  patchIps: string;
   authorName: string;
   originalUrl: string;
-  url?: string;
+  patchIps?: string;
+  downloadUrl?: string;
 };
 
-type ApiError = {
+export type ApiError = {
   status: string;
 };
 
