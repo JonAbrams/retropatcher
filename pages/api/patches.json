@@ -1,5 +1,5 @@
 {
-  "updated": "2022-01-29T21:09:18.229Z",
+  "updated": "2022-01-29T22:19:28.860Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1945,6 +1945,20 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TokiTori.ips",
       "md5": "e1bf59102bcd5e3601f4b24b3e873fd2",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-CultureHen.ips",
+      "md5": "25ad12b8d2436d520057f12253f2d37d",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-SportHen.ips",
+      "md5": "20b1ed1ae966b173c3a0f7f7f267e408",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
