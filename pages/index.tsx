@@ -15,6 +15,7 @@ const Home: NextPage = () => {
   const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
+  const [applying, setApplying] = useState(false);
 
   useEffect(() => {
     if (!fileBytes) return;
@@ -60,12 +61,14 @@ const Home: NextPage = () => {
     if (!fileBytes) return;
     let patchIps;
     if (patch.downloadUrl) {
+      setApplying(true);
       patchIps = await fetch(
         `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`
       ).then((res) => res.arrayBuffer());
     } else if (patch.patchIps) {
       patchIps = Base64.toUint8Array(patch.patchIps);
     }
+    setApplying(false);
     if (!patchIps) return;
     setPatchedBytes(applyPatch(fileBytes, new Uint8Array(patchIps)));
   };
@@ -113,6 +116,7 @@ const Home: NextPage = () => {
                   <button
                     className={styles.downloadButton}
                     onClick={() => handleApplyPatch(patch)}
+                    disabled={applying}
                   >
                     Apply and Save
                   </button>
