@@ -1,5 +1,5 @@
 {
-  "updated": "2022-01-31T06:25:02.249Z",
+  "updated": "2022-01-31T19:15:54.051Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1070,6 +1070,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami3.ips",
       "md5": "98f7778539e22307d074cf0abb37d05c",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Konami GB Collection Volume 4",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips",
+      "md5": "f3414d53473e2cc43347774cc5f40495",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
