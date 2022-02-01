@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T18:24:56.345Z",
+  "updated": "2022-02-01T19:16:52.176Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1931,6 +1931,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips",
       "md5": "9ba2999ef3ecf9e27ac6c88e995c9d7a",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Super Robot Taisen",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips",
+      "md5": "7bb8a5bc9e55a05eba1a3fcbf460a9b5",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
