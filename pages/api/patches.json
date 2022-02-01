@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T15:21:37.992Z",
+  "updated": "2022-02-01T16:33:04.009Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -2078,6 +2078,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips",
       "md5": "a0b4538f687fc61bc88f7ee111170355",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tony Hawk's Pro Skater",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS.ips",
+      "md5": "75be6e3561908e705d9e790b34eddb4d",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
