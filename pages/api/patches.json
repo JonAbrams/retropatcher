@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T19:16:52.176Z",
+  "updated": "2022-02-01T22:20:15.763Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1861,6 +1861,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
       "md5": "820e0a19275fabc03fe619c42db47179",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Star Wars",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips",
+      "md5": "63098fde8f2dcb977c9a8f0389e0d033",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
