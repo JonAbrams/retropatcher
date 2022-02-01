@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T07:18:58.239Z",
+  "updated": "2022-02-01T08:25:12.614Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -321,6 +321,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips",
       "md5": "11c49d405eef2174d9c14682204bb458",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Buffy the Vampire Slayer",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Buffy.ips",
+      "md5": "49561c4082206a7e5d5ca2032be81eed",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
@@ -786,6 +793,13 @@
       "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
     },
     {
+      "name": "Gauntlet II",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gauntlet2.ips",
+      "md5": "cdca15cfd1645c02fe1cc327b772264e",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
       "name": "Gear Works",
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips",
@@ -1154,6 +1168,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings.ips",
       "md5": "0476c7220327d99e3d039faaa4cdde8f",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Lion King",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKing.ips",
+      "md5": "fdab70df67c8941ed7b39a0405161545",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
@@ -1896,6 +1917,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT3.ips",
       "md5": "e6104df1feb1318ff1764c791eb4ce0e",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tennis",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tennis.ips",
+      "md5": "7d621dcbbce12b73574c42f40deec275",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
