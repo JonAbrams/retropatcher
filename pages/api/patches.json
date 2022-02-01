@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T22:20:15.763Z",
+  "updated": "2022-02-01T23:20:52.704Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -524,6 +524,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips",
       "md5": "81f7dee7546e630de075a3397349efb8",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Dead Heat Scramble",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadHeatScramble.ips",
+      "md5": "c2212d75077638539d6af4673b4939e6",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
