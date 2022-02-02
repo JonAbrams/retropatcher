@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-01T23:20:52.704Z",
+  "updated": "2022-02-02T03:20:18.855Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1512,6 +1512,13 @@
       "downloadUrl": "https://shareit.bestpig.fr/get/f15eb1d0c2ae2d048e679e8910ac29ff80f2dd18/Ninja+Gaiden+Shadow+%28USA%29-d3741a3a.ips",
       "md5": "e12c5c2897ed095f8d26c7578afddfda",
       "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    },
+    {
+      "name": "Noobow",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips",
+      "md5": "ccd0cf7cc240714a9694e1fe296afb7c",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
       "name": "Operation C",
