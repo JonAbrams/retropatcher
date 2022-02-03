@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T07:19:24.636Z",
+  "updated": "2022-02-03T08:24:40.834Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1920,7 +1920,14 @@
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
-      "name": "Star Wars Episode 1 - Racer",
+      "name": "Star Wars Episode I - Obi-Wan's Adventures",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars-EP1-ObiWan.ips",
+      "md5": "484eeb83ad00353272767485eca59ea5",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Star Wars Episode I - Racer",
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWarsEp1Racer.ips",
       "md5": "d1e875cb7dac0092e83b9e7799b06653",
