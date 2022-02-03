@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T16:32:38.969Z",
+  "updated": "2022-02-03T20:21:16.388Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1311,6 +1311,13 @@
       "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
     },
     {
+      "name": "Mario no Picross",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips",
+      "md5": "defe3559ef5e8d69ca95289edb6f9f6e",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
       "name": "Mario's Picross",
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioPicross.ips",
@@ -2274,6 +2281,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips",
       "md5": "6a6931f6d1a6e60b4da9551e83b2742b",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Turok 3 - Shadow of Oblivion",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips",
+      "md5": "a9d2f36d6c2a334e0b2261c57c20f0d4",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
