@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T04:26:48.000Z",
+  "updated": "2022-02-03T05:18:50.809Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -2204,6 +2204,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS3.ips",
       "md5": "365f913d6f2b0f44d87b7a347daea528",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Top Gear Pocket 2",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips",
+      "md5": "0a1cf1904c87b60308c404d93bab2702",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
