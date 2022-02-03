@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T02:31:39.058Z",
+  "updated": "2022-02-03T03:22:02.497Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -699,6 +699,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips",
       "md5": "b4e5876c5acedd12b62e25a12973a4ae",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Duke Nukem",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips",
+      "md5": "b2d3713267c9e21b3dae3cb5f437fccd",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
