@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T08:24:40.834Z",
+  "updated": "2022-02-03T09:20:32.209Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -2142,6 +2142,20 @@
       "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Legend_of_Zelda_The_-_Oracle_of_Seasons_Analogue_Pocket_patch_v1.2.ips",
       "md5": "f2dc6c4e093e4f8c6cbea80e8dbd62cb",
       "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tintin - Prisoners of the Sun",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-PotS.ips",
+      "md5": "46ed332d95c5da9a2007945fed9f8118",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Tintin in Tibet",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-Tibet.ips",
+      "md5": "8150a3978211939d367f48ffcd49f979",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
       "name": "Tiny Toon Adventures - Babs' Big Break",
