@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T03:22:02.497Z",
+  "updated": "2022-02-03T04:26:48.000Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -2023,6 +2023,13 @@
       "downloadUrl": "https://shareit.bestpig.fr/get/0cc1cc7ecbfca70fdb51f3ffd01149145efca29f/Tamagotchi+%28USA%2C+Europe%29+%28SGB+Enhanced%29-dbf1bd20.ips",
       "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
       "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    },
+    {
+      "name": "Tecmo Bowl",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TecmoBowl.ips",
+      "md5": "dc2732dba9121aad355fa2e1dfbbb069",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
       "name": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan",
