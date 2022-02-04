@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-03T20:21:16.388Z",
+  "updated": "2022-02-04T01:09:09.992Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1910,6 +1910,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spacestation.ips",
       "md5": "488611af773cec5b7ecc5bd3efb754bb",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Spanky's Quest",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpankysQuest.ips",
+      "md5": "3c268409bf6869a8707839a7dd1ee1c7",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
