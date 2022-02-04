@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-04T06:20:08.552Z",
+  "updated": "2022-02-04T17:16:18.296Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -2445,6 +2445,13 @@
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
+      "name": "Who Framed Rodger Rabbit?",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RogerRabbit.ips",
+      "md5": "692fc5a0b6a9893d6ea25326c55caae5",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
       "name": "Wild Snake",
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips",
@@ -2470,6 +2477,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wordtris.ips",
       "md5": "29c71c474c2fa00eeac79ddb55c2c174",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Worms",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips",
+      "md5": "45dcc259728a00118fe86f841d48564f",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
