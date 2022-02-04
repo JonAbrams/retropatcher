@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-04T04:22:14.399Z",
+  "updated": "2022-02-04T05:15:28.697Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1955,6 +1955,13 @@
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
+      "name": "Spy vs Spy - Operation Booby Trap",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpy.ips",
+      "md5": "d5f373b287d29e882a1f1182542d5b68",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
       "name": "Star Ocean - Blue Sphere",
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
@@ -2120,6 +2127,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tennis.ips",
       "md5": "7d621dcbbce12b73574c42f40deec275",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Terminator 2 - Judgement Day",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Terminator2.ips",
+      "md5": "133ae23114bf442fef6acccd1b8e187a",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
