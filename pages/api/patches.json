@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-04T01:09:09.992Z",
+  "updated": "2022-02-04T02:21:36.628Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1924,6 +1924,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpeedyGonzales.ips",
       "md5": "7e1bedf88581ee7370c8eb86c6863e2c",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Spider-Man - X-Men",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips",
+      "md5": "634532de88aa7c35bd9231ee5356ae8a",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
