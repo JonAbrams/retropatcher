@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-04T05:15:28.697Z",
+  "updated": "2022-02-04T06:20:08.552Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -517,6 +517,34 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips",
       "md5": "d1934b308085c92b2ee492faa0d159c2",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Dance Dance Revolution GB",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR.ips",
+      "md5": "c7cf1e919682b3ee613dd155cc12a15a",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Dance Dance Revolution GB - Disney Mix",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR-Disney.ips",
+      "md5": "dbada1fdfaba283bede36852843f5ed8",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Dance Dance Revolution GB2",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR2.ips",
+      "md5": "7f306f573ca9759fa2f7aa167ca2dd74",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Dance Dance Revolution GB3",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR3.ips",
+      "md5": "3ced79ad60ab5195058d5d658550f04f",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
@@ -2344,6 +2372,13 @@
       "authorName": "JoseJX",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima2.ips",
       "md5": "15cd267d7805fe9f1769e9644a9cec2e",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    },
+    {
+      "name": "Ultraman Ball",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips",
+      "md5": "90a0bc783fbe56748989d8fad9ae48ed",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
