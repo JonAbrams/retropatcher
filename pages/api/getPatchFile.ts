@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
-import patchesJson from "./patches.json";
-import { ApiError, Patch } from "./patches";
+import patchesJson from "../../public/patches/pocket.json";
+import { Patch } from "./patches";
 
 const patches = (patchesJson as { patches: Patch[] }).patches;
 

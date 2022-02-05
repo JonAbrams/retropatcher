@@ -4,7 +4,8 @@ const fs = require("fs/promises");
 const { Base64 } = require("js-base64");
 const process = require("process");
 
-const permaPatches = require("./pages/api/permaPatches.json").patches;
+const permaPatches = require("./public/patches/permaPocket.json").patches;
+const outputFile = "./public/patches/pocket.json";
 
 const sources = {
   JoseJX: {
@@ -56,9 +57,6 @@ const sources = {
             p.downloadUrl === downloadUrl
         )
       ) {
-        console.log(
-          `Skipping ${name} by ${authorName} due to existing patch found`
-        );
         continue;
       }
       const patch = {
@@ -84,7 +82,7 @@ const sources = {
     return -1;
   });
 
-  const oldJSON = await fs.readFile("./pages/api/patches.json", "utf8");
+  const oldJSON = await fs.readFile(outputFile, "utf8");
   const newJSON = JSON.stringify(output, null, 2) + "\n";
 
   if (newJSON.length < oldJSON.length) {
@@ -97,9 +95,9 @@ const sources = {
     );
     process.exit(2);
   } else if (newJSON.length > oldJSON.length) {
-    await fs.writeFile("pages/api/patches.json", newJSON);
+    await fs.writeFile(outputFile, newJSON);
     console.log("Wrote new patches.json");
     process.exit(0); // yay
   }
-  console.log("patches.json didn't seem to change.");
+  console.log("pocket.json didn't seem to change.");
 })();

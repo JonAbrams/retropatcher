@@ -1,4 +1,5 @@
 {
+  "note to devs": "ok to edit this directly, gets mixed into pocket.json on scrape",
   "patches": [
     {
       "name": "Pokemon Red (USA)",
