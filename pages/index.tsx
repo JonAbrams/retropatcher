@@ -6,8 +6,8 @@ import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
 import { Patch } from "./api/patches";
 import { applyPatch } from "../lib/ips";
-
 import styles from "../styles/Home.module.css";
+import { updated } from "../public/patches/pocket.json";
 
 const Home: NextPage = () => {
   const [filename, setFilename] = useState("");
@@ -125,6 +125,13 @@ const Home: NextPage = () => {
           </div>
         )}
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
+        <div className={styles.updated}>
+          Patch list updated:{" "}
+          {Intl.DateTimeFormat("en-US", {
+            dateStyle: "medium",
+            timeStyle: "short",
+          }).format(new Date(updated))}
+        </div>
         <p className={styles.note}>
           {
             'Note: This site will let you "download" the \
