@@ -1,11 +1,8 @@
-const fetch = (...args) =>
-  import("node-fetch").then(({ default: fetch }) => fetch(...args));
-const fs = require("fs/promises");
-const { Base64 } = require("js-base64");
-const process = require("process");
+import fetch from "node-fetch";
+import fs from "fs/promises";
+import process from "process";
 
-const permaPatches = require("./public/patches/permaPocket.json").patches;
-const outputFile = "./public/patches/pocket.json";
+const outputFile = "./public/patches/pocket.js";
 
 const sources = {
   JoseJX: {
@@ -29,10 +26,10 @@ const sources = {
 };
 
 (async () => {
-  const output = {
-    updated: new Date().toISOString(),
-    patches: permaPatches,
-  };
+  const permaPatchesText = await fs.readFile(
+    "./public/patches/permaPocket.json"
+  );
+  const patches = JSON.parse(permaPatchesText).patches;
   for (const authorName of Object.keys(sources)) {
     const mdUrl = sources[authorName].md;
     const text = await fetch(mdUrl).then((res) => res.text());
@@ -51,7 +48,7 @@ const sources = {
           ? url.replace("shareit.bestpig.fr/file", "shareit.bestpig.fr/get")
           : url.replace("/blob/main/", "/raw/main/");
       if (
-        permaPatches.some(
+        patches.some(
           (p) =>
             (p.authorName === authorName && p.name === name) ||
             p.downloadUrl === downloadUrl
@@ -71,33 +68,32 @@ const sources = {
                 .replace("raw.githubusercontent.com", "github.com")
                 .replace("/main", "/blob/main"),
       };
-      output.patches.push(patch);
+      patches.push(patch);
     }
   }
 
-  output.patches.sort((a, b) => {
+  patches.sort((a, b) => {
     if (a.name > b.name) {
       return 1;
     }
     return -1;
   });
 
-  const oldJSON = await fs.readFile(outputFile, "utf8");
-  const newJSON = JSON.stringify(output, null, 2) + "\n";
-
-  if (newJSON.length < oldJSON.length) {
+  const newJSON = JSON.stringify(patches, null, 2);
+  let outputText = `export const updated = '${new Date().toISOString()}';\n`;
+  outputText += `export const patches = ${newJSON};\n`;
+  const oldText = await fs.readFile(outputFile, { encoding: "utf8" });
+  if (outputText.length > oldText.length) {
+    await fs.writeFile(outputFile, outputText);
+    console.log("Wrote new pocket.js");
+  } else if (outputText.length < oldText.length) {
     console.error(
       "Uh oh, patches.json got smaller?",
       "Existing file size:",
-      oldJSON.length,
+      oldText.length,
       "New size:",
-      newJSON.length
+      outputText.length
     );
-    process.exit(2);
-  } else if (newJSON.length > oldJSON.length) {
-    await fs.writeFile(outputFile, newJSON);
-    console.log("Wrote new patches.json");
-    process.exit(0); // yay
+    process.exit(1);
   }
-  console.log("pocket.json didn't seem to change.");
 })();

@@ -1,9 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
-import patchesJson from "../../public/patches/pocket.json";
-import { Patch } from "./patches";
-
-const patches = (patchesJson as { patches: Patch[] }).patches;
+import { patches } from "../../public/patches/pocket";
 
 export default async function handler(
   req: NextApiRequest,

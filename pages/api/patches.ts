@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import patchesJson from "../../public/patches/pocket.json";
+import { patches } from "../../public/patches/pocket";
 
 export type Patch = {
   md5: string;
@@ -13,8 +13,6 @@ export type Patch = {
 export type ApiError = {
   status: string;
 };
-
-const patches = (patchesJson as { patches: Patch[] }).patches;
 
 export default function handler(
   req: NextApiRequest,

@@ -7,9 +7,9 @@ import { saveAs } from "file-saver";
 import { Patch } from "./api/patches";
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
+import { updated } from "../public/patches/pocket";
 
 const Home: NextPage = () => {
-  const updated = Date.now();
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
