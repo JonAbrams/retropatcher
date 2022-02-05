@@ -1,5 +1,5 @@
 {
-  "updated": "2022-02-04T17:16:18.296Z",
+  "updated": "2022-02-05T03:18:37.537Z",
   "patches": [
     {
       "name": "007 James Bond - The World is Not Enough",
@@ -1239,6 +1239,13 @@
       "downloadUrl": "https://shareit.bestpig.fr/get/f41d857eb26893e99200f79782ea08792414a286/Legend+of+the+River+King+GB+%28USA%29+%28SGB+Enhanced%29-7e821f47.ips",
       "md5": "b397066e3cad5ae33a31e4adfff0bff5",
       "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    },
+    {
+      "name": "Legend of the River King 2",
+      "authorName": "JoseJX",
+      "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips",
+      "md5": "3519c45ce55aad2f0565513723c90672",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
     },
     {
       "name": "Lemmings",
