@@ -1,15 +1,16 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import md5 from "js-md5";
 import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
 import { Patch } from "./api/patches";
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
-import { updated } from "../public/patches/pocket.json";
 
 const Home: NextPage = () => {
+  const updated = Date.now();
+  const fileInputRef = useRef<HTMLInputElement>(null);
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
   const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
@@ -73,6 +74,11 @@ const Home: NextPage = () => {
     setPatchedBytes(applyPatch(fileBytes, new Uint8Array(patchIps)));
   };
 
+  const triggerFileInput = () => {
+    if (!fileInputRef?.current) return;
+    fileInputRef.current.click();
+  };
+
   return (
     <div className={styles.container}>
       <Head>
@@ -85,9 +91,17 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>Retro Patcher</h1>
         <p>Convert gb/gbc roms into Analogue Pocket compatible roms.</p>
 
-        <form className={styles.fileChooser}>
-          <input accept=".gb,.gbc" type="file" onChange={handleFileChosen} />
-        </form>
+        <input
+          ref={fileInputRef}
+          hidden
+          accept=".gb,.gbc"
+          type="file"
+          onChange={handleFileChosen}
+        />
+        <button className={styles.fileButton} onClick={triggerFileInput}>
+          Select GB/GBC rom file
+        </button>
+
         {fileBytes && (
           <div className={styles.fileInfo}>
             <div>ROM File Name: {filename}</div>
@@ -99,10 +113,7 @@ const Home: NextPage = () => {
               patchInfo.map((patch) => (
                 <div key={patch.name} className={styles.patchInfo}>
                   <div>
-                    <strong>Patch found!</strong>
-                  </div>
-                  <div>
-                    <div>Name: {patch.name}</div>
+                    <div>Patch Name: {patch.name}</div>
                     Created by {patch.authorName} [
                     <a
                       href={patch.originalUrl}
