@@ -1,4 +1,4 @@
-export const updated = '2022-02-05T22:27:20.622Z';
+export const updated = '2022-02-06T06:48:12.723Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -740,6 +740,20 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips",
     "md5": "b2d3713267c9e21b3dae3cb5f437fccd",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Earthworm Jim",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim.ips",
+    "md5": "0d24eeff28040ff2a8f63de5bc8cbea2",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Earthworm Jim - Menace 2 the Galaxy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim2.ips",
+    "md5": "002d0d5fd2f668798da1991b5fd5b4d8",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -1499,6 +1513,20 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Monster Rancher Battle Card GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherBC.ips",
+    "md5": "31fc2f3df8aa15f627574029c3cf03da",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Monster Rancher Explorer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherExplorer.ips",
+    "md5": "f55ed9e6a8fece5220e9876fb515e222",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Mortal Kombat",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat.ips",
@@ -1996,10 +2024,17 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
-    "name": "Spy vs Spy - Operation Booby Trap",
+    "name": "Spy vs Spy",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpy.ips",
     "md5": "d5f373b287d29e882a1f1182542d5b68",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Spy vs Spy - Operation Booby Trap",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpyBoobyTrap.ips",
+    "md5": "00408b7c09c99b8ea15b8ebb66e69130",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
