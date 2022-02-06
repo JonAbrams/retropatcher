@@ -1,4 +1,4 @@
-export const updated = '2022-02-06T20:20:33.874Z';
+export const updated = '2022-02-06T22:19:54.611Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2603,6 +2603,13 @@ export const patches = [
     "md5": "f75874e3654360094fc2b09bd1fed7e8",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "patchIps": "UEFUQ0gAAQQACgEQzu8AAESqAHQAAQ8AAxgRlQABEwABNAABFQAFGgDVACIAARsAGWlv9vdzCZDhEERAmpDV0EQwqSFdSCLg+GAAAU4AApxjAAGvAAEiAAJBAAH+AAJEAAFOAAJGAAEBAAJJAAFOAARoAAFOACjjAAFOACjlAAH+ACjnAAFOAEEOAAHjAEEQAAFOAEUVAAFOAEUXAAEEAEUcAAFOAFcyAAFOAFc0AAH7AFc5AAFOAG9lAAFOAG9nAAH7AG9sAAFOAeUyAAGWBRBqAAHABckUAAHABclnAAHABcxEAAGmBdq3AAHmBdsNAAFOBeBAAAGmBeB0AAGuBeNIAAGuBeURAAHuBe6fAAGuCBKZAAHACBLrAAHACB1QAAFOCB1cAAFOCCZvAAH+CCZxAAFOCCaAAAFOCfhkAAHuCgFpAAHjCgFuAAFOCgO/AAHjCgPEAAFOCgTZAAFODYHFAAFODYO0AAFODYq9AAFODZMrAAGWDcL1AAHjDcL6AAFODcYJAAGnDcYOAAFODdPKAAHjDdPPAAFODys6AAFODytPAAFODyvJAAFODyvcAAFOD0AwAAH+D0AyAAFOD0CCAAHjD0CHAAFORU9G"
+  },
+  {
+    "name": "Zool - Ninja of the N'th Dimension",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Zool.ips",
+    "md5": "52700ea227c3a31f170ccbc6a052a7a8",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Zoop",
