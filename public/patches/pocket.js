@@ -1,4 +1,4 @@
-export const updated = '2022-02-06T06:48:12.723Z';
+export const updated = '2022-02-06T20:20:33.874Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -243,6 +243,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Beatmania.ips",
     "md5": "e7c022031cb882912e81970eb63d4f61",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Beatmania GB2 - Gotcha Mix",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BeatmaniaGotcha.ips",
+    "md5": "25f20cdc0f6f70d0bc5430a9b0d48742",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
