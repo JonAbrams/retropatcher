@@ -1,4 +1,4 @@
-export const updated = '2022-02-06T22:19:54.611Z';
+export const updated = '2022-02-06T23:19:41.330Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -257,6 +257,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BnB.ips",
     "md5": "8f160aa0b2f69a019911fd57ac8c5b31",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Bill and Ted's Excellent Game Boy Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BillTed.ips",
+    "md5": "9d94d01d3133165d4469bb27d58f0f6c",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -2192,6 +2199,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Taz-Mania 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazMania2.ips",
+    "md5": "985bf1d3fdf54038dbde36fd372fbe2c",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Tecmo Bowl",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TecmoBowl.ips",
@@ -2532,6 +2546,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips",
     "md5": "6b94c050291c68d6fb13c642c46873ab",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Wizards and Warriors Chapter X - The Fortress of Fear",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizWar-ChX.ips",
+    "md5": "f9445b104ebb70d8fb91c8c64452c0a4",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
