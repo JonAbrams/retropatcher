@@ -1,4 +1,4 @@
-export const updated = '2022-02-07T02:33:23.043Z';
+export const updated = '2022-02-07T04:27:07.117Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1854,6 +1854,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/ff9b832cd68442103e5539a4fd28d38a9d372418/Rayman+%28USA%29+%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29-eda12f0d.ips",
     "md5": "b941941050fc32406eca4733926a3779",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Ren and Stimpy Show - Space Cadet Adventures",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RnS-SpaceCadet.ips",
+    "md5": "3b3ee80272479464698200ad712d4152",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Ren and Stimpy Show - The Veediots!",
