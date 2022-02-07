@@ -1,4 +1,4 @@
-export const updated = '2022-02-07T04:27:07.117Z';
+export const updated = '2022-02-07T05:18:13.425Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -208,6 +208,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips",
     "md5": "03c6d84a951be6703b7458478f4277b9",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Battle Arena Toshinden",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips",
+    "md5": "75b5f31fbacb972fc104b3e77d09003b",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
