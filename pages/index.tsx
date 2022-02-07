@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import md5 from "js-md5";
 import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
+import ReactTimeAgo from "react-time-ago";
 import { Patch } from "./api/patches";
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
@@ -138,10 +139,7 @@ const Home: NextPage = () => {
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
         <div className={styles.updated}>
           Patch list updated:{" "}
-          {Intl.DateTimeFormat("en-US", {
-            dateStyle: "medium",
-            timeStyle: "short",
-          }).format(new Date(updated))}
+          <ReactTimeAgo date={new Date(updated)} locale="en-US" />
         </div>
         <p className={styles.note}>
           {
