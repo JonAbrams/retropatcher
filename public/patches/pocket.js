@@ -1,4 +1,4 @@
-export const updated = '2022-02-08T02:34:50.180Z';
+export const updated = '2022-02-08T05:18:19.592Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -243,6 +243,20 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips",
     "md5": "6d24c94d3acd89b4b703f7bd2a504833",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Battletoads - Double Dragon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsDD.ips",
+    "md5": "13ec0c660b5a963a07b39ecabf0e0ab5",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Battletoads in Ragnarok's World",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsRW.ips",
+    "md5": "4866ea7bdaa92c6986d4847209ebbd20",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
