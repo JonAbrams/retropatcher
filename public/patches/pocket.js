@@ -1,4 +1,4 @@
-export const updated = '2022-02-08T01:14:29.291Z';
+export const updated = '2022-02-08T02:34:50.180Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -411,6 +411,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove2.ips",
     "md5": "fa91adc7023e03f97ec36f66876a569e",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Bust-A-Move Millennium",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMoveMillennium.ips",
+    "md5": "e98124b30408c00786068387353e39e5",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
