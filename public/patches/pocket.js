@@ -1,4 +1,4 @@
-export const updated = '2022-02-08T05:18:19.592Z';
+export const updated = '2022-02-08T06:24:29.662Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2561,6 +2561,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/81af22dbc1abb1dad65463e09f33a1472df0631b/Wario+Land+3+%28World%29+%28En%2CJa%29-480d0259.ips",
     "md5": "16bb3fb83e8cbbf2c4c510b9f50cf4ee",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Warlocked",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips",
+    "md5": "b5eb859e6ea60a0bd83100a10206d9c9",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Wave Race",
