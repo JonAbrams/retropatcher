@@ -1,4 +1,4 @@
-export const updated = '2022-02-07T05:18:13.425Z';
+export const updated = '2022-02-08T01:14:29.291Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -362,6 +362,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleGhost.ips",
     "md5": "7f970d79f06cfb4270dea4b051277098",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Bubsy II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bubsy2.ips",
+    "md5": "c80413993cb4a5b79c9cdd04235010dd",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -1944,6 +1951,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiShodown.ips",
     "md5": "cb5fe1c733f610ad6151216b6887285a",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Scooby-Doo! Classic Creep Capers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips",
+    "md5": "117a9babae15960dc4de04ac44066ed2",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
