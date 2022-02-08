@@ -1,4 +1,4 @@
-export const updated = '2022-02-08T06:24:29.662Z';
+export const updated = '2022-02-08T07:19:09.942Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -540,6 +540,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Cool Bricks",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBricks.ips",
+    "md5": "5a7673f1e61cd707bdc880ff76396a3d",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Cosmo Tank",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CosmoTank.ips",
@@ -551,6 +558,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips",
     "md5": "f36a0ed25a601c039b1171d9daf241d6",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Cubix - Robots for Everyone - Race 'n Robots",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cubix.ips",
+    "md5": "9eb8be5600d2408352bf9ef32b91d1df",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
