@@ -1,4 +1,4 @@
-export const updated = '2022-02-09T06:25:28.102Z';
+export const updated = '2022-02-09T19:15:58.922Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -68,6 +68,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips",
     "md5": "cac921f8eec70d5ccd8a2db8f473a084",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Alien 3",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alien3.ips",
+    "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -964,6 +971,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips",
     "md5": "16af858484041d572299b501ead2b788",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "George Foreman's KO Boxing",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeorgeForeman.ips",
+    "md5": "8a4245cbeb1d6400b4cb586790400b60",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
