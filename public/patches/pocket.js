@@ -1,4 +1,4 @@
-export const updated = '2022-02-09T01:17:56.778Z';
+export const updated = '2022-02-09T02:37:01.126Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -61,6 +61,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips",
     "md5": "ed5525a71dda6eaf4bbf8d5601b6b3b9",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Alfred Chicken",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips",
+    "md5": "cac921f8eec70d5ccd8a2db8f473a084",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -1730,6 +1737,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Pocket Bomberman",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips",
+    "md5": "2f6b6379f8c7ce5d66a198162f345eaa",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Pokemon - Yellow Version",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/cdf8c80447a3ae1987ec4b51b2f11de2a0321f61/Pokemon+Yellow+%28USA%2C+Europe%29-7d527d62.ips",
@@ -1819,6 +1833,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0de8686af977a4566e91d4a5f7c806a6796b4a78/Pokemon+Card+GB2+-+GR+Dan+Sanjou%21+%28Japan%29-6c933a14.ips",
     "md5": "1134862e84110443190df460351d4575",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Pop'n TwinBee",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnTwinBee.ips",
+    "md5": "05d5cf3404868efc22ac06e22ab5ba89",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Popeye 2",
