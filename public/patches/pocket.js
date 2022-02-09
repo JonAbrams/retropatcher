@@ -1,4 +1,4 @@
-export const updated = '2022-02-09T02:37:01.126Z';
+export const updated = '2022-02-09T03:20:53.036Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1898,6 +1898,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Pyramids of Ra",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PyramidsOfRa.ips",
+    "md5": "1c1619f1caef49132e87160aa20a0a4d",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "QIX",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips",
@@ -2672,6 +2679,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wordtris.ips",
     "md5": "29c71c474c2fa00eeac79ddb55c2c174",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "World Heroes 2 Jet",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldHeroes2Jet.ips",
+    "md5": "8272e012f5c953450a3e2efd88d41aeb",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
