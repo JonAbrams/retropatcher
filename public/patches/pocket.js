@@ -1,4 +1,4 @@
-export const updated = '2022-02-08T18:22:21.245Z';
+export const updated = '2022-02-09T01:17:56.778Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1091,6 +1091,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/681d53f794e02ac2d081e58656c1f767d9f6f521/pocket-57c4592a.ips",
     "md5": "2518020d9c2ff903b3af2d07d2552438",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Ishido - The Way of Stones",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ishido.ips",
+    "md5": "e904ad95019fad36decd3b8bae8b3f09",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Itchy & Scratchy in Miniature Golf Madness",
