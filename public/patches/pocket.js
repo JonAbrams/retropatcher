@@ -1,4 +1,4 @@
-export const updated = '2022-02-09T19:15:58.922Z';
+export const updated = '2022-02-09T20:21:32.241Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -993,6 +993,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/dfd5832e1df4eb7c6aecba5701b036704eeee9c7/Ghosts%27n+Goblins+%28USA%2C+Europe%29-ae024c23.ips",
     "md5": "9b846e9a4eb6b80cdbc8e6c82f2b9e9e",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Gold and Glory - The Road to El Dorado",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoldAndGlory.ips",
+    "md5": "7bf3b13931f2a50ebe071a18ea14f28b",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Golf",
@@ -2735,6 +2742,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-WR.ips",
     "md5": "b1729716baaea01d4baa795db31800b0",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Xenon 2 - Megablast",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Xenon2.ips",
+    "md5": "02d7df9a5ac5d859672b56be46343be1",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
