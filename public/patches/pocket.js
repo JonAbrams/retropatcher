@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T14:18:49.963Z';
+export const updated = '2022-02-10T15:21:17.976Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -754,6 +754,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DBZ.ips",
     "md5": "ac46bc779e1e844674de1d4c13d06f96",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Dragon Quest Monsters (DE)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips",
+    "md5": "08bca718c62e3c2870a2df107fc0a562",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
