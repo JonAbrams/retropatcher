@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T03:20:40.526Z';
+export const updated = '2022-02-10T14:18:49.963Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1433,6 +1433,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips",
     "md5": "a13623a452327ede4553ee2bd1b89a1a",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Makai Mura Gaiden - The Demon Darkness",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips",
+    "md5": "de731a5f2f4e7d16bcdc4b5953ddcc12",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
