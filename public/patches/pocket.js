@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T15:21:17.976Z';
+export const updated = '2022-02-10T18:23:48.241Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1622,6 +1622,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips",
     "md5": "967473063a55634223f15e4c0a79dc44",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Miner 2049er Starring Bounty Bob",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips",
+    "md5": "e5eba5278bbc6e5f040649afe98a0af4",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
