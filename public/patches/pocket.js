@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T19:14:18.663Z';
+export const updated = '2022-02-10T21:18:34.858Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1888,6 +1888,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusic.ips",
     "md5": "10e6dcd0a350076e28b9c598c278b6a2",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Pop'n Music GB - Animation Melody",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicAnimation.ips",
+    "md5": "7e6d077d50879c57ff70891aaa312e80",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
