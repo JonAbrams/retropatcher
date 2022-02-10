@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T18:23:48.241Z';
+export const updated = '2022-02-10T19:14:18.663Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1882,6 +1882,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0de8686af977a4566e91d4a5f7c806a6796b4a78/Pokemon+Card+GB2+-+GR+Dan+Sanjou%21+%28Japan%29-6c933a14.ips",
     "md5": "1134862e84110443190df460351d4575",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Pop'n Music GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusic.ips",
+    "md5": "10e6dcd0a350076e28b9c598c278b6a2",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Pop'n TwinBee",
