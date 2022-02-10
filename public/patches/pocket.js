@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T21:18:34.858Z';
+export const updated = '2022-02-10T22:18:16.368Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -166,6 +166,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AstroRabby.ips",
     "md5": "5a88b67ed5475e591747bc7956642456",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Atomic Punk",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips",
+    "md5": "76010c6ff6bd0c4e8ac934dc69fb96ab",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -831,6 +838,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips",
     "md5": "b2d3713267c9e21b3dae3cb5f437fccd",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Dynablaster",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dynablaster.ips",
+    "md5": "2eb9a6891fc79cd878d8bc12d04a0790",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
