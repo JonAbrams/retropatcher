@@ -1,4 +1,4 @@
-export const updated = '2022-02-10T02:32:40.125Z';
+export const updated = '2022-02-10T03:20:40.526Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2574,6 +2574,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips",
     "md5": "6a6931f6d1a6e60b4da9551e83b2742b",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "True Lies",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrueLies.ips",
+    "md5": "c013958fa8447be55f1e037ed4a1a9f9",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
