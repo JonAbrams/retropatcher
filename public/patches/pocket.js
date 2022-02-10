@@ -1,4 +1,4 @@
-export const updated = '2022-02-09T20:21:32.241Z';
+export const updated = '2022-02-10T02:32:40.125Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1895,6 +1895,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips",
     "md5": "6073cb28e651b48f0bf19e654aab8c7d",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Prehistorik Man",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrehistorikMan.ips",
+    "md5": "64f43161eb16eb1be99262c36867bc79",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
