@@ -1,4 +1,4 @@
-export const updated = '2022-02-11T11:17:15.646Z';
+export const updated = '2022-02-11T12:32:02.585Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -456,6 +456,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Bust-A-Move 3 DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove3.ips",
+    "md5": "2b1221e85b545bba7e2291fede03fd96",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Bust-A-Move Millennium",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMoveMillennium.ips",
@@ -680,6 +687,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Dennis the Menace",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DennisTheMenace.ips",
+    "md5": "f064bd662fdcb40a9f6926cc3baee116",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Densha de Go!",
     "authorName": "r0r0",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/densha-de-go-pocket-patch-0e63965664df3bf3217254a22422cc86.ips",
@@ -859,6 +873,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim2.ips",
     "md5": "002d0d5fd2f668798da1991b5fd5b4d8",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Elevator Action EX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips",
+    "md5": "f88959b615f284cc120cd17f5263d018",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
