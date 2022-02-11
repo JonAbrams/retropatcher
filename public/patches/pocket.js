@@ -1,4 +1,4 @@
-export const updated = '2022-02-11T14:18:53.270Z';
+export const updated = '2022-02-11T15:20:48.196Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1013,6 +1013,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips",
     "md5": "16af858484041d572299b501ead2b788",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Gekito Power Modeler",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GPM.ips",
+    "md5": "255bca32093336ccbacdd185951c8727",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
