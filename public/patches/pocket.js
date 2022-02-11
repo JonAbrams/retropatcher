@@ -1,4 +1,4 @@
-export const updated = '2022-02-11T13:21:45.474Z';
+export const updated = '2022-02-11T14:18:53.270Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2700,6 +2700,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips",
     "md5": "84a0fe6c3fb014cf43c119c344f99965",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "WWF - Betrayal",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWF-Betrayal.ips",
+    "md5": "f270519e6357bc32fd07fc6386e14dec",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
