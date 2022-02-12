@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T19:15:32.608Z';
+export const updated = '2022-02-12T20:20:51.125Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1184,6 +1184,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "International Track and Field",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField.ips",
+    "md5": "f855638ad74a7b31cca5786a32bb8868",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Is That a Demo in Your Pocket?",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/681d53f794e02ac2d081e58656c1f767d9f6f521/pocket-57c4592a.ips",
@@ -1853,6 +1860,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips",
     "md5": "2f6b6379f8c7ce5d66a198162f345eaa",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Pocket Monsters - Crystal Version (VN)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVN.ips",
+    "md5": "da3a0c2b387b04209a90338a577d7c80",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
