@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T18:23:38.174Z';
+export const updated = '2022-02-12T19:15:32.608Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2042,6 +2042,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips",
     "md5": "1c94dccdfaaa0c3e1d6bda5969704885",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "QIX Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIXAdventure.ips",
+    "md5": "95b284df7ba2f862406f747b4ca7c380",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
