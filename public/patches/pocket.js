@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T04:26:53.981Z';
+export const updated = '2022-02-12T18:23:38.174Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2175,6 +2175,27 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SheepItUp.ips",
     "md5": "6d22cab0cbb831bc64abf4f5bad464ff",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Shin Megami Tensai Devil Children - Shiro no Sho",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Shiro.ips",
+    "md5": "9354cc341aa23da3e29829da76b8888e",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Shin Megami Tensei Devil Children - Aka no Sho",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Aka.ips",
+    "md5": "3d04e5c70919118ef6e7cb69dae14b10",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Shin Megami Tensei Devil Children - Kuro no Sho",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips",
+    "md5": "158691457cb7365cafbd0b7bb230fadf",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
