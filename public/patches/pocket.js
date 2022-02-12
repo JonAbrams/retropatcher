@@ -1,4 +1,4 @@
-export const updated = '2022-02-11T15:20:48.196Z';
+export const updated = '2022-02-12T03:20:26.113Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1097,6 +1097,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GreatGreed.ips",
     "md5": "b83f33f33ab52e0b7ee80715dbb8d415",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Gremlins 2 - The New Batch",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gremlins2.ips",
+    "md5": "f59dbce4cf5b51a5241806e1b35301fb",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -2252,6 +2259,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan2.ips",
     "md5": "85bbad46380dffa631f8ce732e9c5d89",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Spider-Man 3 - Invasion of the Spider-Slayers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan3.ips",
+    "md5": "8833ae0fd3b4c47b8249a12708c98a98",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
