@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T03:20:26.113Z';
+export const updated = '2022-02-12T04:26:53.981Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1216,6 +1216,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JohnMadden.ips",
     "md5": "e76328b0795af8cd85a70e84c1ef4722",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Judge Dredd",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JudgeDredd.ips",
+    "md5": "7e9d69eacd6b4c82527065bcf63e474b",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
