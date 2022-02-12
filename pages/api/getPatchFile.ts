@@ -6,7 +6,8 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Buffer | string>
 ) {
-  const url = req.query.url;
+  console.log(req.headers.host);
+  let url = req.query.url;
   if (typeof url !== "string" || !patches.some((p) => p.downloadUrl === url)) {
     return res.status(404).send("No patches found.");
   }

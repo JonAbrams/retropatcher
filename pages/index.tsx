@@ -6,7 +6,7 @@ import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
 import { Patch } from "./api/patches";
-import {PatchList} from '../components/patchList';
+import { PatchList } from "../components/patchList";
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
 import { updated } from "../public/patches/pocket";
@@ -65,9 +65,11 @@ const Home: NextPage = () => {
     let patchIps;
     if (patch.downloadUrl) {
       setApplying(true);
-      patchIps = await fetch(
-        `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`
-      ).then((res) => res.arrayBuffer());
+      let url = patch.downloadUrl;
+      if (url[0] !== "/") {
+        url = `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`;
+      }
+      patchIps = await fetch(url).then((res) => res.arrayBuffer());
     } else if (patch.patchIps) {
       patchIps = Base64.toUint8Array(patch.patchIps);
     }
