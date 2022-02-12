@@ -62,17 +62,12 @@ const Home: NextPage = () => {
 
   const handleApplyPatch = async (patch: Patch) => {
     if (!fileBytes) return;
-    let patchIps;
-    if (patch.downloadUrl) {
-      setApplying(true);
-      let url = patch.downloadUrl;
-      if (url[0] !== "/") {
-        url = `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`;
-      }
-      patchIps = await fetch(url).then((res) => res.arrayBuffer());
-    } else if (patch.patchIps) {
-      patchIps = Base64.toUint8Array(patch.patchIps);
+    setApplying(true);
+    let url = patch.downloadUrl;
+    if (url[0] !== "/") {
+      url = `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`;
     }
+    const patchIps = await fetch(url).then((res) => res.arrayBuffer());
     setApplying(false);
     if (!patchIps) return;
     setPatchedBytes(applyPatch(fileBytes, new Uint8Array(patchIps)));

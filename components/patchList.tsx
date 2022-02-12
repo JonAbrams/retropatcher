@@ -43,7 +43,7 @@ export function PatchList() {
       {patches.map((patch) => (
         <div
           className={styles.patchInfo}
-          key={patch.downloadUrl || patch.patchIps}
+          key={patch.downloadUrl}
         >
           <div>{patch.name}</div>
           <div>

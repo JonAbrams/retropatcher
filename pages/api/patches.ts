@@ -6,8 +6,7 @@ export type Patch = {
   name: string;
   authorName: string;
   originalUrl: string;
-  patchIps?: string;
-  downloadUrl?: string;
+  downloadUrl: string;
 };
 
 export type ApiError = {
