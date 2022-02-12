@@ -45,10 +45,18 @@
 }
 
 .patchInfo {
+  text-align: left;
+  width: 410px;
   margin-top: 1rem;
   border: solid 1px #aaa;
   background-color: #e4e4e4;
   padding: 1rem;
+}
+
+.searchBox {
+  padding: 5px;
+  border-radius: 5px;
+  border: solid 1px;
 }
 
 .downloadButton {
@@ -94,4 +102,8 @@
 }
 .fileButton:active {
   background: linear-gradient(to top, #f9f9f9, #e3e3e3);
+}
+
+.patchList {
+  text-align: center;
 }

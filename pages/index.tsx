@@ -6,6 +6,7 @@ import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
 import { Patch } from "./api/patches";
+import {PatchList} from '../components/patchList';
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
 import { updated } from "../public/patches/pocket";
@@ -157,6 +158,7 @@ const Home: NextPage = () => {
           </a>
           .
         </p>
+        <PatchList />
       </main>
 
       <footer className={styles.footer}>
