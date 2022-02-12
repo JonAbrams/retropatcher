@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T20:20:51.125Z';
+export const updated = '2022-02-12T22:19:00.562Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1706,6 +1706,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips",
     "md5": "f28ade3926852a8ad2e449c274683956",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Monster Max",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterMax.ips",
+    "md5": "261ec744fcf7a4eb5a6025c48c0538a3",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
