@@ -46,17 +46,22 @@
 
 .patchInfo {
   text-align: left;
-  width: 410px;
+  max-width: calc(100vw - 30px);
   margin-top: 1rem;
   border: solid 1px #aaa;
   background-color: #e4e4e4;
   padding: 1rem;
+  overflow-x: scroll;
 }
 
 .searchBox {
   padding: 5px;
   border-radius: 5px;
   border: solid 1px;
+}
+
+.romMd5 {
+  white-space: nowrap;
 }
 
 .downloadButton {

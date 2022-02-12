@@ -52,7 +52,7 @@ export function PatchList() {
               {patch.authorName}
             </a>
           </div>
-          <div>ROM MD5: {patch.md5}</div>
+          <div className={styles.romMd5}>ROM MD5: {patch.md5}</div>
           {patch.downloadUrl && <a href={patch.downloadUrl}>Download Patch</a>}
         </div>
       ))}

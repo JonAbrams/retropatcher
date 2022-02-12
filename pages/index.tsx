@@ -86,6 +86,10 @@ const Home: NextPage = () => {
       <Head>
         <title>Retro Patcher</title>
         <meta name="description" content="Easily patch your retro games!" />
+        <meta
+          name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
