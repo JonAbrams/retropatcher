@@ -14,6 +14,7 @@ export function PatchList() {
     setSearchTerm(term);
     if (term.length < 3) {
       setPatches([]);
+      setErrorOutput("");
     } else {
       const results = await fetch(`/api/patches?q=${term}`).then((r) =>
         r.json()
