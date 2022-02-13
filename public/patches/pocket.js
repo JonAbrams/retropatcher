@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T03:20:34.100Z';
+export const updated = '2022-02-13T04:26:18.006Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -783,6 +783,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f4f5d7d35830ab1bf6e4f20d603088f19475d2cd/Double+Dragon+%28USA%2C+Europe%29-40a8bf12.ips",
     "md5": "545de5c311259b7f7ec313a9d58cf4b4",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Double Dragon 3 - The Arcade Game",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDragon3.ips",
+    "md5": "469605e02eb10652f8f2afa8c7ebffd5",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Double Dragon II",
