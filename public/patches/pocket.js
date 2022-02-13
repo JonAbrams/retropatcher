@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T06:23:52.620Z';
+export const updated = '2022-02-13T07:18:40.933Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -82,6 +82,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alleyway.ips",
     "md5": "91128778a332495f77699eaf3a37fe30",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Alleyway DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlleywayDX.ips",
+    "md5": "72c44e5ac726ed8f23efbc6c30e60f1b",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -2595,6 +2602,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Terminator2.ips",
     "md5": "133ae23114bf442fef6acccd1b8e187a",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Tesserae",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tesserae.ips",
+    "md5": "95517367dd10f6476bcb39a2329ef55a",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
