@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T07:18:40.933Z';
+export const updated = '2022-02-13T08:23:58.871Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -981,10 +981,24 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Flintstones",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flintstones.ips",
+    "md5": "f07ed24e96f84ce78787709f248263c8",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Flintstones - King Rock Treasure Island",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesKingRock.ips",
     "md5": "25dfaca5120462af05532aaf4756776a",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Flipull",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flipull.ips",
+    "md5": "4fcc13db8144687e6b28200387aed25c",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -1604,6 +1618,34 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Medarot - Kabuto Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto.ips",
+    "md5": "78c568cbfff6314b1416880d9efaeca6",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Medarot - Kabuto Version (English Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips",
+    "md5": "750b777eb1ea2ec167980158061f916f",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Medarot - Kuwagata Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata.ips",
+    "md5": "a9c9d6b6759c28f2b3986717f4df2f98",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Medarot - Kuwagata Version (English Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips",
+    "md5": "95abb80a0a8aae30faa7c107bb1ca44e",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Mega Man - Dr. Wily's Revenge",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1.ips",
@@ -2084,6 +2126,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips",
     "md5": "afeec69d5ba3afa3ce2279fcda944576",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Prince of Persia (1992)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia1992.ips",
+    "md5": "80034da43f35307291714ae2553d9ddf",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
