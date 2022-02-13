@@ -7,6 +7,8 @@ export type Patch = {
   authorName: string;
   originalUrl: string;
   downloadUrl: string;
+  outputFilename?: string;
+  extension?: string;
 };
 
 export type ApiError = {

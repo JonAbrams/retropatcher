@@ -2,7 +2,6 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { useEffect, useRef, useState } from "react";
 import md5 from "js-md5";
-import { Base64 } from "js-base64";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
 import { Patch } from "./api/patches";
@@ -15,7 +14,6 @@ const Home: NextPage = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [filename, setFilename] = useState("");
   const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
-  const [patchedBytes, setPatchedBytes] = useState<Uint8Array | null>(null);
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
   const [applying, setApplying] = useState(false);
@@ -35,14 +33,16 @@ const Home: NextPage = () => {
       });
   }, [fileBytes]);
 
-  useEffect(() => {
-    if (!patchedBytes || !filename) return;
+  function savePatchedFile(patch: Patch, patchedBytes: Uint8Array) {
     const blob = new Blob([patchedBytes]);
     const matched = filename.match(/(.*)\.gbc?/);
     if (!matched) return;
-    saveAs(blob, matched[1] + ".pocket");
-    setPatchedBytes(null);
-  }, [filename, patchedBytes]);
+    let outputFilename = `${matched[1]}.${patch.extension || 'pocket'}`;
+    if (patch.outputFilename) {
+      outputFilename = patch.outputFilename;
+    }
+    saveAs(blob, outputFilename);
+  }
 
   const handleFileChosen = ({ target }: { target: HTMLInputElement }) => {
     setPatchInfo("loading");
@@ -70,7 +70,7 @@ const Home: NextPage = () => {
     const patchIps = await fetch(url).then((res) => res.arrayBuffer());
     setApplying(false);
     if (!patchIps) return;
-    setPatchedBytes(applyPatch(fileBytes, new Uint8Array(patchIps)));
+    savePatchedFile(patch, applyPatch(fileBytes, new Uint8Array(patchIps)));
   };
 
   const triggerFileInput = () => {

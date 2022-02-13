@@ -61,6 +61,7 @@ const sources = {
         authorName,
         downloadUrl,
         md5: md5.toLowerCase(),
+        extension: 'pocket',
         originalUrl:
           authorName === "BestPig"
             ? "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
