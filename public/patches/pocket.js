@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T01:19:08.425Z';
+export const updated = '2022-02-13T02:34:19.212Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -152,6 +152,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asterix.ips",
     "md5": "812db832566202610bb1e42e643e2b93",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Asterix - Search for Dogmatix",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixDogmatix.ips",
+    "md5": "1faa6e2a7ec92b95ce32fa2682038b9b",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
