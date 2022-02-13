@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T04:26:18.006Z';
+export const updated = '2022-02-13T05:17:41.962Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1765,10 +1765,17 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Motocross Maniacs",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MotocrossManiacs.ips",
+    "md5": "de1572d4d181b265e2cb7d517c0ba04a",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Motocross Maniacs 2",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips",
-    "md5": "4d08e5553356aecd728b5ef7d78ee261",
+    "md5": "d6311339384cb70c35975c8d30a1cd98",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
@@ -2406,6 +2413,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWarsEp1Racer.ips",
     "md5": "d1e875cb7dac0092e83b9e7799b06653",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Stop That Roach!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StopThatRoach.ips",
+    "md5": "1a316519500424ae9a2649746c4c83ab",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
