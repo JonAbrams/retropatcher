@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T17:13:32.405Z';
+export const updated = '2022-02-13T18:23:17.199Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -837,6 +837,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DennisTheMenace.ips",
     "md5": "f064bd662fdcb40a9f6926cc3baee116",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Densha De Go! 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenshaDeGo2.ips",
+    "md5": "ab58102005b510a2d905ed7de9d6267a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
@@ -2093,6 +2101,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat.ips",
     "md5": "b3474bab3eda25bdb1508ed53765fb30",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Mortal Kombat II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat2.ips",
+    "md5": "ce2927987765182b9c69f26f758656e9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
