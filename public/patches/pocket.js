@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T09:20:20.023Z';
+export const updated = '2022-02-13T17:04:50.813Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -83,6 +83,13 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alleyway.ips",
     "md5": "91128778a332495f77699eaf3a37fe30",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Alleyway (with DX Patch)",
+    "authorName": "JoseJX",
+    "md5": "91128778a332495f77699eaf3a37fe30",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md",
+    "downloadUrl": "/patches/ips/alleywayDX.ips"
   },
   {
     "name": "Alleyway DX",

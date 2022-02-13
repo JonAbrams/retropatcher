@@ -2,6 +2,13 @@
   "note to devs": "ok to edit this directly, gets mixed into pocket.json on scrape",
   "patches": [
     {
+      "name": "Alleyway (with DX Patch)",
+      "authorName": "JoseJX",
+      "md5": "91128778a332495f77699eaf3a37fe30",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md",
+      "downloadUrl": "/patches/ips/alleywayDX.ips"
+    },
+    {
       "name": "Pokemon Red (USA)",
       "authorName": "BestPig",
       "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
