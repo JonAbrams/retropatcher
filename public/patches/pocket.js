@@ -1,4 +1,4 @@
-export const updated = '2022-02-12T22:37:31.197Z';
+export const updated = '2022-02-13T01:19:08.425Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -162,6 +162,13 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Asterix and Obelix vs. Caesar",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixObelixCaesar.ips",
+    "md5": "b7d6335b8d3a34b15ce0b631bb9731a2",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Astro Rabby",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AstroRabby.ips",
@@ -208,6 +215,13 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CampDeadly.ips",
     "md5": "e731fa23d9cd0c3d4dec7d5565beef61",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Bart and the Beanstalk",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips",
+    "md5": "1d5e05159b0ac6a5119bd6f743c7eb9e",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
