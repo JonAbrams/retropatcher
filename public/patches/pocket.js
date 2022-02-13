@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T05:17:41.962Z';
+export const updated = '2022-02-13T06:23:52.620Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1077,6 +1077,13 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/dfd5832e1df4eb7c6aecba5701b036704eeee9c7/Ghosts%27n+Goblins+%28USA%2C+Europe%29-ae024c23.ips",
     "md5": "9b846e9a4eb6b80cdbc8e6c82f2b9e9e",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Godzilla",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Godzilla.ips",
+    "md5": "e83411adccf5266f2deb263e67b68bc1",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Gold and Glory - The Road to El Dorado",
