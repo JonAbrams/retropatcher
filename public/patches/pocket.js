@@ -1,4 +1,4 @@
-export const updated = '2022-02-13T08:23:58.871Z';
+export const updated = '2022-02-13T09:20:20.023Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -377,6 +377,13 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Blaster%20Master%20Boy%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "c4868bf46a993b4c33a9a8af5341282a",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Bomberman Quest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips",
+    "md5": "ad358f284c3303db01212016ed3944d5",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Bonk's Adventure",
