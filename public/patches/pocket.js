@@ -1,4 +1,4 @@
-export const updated = '2022-02-14T20:21:21.720Z';
+export const updated = '2022-02-14T22:20:28.676Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3353,6 +3353,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "WWF - Raw",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFRaw.ips",
+    "md5": "6d2ab72fc3f632493a04fd432508067d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "WWF - Superstars",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars.ips",
@@ -3365,6 +3373,22 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars2.ips",
     "md5": "07006fe2f7363d475e34fbf63e4e94d1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "WWF - War Zone",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFWarZone.ips",
+    "md5": "4f99d49908e027125473445ea1937817",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "WWF - WrestleMania 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFWrestleMania2000.ips",
+    "md5": "7fa5a6dde384652120b46475b193dff9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
