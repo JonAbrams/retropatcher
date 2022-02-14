@@ -1,4 +1,4 @@
-export const updated = '2022-02-14T22:20:28.676Z';
+export const updated = '2022-02-14T23:20:32.993Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3509,6 +3509,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wordtris.ips",
     "md5": "29c71c474c2fa00eeac79ddb55c2c174",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "World Beach Volley - 1992 GB Cup",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldBeachVolley.ips",
+    "md5": "54cdfd90c8038846714643b2a68c6bb8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
