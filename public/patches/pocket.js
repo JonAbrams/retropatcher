@@ -1,4 +1,4 @@
-export const updated = '2022-02-15T02:36:31.099Z';
+export const updated = '2022-02-16T02:36:01.859Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1445,6 +1445,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField.ips",
     "md5": "f855638ad74a7b31cca5786a32bb8868",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "International Track and Field - Summer Games",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField-Summer.ips",
+    "md5": "b9795b5d6397d36c1666c3a0bada059f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
