@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T04:27:52.041Z';
+export const updated = '2022-02-16T06:25:31.147Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -951,6 +951,14 @@ export const patches = [
     "md5": "4f3b84eb325f9162086fac77ac577e7c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Dracula - Crazy Vampire",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DraculaCrazyVampire.ips",
+    "md5": "0b943efdf2ca967827a4c7bf951f6448",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Dragon Ball Z - Legendary Super Warriors",
