@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T20:21:13.268Z';
+export const updated = '2022-02-16T21:19:08.129Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1941,6 +1941,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioPicross.ips",
     "md5": "ccaf9331318d4dfe3d1ee681928a74fd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Max",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Max.ips",
+    "md5": "660a98b774e7d136e302dfe6557405e9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
