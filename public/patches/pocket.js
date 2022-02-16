@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T16:30:26.926Z';
+export const updated = '2022-02-16T19:17:36.013Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1433,6 +1433,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Hercules - The Legendary Journey",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HerculesJourneys.ips",
+    "md5": "d69fdc8dafd38ab4f48cc6a6b8fa1df9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Heroes of Might and Magic",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/3936ecb76d1d78bb0ce7513252f8386064c0ff8c/Heroes+of+Might+and+Magic+%28USA%29+%28En%2CFr%2CDe%29-bb0672a6.ips",
@@ -1541,6 +1549,22 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JudgeDredd.ips",
     "md5": "7e9d69eacd6b4c82527065bcf63e474b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Jurassic Park",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark.ips",
+    "md5": "d11d2dc76c6d743c3cc791104a2bdae2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Jurassic Park (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkE.ips",
+    "md5": "7173cecc94bcdb7aeb7240ae87491044",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
