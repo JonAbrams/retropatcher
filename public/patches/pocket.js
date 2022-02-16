@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T02:36:01.859Z';
+export const updated = '2022-02-16T03:22:01.340Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1213,6 +1213,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips",
     "md5": "c10a76a601ea375593f1cb944c3365e7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Garfield Labyrinth",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GarfieldLabyrinth.ips",
+    "md5": "5e441af514d1bcdaec08c133ceea4e5e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
@@ -2559,6 +2567,14 @@ export const patches = [
     "md5": "b941941050fc32406eca4733926a3779",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+  },
+  {
+    "name": "Real Ghostbusters",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RealGhostbusters.ips",
+    "md5": "bbca91d6bc19cda45c706046b6e854e6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
   {
     "name": "Ren and Stimpy Show - Space Cadet Adventures",
