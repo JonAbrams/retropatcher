@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T06:25:31.147Z';
+export const updated = '2022-02-16T15:22:24.563Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1469,6 +1469,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips",
     "md5": "65a5a0cb3c339ec473053c64c2218ab9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "International Karate 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlKarate2K.ips",
+    "md5": "86c1b5f04495e22eedbec15e1a320ff3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
