@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T15:22:24.563Z';
+export const updated = '2022-02-16T16:30:26.926Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3661,6 +3661,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS.ips",
     "md5": "c30add585d87114288ff8e3726c5381b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS2.ips",
+    "md5": "782b88b1bf9768a2b1b139177a0c1c33",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
