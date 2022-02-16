@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T21:19:08.129Z';
+export const updated = '2022-02-16T22:19:05.721Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1173,6 +1173,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flintstones.ips",
     "md5": "f07ed24e96f84ce78787709f248263c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Flintstones - Burgertime in Bedrock",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesBurgertime.ips",
+    "md5": "50e6d9d88450932743161b7512838ccc",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
