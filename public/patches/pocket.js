@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T03:22:01.340Z';
+export const updated = '2022-02-16T04:27:52.041Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -681,6 +681,14 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Choplifter II - Rescue and Survive",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Choplifter2.ips",
+    "md5": "d5f88d0799c85b6d59f12542da403691",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
     "name": "Commander Keen",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CommanderKeen.ips",
@@ -1069,6 +1077,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips",
     "md5": "f88959b615f284cc120cd17f5263d018",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Extra Bases!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ExtraBases.ips",
+    "md5": "857fdafb5ababd641cc832cfb8fabd58",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
