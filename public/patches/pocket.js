@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T03:22:20.705Z';
+export const updated = '2022-02-17T05:18:43.513Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -79,6 +79,14 @@ export const patches = [
     "md5": "cac921f8eec70d5ccd8a2db8f473a084",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alfred-chicken"
+  },
+  {
+    "name": "Alfred's Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredsAdventure.ips",
+    "md5": "bcc135b000c1c54f12f4ae87c7673b0c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alfreds-adventure"
   },
   {
     "name": "Alien 3",
@@ -335,6 +343,14 @@ export const patches = [
     "md5": "03c6d84a951be6703b7458478f4277b9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman---the-video-game"
+  },
+  {
+    "name": "Batman Beyond - Return of the Joker",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanBeyondJoker.ips",
+    "md5": "dd9e7c40f202f2c3963930e195d75f4d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman-beyond---return-of-the-joker"
   },
   {
     "name": "Battle Arena Toshinden",
