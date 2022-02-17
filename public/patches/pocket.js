@@ -1,4 +1,4 @@
-export const updated = '2022-02-16T23:20:48.925Z';
+export const updated = '2022-02-17T01:08:53.495Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -181,6 +181,14 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips",
     "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Arthur's Absolutely Fun Day!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArthursFunDay.ips",
+    "md5": "3d630cb2ff52e7fedfca6c938b82fa24",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
@@ -2765,6 +2773,22 @@ export const patches = [
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips",
     "md5": "117a9babae15960dc4de04ac44066ed2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Shanghai",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shanghai.ips",
+    "md5": "d11777331e12f55ae4bab2f6e0bda918",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Shanghai (J) - Activision",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiJA.ips",
+    "md5": "72c0a7eb38ffc2ef65c0e2ffb1729aa5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
   },
