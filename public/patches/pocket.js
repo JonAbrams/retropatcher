@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T20:20:07.643Z';
+export const updated = '2022-02-17T21:19:36.627Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -591,6 +591,14 @@ export const patches = [
     "md5": "dd5aa6e85827a3ce6e4b7500e75a3262",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#burai-fighter-deluxe"
+  },
+  {
+    "name": "BurgerTime Deluxe",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BurgerTimeDeluxe.ips",
+    "md5": "9627134ca3ea6e885275d30460ce3563",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#burgertime-deluxe"
   },
   {
     "name": "Burning Paper",
