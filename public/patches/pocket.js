@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T02:03:23.314Z';
+export const updated = '2022-02-17T03:22:20.705Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -87,6 +87,14 @@ export const patches = [
     "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-3"
+  },
+  {
+    "name": "Aliens - The Thanatos Encounter",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliensThanatos.ips",
+    "md5": "73a78663a6388bf4d1c56e05bbf790d4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aliens---the-thanatos-encounter"
   },
   {
     "name": "Alleyway",
