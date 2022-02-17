@@ -56,6 +56,7 @@ const sources = {
       ) {
         continue;
       }
+      const hashName = name.trim().replace(/[^-\s\w]/g, '').replace(/\s/g, '-').toLowerCase();
       const patch = {
         name,
         authorName,
@@ -63,11 +64,11 @@ const sources = {
         md5: md5.toLowerCase(),
         extension: 'pocket',
         originalUrl:
-          authorName === "BestPig"
+          (authorName === "BestPig"
             ? "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
             : mdUrl
                 .replace("raw.githubusercontent.com", "github.com")
-                .replace("/main", "/blob/main"),
+                .replace("/main", "/blob/main"))+`#${hashName}`,
       };
       patches.push(patch);
     }

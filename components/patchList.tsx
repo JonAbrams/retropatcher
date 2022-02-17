@@ -47,13 +47,11 @@ export function PatchList() {
         >
           <div>{patch.name}</div>
           <div>
-            Patch by{" "}
-            <a href={patch.originalUrl} target="_blank" rel="noreferrer">
-              {patch.authorName}
-            </a>
+            Patch by {patch.authorName}{' '}
+            [<a href={patch.originalUrl} target="_blank" rel="noreferrer">url</a>]
           </div>
           <div className={styles.romMd5}>ROM MD5: {patch.md5}</div>
-          {patch.downloadUrl && <a href={patch.downloadUrl}>Download Patch</a>}
+          <div>{patch.downloadUrl && <a href={patch.downloadUrl}>Download Patch</a>}</div>
         </div>
       ))}
     </div>

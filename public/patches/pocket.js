@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T01:08:53.495Z';
+export const updated = '2022-02-17T02:03:23.314Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6,7 +6,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/007TWINE.ips",
     "md5": "1f1fb3cf8783f880bc796d667be60231",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#007-james-bond---the-world-is-not-enough"
   },
   {
     "name": "4-in-1 Fun Pack",
@@ -14,7 +14,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1.ips",
     "md5": "b8d609b5dbac6a2dae6087fd9feec196",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#4-in-1-fun-pack"
   },
   {
     "name": "4-in-1 Fun Pack - Volume 2",
@@ -22,7 +22,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/4in1V2.ips",
     "md5": "71feb6c7d5b764d5192c28efe74d13c6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#4-in-1-fun-pack---volume-2"
   },
   {
     "name": "4000AD by PROTODOME",
@@ -30,7 +30,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/4000AD.ips",
     "md5": "089ce8f23f829cc08597b13dd526b53b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#4000ad-by-protodome"
   },
   {
     "name": "A-mazing Tater",
@@ -38,7 +38,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingTater.ips",
     "md5": "53b746bff74c50cd3ebcf41161c66cf3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#a-mazing-tater"
   },
   {
     "name": "Adventure Island",
@@ -46,7 +46,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Adventure%20Island%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "d67e58bf5f39d5fb073fed85c3d9bede",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#adventure-island"
   },
   {
     "name": "Adventure Island II - Aliens in Paradise",
@@ -54,7 +54,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Adventure%20Island%20II%20-%20Aliens%20in%20Paradise%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "ed2444afe317452e29c1c2258da6963c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#adventure-island-ii---aliens-in-paradise"
   },
   {
     "name": "Adventures of Lolo",
@@ -62,7 +62,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AdventuresOfLolo.ips",
     "md5": "8f6b6ef366a787852f664d945c86eb72",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-lolo"
   },
   {
     "name": "Aladdin",
@@ -70,7 +70,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips",
     "md5": "ed5525a71dda6eaf4bbf8d5601b6b3b9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aladdin"
   },
   {
     "name": "Alfred Chicken",
@@ -78,7 +78,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlfredChicken.ips",
     "md5": "cac921f8eec70d5ccd8a2db8f473a084",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alfred-chicken"
   },
   {
     "name": "Alien 3",
@@ -86,7 +86,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alien3.ips",
     "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-3"
   },
   {
     "name": "Alleyway",
@@ -94,7 +94,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Alleyway.ips",
     "md5": "91128778a332495f77699eaf3a37fe30",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alleyway"
   },
   {
     "name": "Alleyway (with DX Patch)",
@@ -110,7 +110,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlleywayDX.ips",
     "md5": "72c44e5ac726ed8f23efbc6c30e60f1b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alleyway-dx"
   },
   {
     "name": "Alone in the Dark - The New Nightmare",
@@ -118,7 +118,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AloneInTheDark.ips",
     "md5": "d97055e4a2fd4624fc924c4834ace35e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alone-in-the-dark---the-new-nightmare"
   },
   {
     "name": "Amazing Penguin",
@@ -126,7 +126,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingPenguin.ips",
     "md5": "d8326bfee457ccb2c0afb8dd6ac11db2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amazing-penguin"
   },
   {
     "name": "Amazing Spider-Man",
@@ -134,7 +134,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingSpiderMan.ips",
     "md5": "4a967a8f1dd6f627e8b72950739c26d4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amazing-spider-man"
   },
   {
     "name": "Animaniacs",
@@ -142,7 +142,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Animaniacs.ips",
     "md5": "84ff06249f96442626cdd75a5fa440ce",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#animaniacs"
   },
   {
     "name": "Another Bible",
@@ -150,7 +150,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips",
     "md5": "ff9196caa266ae36d409ce7e53ddc77a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#another-bible"
   },
   {
     "name": "Arcade Classic No. 1 - Asteroids and Missile Command",
@@ -158,7 +158,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC1.ips",
     "md5": "25ec0916ff6f24a1878a9f30991d301d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-1---asteroids-and-missile-command"
   },
   {
     "name": "Arcade Classic No. 2 - Centipede and Millipede",
@@ -166,7 +166,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC2.ips",
     "md5": "516085555e451966b9dd5166dfe6c728",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-2---centipede-and-millipede"
   },
   {
     "name": "Arcade Classic No. 3 - Galaga and Galaxian",
@@ -174,7 +174,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips",
     "md5": "08f46bb59e52562f08c76f4e6c0040c5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian"
   },
   {
     "name": "Arcade Classic No. 3 - Galaga and Galaxian DX",
@@ -182,7 +182,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips",
     "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-dx"
   },
   {
     "name": "Arthur's Absolutely Fun Day!",
@@ -190,7 +190,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArthursFunDay.ips",
     "md5": "3d630cb2ff52e7fedfca6c938b82fa24",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arthurs-absolutely-fun-day"
   },
   {
     "name": "Asterix",
@@ -198,7 +198,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asterix.ips",
     "md5": "812db832566202610bb1e42e643e2b93",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asterix"
   },
   {
     "name": "Asterix - Search for Dogmatix",
@@ -206,7 +206,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixDogmatix.ips",
     "md5": "1faa6e2a7ec92b95ce32fa2682038b9b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asterix---search-for-dogmatix"
   },
   {
     "name": "Asterix and Obelix",
@@ -214,7 +214,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterxObelix.ips",
     "md5": "6efc4c27d06564f9000667c029ad02a3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asterix-and-obelix"
   },
   {
     "name": "Asterix and Obelix vs. Caesar",
@@ -222,7 +222,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsterixObelixCaesar.ips",
     "md5": "b7d6335b8d3a34b15ce0b631bb9731a2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asterix-and-obelix-vs-caesar"
   },
   {
     "name": "Astro Rabby",
@@ -230,7 +230,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AstroRabby.ips",
     "md5": "5a88b67ed5475e591747bc7956642456",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#astro-rabby"
   },
   {
     "name": "Atomic Punk",
@@ -238,7 +238,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtomicPunk.ips",
     "md5": "76010c6ff6bd0c4e8ac934dc69fb96ab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#atomic-punk"
   },
   {
     "name": "Avenging Spirit",
@@ -246,7 +246,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Avenging%20Spirit%20Analogue%20Pocket%20patch.ips",
     "md5": "e88eab57ab4614966748280bf3c97f52",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#avenging-spirit"
   },
   {
     "name": "Azure Dreams",
@@ -254,7 +254,15 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/d42073221f5418e1059c159246e3a89f6a0011e8/Azure+Dreams+%28USA%29+%28SGB+Enhanced%29-71d52876.ips",
     "md5": "464acbe3c82887db897c39cdba877237",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#azure-dreams"
+  },
+  {
+    "name": "Balloon Fight GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips",
+    "md5": "f94f61e6beaec6222e0d35229e2e271e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#balloon-fight-gb"
   },
   {
     "name": "Balloon Kid",
@@ -262,7 +270,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonKid.ips",
     "md5": "f70c60ca87714fa9d81be60c9ac93de0",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#balloon-kid"
   },
   {
     "name": "Banishing Racer",
@@ -270,7 +278,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips",
     "md5": "8fdffb08770609255ec3cd314f79f976",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#banishing-racer"
   },
   {
     "name": "Bart Simpson's Escape from Camp Deadly",
@@ -278,7 +286,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CampDeadly.ips",
     "md5": "e731fa23d9cd0c3d4dec7d5565beef61",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-simpsons-escape-from-camp-deadly"
   },
   {
     "name": "Bart and the Beanstalk",
@@ -286,7 +294,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips",
     "md5": "1d5e05159b0ac6a5119bd6f743c7eb9e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-and-the-beanstalk"
   },
   {
     "name": "Bart vs. the Juggernauts",
@@ -294,7 +302,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartJuggernauts.ips",
     "md5": "bc36d55377d7961a49a48a70a2827e5e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-vs-the-juggernauts"
   },
   {
     "name": "Batman - Return of the Joker",
@@ -302,7 +310,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanJoker.ips",
     "md5": "97bc907deba1e7d7c9bc72fca0310822",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman---return-of-the-joker"
   },
   {
     "name": "Batman - The Animated Series",
@@ -310,7 +318,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanAnimated.ips",
     "md5": "ae073c63ff7d151dc2dd406830fbbdc2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman---the-animated-series"
   },
   {
     "name": "Batman - The Video Game",
@@ -318,7 +326,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Batman.ips",
     "md5": "03c6d84a951be6703b7458478f4277b9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman---the-video-game"
   },
   {
     "name": "Battle Arena Toshinden",
@@ -326,7 +334,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleArena.ips",
     "md5": "75b5f31fbacb972fc104b3e77d09003b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-arena-toshinden"
   },
   {
     "name": "Battle Bull",
@@ -334,7 +342,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleBull.ips",
     "md5": "d6d8e759c19c1ba384670f2a06b4d11b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-bull"
   },
   {
     "name": "Battle Unit Zeoth",
@@ -342,7 +350,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3a6fa9ce393278e913d2f377b2e33c743f6896f7/Battle+Unit+Zeoth+%28USA%2C+Europe%29-e67a92b3.ips",
     "md5": "023a8fd8eacad0656b5110da26dcdd44",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#battle-unit-zeoth"
   },
   {
     "name": "Battleship",
@@ -350,7 +358,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battleship.ips",
     "md5": "d4f7ade01af0818a79bc809cf96118bb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battleship"
   },
   {
     "name": "Battletoads",
@@ -358,7 +366,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Battletoads.ips",
     "md5": "6d24c94d3acd89b4b703f7bd2a504833",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battletoads"
   },
   {
     "name": "Battletoads - Double Dragon",
@@ -366,7 +374,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsDD.ips",
     "md5": "13ec0c660b5a963a07b39ecabf0e0ab5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battletoads---double-dragon"
   },
   {
     "name": "Battletoads in Ragnarok's World",
@@ -374,7 +382,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattletoadsRW.ips",
     "md5": "4866ea7bdaa92c6986d4847209ebbd20",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battletoads-in-ragnaroks-world"
   },
   {
     "name": "Beatmania GB",
@@ -382,7 +390,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Beatmania.ips",
     "md5": "e7c022031cb882912e81970eb63d4f61",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#beatmania-gb"
   },
   {
     "name": "Beatmania GB2 - Gotcha Mix",
@@ -390,7 +398,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BeatmaniaGotcha.ips",
     "md5": "25f20cdc0f6f70d0bc5430a9b0d48742",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#beatmania-gb2---gotcha-mix"
   },
   {
     "name": "Beavis and Butt-Head",
@@ -398,7 +406,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BnB.ips",
     "md5": "8f160aa0b2f69a019911fd57ac8c5b31",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#beavis-and-butt-head"
   },
   {
     "name": "Bill and Ted's Excellent Game Boy Adventure",
@@ -406,7 +414,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BillTed.ips",
     "md5": "9d94d01d3133165d4469bb27d58f0f6c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bill-and-teds-excellent-game-boy-adventure"
   },
   {
     "name": "Bionic Commando",
@@ -414,7 +422,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BionicCommando.ips",
     "md5": "f89a33de3fa660a13ec29bb323efffa9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bionic-commando"
   },
   {
     "name": "Bionic Commando - Elite Forces",
@@ -422,7 +430,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BCElite.ips",
     "md5": "b3347b3219a7183697e83655f4628827",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bionic-commando---elite-forces"
   },
   {
     "name": "Blades of Steel",
@@ -430,7 +438,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BladesOfSteel.ips",
     "md5": "302caa3ceddccc5fba36787b44d25da7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#blades-of-steel"
   },
   {
     "name": "Blaster Master - Enemy Below",
@@ -438,7 +446,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Blaster%20Master%20-%20Enemy%20Below%20(USA,%20Europe)%20(SGB%20Enhanced)%20Pocket%20Conversion%20v1.1.ips",
     "md5": "756664aa0c9418b200946aa4e1dddf53",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#blaster-master---enemy-below"
   },
   {
     "name": "Blaster Master Boy",
@@ -446,7 +454,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Blaster%20Master%20Boy%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "c4868bf46a993b4c33a9a8af5341282a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#blaster-master-boy"
   },
   {
     "name": "Bomberman Quest",
@@ -454,7 +462,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips",
     "md5": "ad358f284c3303db01212016ed3944d5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-quest"
   },
   {
     "name": "Bonk's Adventure",
@@ -462,7 +470,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksAdventure.ips",
     "md5": "79d6e6515905ec3fbcbd9e50ff469000",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bonks-adventure"
   },
   {
     "name": "Bonk's Revenge",
@@ -470,7 +478,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Bonks_Revenge_Analogue_Pocket_patch_v1.1.ips",
     "md5": "b73d76599e3d7f979a99bba5f1c92add",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#bonks-revenge"
   },
   {
     "name": "Bonk's Revenge",
@@ -478,7 +486,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksRevenge.ips",
     "md5": "b73d76599e3d7f979a99bba5f1c92add",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bonks-revenge"
   },
   {
     "name": "Boxxle",
@@ -486,7 +494,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Boxxle%20(USA,%20Europe)%20(Rev%20A)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "239fd20f424ee53d2f11018dbd942df4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#boxxle"
   },
   {
     "name": "Boxxle II",
@@ -494,7 +502,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Boxxle%20II%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "308abd707a48ee9d69c287d818469fd6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#boxxle-ii"
   },
   {
     "name": "Brain Bender",
@@ -502,7 +510,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainBender.ips",
     "md5": "63bbfce4fb22f4b77e68cc67f02c4b05",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-bender"
   },
   {
     "name": "Bubble Bobble",
@@ -510,7 +518,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobble.ips",
     "md5": "11c49d405eef2174d9c14682204bb458",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-bobble"
   },
   {
     "name": "Bubble Ghost",
@@ -518,7 +526,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleGhost.ips",
     "md5": "7f970d79f06cfb4270dea4b051277098",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-ghost"
   },
   {
     "name": "Bubsy II",
@@ -526,7 +534,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bubsy2.ips",
     "md5": "c80413993cb4a5b79c9cdd04235010dd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubsy-ii"
   },
   {
     "name": "Buffy the Vampire Slayer",
@@ -534,7 +542,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Buffy.ips",
     "md5": "49561c4082206a7e5d5ca2032be81eed",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#buffy-the-vampire-slayer"
   },
   {
     "name": "Bugs Bunny - Crazy Castle 3",
@@ -542,7 +550,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Bugs%20Bunny%20-%20Crazy%20Castle%203%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "2ebf6f830013d8702eebf93955db52d5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#bugs-bunny---crazy-castle-3"
   },
   {
     "name": "Bugs Bunny in Crazy Castle 4",
@@ -550,7 +558,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Bugs%20Bunny%20in%20Crazy%20Castle%204%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "0877a4b1765287c5b50ea53a47a1d7ad",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#bugs-bunny-in-crazy-castle-4"
   },
   {
     "name": "Burai Fighter Deluxe",
@@ -558,7 +566,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuraiFighter.ips",
     "md5": "dd5aa6e85827a3ce6e4b7500e75a3262",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#burai-fighter-deluxe"
   },
   {
     "name": "Burning Paper",
@@ -566,7 +574,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BurningPaper.ips",
     "md5": "cb0a5d103c01d1d82d324602a45dd21b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#burning-paper"
   },
   {
     "name": "Bust-A-Move 2 - Arcade Edition",
@@ -574,7 +582,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove2.ips",
     "md5": "fa91adc7023e03f97ec36f66876a569e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-2---arcade-edition"
   },
   {
     "name": "Bust-A-Move 3 DX",
@@ -582,7 +590,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMove3.ips",
     "md5": "2b1221e85b545bba7e2291fede03fd96",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-3-dx"
   },
   {
     "name": "Bust-A-Move Millennium",
@@ -590,7 +598,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BustAMoveMillennium.ips",
     "md5": "e98124b30408c00786068387353e39e5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-millennium"
   },
   {
     "name": "Caesars Palace",
@@ -598,7 +606,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/caesars_palace_usa_rev_a_pocket-9c9679e4da4daa2ee22f1c35eef03cad.ips",
     "md5": "9c9679e4da4daa2ee22f1c35eef03cad",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#caesars-palace"
   },
   {
     "name": "Cannon Fodder",
@@ -606,7 +614,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips",
     "md5": "762d6c94874d8ac894ad100c0a4b50ab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cannon-fodder"
   },
   {
     "name": "Captain America and the Avengers",
@@ -614,7 +622,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaptainAmerica.ips",
     "md5": "dd5d45d9f8722f8ded9ab85097daa4e5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#captain-america-and-the-avengers"
   },
   {
     "name": "Castlevania - The Adventure",
@@ -622,7 +630,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaAdventure.ips",
     "md5": "0b4410c6b94d6359dba5609ae9a32909",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania---the-adventure"
   },
   {
     "name": "Castlevania II - Belmont's Revenge",
@@ -630,7 +638,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Castlevania2.ips",
     "md5": "7c65e9da405d2225d079f75e56276822",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania-ii---belmonts-revenge"
   },
   {
     "name": "Castlevania Legends",
@@ -638,7 +646,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaLegends.ips",
     "md5": "1475824e7262c0d6359f43c287e034a5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania-legends"
   },
   {
     "name": "Catrap",
@@ -646,7 +654,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catrap.ips",
     "md5": "5a75fe8de54e4cbd09cae23f050f6965",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#catrap"
   },
   {
     "name": "Cave Noire (J)",
@@ -670,7 +678,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/bb26b8b5e0cd81ee60514d2742ec5d43f706b110/Chase+H.Q.+%28USA%2C+Europe%29-67a45d19.ips",
     "md5": "6884a31366f565ca25935e1fba52efbc",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#chase-hq"
   },
   {
     "name": "Chessmaster",
@@ -678,7 +686,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips",
     "md5": "3db9f9f0c5913d3c9f7b5d5fbf7b5e02",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster"
   },
   {
     "name": "Chikyuu Kaihou Gun ZAS",
@@ -686,7 +694,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Chikyuu%20Kaihou%20Gun%20ZAS%20Analogue%20Pocket%20patch.ips",
     "md5": "a74aa804a3a6439303583e6c0b413b00",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#chikyuu-kaihou-gun-zas"
   },
   {
     "name": "Choplifter II - Rescue and Survive",
@@ -694,7 +702,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Choplifter2.ips",
     "md5": "d5f88d0799c85b6d59f12542da403691",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#choplifter-ii---rescue-and-survive"
   },
   {
     "name": "Commander Keen",
@@ -702,7 +710,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CommanderKeen.ips",
     "md5": "94d2aa3fbda301f9c0d0c16e00743183",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#commander-keen"
   },
   {
     "name": "Conker's Pocket Tales",
@@ -710,7 +718,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Conkers.ips",
     "md5": "fee6336f969c9e72e9b78be53d512c1e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#conkers-pocket-tales"
   },
   {
     "name": "Contra III - Alien Wars",
@@ -718,7 +726,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ContraAW.ips",
     "md5": "8d885e185ad2a0cb5c9e3b152bd24583",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#contra-iii---alien-wars"
   },
   {
     "name": "Cool Bricks",
@@ -726,7 +734,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBricks.ips",
     "md5": "5a7673f1e61cd707bdc880ff76396a3d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cool-bricks"
   },
   {
     "name": "Cosmo Tank",
@@ -734,7 +742,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CosmoTank.ips",
     "md5": "b340bad71c781bd1394d95241ed1adce",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cosmo-tank"
   },
   {
     "name": "Crystalis",
@@ -742,7 +750,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips",
     "md5": "f36a0ed25a601c039b1171d9daf241d6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#crystalis"
   },
   {
     "name": "Cubix - Robots for Everyone - Race 'n Robots",
@@ -750,7 +758,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cubix.ips",
     "md5": "9eb8be5600d2408352bf9ef32b91d1df",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cubix---robots-for-everyone---race-n-robots"
   },
   {
     "name": "Daedalian Opus",
@@ -758,7 +766,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaedalianOpus.ips",
     "md5": "34b3d0f0843b83e5b0e00bc3d0669793",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daedalian-opus"
   },
   {
     "name": "Daikatana",
@@ -766,7 +774,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Daikatana.ips",
     "md5": "d1934b308085c92b2ee492faa0d159c2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daikatana"
   },
   {
     "name": "Dance Dance Revolution GB",
@@ -774,7 +782,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR.ips",
     "md5": "c7cf1e919682b3ee613dd155cc12a15a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb"
   },
   {
     "name": "Dance Dance Revolution GB - Disney Mix",
@@ -782,7 +790,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR-Disney.ips",
     "md5": "dbada1fdfaba283bede36852843f5ed8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb---disney-mix"
   },
   {
     "name": "Dance Dance Revolution GB2",
@@ -790,7 +798,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR2.ips",
     "md5": "7f306f573ca9759fa2f7aa167ca2dd74",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb2"
   },
   {
     "name": "Dance Dance Revolution GB3",
@@ -798,7 +806,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR3.ips",
     "md5": "3ced79ad60ab5195058d5d658550f04f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb3"
   },
   {
     "name": "Darkwing Duck",
@@ -806,7 +814,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips",
     "md5": "7d776329212fa7cc2b00c5a46f06dd92",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck"
   },
   {
     "name": "David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob",
@@ -814,7 +822,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blobette.ips",
     "md5": "81f7dee7546e630de075a3397349efb8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob"
   },
   {
     "name": "Dead Heat Scramble",
@@ -822,7 +830,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadHeatScramble.ips",
     "md5": "c2212d75077638539d6af4673b4939e6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dead-heat-scramble"
   },
   {
     "name": "Deadeus",
@@ -830,7 +838,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/e809794269ef2360fb32de7a3fc363ee4122c424/Deadeus-7da95971.ips",
     "md5": "b04f705f3e4db711560f9834a6431171",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#deadeus"
   },
   {
     "name": "Deja Vu I & II: The Casebooks of Ace Harding",
@@ -838,7 +846,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DejaVu.ips",
     "md5": "d63504ea68f55d3c290cd01d71d4d1cc",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deja-vu-i--ii-the-casebooks-of-ace-harding"
   },
   {
     "name": "Denki Blocks!",
@@ -846,7 +854,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenkiBlocks.ips",
     "md5": "e4594f3d22fce6b71642a9f3049a6054",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#denki-blocks"
   },
   {
     "name": "Dennis the Menace",
@@ -854,7 +862,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DennisTheMenace.ips",
     "md5": "f064bd662fdcb40a9f6926cc3baee116",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dennis-the-menace"
   },
   {
     "name": "Densha De Go! 2",
@@ -862,7 +870,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DenshaDeGo2.ips",
     "md5": "ab58102005b510a2d905ed7de9d6267a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#densha-de-go-2"
   },
   {
     "name": "Densha de Go!",
@@ -870,7 +878,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/densha-de-go-pocket-patch-0e63965664df3bf3217254a22422cc86.ips",
     "md5": "0e63965664df3bf3217254a22422cc86",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#densha-de-go"
   },
   {
     "name": "Dexterity",
@@ -878,7 +886,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dexterity.ips",
     "md5": "a58f2b1a317cfb1d60b59f3875f6a9c2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dexterity"
   },
   {
     "name": "Donald Duck - Goin' Quackers",
@@ -886,7 +894,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DonaldDuck.ips",
     "md5": "4fd68c1cf8b57e90a5b11b054fc68b46",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donald-duck---goin-quackers"
   },
   {
     "name": "Donkey Kong",
@@ -894,7 +902,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/ccda7a83a128c7217ca544d40e865ff04c4e6fa4/Donkey+Kong+%28World%29+%28Rev+A%29+%28SGB+Enhanced%29-f777a5d8.ips",
     "md5": "4859ec2b18c4fabf489eb570c1d7d326",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#donkey-kong"
   },
   {
     "name": "Donkey Kong Country",
@@ -902,7 +910,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Donkey%20Kong%20Country%20Analogue%20Pocket%20patch.ips",
     "md5": "dc94079146ee90d7dd7d72280a3faad5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#donkey-kong-country"
   },
   {
     "name": "Donkey Kong GB - Dinky Kong and Dixie Kong",
@@ -910,7 +918,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips",
     "md5": "22afe691095c65f34aeaba3c283b2a9c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong"
   },
   {
     "name": "Donkey Kong Land",
@@ -918,7 +926,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1.ips",
     "md5": "89bb0d67d5af35c2ebf09d9aef2e34ad",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land"
   },
   {
     "name": "Donkey Kong Land 2",
@@ -926,7 +934,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/702c889b9ad8886beaaa92e8238fa13ecf28612e/Donkey+Kong+Land+2+%28USA%2C+Europe%29+%28SGB+Enhanced%29-2827e5d4.ips",
     "md5": "6e30394fd7ef4a4dc3fe1edd9fc69f72",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#donkey-kong-land-2"
   },
   {
     "name": "Donkey Kong Land III",
@@ -934,7 +942,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3.ips",
     "md5": "2e46072ce2416feb18f4bd1e9943546c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land-iii"
   },
   {
     "name": "Double Dragon",
@@ -942,7 +950,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f4f5d7d35830ab1bf6e4f20d603088f19475d2cd/Double+Dragon+%28USA%2C+Europe%29-40a8bf12.ips",
     "md5": "545de5c311259b7f7ec313a9d58cf4b4",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#double-dragon"
   },
   {
     "name": "Double Dragon 3 - The Arcade Game",
@@ -950,7 +958,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDragon3.ips",
     "md5": "469605e02eb10652f8f2afa8c7ebffd5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#double-dragon-3---the-arcade-game"
   },
   {
     "name": "Double Dragon II",
@@ -958,7 +966,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/8f6819d7edc24fbf15e4bc3eebbea872edda7c1a/Double+Dragon+II+%28USA%2C+Europe%29-5b96e474.ips",
     "md5": "4f3b84eb325f9162086fac77ac577e7c",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#double-dragon-ii"
   },
   {
     "name": "Dracula - Crazy Vampire",
@@ -966,7 +974,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DraculaCrazyVampire.ips",
     "md5": "0b943efdf2ca967827a4c7bf951f6448",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dracula---crazy-vampire"
   },
   {
     "name": "Dragon Ball Z - Legendary Super Warriors",
@@ -974,7 +982,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DBZ.ips",
     "md5": "ac46bc779e1e844674de1d4c13d06f96",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-ball-z---legendary-super-warriors"
   },
   {
     "name": "Dragon Quest Monsters (DE)",
@@ -982,7 +990,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips",
     "md5": "08bca718c62e3c2870a2df107fc0a562",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-de"
   },
   {
     "name": "Dragon Warrior I & II",
@@ -990,7 +998,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/4f75bb3b2e832eb3ecd27296a2a2d7f2a2dde666/Dragon+Warrior+I+%26+II+%28USA%29+%28SGB+Enhanced%29-71d693da.ips",
     "md5": "c3987a4d734c37b7d8324f654a45de70",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dragon-warrior-i--ii"
   },
   {
     "name": "Dragon Warrior III",
@@ -998,7 +1006,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/aa57d012d2d41f39ff7318cc3103c9e8e957b5d9/Dragon+Warrior+III+%28USA%29-fd9c59c.ips",
     "md5": "b74b6132326bafcd75e415ddcd9a2932",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dragon-warrior-iii"
   },
   {
     "name": "Dragon Warrior Monsters",
@@ -1006,7 +1014,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/026276605505995352a50e1373d8c9f450812d94/Dragon+Warrior+Monsters+%28USA%2C+Europe%29+%28SGB+Enhanced%29-e56c35b1.ips",
     "md5": "1ca6579359f21d8e27b446f865bf6b83",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dragon-warrior-monsters"
   },
   {
     "name": "Dragon Warrior Monsters 2 - Cobi's Journey",
@@ -1014,7 +1022,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips",
     "md5": "f71ac6ac4bb335f59bfd2b594d47ab49",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-warrior-monsters-2---cobis-journey"
   },
   {
     "name": "Dragon Warrior Monsters 2 - Tara's Adventure",
@@ -1022,7 +1030,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Tara.ips",
     "md5": "8e79dcdee0e15ef069b3f376a0fee37d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-warrior-monsters-2---taras-adventure"
   },
   {
     "name": "Dragon's Lair",
@@ -1030,7 +1038,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLair.ips",
     "md5": "947f96cfd5bab7a03ec2f3fc0ae9238d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragons-lair"
   },
   {
     "name": "Driver - You are the Wheelman",
@@ -1038,7 +1046,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Driver.ips",
     "md5": "413e1acd7847d628364163eb2c97cecd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#driver---you-are-the-wheelman"
   },
   {
     "name": "Duck Tales",
@@ -1046,7 +1054,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales.ips",
     "md5": "785441d3d75913393807b10b3194dc48",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales"
   },
   {
     "name": "Duck Tales 2",
@@ -1054,7 +1062,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips",
     "md5": "b4e5876c5acedd12b62e25a12973a4ae",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-2"
   },
   {
     "name": "Duke Nukem",
@@ -1062,7 +1070,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DukeNukem.ips",
     "md5": "b2d3713267c9e21b3dae3cb5f437fccd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duke-nukem"
   },
   {
     "name": "Dynablaster",
@@ -1070,7 +1078,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dynablaster.ips",
     "md5": "2eb9a6891fc79cd878d8bc12d04a0790",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dynablaster"
   },
   {
     "name": "Earthworm Jim",
@@ -1078,7 +1086,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim.ips",
     "md5": "0d24eeff28040ff2a8f63de5bc8cbea2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#earthworm-jim"
   },
   {
     "name": "Earthworm Jim - Menace 2 the Galaxy",
@@ -1086,7 +1094,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EarthwormJim2.ips",
     "md5": "002d0d5fd2f668798da1991b5fd5b4d8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#earthworm-jim---menace-2-the-galaxy"
   },
   {
     "name": "Elevator Action EX",
@@ -1094,7 +1102,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips",
     "md5": "f88959b615f284cc120cd17f5263d018",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elevator-action-ex"
   },
   {
     "name": "Extra Bases!",
@@ -1102,7 +1110,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ExtraBases.ips",
     "md5": "857fdafb5ababd641cc832cfb8fabd58",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#extra-bases"
   },
   {
     "name": "F-1 Race",
@@ -1110,7 +1118,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/F1Race.ips",
     "md5": "3ad6a2e9c2872cd8f92d86e18332262c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-1-race"
   },
   {
     "name": "F1 World Grand Prix II for Game Boy Color (U)",
@@ -1118,7 +1126,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/f1_world_grand_prix_ii_for_gbc.ips",
     "md5": "69a6ebc942c7d0ecef2e514989debde6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#f1-world-grand-prix-ii-for-game-boy-color-u"
   },
   {
     "name": "Faceball 2000",
@@ -1126,7 +1134,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000.ips",
     "md5": "05ba7f165dab1ffd49b63b4f5c704c02",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#faceball-2000"
   },
   {
     "name": "Felix the Cat",
@@ -1134,7 +1142,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Felix.ips",
     "md5": "4d606ab4ffd5c3d3ecf914a6af1c1f90",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#felix-the-cat"
   },
   {
     "name": "Final Fantasy Adventure",
@@ -1142,7 +1150,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFA.ips",
     "md5": "24cd3bdf490ef2e1aa6a8af380eccd78",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-adventure"
   },
   {
     "name": "Final Fantasy Legend",
@@ -1150,7 +1158,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL1.ips",
     "md5": "d5c27ff8cb1b69cb56df4ff170e2baf0",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-legend"
   },
   {
     "name": "Final Fantasy Legend II",
@@ -1158,7 +1166,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL2.ips",
     "md5": "2bb0df1b672253aaa5f9caf9aab78224",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-legend-ii"
   },
   {
     "name": "Final Fantasy Legend III",
@@ -1166,7 +1174,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFL3.ips",
     "md5": "db156bc96b528996ce1bf771195171af",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-legend-iii"
   },
   {
     "name": "Fish Files",
@@ -1174,7 +1182,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishFiles.ips",
     "md5": "edf021b521a496fe7afc5e15949f5c80",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fish-files"
   },
   {
     "name": "Flintstones",
@@ -1182,7 +1190,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flintstones.ips",
     "md5": "f07ed24e96f84ce78787709f248263c8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flintstones"
   },
   {
     "name": "Flintstones - Burgertime in Bedrock",
@@ -1190,7 +1198,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesBurgertime.ips",
     "md5": "50e6d9d88450932743161b7512838ccc",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flintstones---burgertime-in-bedrock"
   },
   {
     "name": "Flintstones - King Rock Treasure Island",
@@ -1198,7 +1206,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlintstonesKingRock.ips",
     "md5": "25dfaca5120462af05532aaf4756776a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flintstones---king-rock-treasure-island"
   },
   {
     "name": "Flipull",
@@ -1206,7 +1214,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Flipull.ips",
     "md5": "4fcc13db8144687e6b28200387aed25c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flipull"
   },
   {
     "name": "Fortified Zone",
@@ -1214,7 +1222,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips",
     "md5": "a981378da19c08597db03f3ee02cd6d7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fortified-zone"
   },
   {
     "name": "Game & Watch Gallery",
@@ -1222,7 +1230,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW1.ips",
     "md5": "d5081250257e0dafcb8fe8720fcb9f28",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game--watch-gallery"
   },
   {
     "name": "Game & Watch Gallery 2",
@@ -1230,7 +1238,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW2.ips",
     "md5": "cbf4a5b2ff566554b014118e3d0e3e9a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game--watch-gallery-2"
   },
   {
     "name": "Game & Watch Gallery 3",
@@ -1238,7 +1246,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW3.ips",
     "md5": "f1bb0127347994b46258adbda0dc0b16",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game--watch-gallery-3"
   },
   {
     "name": "Game Boy Wars 3",
@@ -1246,7 +1254,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips",
     "md5": "748fa9419b35c0e8e43509457aaa1efa",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-3"
   },
   {
     "name": "Game Boy Wars Turbo",
@@ -1254,7 +1262,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips",
     "md5": "c10a76a601ea375593f1cb944c3365e7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-turbo"
   },
   {
     "name": "Garfield Labyrinth",
@@ -1262,7 +1270,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GarfieldLabyrinth.ips",
     "md5": "5e441af514d1bcdaec08c133ceea4e5e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#garfield-labyrinth"
   },
   {
     "name": "Gargoyle's Quest",
@@ -1270,7 +1278,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Gargoyles-Quest-USA-EU-63e3f5f4b90f17bdf6d2f2aed515e248.ips",
     "md5": "63e3f5f4b90f17bdf6d2f2aed515e248",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#gargoyles-quest"
   },
   {
     "name": "Gauntlet II",
@@ -1278,7 +1286,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gauntlet2.ips",
     "md5": "cdca15cfd1645c02fe1cc327b772264e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gauntlet-ii"
   },
   {
     "name": "Gear Works",
@@ -1286,7 +1294,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GearWorks.ips",
     "md5": "16af858484041d572299b501ead2b788",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gear-works"
   },
   {
     "name": "Gekito Power Modeler",
@@ -1294,7 +1302,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GPM.ips",
     "md5": "255bca32093336ccbacdd185951c8727",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gekito-power-modeler"
   },
   {
     "name": "George Foreman's KO Boxing",
@@ -1302,7 +1310,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeorgeForeman.ips",
     "md5": "8a4245cbeb1d6400b4cb586790400b60",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#george-foremans-ko-boxing"
   },
   {
     "name": "Gex - Enter the Gecko",
@@ -1310,7 +1318,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex.ips",
     "md5": "f0462eba75d879c40668e20d1dbdb612",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gex---enter-the-gecko"
   },
   {
     "name": "Ghostbusters II",
@@ -1318,7 +1326,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2.ips",
     "md5": "0841a527b116a52ad26de023b20b1a42",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ghostbusters-ii"
   },
   {
     "name": "Ghosts'n Goblins",
@@ -1326,7 +1334,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/dfd5832e1df4eb7c6aecba5701b036704eeee9c7/Ghosts%27n+Goblins+%28USA%2C+Europe%29-ae024c23.ips",
     "md5": "9b846e9a4eb6b80cdbc8e6c82f2b9e9e",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ghostsn-goblins"
   },
   {
     "name": "Godzilla",
@@ -1334,7 +1342,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Godzilla.ips",
     "md5": "e83411adccf5266f2deb263e67b68bc1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla"
   },
   {
     "name": "Gold and Glory - The Road to El Dorado",
@@ -1342,7 +1350,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoldAndGlory.ips",
     "md5": "7bf3b13931f2a50ebe071a18ea14f28b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gold-and-glory---the-road-to-el-dorado"
   },
   {
     "name": "Golf",
@@ -1350,7 +1358,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Golf%20(World)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "6175a5ef55a1998944267e75d8ebf79d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#golf"
   },
   {
     "name": "Gradius - The Interstellar Assault",
@@ -1358,7 +1366,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gradius.ips",
     "md5": "e10f788da29e18934c3e9161b25b96c7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gradius---the-interstellar-assault"
   },
   {
     "name": "Grand Theft Auto",
@@ -1366,7 +1374,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA1.ips",
     "md5": "3322493d6b7a70bfdea6f6231ceb1ce0",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grand-theft-auto"
   },
   {
     "name": "Grand Theft Auto 2",
@@ -1374,7 +1382,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GTA2.ips",
     "md5": "05a9c516d6e744135a6303aa5b4a8887",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grand-theft-auto-2"
   },
   {
     "name": "Grandia - Parallel Trippers",
@@ -1382,7 +1390,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grandia.ips",
     "md5": "5679de3c41c63c6b9dc9432c7ed1105a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grandia---parallel-trippers"
   },
   {
     "name": "Great Greed",
@@ -1390,7 +1398,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GreatGreed.ips",
     "md5": "b83f33f33ab52e0b7ee80715dbb8d415",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#great-greed"
   },
   {
     "name": "Gremlins 2 - The New Batch",
@@ -1398,7 +1406,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gremlins2.ips",
     "md5": "f59dbce4cf5b51a5241806e1b35301fb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gremlins-2---the-new-batch"
   },
   {
     "name": "Hammerin' Harry - Ghost Building Company",
@@ -1406,7 +1414,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HammerinHarry.ips",
     "md5": "131993b986f3ba1f682d8d74f050487b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hammerin-harry---ghost-building-company"
   },
   {
     "name": "Hamtaro - Ham-Hams Unite!",
@@ -1414,7 +1422,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hamtaro.ips",
     "md5": "48ce279084e1fc7a9136cc211f4fad5d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hamtaro---ham-hams-unite"
   },
   {
     "name": "Harry Potter and the Chamber of Secrets",
@@ -1422,7 +1430,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP2.ips",
     "md5": "bc60280596bce42d050b764b647dc39b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harry-potter-and-the-chamber-of-secrets"
   },
   {
     "name": "Harry Potter and the Sorcerer's Stone",
@@ -1430,7 +1438,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HP1.ips",
     "md5": "ba85a2ae8aa5829c440eef2d5549506c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harry-potter-and-the-sorcerers-stone"
   },
   {
     "name": "Harvest Moon 3",
@@ -1438,7 +1446,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/d8a751fc7f49f00d5c92b8a604384da00cec8d72/Harvest+Moon+3+GBC+%28USA%29-a0d67417.ips",
     "md5": "0ff9df46aca45161d1dfa7eee8509c1f",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#harvest-moon-3"
   },
   {
     "name": "Hercules",
@@ -1446,7 +1454,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hercules.ips",
     "md5": "abd4baa57f0b90b402c2e56090394f9e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hercules"
   },
   {
     "name": "Hercules - The Legendary Journey",
@@ -1454,7 +1462,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HerculesJourneys.ips",
     "md5": "d69fdc8dafd38ab4f48cc6a6b8fa1df9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hercules---the-legendary-journey"
   },
   {
     "name": "Heroes of Might and Magic",
@@ -1462,7 +1470,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3936ecb76d1d78bb0ce7513252f8386064c0ff8c/Heroes+of+Might+and+Magic+%28USA%29+%28En%2CFr%2CDe%29-bb0672a6.ips",
     "md5": "6a2a5ab0dc979f162cbfa4389d1cd71f",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#heroes-of-might-and-magic"
   },
   {
     "name": "Heroes of Might and Magic 2",
@@ -1470,7 +1478,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoMM2.ips",
     "md5": "ad37726c92f43ad7915225b7eaf94ffd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heroes-of-might-and-magic-2"
   },
   {
     "name": "Hexcite - The Shapes of Victory",
@@ -1478,7 +1486,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hexcite.ips",
     "md5": "4b068708fb29fdabbee834114fe4a09d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
   },
   {
     "name": "Humans",
@@ -1486,7 +1494,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Humans.ips",
     "md5": "4a1ecc8ccc706ed5fdce2fdab2aaf03e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#humans"
   },
   {
     "name": "INFGMB",
@@ -1494,7 +1502,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips",
     "md5": "65a5a0cb3c339ec473053c64c2218ab9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#infgmb"
   },
   {
     "name": "International Karate 2000",
@@ -1502,7 +1510,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlKarate2K.ips",
     "md5": "86c1b5f04495e22eedbec15e1a320ff3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#international-karate-2000"
   },
   {
     "name": "International Track and Field",
@@ -1510,7 +1518,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField.ips",
     "md5": "f855638ad74a7b31cca5786a32bb8868",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#international-track-and-field"
   },
   {
     "name": "International Track and Field - Summer Games",
@@ -1518,7 +1526,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IntlTrackField-Summer.ips",
     "md5": "b9795b5d6397d36c1666c3a0bada059f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#international-track-and-field---summer-games"
   },
   {
     "name": "Is That a Demo in Your Pocket?",
@@ -1526,7 +1534,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/681d53f794e02ac2d081e58656c1f767d9f6f521/pocket-57c4592a.ips",
     "md5": "2518020d9c2ff903b3af2d07d2552438",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#is-that-a-demo-in-your-pocket"
   },
   {
     "name": "Ishido - The Way of Stones",
@@ -1534,7 +1542,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ishido.ips",
     "md5": "e904ad95019fad36decd3b8bae8b3f09",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ishido---the-way-of-stones"
   },
   {
     "name": "Itchy & Scratchy in Miniature Golf Madness",
@@ -1542,7 +1550,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/InSGolf.ips",
     "md5": "ed0a8885341ee6a201873b2038c87582",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#itchy--scratchy-in-miniature-golf-madness"
   },
   {
     "name": "James Bond 007",
@@ -1550,7 +1558,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JamesBond007.ips",
     "md5": "669a4ecf89794505591b36d617e51f8a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#james-bond-007"
   },
   {
     "name": "John Madden Football",
@@ -1558,7 +1566,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JohnMadden.ips",
     "md5": "e76328b0795af8cd85a70e84c1ef4722",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#john-madden-football"
   },
   {
     "name": "Judge Dredd",
@@ -1566,7 +1574,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JudgeDredd.ips",
     "md5": "7e9d69eacd6b4c82527065bcf63e474b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#judge-dredd"
   },
   {
     "name": "Jurassic Park",
@@ -1574,7 +1582,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark.ips",
     "md5": "d11d2dc76c6d743c3cc791104a2bdae2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jurassic-park"
   },
   {
     "name": "Jurassic Park (E)",
@@ -1582,7 +1590,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkE.ips",
     "md5": "7173cecc94bcdb7aeb7240ae87491044",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jurassic-park-e"
   },
   {
     "name": "Kaeru no Tame ni Kane wa Naru",
@@ -1590,7 +1598,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips",
     "md5": "4ebe14c4c51555908c0e4cabb66dc813",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru"
   },
   {
     "name": "Kid Dracula",
@@ -1598,7 +1606,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidDracula.ips",
     "md5": "24a6b4457a511cc667e9ac25417401ab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kid-dracula"
   },
   {
     "name": "Kid Icarus - Of Myths and Monsters",
@@ -1606,7 +1614,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidIcarus.ips",
     "md5": "23c7be98ac9a4d3b046ad1be3f0965e4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kid-icarus---of-myths-and-monsters"
   },
   {
     "name": "Killer Instinct",
@@ -1614,7 +1622,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KillerInstinct.ips",
     "md5": "ba8628a70339843c2ee8a294b840e8d6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#killer-instinct"
   },
   {
     "name": "King of Fighers '95",
@@ -1622,7 +1630,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF95.ips",
     "md5": "b68c4141b4c4f778bd13100b9a3db82c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#king-of-fighers-95"
   },
   {
     "name": "Kirby Tilt n Tumble",
@@ -1630,7 +1638,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Kirby%20-%20Tilt%20'n'%20Tumble%20accelerometer%20removal%20%26%20Analogue%20pocket%20patch.ips",
     "md5": "f2e24776d93082362c9b435abc167d89",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#kirby-tilt-n-tumble"
   },
   {
     "name": "Kirby's Block Ball",
@@ -1638,7 +1646,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysBlockBall.ips",
     "md5": "203db7ddc72359e4db5e9ab42a6f0ba8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-block-ball"
   },
   {
     "name": "Kirby's Dream Land",
@@ -1646,7 +1654,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream.ips",
     "md5": "a66e4918edcd042ec171a57fe3ce36c3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land"
   },
   {
     "name": "Kirby's Dream Land 2",
@@ -1654,7 +1662,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDream2.ips",
     "md5": "ddb5bfae32b0ca39cf8ab6c46880126c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-2"
   },
   {
     "name": "Kirby's Dream Land DX with Fluffy Repair Service",
@@ -1670,7 +1678,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDX.ips",
     "md5": "3ba7bedf51da63ec4bcd862dfe336741",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-dx-with-fluffy-repair-service---basic"
   },
   {
     "name": "Kirby's Dream Land DX with Fluffy Repair Service - Plus",
@@ -1678,7 +1686,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamDXPlus.ips",
     "md5": "3bd865d10d1e87b429bd242d7d4264f7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-dx-with-fluffy-repair-service---plus"
   },
   {
     "name": "Kirby's Pinball Land",
@@ -1686,7 +1694,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysPinball.ips",
     "md5": "f711ed10307d4ea27223fe965595b123",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-pinball-land"
   },
   {
     "name": "Kirby's Star Stacker",
@@ -1694,7 +1702,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbyStarStack.ips",
     "md5": "f4c0bf35939be6786c099e9eb4635919",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-star-stacker"
   },
   {
     "name": "Klax",
@@ -1702,7 +1710,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klax.ips",
     "md5": "7d4f3bf92bbff701583eb74f36951bb9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klax"
   },
   {
     "name": "Knight Quest",
@@ -1710,7 +1718,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Knight%20Quest%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "3418b37cc4ab9bbd8b416ba27be2f8f7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#knight-quest"
   },
   {
     "name": "Konami GB Collection Vol.1",
@@ -1718,7 +1726,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0ce560e7bae81dcad1f4949c24fdd6e324965bb9/Konami+GB+Collection+Vol.1+%28E%29+%5BC%5D%5B%21%5D-203f8727.ips",
     "md5": "70ccaf1c458dc09b7c703191ef9b8541",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#konami-gb-collection-vol1"
   },
   {
     "name": "Konami GB Collection Volume 2",
@@ -1726,7 +1734,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami2.ips",
     "md5": "ed679655b3721327ea36c857c554427a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#konami-gb-collection-volume-2"
   },
   {
     "name": "Konami GB Collection Volume 3",
@@ -1734,7 +1742,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami3.ips",
     "md5": "98f7778539e22307d074cf0abb37d05c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#konami-gb-collection-volume-3"
   },
   {
     "name": "Konami GB Collection Volume 4",
@@ -1742,7 +1750,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips",
     "md5": "f3414d53473e2cc43347774cc5f40495",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#konami-gb-collection-volume-4"
   },
   {
     "name": "Krusty's Fun House",
@@ -1750,7 +1758,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KrustysFunHouse.ips",
     "md5": "38b05e5167a24089cb18cc95e3911019",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#krustys-fun-house"
   },
   {
     "name": "Kwirk - He's A-maze-ing",
@@ -1758,7 +1766,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips",
     "md5": "3a4bb57e9fbd4ef563c0c7b59a1c82a5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kwirk---hes-a-maze-ing"
   },
   {
     "name": "LSDJ (Version 9.2L)",
@@ -1766,7 +1774,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3032974831cc21f5c22e177f3f0c2ef4a08bf250/lsdj9_2_L-367dd9de.ips",
     "md5": "96fa4f2c0db499d48bad4ae599877fb3",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-92l"
   },
   {
     "name": "Legend of Zelda, The - Link's Awakening DX (France)",
@@ -1814,7 +1822,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f41d857eb26893e99200f79782ea08792414a286/Legend+of+the+River+King+GB+%28USA%29+%28SGB+Enhanced%29-7e821f47.ips",
     "md5": "b397066e3cad5ae33a31e4adfff0bff5",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-the-river-king"
   },
   {
     "name": "Legend of the River King 2",
@@ -1822,7 +1830,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips",
     "md5": "3519c45ce55aad2f0565513723c90672",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-2"
   },
   {
     "name": "Lemmings",
@@ -1830,7 +1838,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings.ips",
     "md5": "0476c7220327d99e3d039faaa4cdde8f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lemmings"
   },
   {
     "name": "Lemmings 2 - The Tribes",
@@ -1838,7 +1846,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lemmings2.ips",
     "md5": "7b96adfd6d3576cb2bab2afd06d8bd6e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lemmings-2---the-tribes"
   },
   {
     "name": "Lion King",
@@ -1846,7 +1854,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKing.ips",
     "md5": "fdab70df67c8941ed7b39a0405161545",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king"
   },
   {
     "name": "Lion King - Simba's Mighty Adventure",
@@ -1854,7 +1862,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LionKingSMA.ips",
     "md5": "67117cc76e2b270e65c2778c734f905f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king---simbas-mighty-adventure"
   },
   {
     "name": "Lufia - The Legend Returns",
@@ -1862,7 +1870,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Lufia%20Analogue%20Pocket%20patch.ips",
     "md5": "1ff9b71a347a7deed87bcedeb7c5ea70",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#lufia---the-legend-returns"
   },
   {
     "name": "Lunar Chase",
@@ -1870,7 +1878,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LunarChase.ips",
     "md5": "db24c76ac8d32cd23ce3a00519ba874f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lunar-chase"
   },
   {
     "name": "Madden NFL 2002",
@@ -1878,7 +1886,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Madden2002.ips",
     "md5": "b62cd45af888f008be2ddb84b778af4e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#madden-nfl-2002"
   },
   {
     "name": "Magi Nation",
@@ -1886,7 +1894,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagiNation.ips",
     "md5": "1624f857098ca278b15629914f48352b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magi-nation"
   },
   {
     "name": "Magical Chase",
@@ -1894,7 +1902,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Magical%20Chase%20GB%20Analogue%20Pocket%20patch.ips",
     "md5": "f722b68c0f532ed567397a3e53909ccf",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#magical-chase"
   },
   {
     "name": "Magical Tetris Challenge",
@@ -1902,7 +1910,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalTetris.ips",
     "md5": "a13623a452327ede4553ee2bd1b89a1a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magical-tetris-challenge"
   },
   {
     "name": "Makai Mura Gaiden - The Demon Darkness",
@@ -1910,7 +1918,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips",
     "md5": "de731a5f2f4e7d16bcdc4b5953ddcc12",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#makai-mura-gaiden---the-demon-darkness"
   },
   {
     "name": "Marble Madness",
@@ -1918,7 +1926,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadness.ips",
     "md5": "f489b8eb7dc88a39842f20a7f7165e5b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marble-madness"
   },
   {
     "name": "Marble Madness (Color)",
@@ -1926,7 +1934,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadnessColor.ips",
     "md5": "d2711ff066f40c4e6c471b79da0f08b7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marble-madness-color"
   },
   {
     "name": "Mario Golf",
@@ -1934,7 +1942,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/d4dd21a7ac1dddbce64235722f40eb1ee825f39c/Mario+Golf+%28USA%29-905ad0cb.ips",
     "md5": "83f791645ce282093a9d59c121ffc49d",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#mario-golf"
   },
   {
     "name": "Mario Tennis",
@@ -1942,7 +1950,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/72b02fc5ca7aeb52eb8a0298e57c0e81819c2493/Mario+Tennis+%28USA%29-a781c63c.ips",
     "md5": "50af67f7321d84bd052f0e793ee0613c",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#mario-tennis"
   },
   {
     "name": "Mario no Picross",
@@ -1950,7 +1958,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioNoPicross.ips",
     "md5": "defe3559ef5e8d69ca95289edb6f9f6e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mario-no-picross"
   },
   {
     "name": "Mario's Picross",
@@ -1958,7 +1966,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioPicross.ips",
     "md5": "ccaf9331318d4dfe3d1ee681928a74fd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marios-picross"
   },
   {
     "name": "Max",
@@ -1966,7 +1974,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Max.ips",
     "md5": "660a98b774e7d136e302dfe6557405e9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#max"
   },
   {
     "name": "Medarot - Kabuto Version",
@@ -1974,7 +1982,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto.ips",
     "md5": "78c568cbfff6314b1416880d9efaeca6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kabuto-version"
   },
   {
     "name": "Medarot - Kabuto Version (English Patch)",
@@ -1982,7 +1990,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips",
     "md5": "750b777eb1ea2ec167980158061f916f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kabuto-version-english-patch"
   },
   {
     "name": "Medarot - Kuwagata Version",
@@ -1990,7 +1998,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata.ips",
     "md5": "a9c9d6b6759c28f2b3986717f4df2f98",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version"
   },
   {
     "name": "Medarot - Kuwagata Version (English Patch)",
@@ -1998,7 +2006,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips",
     "md5": "95abb80a0a8aae30faa7c107bb1ca44e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version-english-patch"
   },
   {
     "name": "Mega Man - Dr. Wily's Revenge",
@@ -2006,7 +2014,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1.ips",
     "md5": "4ba4398181d98958fa7434ba7716f11a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man---dr-wilys-revenge"
   },
   {
     "name": "Mega Man II",
@@ -2014,7 +2022,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2.ips",
     "md5": "7fe07271d04ed9e0bc0663dde55a2ae4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-ii"
   },
   {
     "name": "Mega Man III",
@@ -2022,7 +2030,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3.ips",
     "md5": "4c614f884a07872f12056ad1a421e1f9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iii"
   },
   {
     "name": "Mega Man IV",
@@ -2030,7 +2038,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips",
     "md5": "8a00f627b8902c92327435901c249e19",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iv"
   },
   {
     "name": "Mega Man V",
@@ -2038,7 +2046,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5.ips",
     "md5": "ceb17d831b410d91aa41bf2819cbed82",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-v"
   },
   {
     "name": "Mega Man Xtreme",
@@ -2046,7 +2054,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme.ips",
     "md5": "4681f5b931a2e60ca163facd1adf56ed",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-xtreme"
   },
   {
     "name": "Mega Man Xtreme 2",
@@ -2054,7 +2062,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaManXtreme2.ips",
     "md5": "1f64989765f605d05cbd013e7ffcc352",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-xtreme-2"
   },
   {
     "name": "Megami Tensei Gaiden - Last Bible II",
@@ -2062,7 +2070,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastBible2.ips",
     "md5": "7e32dc8b60413cfaa24f941691e545d2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#megami-tensei-gaiden---last-bible-ii"
   },
   {
     "name": "Megami Tensei Gaiden - Last Bible II - English",
@@ -2070,7 +2078,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastBible2.eng.ips",
     "md5": "5c426fda8368066cf7e30587876af631",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#megami-tensei-gaiden---last-bible-ii---english"
   },
   {
     "name": "Mercenary Force",
@@ -2078,7 +2086,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MercenaryForce.ips",
     "md5": "bf3d90ff1c8d4827b5657d7b15d84fde",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mercenary-force"
   },
   {
     "name": "Metal Gear Solid (European Version)",
@@ -2086,7 +2094,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGearEuro.ips",
     "md5": "7971c95ad9745fe20df52e03cd52f636",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid-european-version"
   },
   {
     "name": "Metal Gear Solid (USA)",
@@ -2102,7 +2110,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalWalker.ips",
     "md5": "82d17beb1aefd1b93621d6fa61dfa1cb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-walker"
   },
   {
     "name": "Metroid II - Return of Samus",
@@ -2110,7 +2118,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0e1b259811903889e076715844226e3c5e4a587b/Metroid+II+-+Return+of+Samus+%28World%29%28GB%29-dee05370.ips",
     "md5": "9639948ad274fa15281f549e5f9c4d87",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#metroid-ii---return-of-samus"
   },
   {
     "name": "Metroid II - Return of Samus (Colored version)",
@@ -2118,7 +2126,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/d228cf7816de497b60f055d6ce063ef813fdb363/Metroid+II+-+Return+of+Samus+%28World%29-dee05370.ips",
     "md5": "9639948ad274fa15281f549e5f9c4d87",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#metroid-ii---return-of-samus-colored-version"
   },
   {
     "name": "Mickey's Speedway USA",
@@ -2126,7 +2134,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysSpeedway.ips",
     "md5": "ff9b78e1f399fc2bd665b8a08ba27456",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-speedway-usa"
   },
   {
     "name": "Micro Machines (U,E)",
@@ -2134,7 +2142,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/micro_machines.ips",
     "md5": "0631158ead23bfed84cd3a5010eb9295",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#micro-machines-ue"
   },
   {
     "name": "Micro Machines 1 and 2 - Twin Turbo (U,E)",
@@ -2142,7 +2150,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/micro1n2.ips",
     "md5": "a721520df37c636ed924dbc268cdd753",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#micro-machines-1-and-2---twin-turbo-ue"
   },
   {
     "name": "Mighty Morphin Power Rangers - The Movie",
@@ -2150,7 +2158,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips",
     "md5": "967473063a55634223f15e4c0a79dc44",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mighty-morphin-power-rangers---the-movie"
   },
   {
     "name": "Miner 2049er Starring Bounty Bob",
@@ -2158,7 +2166,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Miner2049er.ips",
     "md5": "e5eba5278bbc6e5f040649afe98a0af4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#miner-2049er-starring-bounty-bob"
   },
   {
     "name": "Mobile Golf",
@@ -2166,7 +2174,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips",
     "md5": "fbf1ffe76883dffcca299228c81f171f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mobile-golf"
   },
   {
     "name": "Mole Mania",
@@ -2174,7 +2182,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MoleMania.ips",
     "md5": "f28ade3926852a8ad2e449c274683956",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mole-mania"
   },
   {
     "name": "Monster Max",
@@ -2182,7 +2190,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterMax.ips",
     "md5": "261ec744fcf7a4eb5a6025c48c0538a3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-max"
   },
   {
     "name": "Monster Rancher Battle Card GB",
@@ -2190,7 +2198,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherBC.ips",
     "md5": "31fc2f3df8aa15f627574029c3cf03da",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-rancher-battle-card-gb"
   },
   {
     "name": "Monster Rancher Explorer",
@@ -2198,7 +2206,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherExplorer.ips",
     "md5": "f55ed9e6a8fece5220e9876fb515e222",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-rancher-explorer"
   },
   {
     "name": "Mortal Kombat",
@@ -2206,7 +2214,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat.ips",
     "md5": "b3474bab3eda25bdb1508ed53765fb30",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat"
   },
   {
     "name": "Mortal Kombat II",
@@ -2214,7 +2222,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat2.ips",
     "md5": "ce2927987765182b9c69f26f758656e9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat-ii"
   },
   {
     "name": "Motocross Maniacs",
@@ -2222,7 +2230,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MotocrossManiacs.ips",
     "md5": "de1572d4d181b265e2cb7d517c0ba04a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs"
   },
   {
     "name": "Motocross Maniacs 2",
@@ -2230,7 +2238,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips",
     "md5": "d6311339384cb70c35975c8d30a1cd98",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs-2"
   },
   {
     "name": "Mr. Driller",
@@ -2238,7 +2246,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDriller.ips",
     "md5": "76fa4014bfbb0ee2b63267af7ac373f2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-driller"
   },
   {
     "name": "Ms. Pac-Man",
@@ -2246,7 +2254,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MsPacMan.ips",
     "md5": "ffa8642a18781fbe79df436a761a9775",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ms-pac-man"
   },
   {
     "name": "Mysterium",
@@ -2254,7 +2262,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mysterium.ips",
     "md5": "12e9e43481d38003a4f1e2c2ce596aee",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mysterium"
   },
   {
     "name": "Mystical Ninja Starring Goemon",
@@ -2262,7 +2270,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticalNinja.ips",
     "md5": "feaa1bbb7e532872cf1d37d80af6fdb4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystical-ninja-starring-goemon"
   },
   {
     "name": "NHL Blades of Steel (U)",
@@ -2270,7 +2278,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/nhl_blades_of_steel_gbc.ips",
     "md5": "39f214540d2042865211e07c0536cc14",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#nhl-blades-of-steel-u"
   },
   {
     "name": "Nectaris GB",
@@ -2278,7 +2286,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips",
     "md5": "1080141c1b99b5b92d187990bdc85c6a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nectaris-gb"
   },
   {
     "name": "Nemesis",
@@ -2286,7 +2294,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis.ips",
     "md5": "1eb7ff636e532321a18885eea660604a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis"
   },
   {
     "name": "New Chessmaster",
@@ -2294,7 +2302,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmaster.ips",
     "md5": "f395f7b8ce24e6da365b843adf7d763e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#new-chessmaster"
   },
   {
     "name": "Ninja Boy",
@@ -2302,7 +2310,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy.ips",
     "md5": "28c1ef075f37bcf4951ac11385a1104f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ninja-boy"
   },
   {
     "name": "Ninja Gaiden Shadow",
@@ -2310,7 +2318,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f15eb1d0c2ae2d048e679e8910ac29ff80f2dd18/Ninja+Gaiden+Shadow+%28USA%29-d3741a3a.ips",
     "md5": "e12c5c2897ed095f8d26c7578afddfda",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ninja-gaiden-shadow"
   },
   {
     "name": "Noobow",
@@ -2318,7 +2326,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips",
     "md5": "ccd0cf7cc240714a9694e1fe296afb7c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#noobow"
   },
   {
     "name": "Operation C",
@@ -2326,7 +2334,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OperationC.ips",
     "md5": "c6effb3a51b36056411760d1ffe048f7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#operation-c"
   },
   {
     "name": "Paperboy",
@@ -2334,7 +2342,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips",
     "md5": "dcabc0879c258e54048237d280ffa7da",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy"
   },
   {
     "name": "Paragon5 Album",
@@ -2342,7 +2350,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/d1c11e2d26a87a24a375eda930e720b210c25404/p5_album-da9cb40f.ips",
     "md5": "671dc787703860cc84f4209326a90dd8",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#paragon5-album"
   },
   {
     "name": "Parodius",
@@ -2350,7 +2358,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Parodius%20(Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "c94afb46cada0118aa8ff08cc07749a4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#parodius"
   },
   {
     "name": "Penguin Wars",
@@ -2358,7 +2366,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinWars.ips",
     "md5": "9c17a77f10f8c8024addc299cfd74b8b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penguin-wars"
   },
   {
     "name": "Perfect Dark",
@@ -2366,7 +2374,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PerfectDark.ips",
     "md5": "840e1ddb2696ecae487fd264a3c34581",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#perfect-dark"
   },
   {
     "name": "Picross 2",
@@ -2374,7 +2382,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips",
     "md5": "142d1f9f4b868780824cca20010ad4d8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2"
   },
   {
     "name": "Pipe Dream",
@@ -2382,7 +2390,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PipeDream.ips",
     "md5": "0f021462180b18436c21299e923cca91",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pipe-dream"
   },
   {
     "name": "Pocket Bomberman",
@@ -2390,7 +2398,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips",
     "md5": "2f6b6379f8c7ce5d66a198162f345eaa",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-bomberman"
   },
   {
     "name": "Pocket Monsters - Crystal Version (VN)",
@@ -2398,7 +2406,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVN.ips",
     "md5": "da3a0c2b387b04209a90338a577d7c80",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-monsters---crystal-version-vn"
   },
   {
     "name": "Pokemon - Yellow Version",
@@ -2406,7 +2414,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/cdf8c80447a3ae1987ec4b51b2f11de2a0321f61/Pokemon+Yellow+%28USA%2C+Europe%29-7d527d62.ips",
     "md5": "d9290db87b1f0a23b89f99ee4469e34b",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokemon---yellow-version"
   },
   {
     "name": "Pokemon Blue (USA)",
@@ -2430,7 +2438,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPicross.ips",
     "md5": "c720f6f16ca28b942701855c73d75c3e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-picross"
   },
   {
     "name": "Pokemon Puzzle Challenge",
@@ -2438,7 +2446,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePuzzle.ips",
     "md5": "f9ec4cc3c9df3887dc731ccf53663ffb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-puzzle-challenge"
   },
   {
     "name": "Pokemon Red (USA)",
@@ -2462,7 +2470,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3123578a99e45c6f5d1a2010177e749d5d4e4975/Crystal_Clear%282.4.4%29-927332e2.ips",
     "md5": "069d92f6d594f0c192db4494d55f565c",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal-clear-244"
   },
   {
     "name": "Pokémon Crystal Clear 2.5.0",
@@ -2470,7 +2478,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/dde789b1a3aa638144a05e5639c423af411b3a21/Crystal_Clear%282.5.0%29-4af8c482.ips",
     "md5": "a642f446a407f67e55117e2ee6b56244",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal-clear-250"
   },
   {
     "name": "Pokémon Pinball",
@@ -2478,7 +2486,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips",
     "md5": "fbe20570c2e52c937a9395024069ba3c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-pinball"
   },
   {
     "name": "Pokémon Puzzle Challenge",
@@ -2486,7 +2494,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch%201.2.ips",
     "md5": "c7a879befd45bbc5cdab7413d86fff76",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-puzzle-challenge"
   },
   {
     "name": "Pokémon Trading Card Game",
@@ -2494,7 +2502,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/b03f6c03ff8591daf93b1af6696efa4bc54827e6/poketcg.ips",
     "md5": "219b2cc64e5a052003015d4bd4c622cd",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game"
   },
   {
     "name": "Pokémon Trading Card Game 2",
@@ -2502,7 +2510,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0de8686af977a4566e91d4a5f7c806a6796b4a78/Pokemon+Card+GB2+-+GR+Dan+Sanjou%21+%28Japan%29-6c933a14.ips",
     "md5": "1134862e84110443190df460351d4575",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-2"
   },
   {
     "name": "Pop'n Music GB",
@@ -2510,7 +2518,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusic.ips",
     "md5": "10e6dcd0a350076e28b9c598c278b6a2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popn-music-gb"
   },
   {
     "name": "Pop'n Music GB - Animation Melody",
@@ -2518,7 +2526,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicAnimation.ips",
     "md5": "7e6d077d50879c57ff70891aaa312e80",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popn-music-gb---animation-melody"
   },
   {
     "name": "Pop'n TwinBee",
@@ -2526,7 +2534,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnTwinBee.ips",
     "md5": "05d5cf3404868efc22ac06e22ab5ba89",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popn-twinbee"
   },
   {
     "name": "Popeye 2",
@@ -2534,7 +2542,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Popeye2.ips",
     "md5": "30b579d82ae755bd37c1d4157a96129c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popeye-2"
   },
   {
     "name": "Populous",
@@ -2542,7 +2550,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Populous.ips",
     "md5": "ab5fac354726b7b0710cfdba22d7142f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#populous"
   },
   {
     "name": "Power Quest",
@@ -2550,7 +2558,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerQuest.ips",
     "md5": "ac1f4ad52996882c60ce83cac01e9ccf",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-quest"
   },
   {
     "name": "Power Racer",
@@ -2558,7 +2566,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRacer.ips",
     "md5": "6073cb28e651b48f0bf19e654aab8c7d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-racer"
   },
   {
     "name": "Prehistorik Man",
@@ -2566,7 +2574,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrehistorikMan.ips",
     "md5": "64f43161eb16eb1be99262c36867bc79",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prehistorik-man"
   },
   {
     "name": "Primal Rage",
@@ -2574,7 +2582,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrimalRage.ips",
     "md5": "c1cff8487b25700a509ce89cc3c7bcac",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#primal-rage"
   },
   {
     "name": "Prince of Persia",
@@ -2582,7 +2590,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia.ips",
     "md5": "afeec69d5ba3afa3ce2279fcda944576",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prince-of-persia"
   },
   {
     "name": "Prince of Persia (1992)",
@@ -2590,7 +2598,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PrinceOfPersia1992.ips",
     "md5": "80034da43f35307291714ae2553d9ddf",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prince-of-persia-1992"
   },
   {
     "name": "Project S-11",
@@ -2598,7 +2606,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/project-s-11-pocket-8fe6340c822daa9cb07c7d8ab8509751-v2.ips",
     "md5": "8fe6340c822daa9cb07c7d8ab8509751",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#project-s-11"
   },
   {
     "name": "Puzzle Master",
@@ -2606,7 +2614,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleMaster.ips",
     "md5": "90ecc5fb29cc95d58c33d44fe630d12e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puzzle-master"
   },
   {
     "name": "Pyramids of Ra",
@@ -2614,7 +2622,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PyramidsOfRa.ips",
     "md5": "1c1619f1caef49132e87160aa20a0a4d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pyramids-of-ra"
   },
   {
     "name": "QIX",
@@ -2622,7 +2630,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIX.ips",
     "md5": "1c94dccdfaaa0c3e1d6bda5969704885",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#qix"
   },
   {
     "name": "QIX Adventure",
@@ -2630,7 +2638,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QIXAdventure.ips",
     "md5": "95b284df7ba2f862406f747b4ca7c380",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#qix-adventure"
   },
   {
     "name": "R-Type DX",
@@ -2638,7 +2646,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/5481339d9693dad93a8f371729d6c856de855de7/R-Type+DX+%28USA%2C+Europe%29-fc1d4089.ips",
     "md5": "dae7b7625d41d8a06266b09924154bb2",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#r-type-dx"
   },
   {
     "name": "Rampage World Tour",
@@ -2646,7 +2654,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage.ips",
     "md5": "f0bfbded7125dd312eaf36d16c1556a1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampage-world-tour"
   },
   {
     "name": "Rats",
@@ -2654,7 +2662,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips",
     "md5": "d240328faacf5583804a30b7003743b3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rats"
   },
   {
     "name": "Rayman",
@@ -2662,7 +2670,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/ff9b832cd68442103e5539a4fd28d38a9d372418/Rayman+%28USA%29+%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29-eda12f0d.ips",
     "md5": "b941941050fc32406eca4733926a3779",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#rayman"
   },
   {
     "name": "Real Ghostbusters",
@@ -2670,7 +2678,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RealGhostbusters.ips",
     "md5": "bbca91d6bc19cda45c706046b6e854e6",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#real-ghostbusters"
   },
   {
     "name": "Ren and Stimpy Show - Space Cadet Adventures",
@@ -2678,7 +2686,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RnS-SpaceCadet.ips",
     "md5": "3b3ee80272479464698200ad712d4152",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ren-and-stimpy-show---space-cadet-adventures"
   },
   {
     "name": "Ren and Stimpy Show - The Veediots!",
@@ -2686,7 +2694,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RnS-Veediots.ips",
     "md5": "99d9043a801704007d7ad227676fa6f1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ren-and-stimpy-show---the-veediots"
   },
   {
     "name": "Resident Evil Gaiden",
@@ -2694,7 +2702,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/c93abe29bdf299162d07747085ebd8be5ccafa86/Resident+Evil+Gaiden+%28USA%29-f8c5021b.ips",
     "md5": "3c0c5fceebff4d9730875a9362d26aa1",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#resident-evil-gaiden"
   },
   {
     "name": "Return of the Ninja",
@@ -2702,7 +2710,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ReturnOfTheNinja.ips",
     "md5": "178ea5a9eba6e7f35e894bad1ec34f77",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#return-of-the-ninja"
   },
   {
     "name": "Revelations - The Demon Slayer",
@@ -2710,7 +2718,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Revelations.ips",
     "md5": "86ed74283fe0071f8d3f05923051efab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revelations---the-demon-slayer"
   },
   {
     "name": "Revenge of the 'Gator",
@@ -2718,7 +2726,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gator.ips",
     "md5": "113d8f894df6b8c3641b2ba1fe60c250",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revenge-of-the-gator"
   },
   {
     "name": "RoboCop",
@@ -2726,7 +2734,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips",
     "md5": "a477ac86be35d1fa70b708ad08dc88b8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop"
   },
   {
     "name": "Robocop vs the Terminator",
@@ -2734,7 +2742,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips",
     "md5": "0e82b5210966e9eb53d5b7ef906a0f40",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop-vs-the-terminator"
   },
   {
     "name": "Sagaia",
@@ -2742,7 +2750,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Sagaia.ips",
     "md5": "70a9ef90ad443881ca90cdd8d910ae66",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sagaia"
   },
   {
     "name": "Sakura Taisen GB - Geki Hana Gumi Nyuutai!",
@@ -2750,7 +2758,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips",
     "md5": "70883b45a97984cb033c2b95028bef65",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sakura-taisen-gb---geki-hana-gumi-nyuutai"
   },
   {
     "name": "Samurai Kid",
@@ -2758,7 +2766,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiKid.ips",
     "md5": "7ee095116f1733dc6ba2b2de3f28f5ef",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#samurai-kid"
   },
   {
     "name": "Samurai Showdown",
@@ -2766,7 +2774,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiShodown.ips",
     "md5": "cb5fe1c733f610ad6151216b6887285a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#samurai-showdown"
   },
   {
     "name": "Scooby-Doo! Classic Creep Capers",
@@ -2774,7 +2782,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ScoobyDoo.ips",
     "md5": "117a9babae15960dc4de04ac44066ed2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#scooby-doo-classic-creep-capers"
   },
   {
     "name": "Shanghai",
@@ -2782,7 +2790,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shanghai.ips",
     "md5": "d11777331e12f55ae4bab2f6e0bda918",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai"
   },
   {
     "name": "Shanghai (J) - Activision",
@@ -2790,7 +2798,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiJA.ips",
     "md5": "72c0a7eb38ffc2ef65c0e2ffb1729aa5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai-j---activision"
   },
   {
     "name": "Shantae",
@@ -2798,7 +2806,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3e39855812bca40378c478e16ebcc7ad6f294b54/Shantae+%28USA%29-e994b59b.ips",
     "md5": "028c4262dbb49f4fc462a6eb3e514d72",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#shantae"
   },
   {
     "name": "Sheep It Up!",
@@ -2806,7 +2814,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SheepItUp.ips",
     "md5": "6d22cab0cbb831bc64abf4f5bad464ff",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sheep-it-up"
   },
   {
     "name": "Shin Megami Tensai Devil Children - Shiro no Sho",
@@ -2814,7 +2822,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Shiro.ips",
     "md5": "9354cc341aa23da3e29829da76b8888e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensai-devil-children---shiro-no-sho"
   },
   {
     "name": "Shin Megami Tensei Devil Children - Aka no Sho",
@@ -2822,7 +2830,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Aka.ips",
     "md5": "3d04e5c70919118ef6e7cb69dae14b10",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensei-devil-children---aka-no-sho"
   },
   {
     "name": "Shin Megami Tensei Devil Children - Kuro no Sho",
@@ -2830,7 +2838,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips",
     "md5": "158691457cb7365cafbd0b7bb230fadf",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensei-devil-children---kuro-no-sho"
   },
   {
     "name": "Side Pocket",
@@ -2838,7 +2846,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SidePocket.ips",
     "md5": "3dbe9be772ca50da3a76d8860c7b08e2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#side-pocket"
   },
   {
     "name": "Simpsons - Night of the Living Tree House of Horror",
@@ -2846,7 +2854,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SimpsonsTreeHouse.ips",
     "md5": "2a4f3309fe05b47a98d8c5b4c81b91e5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#simpsons---night-of-the-living-tree-house-of-horror"
   },
   {
     "name": "Smurfs",
@@ -2854,7 +2862,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Smurfs.ips",
     "md5": "a574e5f7119b31e5112221c3a0ada813",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs"
   },
   {
     "name": "Solar Striker",
@@ -2862,7 +2870,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolarStriker.ips",
     "md5": "83bed4ebefeece45748258fd2ef105b3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#solar-striker"
   },
   {
     "name": "Solitaire FunPak",
@@ -2870,7 +2878,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Solitaire.ips",
     "md5": "78da1015ca2b5b4e83f7aea41214e779",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#solitaire-funpak"
   },
   {
     "name": "Space Invaders",
@@ -2878,7 +2886,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvaders.ips",
     "md5": "d32b9da8028d357e20c791b07ded4f86",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders"
   },
   {
     "name": "Space Marauder",
@@ -2886,7 +2894,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceMarauder.ips",
     "md5": "5ee49eaf9a2c19623478215788c0bfdc",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-marauder"
   },
   {
     "name": "Space Station Silicon Valley",
@@ -2894,7 +2902,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spacestation.ips",
     "md5": "488611af773cec5b7ecc5bd3efb754bb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-station-silicon-valley"
   },
   {
     "name": "Spanky's Quest",
@@ -2902,7 +2910,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpankysQuest.ips",
     "md5": "3c268409bf6869a8707839a7dd1ee1c7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spankys-quest"
   },
   {
     "name": "Spawn",
@@ -2910,7 +2918,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spawn.ips",
     "md5": "febd6cdb9f12b6003d7ef33045ef7079",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spawn"
   },
   {
     "name": "Speedy Gonzales",
@@ -2918,7 +2926,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpeedyGonzales.ips",
     "md5": "7e1bedf88581ee7370c8eb86c6863e2c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#speedy-gonzales"
   },
   {
     "name": "Spider-Man",
@@ -2926,7 +2934,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan.ips",
     "md5": "9fde547bcb70b108895e259da4c4e100",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man"
   },
   {
     "name": "Spider-Man - X-Men",
@@ -2934,7 +2942,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan-XMen.ips",
     "md5": "634532de88aa7c35bd9231ee5356ae8a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man---x-men"
   },
   {
     "name": "Spider-Man 2 - The Sinister Six",
@@ -2942,7 +2950,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan2.ips",
     "md5": "85bbad46380dffa631f8ce732e9c5d89",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-2---the-sinister-six"
   },
   {
     "name": "Spider-Man 3 - Invasion of the Spider-Slayers",
@@ -2950,7 +2958,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpiderMan3.ips",
     "md5": "8833ae0fd3b4c47b8249a12708c98a98",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-3---invasion-of-the-spider-slayers"
   },
   {
     "name": "Spud's Adventure",
@@ -2958,7 +2966,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpudsAdventure.ips",
     "md5": "c9e8c196d57aab17c4c171816fcd6492",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spuds-adventure"
   },
   {
     "name": "Spy vs Spy",
@@ -2966,7 +2974,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpy.ips",
     "md5": "d5f373b287d29e882a1f1182542d5b68",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spy-vs-spy"
   },
   {
     "name": "Spy vs Spy - Operation Booby Trap",
@@ -2974,7 +2982,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpyVsSpyBoobyTrap.ips",
     "md5": "00408b7c09c99b8ea15b8ebb66e69130",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spy-vs-spy---operation-booby-trap"
   },
   {
     "name": "Star Ocean - Blue Sphere",
@@ -2982,7 +2990,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
     "md5": "820e0a19275fabc03fe619c42db47179",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere"
   },
   {
     "name": "Star Wars",
@@ -2990,7 +2998,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips",
     "md5": "63098fde8f2dcb977c9a8f0389e0d033",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars"
   },
   {
     "name": "Star Wars Episode I - Obi-Wan's Adventures",
@@ -2998,7 +3006,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars-EP1-ObiWan.ips",
     "md5": "484eeb83ad00353272767485eca59ea5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars-episode-i---obi-wans-adventures"
   },
   {
     "name": "Star Wars Episode I - Racer",
@@ -3006,7 +3014,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWarsEp1Racer.ips",
     "md5": "d1e875cb7dac0092e83b9e7799b06653",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars-episode-i---racer"
   },
   {
     "name": "Stop That Roach!",
@@ -3014,7 +3022,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StopThatRoach.ips",
     "md5": "1a316519500424ae9a2649746c4c83ab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#stop-that-roach"
   },
   {
     "name": "Stranded Kids",
@@ -3022,7 +3030,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Stranded%20Kids%20Analogue%20Pocket%20patch%20v1.1.ips",
     "md5": "326f861a8fb3e21f1e9379e62cfb6bea",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#stranded-kids"
   },
   {
     "name": "Street Fighter Alpha - Warriors' Dreams",
@@ -3030,7 +3038,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFA.ips",
     "md5": "db1aeaa7135bd5707dbbccc427808cd7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-alpha---warriors-dreams"
   },
   {
     "name": "Super Mario Bros. Deluxe",
@@ -3038,7 +3046,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/SMB_Deluxe_Analogue_Pocket.ips",
     "md5": "1fd75c2b798c04acd4b99ad2f1006280",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-bros-deluxe"
   },
   {
     "name": "Super Mario Land",
@@ -3046,7 +3054,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Super%20Mario%20Land%20Analogue%20Pocket%20patch.ips",
     "md5": "b259feb41811c7e4e1dc200167985c84",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land"
   },
   {
     "name": "Super Mario Land 2 DX ROM Hack",
@@ -3054,7 +3062,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/SML2%20DX%20Pocket%20Patch.ips",
     "md5": "a8413347d5df8c9d14f97f0330d67bce",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land-2-dx-rom-hack"
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
@@ -3062,7 +3070,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Super%20Mario%20Land%202%20Analogue%20Pocket%20patch.ips",
     "md5": "a8413347d5df8c9d14f97f0330d67bce",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land-2-6-golden-coins"
   },
   {
     "name": "Super Mario Land DX",
@@ -3070,7 +3078,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/609ae331df6d08d0aa9ca0b04e9a7a8beaeba60c/Super+Mario+Land+%28World%29-90776841.ips",
     "md5": "b48161623f12f86fec88320166a21fce",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#super-mario-land-dx"
   },
   {
     "name": "Super Off Road",
@@ -3078,7 +3086,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperOffRoad.ips",
     "md5": "85d05f95c07ed1b7d787062fe4d2e251",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-off-road"
   },
   {
     "name": "Super R.C. Pro-Am",
@@ -3086,7 +3094,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRC.ips",
     "md5": "9ba2999ef3ecf9e27ac6c88e995c9d7a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-rc-pro-am"
   },
   {
     "name": "Super Robot Taisen",
@@ -3094,7 +3102,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips",
     "md5": "7bb8a5bc9e55a05eba1a3fcbf460a9b5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-taisen"
   },
   {
     "name": "Survival Kids 2 - Dasshutsu!! Futago-Jima!",
@@ -3102,7 +3110,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips",
     "md5": "9d2f7e1ac30a46456a841c264963e5ea",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids-2---dasshutsu-futago-jima"
   },
   {
     "name": "Sutte Hakkun GB",
@@ -3110,7 +3118,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SutteHakkunGB.ips",
     "md5": "243b2b6151d41d8e111e98ac49ba9ab4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sutte-hakkun-gb"
   },
   {
     "name": "Sword of Hope",
@@ -3118,7 +3126,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope1.ips",
     "md5": "7138d95583fc38ee7b3cf18de5e09e89",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sword-of-hope"
   },
   {
     "name": "Sword of Hope II",
@@ -3126,7 +3134,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwordOfHope2.ips",
     "md5": "64f7f8af18f75a9b3767e4637e693be7",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sword-of-hope-ii"
   },
   {
     "name": "TaleSpin",
@@ -3134,7 +3142,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips",
     "md5": "26c65da146faa09505c554447792e493",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#talespin"
   },
   {
     "name": "Tamagotchi",
@@ -3142,7 +3150,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0cc1cc7ecbfca70fdb51f3ffd01149145efca29f/Tamagotchi+%28USA%2C+Europe%29+%28SGB+Enhanced%29-dbf1bd20.ips",
     "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tamagotchi"
   },
   {
     "name": "Taz-Mania",
@@ -3150,7 +3158,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazMania.ips",
     "md5": "9db0e1e39aa5a40471911a40e12ba739",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taz-mania"
   },
   {
     "name": "Taz-Mania 2",
@@ -3158,7 +3166,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazMania2.ips",
     "md5": "985bf1d3fdf54038dbde36fd372fbe2c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taz-mania-2"
   },
   {
     "name": "Tecmo Bowl",
@@ -3166,7 +3174,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TecmoBowl.ips",
     "md5": "dc2732dba9121aad355fa2e1dfbbb069",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tecmo-bowl"
   },
   {
     "name": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan",
@@ -3174,7 +3182,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT1.ips",
     "md5": "ad868e84fb6071a3b6a211d16e6cbb66",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teenage-mutant-ninja-turtles---fall-of-the-foot-clan"
   },
   {
     "name": "Teenage Mutant Ninja Turtles II - Back From the Sewers",
@@ -3182,7 +3190,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT2.ips",
     "md5": "0221de99d11f50f79430c8ff9b430994",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teenage-mutant-ninja-turtles-ii---back-from-the-sewers"
   },
   {
     "name": "Teenage Mutant Ninja Turtles III - Radical Rescue",
@@ -3190,7 +3198,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMNT3.ips",
     "md5": "e6104df1feb1318ff1764c791eb4ce0e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teenage-mutant-ninja-turtles-iii---radical-rescue"
   },
   {
     "name": "Tennis",
@@ -3198,7 +3206,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tennis.ips",
     "md5": "7d621dcbbce12b73574c42f40deec275",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tennis"
   },
   {
     "name": "Terminator 2 - Judgement Day",
@@ -3206,7 +3214,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Terminator2.ips",
     "md5": "133ae23114bf442fef6acccd1b8e187a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#terminator-2---judgement-day"
   },
   {
     "name": "Tesserae",
@@ -3214,7 +3222,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tesserae.ips",
     "md5": "95517367dd10f6476bcb39a2329ef55a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tesserae"
   },
   {
     "name": "Tetris",
@@ -3222,7 +3230,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0932b01b7f188e9a8a8cfc5eefa85f2143320ef7/Tetris-v1.1.ips",
     "md5": "982ed5d2b12a0377eb14bcdc4123744e",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris"
   },
   {
     "name": "Tetris 2",
@@ -3230,7 +3238,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tetris2.ips",
     "md5": "0a2e27e279ee4faac326b0cf620b269b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-2"
   },
   {
     "name": "Tetris Attack",
@@ -3238,7 +3246,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisAttack.ips",
     "md5": "7fbda0c87af7701bb5e75c2a77bb0143",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-attack"
   },
   {
     "name": "Tetris Blast",
@@ -3246,7 +3254,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisBlast.ips",
     "md5": "0affc9df2e1220ea4573deb6cb2d4b32",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-blast"
   },
   {
     "name": "Tetris DX",
@@ -3254,7 +3262,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3edbb2ec87ef137fa5e00177916abc86c986ca83/Tetris+DX+%28World%29+%28SGB+Enhanced%29.pocket.ips",
     "md5": "65973d7a1446346294f8ca9d2d1b7e66",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris-dx"
   },
   {
     "name": "The Adventures of Star Saver",
@@ -3262,7 +3270,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips",
     "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#the-adventures-of-star-saver"
   },
   {
     "name": "The Binding of Isaac: Game Boy Edition",
@@ -3270,7 +3278,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f64bb1da60b7021d5adb676665c03b19f316a7ec/ISAAC-bf922249.ips",
     "md5": "2554c7f6365dbf59ec1a73f0124a70b4",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#the-binding-of-isaac-game-boy-edition"
   },
   {
     "name": "The Bugs Bunny Crazy Castle ",
@@ -3278,7 +3286,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Bugs%20Bunny%20Crazy%20Castle,%20The%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "43189b859c0036119f233d46b1f2e9fd",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#the-bugs-bunny-crazy-castle"
   },
   {
     "name": "The Bugs Bunny Crazy Castle 2",
@@ -3286,7 +3294,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Bugs%20Bunny%20Crazy%20Castle%202,%20The%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "8963803e642dbfbe4f5f3bc5a567785d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#the-bugs-bunny-crazy-castle-2"
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
@@ -3294,7 +3302,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20Analogue%20Pocket%20patch%20v1.2.ips",
     "md5": "c4639cc61c049e5a085526bb6cac03bb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#the-legend-of-zelda-oracle-of-ages"
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
@@ -3302,7 +3310,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Legend_of_Zelda_The_-_Oracle_of_Seasons_Analogue_Pocket_patch_v1.2.ips",
     "md5": "f2dc6c4e093e4f8c6cbea80e8dbd62cb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#the-legend-of-zelda-oracle-of-seasons"
   },
   {
     "name": "Tintin - Prisoners of the Sun",
@@ -3310,7 +3318,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-PotS.ips",
     "md5": "46ed332d95c5da9a2007945fed9f8118",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tintin---prisoners-of-the-sun"
   },
   {
     "name": "Tintin in Tibet",
@@ -3318,7 +3326,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tintin-Tibet.ips",
     "md5": "8150a3978211939d367f48ffcd49f979",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tintin-in-tibet"
   },
   {
     "name": "Tiny Toon Adventures - Babs' Big Break",
@@ -3326,7 +3334,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToon.ips",
     "md5": "cbb45188c780ce5bbdf502ceb2b9994a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tiny-toon-adventures---babs-big-break"
   },
   {
     "name": "Tiny Toons Adventures - Wacky Sports",
@@ -3334,7 +3342,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Tiny%20Toon%20Adventures%20-%20Wacky%20Sports%20(USA)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "038ba19b06f5d3b56e9bda495b609c54",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#tiny-toons-adventures---wacky-sports"
   },
   {
     "name": "Tiny Toons Adventures 2 - Montana's Movie Madness",
@@ -3342,7 +3350,7 @@ export const patches = [
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Tiny%20Toon%20Adventures%202%20-%20Montana's%20Movie%20Madness%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
     "md5": "7aa389f71808dc989a38b41009a32851",
     "extension": "pocket",
-    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#tiny-toons-adventures-2---montanas-movie-madness"
   },
   {
     "name": "Toki Tori",
@@ -3350,7 +3358,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TokiTori.ips",
     "md5": "e1bf59102bcd5e3601f4b24b3e873fd2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toki-tori"
   },
   {
     "name": "Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody",
@@ -3358,7 +3366,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-CultureHen.ips",
     "md5": "25ad12b8d2436d520057f12253f2d37d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tokimeki-memorial-pocket---culture-hen---komorebi-no-melody"
   },
   {
     "name": "Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph",
@@ -3366,7 +3374,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TMP-SportHen.ips",
     "md5": "20b1ed1ae966b173c3a0f7f7f267e408",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph"
   },
   {
     "name": "Tomb Raider - Curse of the Sword",
@@ -3374,7 +3382,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips",
     "md5": "a0b4538f687fc61bc88f7ee111170355",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tomb-raider---curse-of-the-sword"
   },
   {
     "name": "Tony Hawk's Pro Skater",
@@ -3382,7 +3390,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS.ips",
     "md5": "75be6e3561908e705d9e790b34eddb4d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tony-hawks-pro-skater"
   },
   {
     "name": "Tony Hawk's Pro Skater 2",
@@ -3390,7 +3398,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS2.ips",
     "md5": "0454b25266d645990b63b5b406672dc2",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tony-hawks-pro-skater-2"
   },
   {
     "name": "Tony Hawk's Pro Skater 3",
@@ -3398,7 +3406,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/THPS3.ips",
     "md5": "365f913d6f2b0f44d87b7a347daea528",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tony-hawks-pro-skater-3"
   },
   {
     "name": "Top Gear Pocket 2",
@@ -3406,7 +3414,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips",
     "md5": "0a1cf1904c87b60308c404d93bab2702",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-gear-pocket-2"
   },
   {
     "name": "Trax",
@@ -3414,7 +3422,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trax.ips",
     "md5": "89ecf5b28d5cc84208cfc39dc2d96598",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#trax"
   },
   {
     "name": "Trip World",
@@ -3422,7 +3430,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/trip-world-eu.ips",
     "md5": "c46e059a69d9b3b4b0b9d8d303c559b3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md"
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#trip-world"
   },
   {
     "name": "Trogday 2022",
@@ -3430,7 +3438,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trogday2022.ips",
     "md5": "6a6931f6d1a6e60b4da9551e83b2742b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#trogday-2022"
   },
   {
     "name": "Trouballs",
@@ -3438,7 +3446,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Trouballs.ips",
     "md5": "1b5e155ac68d2c7b89e49c5e1024b45c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#trouballs"
   },
   {
     "name": "True Lies",
@@ -3446,7 +3454,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrueLies.ips",
     "md5": "c013958fa8447be55f1e037ed4a1a9f9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#true-lies"
   },
   {
     "name": "Turok 3 - Shadow of Oblivion",
@@ -3454,7 +3462,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok3.ips",
     "md5": "a9d2f36d6c2a334e0b2261c57c20f0d4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok-3---shadow-of-oblivion"
   },
   {
     "name": "Ultima - Runes of Virtue",
@@ -3462,7 +3470,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima1.ips",
     "md5": "411c3d168141d10eddd93243f2a7765f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultima---runes-of-virtue"
   },
   {
     "name": "Ultima - Runes of Virtue II",
@@ -3470,7 +3478,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima2.ips",
     "md5": "15cd267d7805fe9f1769e9644a9cec2e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultima---runes-of-virtue-ii"
   },
   {
     "name": "Ultraman Ball",
@@ -3478,7 +3486,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips",
     "md5": "90a0bc783fbe56748989d8fad9ae48ed",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultraman-ball"
   },
   {
     "name": "V-Rally - Championship Edition",
@@ -3486,7 +3494,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips",
     "md5": "84a0fe6c3fb014cf43c119c344f99965",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition"
   },
   {
     "name": "WWF - Betrayal",
@@ -3494,7 +3502,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWF-Betrayal.ips",
     "md5": "f270519e6357bc32fd07fc6386e14dec",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---betrayal"
   },
   {
     "name": "WWF - Raw",
@@ -3502,7 +3510,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFRaw.ips",
     "md5": "6d2ab72fc3f632493a04fd432508067d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---raw"
   },
   {
     "name": "WWF - Superstars",
@@ -3510,7 +3518,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars.ips",
     "md5": "ba544265b8d949cf35984cd23af63da8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---superstars"
   },
   {
     "name": "WWF - Superstars 2",
@@ -3518,7 +3526,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFSuperStars2.ips",
     "md5": "07006fe2f7363d475e34fbf63e4e94d1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---superstars-2"
   },
   {
     "name": "WWF - War Zone",
@@ -3526,7 +3534,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFWarZone.ips",
     "md5": "4f99d49908e027125473445ea1937817",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---war-zone"
   },
   {
     "name": "WWF - WrestleMania 2000",
@@ -3534,7 +3542,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFWrestleMania2000.ips",
     "md5": "7fa5a6dde384652120b46475b193dff9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---wrestlemania-2000"
   },
   {
     "name": "Wacky Races",
@@ -3542,7 +3550,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WackyRaces.ips",
     "md5": "716de1a7f4178fd941edf22d1a907624",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wacky-races"
   },
   {
     "name": "Wario Blast featuring Bomberman!",
@@ -3550,7 +3558,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioBlast.ips",
     "md5": "14fe7234ee4bcb14adf20c743f084a35",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-blast-featuring-bomberman"
   },
   {
     "name": "Wario Land - Super Mario Land 3",
@@ -3558,7 +3566,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/9d74f29f9aa8f75744d8622b160c9d54b66647a8/Wario+Land+-+Super+Mario+Land+3+%28World%29-40be3889.ips",
     "md5": "d9d957771484ef846d4e8d241f6f2815",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land---super-mario-land-3"
   },
   {
     "name": "Wario Land 2",
@@ -3566,7 +3574,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Wario%20Land%20II%20Analogue%20Pocket%20patch%201.3.ips",
     "md5": "b7598a51e0acc0d74ca8f464826371ed",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#wario-land-2"
   },
   {
     "name": "Wario Land 3",
@@ -3574,7 +3582,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/81af22dbc1abb1dad65463e09f33a1472df0631b/Wario+Land+3+%28World%29+%28En%2CJa%29-480d0259.ips",
     "md5": "16bb3fb83e8cbbf2c4c510b9f50cf4ee",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land-3"
   },
   {
     "name": "Warlocked",
@@ -3582,7 +3590,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips",
     "md5": "b5eb859e6ea60a0bd83100a10206d9c9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#warlocked"
   },
   {
     "name": "Wave Race",
@@ -3590,7 +3598,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WaveRace.ips",
     "md5": "10fd41703b816fcb2a3d6766574b98f9",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wave-race"
   },
   {
     "name": "Wendy - Every Witch Way",
@@ -3598,7 +3606,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wendy.ips",
     "md5": "4e1a5f02cce49842d4717a8b0ce501f5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wendy---every-witch-way"
   },
   {
     "name": "Wetrix GB",
@@ -3606,7 +3614,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wetrix.ips",
     "md5": "916d740fc366ecbf9e5626218e56562d",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wetrix-gb"
   },
   {
     "name": "Who Framed Rodger Rabbit?",
@@ -3614,7 +3622,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RogerRabbit.ips",
     "md5": "692fc5a0b6a9893d6ea25326c55caae5",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#who-framed-rodger-rabbit"
   },
   {
     "name": "Wild Snake",
@@ -3622,7 +3630,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WildSnake.ips",
     "md5": "f9302265fcbc4178c84aaeac3138af97",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wild-snake"
   },
   {
     "name": "Wizardry I - Proving Grounds of the Mad Overlord",
@@ -3630,7 +3638,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips",
     "md5": "6b94c050291c68d6fb13c642c46873ab",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-i---proving-grounds-of-the-mad-overlord"
   },
   {
     "name": "Wizards and Warriors Chapter X - The Fortress of Fear",
@@ -3638,7 +3646,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizWar-ChX.ips",
     "md5": "f9445b104ebb70d8fb91c8c64452c0a4",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizards-and-warriors-chapter-x---the-fortress-of-fear"
   },
   {
     "name": "WordZap",
@@ -3646,7 +3654,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WordZap.ips",
     "md5": "e9ab23a96409060054a05344b536b33c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wordzap"
   },
   {
     "name": "Wordtris",
@@ -3654,7 +3662,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wordtris.ips",
     "md5": "29c71c474c2fa00eeac79ddb55c2c174",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wordtris"
   },
   {
     "name": "World Beach Volley - 1992 GB Cup",
@@ -3662,7 +3670,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldBeachVolley.ips",
     "md5": "54cdfd90c8038846714643b2a68c6bb8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#world-beach-volley---1992-gb-cup"
   },
   {
     "name": "World Heroes 2 Jet",
@@ -3670,7 +3678,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WorldHeroes2Jet.ips",
     "md5": "8272e012f5c953450a3e2efd88d41aeb",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#world-heroes-2-jet"
   },
   {
     "name": "Worms",
@@ -3678,7 +3686,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Worms.ips",
     "md5": "45dcc259728a00118fe86f841d48564f",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#worms"
   },
   {
     "name": "Worms Armageddon",
@@ -3686,7 +3694,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/c0d5bd7ca84aeb5a40a8a07107d35dadbf2ca5d9/Worms+Armageddon+%28USA%29+%28En%2CFr%2CEs%29-e241edde.ips",
     "md5": "7e0df312ccd8f3e25bf3074e17d5aedf",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#worms-armageddon"
   },
   {
     "name": "X-Men - Mutant Academy",
@@ -3694,7 +3702,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-MA.ips",
     "md5": "cc17f52e5140c0d1ad892d1856d05212",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-men---mutant-academy"
   },
   {
     "name": "X-Men - Wolverine's Rage",
@@ -3702,7 +3710,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-WR.ips",
     "md5": "b1729716baaea01d4baa795db31800b0",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-men---wolverines-rage"
   },
   {
     "name": "Xenon 2 - Megablast",
@@ -3710,7 +3718,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Xenon2.ips",
     "md5": "02d7df9a5ac5d859672b56be46343be1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#xenon-2---megablast"
   },
   {
     "name": "Xtreme Sports",
@@ -3718,7 +3726,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XtremeSports.ips",
     "md5": "af1d1e17a5c568df796f4004be872649",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#xtreme-sports"
   },
   {
     "name": "Yoshi",
@@ -3726,7 +3734,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yoshi.ips",
     "md5": "a8804c8514619cc918960c2008ed65d1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshi"
   },
   {
     "name": "Yoshi's Cookie",
@@ -3734,7 +3742,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips",
     "md5": "bc1a3848092bdc900c157996c29a7783",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshis-cookie"
   },
   {
     "name": "Yu-Gi-Oh! - Dark Duel Stories",
@@ -3742,7 +3750,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS.ips",
     "md5": "c30add585d87114288ff8e3726c5381b",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yu-gi-oh---dark-duel-stories"
   },
   {
     "name": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories",
@@ -3750,7 +3758,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DDS2.ips",
     "md5": "782b88b1bf9768a2b1b139177a0c1c33",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yu-gi-oh-duel-monsters-ii---dark-duel-stories"
   },
   {
     "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan)",
@@ -3766,7 +3774,7 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Zool.ips",
     "md5": "52700ea227c3a31f170ccbc6a052a7a8",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zool---ninja-of-the-nth-dimension"
   },
   {
     "name": "Zoop",
@@ -3774,6 +3782,6 @@ export const patches = [
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Zoop.ips",
     "md5": "2387654e0e8e63bfc5f85d9bd7aa6ac3",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zoop"
   }
 ];
