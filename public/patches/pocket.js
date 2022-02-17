@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T19:16:17.623Z';
+export const updated = '2022-02-17T20:20:07.643Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3169,6 +3169,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sword-of-hope-ii"
   },
   {
+    "name": "Tail 'Gator",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TailGator.ips",
+    "md5": "cac94925bf098982d31f7c9a2c296d25",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tail-gator"
+  },
+  {
     "name": "TaleSpin",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaleSpin.ips",
@@ -3369,6 +3377,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tiny-toon-adventures---babs-big-break"
   },
   {
+    "name": "Tiny Toon Adventures - Buster Saves the Day",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TinyToonBuster.ips",
+    "md5": "5a93ecb5781a3338c99e35bd06cc6127",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tiny-toon-adventures---buster-saves-the-day"
+  },
+  {
     "name": "Tiny Toons Adventures - Wacky Sports",
     "authorName": "Trey Turner",
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Tiny%20Toon%20Adventures%20-%20Wacky%20Sports%20(USA)%20Pocket%20Conversion%20v1.0.ips",
@@ -3487,6 +3503,14 @@ export const patches = [
     "md5": "c013958fa8447be55f1e037ed4a1a9f9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#true-lies"
+  },
+  {
+    "name": "Turok 2 - Seeds of Evil",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok2.ips",
+    "md5": "28d6c613fdf608fe241fb3ce183aaae5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok-2---seeds-of-evil"
   },
   {
     "name": "Turok 3 - Shadow of Oblivion",
