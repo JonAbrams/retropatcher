@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T21:19:36.627Z';
+export const updated = '2022-02-17T23:20:13.110Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2383,6 +2383,14 @@ export const patches = [
     "md5": "671dc787703860cc84f4209326a90dd8",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#paragon5-album"
+  },
+  {
+    "name": "Parasol Stars - Rainbow Islands II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParasolStars-RI2.ips",
+    "md5": "ab5e4c728a5b62f7985c22c61551469c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#parasol-stars---rainbow-islands-ii"
   },
   {
     "name": "Parodius",
