@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T07:19:53.278Z';
+export const updated = '2022-02-18T08:24:28.326Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2961,6 +2961,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs"
   },
   {
+    "name": "Snow Bros. Jr.",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnowBrosJr.ips",
+    "md5": "b4cee49981c3124df8bbd40a60426f9e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snow-bros-jr"
+  },
+  {
     "name": "Solar Striker",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolarStriker.ips",
@@ -2975,6 +2983,14 @@ export const patches = [
     "md5": "78da1015ca2b5b4e83f7aea41214e779",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#solitaire-funpak"
+  },
+  {
+    "name": "Solomon's Club",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SolomonsClub.ips",
+    "md5": "8a5ccf172f31a0dbfa0600d40b388fdc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#solomons-club"
   },
   {
     "name": "Space Invaders",
