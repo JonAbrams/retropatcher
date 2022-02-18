@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T01:21:07.341Z';
+export const updated = '2022-02-18T02:35:59.091Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1137,6 +1137,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#earthworm-jim---menace-2-the-galaxy"
   },
   {
+    "name": "Elevator Action",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorAction.ips",
+    "md5": "7876945a990ea94ac6b1fe5cf01bc00f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elevator-action"
+  },
+  {
     "name": "Elevator Action EX",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElevatorActionEX.ips",
@@ -2015,6 +2023,14 @@ export const patches = [
     "md5": "ccaf9331318d4dfe3d1ee681928a74fd",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marios-picross"
+  },
+  {
+    "name": "Mary-Kate and Ashley - Get a Clue!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MKnA-GetAClue.ips",
+    "md5": "cc7639a2269210338b52e626096a99d9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mary-kate-and-ashley---get-a-clue"
   },
   {
     "name": "Max",
