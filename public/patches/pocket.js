@@ -1,4 +1,4 @@
-export const updated = '2022-02-17T23:20:13.110Z';
+export const updated = '2022-02-18T01:21:07.341Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -543,6 +543,14 @@ export const patches = [
     "md5": "11c49d405eef2174d9c14682204bb458",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-bobble"
+  },
+  {
+    "name": "Bubble Bobble Part 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobblePart2.ips",
+    "md5": "8bbb9ba0d72548706e4e5eba1b3a9fe1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-bobble-part-2"
   },
   {
     "name": "Bubble Ghost",
@@ -1897,6 +1905,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king---simbas-mighty-adventure"
   },
   {
+    "name": "Lock n' Chase ~ Lock 'n' Chase",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LockNChase.ips",
+    "md5": "8bb31f539e8999d5c4e9449fe1befad6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lock-n-chase--lock-n-chase"
+  },
+  {
     "name": "Lufia - The Legend Returns",
     "authorName": "Infinest",
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Lufia%20Analogue%20Pocket%20patch.ips",
@@ -3207,6 +3223,22 @@ export const patches = [
     "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tamagotchi"
+  },
+  {
+    "name": "Tasmania Monogatari",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TasmaniaMonogatari.ips",
+    "md5": "d413f826b00d3f2384555490d0f1271d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tasmania-monogatari"
+  },
+  {
+    "name": "Tasmania Story",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TasmaniaStory.ips",
+    "md5": "46972f66b5c73b6b19fe21077b195669",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tasmania-story"
   },
   {
     "name": "Taz-Mania",
