@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T08:24:28.326Z';
+export const updated = '2022-02-18T17:20:15.466Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -351,6 +351,14 @@ export const patches = [
     "md5": "dd9e7c40f202f2c3963930e195d75f4d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman-beyond---return-of-the-joker"
+  },
+  {
+    "name": "Batman Forever",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanForever.ips",
+    "md5": "28737a5c760938a9746fa9e1a2fcefc6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman-forever"
   },
   {
     "name": "Battle Arena Toshinden",
