@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T17:20:15.466Z';
+export const updated = '2022-02-18T20:21:31.103Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2207,6 +2207,14 @@ export const patches = [
     "md5": "9639948ad274fa15281f549e5f9c4d87",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#metroid-ii---return-of-samus-colored-version"
+  },
+  {
+    "name": "Mickey Mouse",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeyMouse.ips",
+    "md5": "fecc3f5a95ccaec78f83892933d8159f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickey-mouse"
   },
   {
     "name": "Mickey's Speedway USA",
