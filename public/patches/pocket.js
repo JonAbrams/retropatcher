@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T05:18:50.296Z';
+export const updated = '2022-02-18T06:26:29.930Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2383,6 +2383,14 @@ export const patches = [
     "md5": "28c1ef075f37bcf4951ac11385a1104f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ninja-boy"
+  },
+  {
+    "name": "Ninja Boy 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaBoy2.ips",
+    "md5": "504e1a39167c467b15d5ad56b744ad48",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ninja-boy-2"
   },
   {
     "name": "Ninja Gaiden Shadow",
