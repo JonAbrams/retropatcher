@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T06:26:29.930Z';
+export const updated = '2022-02-18T07:19:53.278Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2287,6 +2287,14 @@ export const patches = [
     "md5": "b3474bab3eda25bdb1508ed53765fb30",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat"
+  },
+  {
+    "name": "Mortal Kombat 4",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MK4.ips",
+    "md5": "168ae412b379786f7df07bd8231baf44",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat-4"
   },
   {
     "name": "Mortal Kombat II",
