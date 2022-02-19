@@ -1,4 +1,4 @@
-export const updated = '2022-02-19T03:22:02.935Z';
+export const updated = '2022-02-19T06:25:02.335Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2639,6 +2639,14 @@ export const patches = [
     "md5": "7e6d077d50879c57ff70891aaa312e80",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popn-music-gb---animation-melody"
+  },
+  {
+    "name": "Pop'n Music GB - Disney Tunes",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PopnMusicDisney.ips",
+    "md5": "92978c96b2368e4aebd84966af8bd06f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#popn-music-gb---disney-tunes"
   },
   {
     "name": "Pop'n TwinBee",
