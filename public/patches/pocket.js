@@ -1,4 +1,4 @@
-export const updated = '2022-02-18T20:21:31.103Z';
+export const updated = '2022-02-19T03:22:02.935Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3543,6 +3543,14 @@ export const patches = [
     "md5": "20b1ed1ae966b173c3a0f7f7f267e408",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph"
+  },
+  {
+    "name": "Tom and Jerry in Mouse Attacks!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TomAndJerry.ips",
+    "md5": "7a826122ccc3818dce9a8e8db6d77edb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tom-and-jerry-in-mouse-attacks"
   },
   {
     "name": "Tomb Raider - Curse of the Sword",
