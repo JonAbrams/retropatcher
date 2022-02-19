@@ -1,4 +1,4 @@
-export const updated = '2022-02-19T06:25:02.335Z';
+export const updated = '2022-02-19T20:21:36.581Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -71,6 +71,22 @@ export const patches = [
     "md5": "ed5525a71dda6eaf4bbf8d5601b6b3b9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aladdin"
+  },
+  {
+    "name": "Aladdin GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AladdinGBC.ips",
+    "md5": "644c2c3cf2dc2e3fce741844e497a18f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aladdin-gbc"
+  },
+  {
+    "name": "Aladdin GBC (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AladdinGBC-Eur.ips",
+    "md5": "bad95d30c38a92e7906feecb6d6bd272",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aladdin-gbc-e"
   },
   {
     "name": "Alfred Chicken",
@@ -2551,6 +2567,14 @@ export const patches = [
     "md5": "c720f6f16ca28b942701855c73d75c3e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-picross"
+  },
+  {
+    "name": "Pokemon Pinball (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballEur.ips",
+    "md5": "3757c89c36bec5e2093741a3e51d22df",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-e"
   },
   {
     "name": "Pokemon Puzzle Challenge",
