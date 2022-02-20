@@ -1,4 +1,4 @@
-export const updated = '2022-02-19T20:21:36.581Z';
+export const updated = '2022-02-20T06:24:39.429Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2084,7 +2084,7 @@ export const patches = [
     "name": "Medarot - Kabuto Version (English Patch)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips",
-    "md5": "750b777eb1ea2ec167980158061f916f",
+    "md5": "cdfb608f2af7ea31d1e5c5c39706baab",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kabuto-version-english-patch"
   },
@@ -2100,7 +2100,7 @@ export const patches = [
     "name": "Medarot - Kuwagata Version (English Patch)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips",
-    "md5": "95abb80a0a8aae30faa7c107bb1ca44e",
+    "md5": "7b1657d322e9967f4dff3ff7fa586ee7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version-english-patch"
   },
@@ -3423,6 +3423,14 @@ export const patches = [
     "md5": "982ed5d2b12a0377eb14bcdc4123744e",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris"
+  },
+  {
+    "name": "Tetris 1.0 (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tetris1.0.ips",
+    "md5": "084f1e457749cdec86183189bd88ce69",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-10-j"
   },
   {
     "name": "Tetris 2",
