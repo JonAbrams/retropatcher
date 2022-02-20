@@ -1,4 +1,4 @@
-export const updated = '2022-02-20T06:24:39.429Z';
+export const updated = '2022-02-20T07:19:08.684Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2455,6 +2455,14 @@ export const patches = [
     "md5": "c6effb3a51b36056411760d1ffe048f7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#operation-c"
+  },
+  {
+    "name": "Out of Gas",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OutOfGas.ips",
+    "md5": "0b7cbe56d1cf6370e60699e553d091a1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#out-of-gas"
   },
   {
     "name": "Paperboy",
