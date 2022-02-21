@@ -1,4 +1,4 @@
-export const updated = '2022-02-21T07:19:38.083Z';
+export const updated = '2022-02-21T16:30:31.198Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2905,12 +2905,20 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop"
   },
   {
-    "name": "Robocop vs the Terminator",
+    "name": "RoboCop vs the Terminator",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopVsTerminator.ips",
     "md5": "0e82b5210966e9eb53d5b7ef906a0f40",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop-vs-the-terminator"
+  },
+  {
+    "name": "Robopon - Sun Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboponSun.ips",
+    "md5": "398f7b60ea114b90b24503178f47e8d8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robopon---sun-version"
   },
   {
     "name": "Sagaia",
