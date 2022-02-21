@@ -1,4 +1,4 @@
-export const updated = '2022-02-21T01:13:54.897Z';
+export const updated = '2022-02-21T07:19:38.083Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2591,6 +2591,14 @@ export const patches = [
     "md5": "3757c89c36bec5e2093741a3e51d22df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-e"
+  },
+  {
+    "name": "Pokemon Prism",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips",
+    "md5": "3cd828587eb8d3fe818d57f99b3a3c95",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-prism"
   },
   {
     "name": "Pokemon Puzzle Challenge",
