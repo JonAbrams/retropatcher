@@ -1,4 +1,4 @@
-export const updated = '2022-02-20T07:19:08.684Z';
+export const updated = '2022-02-21T01:13:54.897Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2495,6 +2495,14 @@ export const patches = [
     "md5": "c94afb46cada0118aa8ff08cc07749a4",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#parodius"
+  },
+  {
+    "name": "Parodius Da!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ParodiusDa.ips",
+    "md5": "2e3a0305f79b058cc4618565bc2db745",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#parodius-da"
   },
   {
     "name": "Penguin Wars",
