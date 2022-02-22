@@ -1,4 +1,4 @@
-export const updated = '2022-02-22T02:32:48.698Z';
+export const updated = '2022-02-22T03:22:57.477Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2961,6 +2961,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#scooby-doo-classic-creep-capers"
   },
   {
+    "name": "Shadowgate Classic",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShadowgateClassic.ips",
+    "md5": "90280833c156e2ca8e4eaa29adf369b2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shadowgate-classic"
+  },
+  {
     "name": "Shanghai",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shanghai.ips",
@@ -3911,6 +3919,14 @@ export const patches = [
     "md5": "f9445b104ebb70d8fb91c8c64452c0a4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizards-and-warriors-chapter-x---the-fortress-of-fear"
+  },
+  {
+    "name": "Woody Woodpecker",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WoodyWoodpecker.ips",
+    "md5": "2a26b9d248bf62788e23aa897e8e355c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#woody-woodpecker"
   },
   {
     "name": "WordZap",
