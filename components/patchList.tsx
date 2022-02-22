@@ -1,4 +1,4 @@
-import { useState, ChangeEventHandler } from "react";
+import { useState, ChangeEventHandler, MouseEvent } from "react";
 import { Patch } from "../pages/api/patches";
 import styles from "../styles/Home.module.css";
 
@@ -25,7 +25,7 @@ export function PatchList() {
     }
   };
 
-  const handleStartChar = async (event: Event, char: string) => {
+  const handleStartChar = async (event: MouseEvent, char: string) => {
     event.preventDefault();
     setSearchTerm("");
     const results = (await fetch(
