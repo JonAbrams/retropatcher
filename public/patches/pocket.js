@@ -1,4 +1,4 @@
-export const updated = '2022-02-22T03:22:57.477Z';
+export const updated = '2022-02-22T04:27:34.356Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3679,6 +3679,14 @@ export const patches = [
     "md5": "0a1cf1904c87b60308c404d93bab2702",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-gear-pocket-2"
+  },
+  {
+    "name": "Top Ranking Tennis",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopRankingTennis.ips",
+    "md5": "ea82922267095a2268d76e4f21d4ff93",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-ranking-tennis"
   },
   {
     "name": "Trax",
