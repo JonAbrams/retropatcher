@@ -27,6 +27,14 @@ export default function handler(
     results = patches.filter(
       (patch: Patch) => patch.name.toLowerCase().indexOf(q.toLowerCase()) > -1
     );
+  } else if (req.query.startsWith?.[0].match(/[#a-z]/)) {
+    const startsWith =
+      req.query.startsWith[0] === "#"
+        ? /^[0-9]/
+        : new RegExp(`^${req.query.startsWith[0]}`);
+    results = patches.filter((patch: Patch) =>
+      patch.name.toLowerCase().match(startsWith)
+    );
   }
 
   if (results.length === 0) {

@@ -82,7 +82,10 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Retro Patcher</title>
-        <meta name="description" content="Easily patch your retro games!" />
+        <meta
+          name="description"
+          content="Easily patch your GB/GBC roms to run on an Analogue Pocket."
+        />
         <meta
           name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0"
@@ -92,7 +95,13 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Retro Patcher</h1>
-        <p>Convert gb/gbc roms into Analogue Pocket compatible roms.</p>
+        <p>
+          Easily patch your GB/GBC roms to run on an{" "}
+          <a href="https://analogue.co/pocket" target="_blank" rel="noreferrer">
+            Analogue Pocket
+          </a>
+          &apos;s microSD card (in a directory called &quot;GB Studio&quot;).
+        </p>
 
         <input
           ref={fileInputRef}

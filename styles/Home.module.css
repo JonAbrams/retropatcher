@@ -112,3 +112,12 @@
 .patchList {
   text-align: center;
 }
+
+.alphaList {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: Courier, monospace;
+}
