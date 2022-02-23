@@ -1,4 +1,4 @@
-export const updated = '2022-02-23T04:27:25.364Z';
+export const updated = '2022-02-23T05:19:01.847Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3695,6 +3695,14 @@ export const patches = [
     "md5": "ea82922267095a2268d76e4f21d4ff93",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-ranking-tennis"
+  },
+  {
+    "name": "Trade and Battle Card Hero",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TnBCardHero.ips",
+    "md5": "92d36245a65305a209700608971b0597",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#trade-and-battle-card-hero"
   },
   {
     "name": "Trax",
