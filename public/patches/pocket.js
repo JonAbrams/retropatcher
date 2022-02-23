@@ -1,4 +1,4 @@
-export const updated = '2022-02-22T04:27:34.356Z';
+export const updated = '2022-02-23T04:27:25.364Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -503,6 +503,14 @@ export const patches = [
     "md5": "c4868bf46a993b4c33a9a8af5341282a",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#blaster-master-boy"
+  },
+  {
+    "name": "Boggle Plus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BogglePlus.ips",
+    "md5": "b3be58ae099ab2a695cfebe9881c7461",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boggle-plus"
   },
   {
     "name": "Bomberman Quest",
