@@ -1,4 +1,4 @@
-export const updated = '2022-02-25T22:21:29.017Z';
+export const updated = '2022-02-25T23:21:29.754Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1711,6 +1711,14 @@ export const patches = [
     "md5": "b68c4141b4c4f778bd13100b9a3db82c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#king-of-fighers-95"
+  },
+  {
+    "name": "King of Fighters - Heat of Battle",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoF-HoB.ips",
+    "md5": "cf6ec3c13cd20240ef0c0c63ec06558f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#king-of-fighters---heat-of-battle"
   },
   {
     "name": "Kirby Tilt n Tumble",
