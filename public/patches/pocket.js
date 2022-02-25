@@ -1,4 +1,4 @@
-export const updated = '2022-02-23T05:19:01.847Z';
+export const updated = '2022-02-25T22:21:29.017Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2991,6 +2991,30 @@ export const patches = [
     "md5": "72c0a7eb38ffc2ef65c0e2ffb1729aa5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai-j---activision"
+  },
+  {
+    "name": "Shanghai Pocket",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiPocket.ips",
+    "md5": "08680aedc945591f81461c1bf459124e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai-pocket"
+  },
+  {
+    "name": "Shanghai Pocket (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiPocketJ.ips",
+    "md5": "c042681adbbe175b354d0abee3413219",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai-pocket-j"
+  },
+  {
+    "name": "Shanghai Pocket (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShanghaiPocketA.ips",
+    "md5": "f7e13de010decf104efa3db865971f34",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shanghai-pocket-rev-a"
   },
   {
     "name": "Shantae",
