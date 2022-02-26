@@ -1,4 +1,4 @@
-export const updated = '2022-02-25T23:21:29.754Z';
+export const updated = '2022-02-26T01:13:30.906Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1959,6 +1959,14 @@ export const patches = [
     "md5": "8bb31f539e8999d5c4e9449fe1befad6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lock-n-chase--lock-n-chase"
+  },
+  {
+    "name": "Looney Tunes",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunes.ips",
+    "md5": "6e9dd3c1fb169da79292a1962e95a884",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes"
   },
   {
     "name": "Lufia - The Legend Returns",
@@ -3943,6 +3951,14 @@ export const patches = [
     "md5": "916d740fc366ecbf9e5626218e56562d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wetrix-gb"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WheelOfFortune.ips",
+    "md5": "ee81c7d7481bb6db26bef691bf9d5645",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wheel-of-fortune"
   },
   {
     "name": "Who Framed Rodger Rabbit?",
