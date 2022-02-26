@@ -1,4 +1,4 @@
-export const updated = '2022-02-26T01:13:30.906Z';
+export const updated = '2022-02-26T02:36:18.233Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -511,6 +511,14 @@ export const patches = [
     "md5": "b3be58ae099ab2a695cfebe9881c7461",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boggle-plus"
+  },
+  {
+    "name": "Bomberman GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanGB.ips",
+    "md5": "7e4c9c3620bea7b633394beb67e9680b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-gb"
   },
   {
     "name": "Bomberman Quest",
@@ -2831,6 +2839,14 @@ export const patches = [
     "md5": "95b284df7ba2f862406f747b4ca7c380",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#qix-adventure"
+  },
+  {
+    "name": "R-Type",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips",
+    "md5": "972dc35b3b2bd0762999b1ae48da94f6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#r-type"
   },
   {
     "name": "R-Type DX",
