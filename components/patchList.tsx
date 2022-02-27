@@ -1,5 +1,6 @@
 import { useState, ChangeEventHandler, MouseEvent } from "react";
 import { Patch } from "../pages/api/patches";
+import { PatchInfo } from "./patchInfo";
 import styles from "../styles/Home.module.css";
 
 type Results = { status: string } | Patch[];
@@ -68,22 +69,7 @@ export function PatchList() {
       </div>
       {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
       {patches.map((patch) => (
-        <div className={styles.patchInfo} key={patch.downloadUrl}>
-          <div>{patch.name}</div>
-          <div>
-            Patch by {patch.authorName} [
-            <a href={patch.originalUrl} target="_blank" rel="noreferrer">
-              url
-            </a>
-            ]
-          </div>
-          <div className={styles.romMd5}>ROM MD5: {patch.md5}</div>
-          <div>
-            {patch.downloadUrl && (
-              <a href={patch.downloadUrl}>Download Patch</a>
-            )}
-          </div>
-        </div>
+        <PatchInfo patch={patch} key={patch.downloadUrl} showDownload showMd5 />
       ))}
     </div>
   );

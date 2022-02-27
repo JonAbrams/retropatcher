@@ -6,21 +6,23 @@ import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
 import { Patch } from "./api/patches";
 import { PatchList } from "../components/patchList";
+import { PatchInfo } from "../components/patchInfo";
 import { applyPatch } from "../lib/ips";
 import styles from "../styles/Home.module.css";
 import { updated } from "../public/patches/pocket";
 
 const Home: NextPage = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
-  const [filename, setFilename] = useState("");
-  const [fileBytes, setFileBytes] = useState<Uint8Array | null>(null);
+  const [filenames, setFilenames] = useState<string[]>([]);
+  const [filesBytes, setFilesBytes] = useState<Uint8Array[]>([]);
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
   const [applying, setApplying] = useState(false);
 
   useEffect(() => {
-    if (!fileBytes) return;
-    fetch(`/api/patches?md5=${md5(fileBytes)}`)
+    if (filesBytes.length === 0) return;
+    const params = filesBytes.map((f) => `md5=${md5(f)}`).join("&");
+    fetch(`/api/patches?${params}`)
       .then((res) => res.json())
       .then((patchesFromServer) => {
         if (patchesFromServer.status) {
@@ -31,52 +33,104 @@ const Home: NextPage = () => {
         setPatchInfo(patchesFromServer);
         setErrorOutput("");
       });
-  }, [fileBytes]);
+  }, [filesBytes]);
 
-  function savePatchedFile(patch: Patch, patchedBytes: Uint8Array) {
+  const savePatchedFile = (
+    filename: string,
+    patch: Patch,
+    patchedBytes: Uint8Array
+  ) => {
     const blob = new Blob([patchedBytes]);
     const matched = filename.match(/(.*)\.gbc?/);
     if (!matched) return;
-    let outputFilename = `${matched[1]}.${patch.extension || 'pocket'}`;
+    let outputFilename = `${matched[1]}.${patch.extension || "pocket"}`;
     if (patch.outputFilename) {
       outputFilename = patch.outputFilename;
     }
     saveAs(blob, outputFilename);
-  }
+  };
 
-  const handleFileChosen = ({ target }: { target: HTMLInputElement }) => {
+  const handleFilesChosen = async ({
+    target,
+  }: {
+    target: HTMLInputElement;
+  }) => {
     setPatchInfo("loading");
-    const reader = new FileReader();
-    reader.onload = () =>
-      setFileBytes(new Uint8Array(reader.result as ArrayBuffer));
     if (!target.files || !target.files.length) {
       setPatchInfo(null);
       setErrorOutput("");
-      setFilename("");
-      setFileBytes(null);
+      setFilenames([]);
+      setFilesBytes([]);
       return;
     }
-    setFilename(target.files[0].name);
-    reader.readAsArrayBuffer(target.files[0]);
+    const files = Array.from(target.files);
+    setFilenames(files.map((f) => f.name));
+    const newFilesBytes: Promise<Uint8Array>[] = files.map((file) => {
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          console.log(md5(new Uint8Array(reader.result as ArrayBuffer)));
+          resolve(new Uint8Array(reader.result as ArrayBuffer));
+        };
+        reader.readAsArrayBuffer(file);
+      });
+    });
+    setFilesBytes(await Promise.all(newFilesBytes));
   };
 
   const handleApplyPatch = async (patch: Patch) => {
-    if (!fileBytes) return;
-    setApplying(true);
+    const fbIndex = filesBytes.findIndex((fb) => md5(fb) === patch.md5);
+    const fileBytes = filesBytes[fbIndex];
+    const filename = filenames[fbIndex];
+    if (!fileBytes) {
+      setErrorOutput("Patch and file md5s don't match.");
+      return;
+    } else {
+      setErrorOutput("");
+    }
     let url = patch.downloadUrl;
     if (url[0] !== "/") {
       url = `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`;
     }
     const patchIps = await fetch(url).then((res) => res.arrayBuffer());
-    setApplying(false);
     if (!patchIps) return;
-    savePatchedFile(patch, applyPatch(fileBytes, new Uint8Array(patchIps)));
+    savePatchedFile(
+      filename,
+      patch,
+      applyPatch(fileBytes, new Uint8Array(patchIps))
+    );
+  };
+
+  const handleApplyAllPatches = async () => {
+    for (const patch of patchInfo as Patch[]) {
+      await handleApplyPatch(patch);
+    }
+  };
+
+  const wrapApplying = (func: { (): Promise<void> }) => {
+    return async () => {
+      setApplying(true);
+      await func();
+      setApplying(false);
+    };
   };
 
   const triggerFileInput = () => {
     if (!fileInputRef?.current) return;
     fileInputRef.current.click();
   };
+
+  const notFound = (() => {
+    if (!Array.isArray(patchInfo)) return [];
+    const roms = [];
+    for (let i = 0; i < filesBytes.length; i++) {
+      const fmd5 = md5(filesBytes[i]);
+      if (!patchInfo.some((p) => p.md5 === fmd5)) {
+        roms.push({ filename: filenames[i], md5: fmd5 });
+      }
+    }
+    return roms;
+  })();
 
   return (
     <div className={styles.container}>
@@ -100,7 +154,8 @@ const Home: NextPage = () => {
           <a href="https://analogue.co/pocket" target="_blank" rel="noreferrer">
             Analogue Pocket
           </a>
-          &apos;s microSD card (in a directory called &quot;GB Studio&quot;).
+          &apos;s microSD card (place them in a directory called &quot;GB
+          Studio&quot;).
         </p>
 
         <input
@@ -108,43 +163,55 @@ const Home: NextPage = () => {
           hidden
           accept=".gb,.gbc"
           type="file"
-          onChange={handleFileChosen}
+          multiple
+          onChange={handleFilesChosen}
         />
         <button className={styles.fileButton} onClick={triggerFileInput}>
-          Select GB/GBC rom file
+          Select GB/GBC rom file(s)
         </button>
 
-        {fileBytes && (
-          <div className={styles.fileInfo}>
-            <div>ROM File Name: {filename}</div>
-            <div>MD5: {md5(fileBytes)}</div>
-
-            {patchInfo === "loading" && <div>Looking for a patch…</div>}
-            {patchInfo &&
-              typeof patchInfo !== "string" &&
-              patchInfo.map((patch) => (
-                <div key={patch.name} className={styles.patchInfo}>
-                  <div>
-                    <div>Patch Name: {patch.name}</div>
-                    Created by {patch.authorName} [
-                    <a
-                      href={patch.originalUrl}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      url
-                    </a>
-                    ]
-                  </div>
+        {filesBytes.length > 0 &&
+          Array.isArray(patchInfo) &&
+          patchInfo.length > 0 && (
+            <div className={styles.resultsContainer}>
+              <div className={styles.resultsTitle}>
+                {patchInfo.length}{" "}
+                {patchInfo.length === 1 ? "Patch" : "Patches"} found:
+              </div>
+              {patchInfo.length > 1 && (
+                <div>
                   <button
                     className={styles.downloadButton}
-                    onClick={() => handleApplyPatch(patch)}
+                    onClick={wrapApplying(handleApplyAllPatches)}
                     disabled={applying}
                   >
-                    Apply and Save
+                    Apply and Save All
                   </button>
                 </div>
+              )}
+              {patchInfo.map((patch) => (
+                <PatchInfo
+                  patch={patch}
+                  key={patch.downloadUrl}
+                  onApply={wrapApplying(
+                    async () => await handleApplyPatch(patch)
+                  )}
+                  applying={applying}
+                />
               ))}
+            </div>
+          )}
+        {notFound.length > 0 && (
+          <div className={styles.resultsContainer}>
+            <div className={styles.resultsTitle}>
+              Patches not found for these ROMs:
+            </div>
+            {notFound.map((rom) => (
+              <div className={styles.patchInfo} key={rom.filename}>
+                <div>Filename: {rom.filename}</div>
+                <div>MD5: {rom.md5}</div>
+              </div>
+            ))}
           </div>
         )}
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
