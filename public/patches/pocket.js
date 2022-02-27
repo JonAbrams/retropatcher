@@ -1,4 +1,4 @@
-export const updated = '2022-02-26T03:22:17.741Z';
+export const updated = '2022-02-27T03:22:13.257Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -215,6 +215,14 @@ export const patches = [
     "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-dx"
+  },
+  {
+    "name": "Arcade Hits - Moon Patrol and Spy Hunter",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AH-MoonSpy.ips",
+    "md5": "8ffcf9da76aa9ba1c5b1789a92f47d21",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-hits---moon-patrol-and-spy-hunter"
   },
   {
     "name": "Arthur's Absolutely Fun Day!",
