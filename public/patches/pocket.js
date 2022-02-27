@@ -1,4 +1,4 @@
-export const updated = '2022-02-27T03:22:13.257Z';
+export const updated = '2022-02-27T04:27:06.802Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3231,6 +3231,14 @@ export const patches = [
     "md5": "8833ae0fd3b4c47b8249a12708c98a98",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-3---invasion-of-the-spider-slayers"
+  },
+  {
+    "name": "SpongeBob SquarePants - Legend of the Lost Spatula",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpongeBob.ips",
+    "md5": "4272d192cf2b14db93f1e2d1bc07aa74",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spongebob-squarepants---legend-of-the-lost-spatula"
   },
   {
     "name": "Spud's Adventure",
