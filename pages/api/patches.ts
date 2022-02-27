@@ -21,7 +21,8 @@ export default function handler(
 ) {
   let results = [] as Patch[];
   if (req.query.md5) {
-    results = patches.filter((patch: Patch) => patch.md5 === req.query.md5);
+    const md5s = ([] as string[]).concat(req.query.md5);
+    results = patches.filter((patch: Patch) => md5s.includes(patch.md5));
   } else if (req.query.q?.length >= 3) {
     const q = req.query.q as string;
     results = patches.filter(
@@ -30,15 +31,11 @@ export default function handler(
   } else if (req.query.startsWith?.[0].match(/[#a-z]/)) {
     const startsWith =
       req.query.startsWith[0] === "#"
-        ? /^[0-9]/
+        ? /^[^a-zA-z]/
         : new RegExp(`^${req.query.startsWith[0]}`);
     results = patches.filter((patch: Patch) =>
       patch.name.toLowerCase().match(startsWith)
     );
-  }
-
-  if (results.length === 0) {
-    return res.status(404).json({ status: "No patches found." });
   }
 
   res.json(results);
