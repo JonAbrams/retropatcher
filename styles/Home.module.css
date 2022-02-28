@@ -83,6 +83,11 @@
   margin-top: 1rem;
 }
 
+.dndMsg {
+  margin-top: 1rem;
+  font-size: 12px;
+}
+
 .note {
   font-size: 12px;
 }
@@ -117,10 +122,10 @@
   font-weight: 700;
   font-size: 10pt;
 }
-.fileButton:hover {
+.fileButtonOver, .fileButton:hover {
   border-color: black;
 }
-.fileButton:active {
+.fileButtonOver, .fileButton:active {
   background: linear-gradient(to top, #f9f9f9, #e3e3e3);
 }
 

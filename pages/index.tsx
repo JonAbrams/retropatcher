@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, DragEventHandler } from "react";
 import md5 from "js-md5";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
@@ -18,6 +18,7 @@ const Home: NextPage = () => {
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
   const [errorOutput, setErrorOutput] = useState("");
   const [applying, setApplying] = useState(false);
+  const [dragOver, setDragOver] = useState(false);
 
   useEffect(() => {
     if (filesBytes.length === 0) return;
@@ -71,6 +72,10 @@ const Home: NextPage = () => {
       return;
     }
     const files = Array.from(target.files);
+    await handleFiles(files);
+  };
+
+  const handleFiles = async (files: File[]) => {
     setFilenames(files.map((f) => f.name));
     const newFilesBytes: Promise<Uint8Array>[] = files.map((file) => {
       return new Promise((resolve) => {
@@ -138,8 +143,35 @@ const Home: NextPage = () => {
     return roms;
   })();
 
+  const handleDrop: DragEventHandler = (e) => {
+    e.preventDefault();
+    if (e.dataTransfer?.files) {
+      handleFiles(Array.from(e.dataTransfer.files));
+    }
+  };
+
+  const handleDragOver: DragEventHandler = (e) => {
+    e.preventDefault();
+  };
+
+  const handleDragEnter: DragEventHandler = (e) => {
+    e.preventDefault();
+    setDragOver(true);
+  };
+
+  const handleDragLeave: DragEventHandler = (e) => {
+    e.preventDefault();
+    setDragOver(false);
+  };
+
   return (
-    <div className={styles.container}>
+    <div
+      className={styles.container}
+      onDrop={handleDrop}
+      onDragOver={handleDragOver}
+      onDragEnter={handleDragEnter}
+      onDragLeave={handleDragLeave}
+    >
       <Head>
         <title>Retro Patcher</title>
         <meta
@@ -172,9 +204,18 @@ const Home: NextPage = () => {
           multiple
           onChange={handleFilesChosen}
         />
-        <button className={styles.fileButton} onClick={triggerFileInput}>
+        <button
+          className={
+            styles.fileButton + " " + (dragOver ? styles.fileButtonOver : "")
+          }
+          onClick={triggerFileInput}
+        >
           Select GB/GBC rom file(s)
         </button>
+
+        <div className={styles.dndMsg}>
+          You can also drag and drop files onto the page.
+        </div>
 
         {typeof patchInfo === "string" && (
           <div className={styles.loading}>Loading…</div>
