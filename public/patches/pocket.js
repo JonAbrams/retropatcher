@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T07:20:06.264Z';
+export const updated = '2022-02-28T08:26:01.471Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2361,6 +2361,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mole-mania"
   },
   {
+    "name": "Monkey Puncher",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonkeyPuncher.ips",
+    "md5": "65da43aef4c10cfd8feee70e842a46ae",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monkey-puncher"
+  },
+  {
     "name": "Monster Max",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterMax.ips",
@@ -3073,6 +3081,14 @@ export const patches = [
     "md5": "117a9babae15960dc4de04ac44066ed2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#scooby-doo-classic-creep-capers"
+  },
+  {
+    "name": "Seiken Densetsu - Final Fantasy Gaiden",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips",
+    "md5": "3b359e9fec183bff5f964e25b599b246",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#seiken-densetsu---final-fantasy-gaiden"
   },
   {
     "name": "Shadowgate Classic",
