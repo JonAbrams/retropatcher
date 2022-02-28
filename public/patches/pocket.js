@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T08:26:01.471Z';
+export const updated = '2022-02-28T18:26:16.780Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7,6 +7,14 @@ export const patches = [
     "md5": "1f1fb3cf8783f880bc796d667be60231",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#007-james-bond---the-world-is-not-enough"
+  },
+  {
+    "name": "3D Pocket Pool",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/3DPocketPool.ips",
+    "md5": "429e6da4b32d8caa22e78d92c0febd12",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#3d-pocket-pool"
   },
   {
     "name": "4-in-1 Fun Pack",
