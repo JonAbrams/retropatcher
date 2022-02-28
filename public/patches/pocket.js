@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T03:22:41.485Z';
+export const updated = '2022-02-28T04:28:17.415Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2923,6 +2923,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#resident-evil-gaiden"
   },
   {
+    "name": "Resident Evil Gaiden (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ResidentEvilGaidenEur.ips",
+    "md5": "8a7f483857e251d56a16594ca84d1a7e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#resident-evil-gaiden-e"
+  },
+  {
     "name": "Return of the Ninja",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ReturnOfTheNinja.ips",
@@ -3337,6 +3345,14 @@ export const patches = [
     "md5": "db1aeaa7135bd5707dbbccc427808cd7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-alpha---warriors-dreams"
+  },
+  {
+    "name": "Super Imposter Bros.",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperImposterBros.ips",
+    "md5": "a455a70d52a9ffcfe8c4d8c164267500",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-imposter-bros"
   },
   {
     "name": "Super Mario Bros. Deluxe",
