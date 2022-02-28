@@ -222,6 +222,16 @@ const Home: NextPage = () => {
                 <div>MD5: {rom.md5}</div>
               </div>
             ))}
+            <div className={styles.wishingWell}>
+              Want a patch made? Let the community know via{" "}
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeqEnkT_ZebRavAPEUZd53PuGJCzYRssvwaGRoY7naucPtRyg/viewform"
+                target="_blank"
+                rel="noreferrer"
+              >
+                The Wishing Well
+              </a>
+            </div>
           </div>
         )}
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
