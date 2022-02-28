@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T06:42:22.629Z';
+export const updated = '2022-02-28T07:20:06.264Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -295,6 +295,14 @@ export const patches = [
     "md5": "464acbe3c82887db897c39cdba877237",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#azure-dreams"
+  },
+  {
+    "name": "Bad Apple (Demo)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BadApple.ips",
+    "md5": "1e8c2c4cdf5e67e708c51c9739e6f2c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bad-apple-demo"
   },
   {
     "name": "Balloon Fight GB",
@@ -855,6 +863,14 @@ export const patches = [
     "md5": "34b3d0f0843b83e5b0e00bc3d0669793",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daedalian-opus"
+  },
+  {
+    "name": "Daffy Duck",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuck.ips",
+    "md5": "7c9cef32db758d3f6b8a8a23b6902e2d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daffy-duck"
   },
   {
     "name": "Daikatana",
@@ -2431,6 +2447,30 @@ export const patches = [
     "md5": "12e9e43481d38003a4f1e2c2ce596aee",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mysterium"
+  },
+  {
+    "name": "Mystic Quest (De)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestG.ips",
+    "md5": "b6a08c7e3af4ec8c9559cd268115d97c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystic-quest-de"
+  },
+  {
+    "name": "Mystic Quest (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestE.ips",
+    "md5": "5f41a4de9f480c72cbc6eaad6bcc3753",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystic-quest-e"
+  },
+  {
+    "name": "Mystic Quest (Fr)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MysticQuestF.ips",
+    "md5": "2efe1569e3be81e7e19b13eafc60cd24",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystic-quest-fr"
   },
   {
     "name": "Mystical Ninja Starring Goemon",
