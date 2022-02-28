@@ -22,7 +22,14 @@ const Home: NextPage = () => {
   useEffect(() => {
     if (filesBytes.length === 0) return;
     const params = filesBytes.map((f) => `md5=${md5(f)}`).join("&");
-    fetch(`/api/patches?${params}`)
+    const md5s = filesBytes.map((f) => md5(f));
+    fetch(`/api/patches`, {
+      method: "POST",
+      body: JSON.stringify({ md5s }),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
       .then((res) => res.json())
       .then((patchesFromServer) => {
         if (patchesFromServer.status) {
@@ -69,7 +76,6 @@ const Home: NextPage = () => {
       return new Promise((resolve) => {
         const reader = new FileReader();
         reader.onload = () => {
-          console.log(md5(new Uint8Array(reader.result as ArrayBuffer)));
           resolve(new Uint8Array(reader.result as ArrayBuffer));
         };
         reader.readAsArrayBuffer(file);
@@ -169,6 +175,10 @@ const Home: NextPage = () => {
         <button className={styles.fileButton} onClick={triggerFileInput}>
           Select GB/GBC rom file(s)
         </button>
+
+        {typeof patchInfo === "string" && (
+          <div className={styles.loading}>Loading…</div>
+        )}
 
         {filesBytes.length > 0 &&
           Array.isArray(patchInfo) &&

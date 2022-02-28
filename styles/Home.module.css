@@ -51,6 +51,10 @@
   color: red;
 }
 
+.loading {
+  margin-top: 1rem;
+}
+
 .patchInfo {
   text-align: left;
   max-width: calc(100vw - 30px);

@@ -20,9 +20,10 @@ export default function handler(
   res: NextApiResponse<Patch[] | ApiError>
 ) {
   let results = [] as Patch[];
-  if (req.query.md5) {
-    const md5s = ([] as string[]).concat(req.query.md5);
-    results = patches.filter((patch: Patch) => md5s.includes(patch.md5));
+  if (req.body.md5s) {
+    results = patches.filter((patch: Patch) =>
+      req.body.md5s.includes(patch.md5)
+    );
   } else if (req.query.q?.length >= 3) {
     const q = req.query.q as string;
     results = patches.filter(
