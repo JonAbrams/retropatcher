@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T02:36:55.045Z';
+export const updated = '2022-02-28T03:22:41.485Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2614,7 +2614,8 @@ export const patches = [
     "md5": "50927e843568814f7ed45ec4f944bd8b",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-    "downloadUrl": "/patches/ips/pokemonBlueColored.ips"
+    "downloadUrl": "/patches/ips/pokemonBlueColored.ips",
+    "outputFilename": "Pokemon Blue - Colored.pocket"
   },
   {
     "name": "Pokemon Picross",
@@ -2662,7 +2663,8 @@ export const patches = [
     "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-    "downloadUrl": "/patches/ips/pokemonRedColored.ips"
+    "downloadUrl": "/patches/ips/pokemonRedColored.ips",
+    "outputFilename": "Pokemon Red - Colored.pocket"
   },
   {
     "name": "Pokémon Crystal Clear 2.4.4",
