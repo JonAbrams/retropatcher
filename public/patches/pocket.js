@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T01:20:42.486Z';
+export const updated = '2022-02-28T02:36:55.045Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4031,6 +4031,14 @@ export const patches = [
     "md5": "177f5fc642f650e45bae33b10ba1fe48",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-ii---kodai-koutei-no-noroi"
+  },
+  {
+    "name": "Wizardry Gaiden III - Yami no Seiten",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden3.ips",
+    "md5": "2be59d4c20728300c84a71fcfcb565f9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-iii---yami-no-seiten"
   },
   {
     "name": "Wizardry I - Proving Grounds of the Mad Overlord",
