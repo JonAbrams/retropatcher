@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T18:26:16.780Z';
+export const updated = '2022-02-28T19:17:20.365Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3425,6 +3425,14 @@ export const patches = [
     "md5": "db1aeaa7135bd5707dbbccc427808cd7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-alpha---warriors-dreams"
+  },
+  {
+    "name": "Street Fighter II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SF2.ips",
+    "md5": "dc3ef8d3fad26cba840327cc428cadbc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-ii"
   },
   {
     "name": "Super Imposter Bros.",
