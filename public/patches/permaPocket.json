@@ -10,6 +10,14 @@
       "outputFilename": "Alleyway DX.pocket"
     },
     {
+      "name": "For Frog the Bell Tolls",
+      "authorName": "JoseJX",
+      "md5": "4ebe14c4c51555908c0e4cabb66dc813",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru",
+      "downloadUrl": "/patches/ips/frogBellTolls.ips",
+      "outputFilename": "For Frog the Bell Tolls.pocket"
+    },
+    {
       "name": "Pokemon Red (USA)",
       "authorName": "BestPig",
       "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",

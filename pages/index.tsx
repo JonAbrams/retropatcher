@@ -22,7 +22,6 @@ const Home: NextPage = () => {
 
   useEffect(() => {
     if (filesBytes.length === 0) return;
-    const params = filesBytes.map((f) => `md5=${md5(f)}`).join("&");
     const md5s = filesBytes.map((f) => md5(f));
     fetch(`/api/patches`, {
       method: "POST",

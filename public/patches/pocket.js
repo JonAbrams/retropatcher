@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T06:26:32.248Z';
+export const updated = '2022-02-28T06:42:22.629Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1313,6 +1313,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flipull"
   },
   {
+    "name": "For Frog the Bell Tolls",
+    "authorName": "JoseJX",
+    "md5": "4ebe14c4c51555908c0e4cabb66dc813",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru",
+    "downloadUrl": "/patches/ips/frogBellTolls.ips",
+    "outputFilename": "For Frog the Bell Tolls.pocket"
+  },
+  {
     "name": "Fortified Zone",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips",
@@ -1815,6 +1823,14 @@ export const patches = [
     "md5": "7d4f3bf92bbff701583eb74f36951bb9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klax"
+  },
+  {
+    "name": "Klondike",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klondike.ips",
+    "md5": "7f79af6e30ac9b0cd865caf073103268",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klondike"
   },
   {
     "name": "Knight Quest",
