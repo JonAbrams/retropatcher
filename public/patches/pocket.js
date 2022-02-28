@@ -1,4 +1,4 @@
-export const updated = '2022-02-27T04:27:06.802Z';
+export const updated = '2022-02-28T01:20:42.486Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4015,6 +4015,22 @@ export const patches = [
     "md5": "f9302265fcbc4178c84aaeac3138af97",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wild-snake"
+  },
+  {
+    "name": "Wizardry Gaiden I - Joou no Junan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips",
+    "md5": "14d6a5e430452dca394bd3e641dc327b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-i---joou-no-junan"
+  },
+  {
+    "name": "Wizardry Gaiden II - Kodai Koutei no Noroi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips",
+    "md5": "177f5fc642f650e45bae33b10ba1fe48",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-ii---kodai-koutei-no-noroi"
   },
   {
     "name": "Wizardry I - Proving Grounds of the Mad Overlord",
