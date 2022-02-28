@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T04:28:17.415Z';
+export const updated = '2022-02-28T06:26:32.248Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3705,6 +3705,22 @@ export const patches = [
     "md5": "7aa389f71808dc989a38b41009a32851",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#tiny-toons-adventures-2---montanas-movie-madness"
+  },
+  {
+    "name": "Tobu Tobu Girl",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tobu.ips",
+    "md5": "48ea776eace6f2582b70dc965cf2df1f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tobu-tobu-girl"
+  },
+  {
+    "name": "Tobu Tobu Girl DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TobuDX.ips",
+    "md5": "c48f26f5079ad1b411c78fbcb2738d67",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tobu-tobu-girl-dx"
   },
   {
     "name": "Toki Tori",
