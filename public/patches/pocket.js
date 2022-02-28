@@ -133,7 +133,7 @@ export const patches = [
     "authorName": "JoseJX",
     "md5": "91128778a332495f77699eaf3a37fe30",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md",
-    "downloadUrl": "/patches/ips/alleywayDX.ips",
+    "downloadUrl": "/patches/ips/AlleywayDX.ips",
     "outputFilename": "Alleyway DX.pocket"
   },
   {
