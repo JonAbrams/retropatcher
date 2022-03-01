@@ -1,4 +1,4 @@
-export const updated = '2022-03-01T02:47:53.745Z';
+export const updated = '2022-03-01T03:25:02.496Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2511,6 +2511,14 @@ export const patches = [
     "md5": "1a4aaf4af4b3610ca74ef3b307b6b2a9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam"
+  },
+  {
+    "name": "NBA Jam - Tournament Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam-Tournament.ips",
+    "md5": "802cfbc386bb79b0889d7dd2b6abdc13",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam---tournament-edition"
   },
   {
     "name": "NHL Blades of Steel (U)",
