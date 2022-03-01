@@ -1,4 +1,4 @@
-export const updated = '2022-02-28T19:17:20.365Z';
+export const updated = '2022-03-01T02:47:53.745Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -359,6 +359,14 @@ export const patches = [
     "md5": "bc36d55377d7961a49a48a70a2827e5e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-vs-the-juggernauts"
+  },
+  {
+    "name": "Baseball",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Baseball.ips",
+    "md5": "e7bcb3f5534c8363f855ba92d83cb2d9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#baseball"
   },
   {
     "name": "Batman - Return of the Joker",
@@ -2495,6 +2503,14 @@ export const patches = [
     "md5": "feaa1bbb7e532872cf1d37d80af6fdb4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystical-ninja-starring-goemon"
+  },
+  {
+    "name": "NBA Jam",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam.ips",
+    "md5": "1a4aaf4af4b3610ca74ef3b307b6b2a9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam"
   },
   {
     "name": "NHL Blades of Steel (U)",
