@@ -1,4 +1,4 @@
-export const updated = '2022-03-01T03:25:02.496Z';
+export const updated = '2022-03-02T14:20:27.812Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4193,6 +4193,22 @@ export const patches = [
     "md5": "6b94c050291c68d6fb13c642c46873ab",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-i---proving-grounds-of-the-mad-overlord"
+  },
+  {
+    "name": "Wizardry II - Llylgamyn no Isan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips",
+    "md5": "8d0a97cc2c5235656e722b0fb9627504",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-ii---llylgamyn-no-isan"
+  },
+  {
+    "name": "Wizardry III - Diamond no Kishi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips",
+    "md5": "e81e4977a1380a6a0bac49bfd9e04671",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-iii---diamond-no-kishi"
   },
   {
     "name": "Wizards and Warriors Chapter X - The Fortress of Fear",
