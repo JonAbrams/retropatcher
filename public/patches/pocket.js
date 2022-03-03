@@ -1,4 +1,4 @@
-export const updated = '2022-03-02T14:20:27.812Z';
+export const updated = '2022-03-03T01:26:11.785Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1471,6 +1471,14 @@ export const patches = [
     "md5": "9b846e9a4eb6b80cdbc8e6c82f2b9e9e",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ghostsn-goblins"
+  },
+  {
+    "name": "Gimmick Land",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GimmickLand.ips",
+    "md5": "a562bbe876b8467cc530213ec84eba0a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gimmick-land"
   },
   {
     "name": "Godzilla",
