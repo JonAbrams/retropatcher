@@ -1,4 +1,4 @@
-export const updated = '2022-03-03T02:46:18.778Z';
+export const updated = '2022-03-03T14:20:21.565Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1361,6 +1361,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fortified-zone"
   },
   {
+    "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB2.ips",
+    "md5": "9e3d4ff0ba3d6deec5080f6dbed4fef8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou"
+  },
+  {
     "name": "Game & Watch Gallery",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GnW1.ips",
@@ -1647,6 +1655,14 @@ export const patches = [
     "md5": "65a5a0cb3c339ec473053c64c2218ab9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#infgmb"
+  },
+  {
+    "name": "Ikari no Yousai",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZoneJ.ips",
+    "md5": "ac04d143de6734e181a223d05178bde8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai"
   },
   {
     "name": "International Karate 2000",
