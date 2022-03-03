@@ -1,4 +1,4 @@
-export const updated = '2022-03-03T01:26:11.785Z';
+export const updated = '2022-03-03T02:46:18.778Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2007,6 +2007,14 @@ export const patches = [
     "md5": "7b96adfd6d3576cb2bab2afd06d8bd6e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lemmings-2---the-tribes"
+  },
+  {
+    "name": "Link's Awakening Redux",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LinksAwakeningRedux.ips",
+    "md5": "d0e0403d20475edea7ec035b836c15a3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#links-awakening-redux"
   },
   {
     "name": "Lion King",
