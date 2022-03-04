@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T05:20:18.062Z';
+export const updated = '2022-03-04T15:23:28.158Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2985,6 +2985,22 @@ export const patches = [
     "md5": "90ecc5fb29cc95d58c33d44fe630d12e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puzzle-master"
+  },
+  {
+    "name": "Puzzled",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Puzzled.ips",
+    "md5": "9108d1246f11d0e0f2cec608e79efd65",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puzzled"
+  },
+  {
+    "name": "Puzzled (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzledE.ips",
+    "md5": "ccdcb901229a2278d0be673472f411b9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puzzled-e"
   },
   {
     "name": "Pyramids of Ra",
