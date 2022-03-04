@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T17:20:11.793Z';
+export const updated = '2022-03-04T18:25:50.187Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -895,6 +895,14 @@ export const patches = [
     "md5": "7c9cef32db758d3f6b8a8a23b6902e2d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daffy-duck"
+  },
+  {
+    "name": "Daffy Duck - Fowl Play",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaffyDuckFowlPlay.ips",
+    "md5": "882a7b4d2cadedd7ed2e21d22ca8f93d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daffy-duck---fowl-play"
   },
   {
     "name": "Daikatana",
