@@ -1,4 +1,4 @@
-export const updated = '2022-03-03T14:20:21.565Z';
+export const updated = '2022-03-04T02:47:27.861Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -535,6 +535,14 @@ export const patches = [
     "md5": "c4868bf46a993b4c33a9a8af5341282a",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#blaster-master-boy"
+  },
+  {
+    "name": "Blues Brothers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesBrothers.ips",
+    "md5": "ceaedf86193a8708a8a67e0e472b57fb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#blues-brothers"
   },
   {
     "name": "Boggle Plus",
@@ -2487,6 +2495,22 @@ export const patches = [
     "md5": "76fa4014bfbb0ee2b63267af7ac373f2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-driller"
+  },
+  {
+    "name": "Mr. Nutz",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrNutz.ips",
+    "md5": "9ba7b607ec310589c5ccfb1a8149df59",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-nutz"
+  },
+  {
+    "name": "Mr. Nutz (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrNutzE.ips",
+    "md5": "83b67b8a10f704a9e3e7ca3814e5b3ca",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-nutz-e"
   },
   {
     "name": "Ms. Pac-Man",
