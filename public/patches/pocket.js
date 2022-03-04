@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T15:23:28.158Z';
+export const updated = '2022-03-04T17:20:11.793Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2367,6 +2367,14 @@ export const patches = [
     "md5": "ff9b78e1f399fc2bd665b8a08ba27456",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-speedway-usa"
+  },
+  {
+    "name": "Mickey's Ultimate Challenge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysUltimateChallenge.ips",
+    "md5": "f7d266bc81c150796ae373bddd0a9a84",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-ultimate-challenge"
   },
   {
     "name": "Micro Machines (U,E)",
