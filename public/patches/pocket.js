@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T18:25:50.187Z';
+export const updated = '2022-03-04T20:22:51.933Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7,6 +7,14 @@ export const patches = [
     "md5": "1f1fb3cf8783f880bc796d667be60231",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#007-james-bond---the-world-is-not-enough"
+  },
+  {
+    "name": "3-D Ultra Pinball - Thrillride",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/3DUltraPinball.ips",
+    "md5": "b9cf8d2416f8a6dd3b412afd91337f40",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#3-d-ultra-pinball---thrillride"
   },
   {
     "name": "3D Pocket Pool",
