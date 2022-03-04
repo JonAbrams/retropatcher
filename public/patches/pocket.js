@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T20:22:51.933Z';
+export const updated = '2022-03-04T22:17:27.289Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7,6 +7,14 @@ export const patches = [
     "md5": "1f1fb3cf8783f880bc796d667be60231",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#007-james-bond---the-world-is-not-enough"
+  },
+  {
+    "name": "1942",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/1942.ips",
+    "md5": "a31652b6d1e7fc647c4af7b9dfe05ff5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#1942"
   },
   {
     "name": "3-D Ultra Pinball - Thrillride",
@@ -1687,6 +1695,14 @@ export const patches = [
     "md5": "ac04d143de6734e181a223d05178bde8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai"
+  },
+  {
+    "name": "Indiana Jones and the Last Crusade",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndianaJonesLastCrusade.ips",
+    "md5": "a27e15cde0a8fbfc4489e0f599a53a9a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#indiana-jones-and-the-last-crusade"
   },
   {
     "name": "International Karate 2000",
