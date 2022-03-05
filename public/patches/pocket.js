@@ -1,4 +1,4 @@
-export const updated = '2022-03-05T20:21:15.630Z';
+export const updated = '2022-03-05T21:51:30.853Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2039,6 +2039,14 @@ export const patches = [
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/zeldaDX-USA-rev2.ips"
+  },
+  {
+    "name": "Legend of Zelda, The - Link's Awakening Redux",
+    "authorName": "JoseJX",
+    "md5": "7351daa3c0a91d8f6fe2fbcca6182478",
+    "outputFilename": "Link's Awakening Redux.pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#links-awakening-redux",
+    "downloadUrl": "/patches/ips/ZeldaToRedux.ips"
   },
   {
     "name": "Legend of the River King",

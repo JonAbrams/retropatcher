@@ -124,6 +124,14 @@
       "downloadUrl": "/patches/ips/zeldaDX-Japan.ips"
     },
     {
+      "name": "Legend of Zelda, The - Link's Awakening Redux",
+      "authorName": "JoseJX",
+      "md5": "7351daa3c0a91d8f6fe2fbcca6182478",
+      "outputFilename": "Link's Awakening Redux.pocket",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#links-awakening-redux",
+      "downloadUrl": "/patches/ips/ZeldaToRedux.ips"
+    },
+    {
       "name": "Kirby's Dream Land DX with Fluffy Repair Service",
       "authorName": "JoseJX",
       "md5": "a66e4918edcd042ec171a57fe3ce36c3",
