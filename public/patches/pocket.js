@@ -1,4 +1,4 @@
-export const updated = '2022-03-05T07:19:54.830Z';
+export const updated = '2022-03-05T20:21:15.630Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -423,6 +423,14 @@ export const patches = [
     "md5": "28737a5c760938a9746fa9e1a2fcefc6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman-forever"
+  },
+  {
+    "name": "Batman of the Future - Return of the Joker",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BatmanReturnOfTheJokerE.ips",
+    "md5": "19cd9d45c6bb221613101b22c72593b2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#batman-of-the-future---return-of-the-joker"
   },
   {
     "name": "Battle Arena Toshinden",
@@ -4425,6 +4433,14 @@ export const patches = [
     "md5": "cc17f52e5140c0d1ad892d1856d05212",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-men---mutant-academy"
+  },
+  {
+    "name": "X-Men - Mutant Wars",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XMen-MW.ips",
+    "md5": "2c74082758017e30990e30b145c2f841",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-men---mutant-wars"
   },
   {
     "name": "X-Men - Wolverine's Rage",
