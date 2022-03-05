@@ -1,4 +1,4 @@
-export const updated = '2022-03-04T22:17:27.289Z';
+export const updated = '2022-03-05T07:19:54.830Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2105,6 +2105,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes"
   },
   {
+    "name": "Lucky Luke",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLuke.ips",
+    "md5": "7cf3670a8f345344e4789e41503d7da6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucky-luke"
+  },
+  {
+    "name": "Lucky Luke (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLukeE.ips",
+    "md5": "eb76fda958f100fb791111b928ffe46f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucky-luke-e"
+  },
+  {
     "name": "Lufia - The Legend Returns",
     "authorName": "Infinest",
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Lufia%20Analogue%20Pocket%20patch.ips",
@@ -3977,6 +3993,14 @@ export const patches = [
     "md5": "20b1ed1ae966b173c3a0f7f7f267e408",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph"
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RainbowSix.ips",
+    "md5": "6e863b582bddb6126bb63633f41befd8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tom-clancys-rainbow-six"
   },
   {
     "name": "Tom and Jerry in Mouse Attacks!",
