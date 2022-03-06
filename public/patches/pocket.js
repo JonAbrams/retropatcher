@@ -1,4 +1,4 @@
-export const updated = '2022-03-06T21:18:16.053Z';
+export const updated = '2022-03-06T23:21:36.250Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3705,6 +3705,14 @@ export const patches = [
     "md5": "9ba2999ef3ecf9e27ac6c88e995c9d7a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-rc-pro-am"
+  },
+  {
+    "name": "Super Robot Pinball",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotPinball.ips",
+    "md5": "6c7dc7ce74088a9e42a6fb8d98a67714",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-pinball"
   },
   {
     "name": "Super Robot Taisen",
