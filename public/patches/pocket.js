@@ -1,4 +1,4 @@
-export const updated = '2022-03-05T21:51:30.853Z';
+export const updated = '2022-03-06T15:21:43.495Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2135,6 +2135,14 @@ export const patches = [
     "md5": "eb76fda958f100fb791111b928ffe46f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucky-luke-e"
+  },
+  {
+    "name": "Lucky Luke - Desperado Train",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLukeDesperado.ips",
+    "md5": "31770f7197ea4a7ff99cad7cef5c58b8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucky-luke---desperado-train"
   },
   {
     "name": "Lufia - The Legend Returns",
