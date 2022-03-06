@@ -1,4 +1,4 @@
-export const updated = '2022-03-06T15:21:43.495Z';
+export const updated = '2022-03-06T18:24:29.487Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3545,6 +3545,14 @@ export const patches = [
     "md5": "820e0a19275fabc03fe619c42db47179",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere"
+  },
+  {
+    "name": "Star Trek - 25th Anniversary",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrek25th.ips",
+    "md5": "e1b8b8158c54df9188d54c4d5331e53d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-trek---25th-anniversary"
   },
   {
     "name": "Star Trek - The Next Generation",
