@@ -1,4 +1,4 @@
-export const updated = '2022-03-06T18:24:29.487Z';
+export const updated = '2022-03-06T20:22:33.753Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -535,6 +535,14 @@ export const patches = [
     "md5": "b3347b3219a7183697e83655f4628827",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bionic-commando---elite-forces"
+  },
+  {
+    "name": "Blade",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blade.ips",
+    "md5": "6b3ceb7bb280c0c0cb7543fe33925cb7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#blade"
   },
   {
     "name": "Blades of Steel",
