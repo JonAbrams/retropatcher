@@ -1,4 +1,4 @@
-export const updated = '2022-03-06T20:22:33.753Z';
+export const updated = '2022-03-06T21:18:16.053Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3139,7 +3139,7 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampage-world-tour"
   },
   {
-    "name": "Rats",
+    "name": "Rats!",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rats.ips",
     "md5": "d240328faacf5583804a30b7003743b3",
@@ -3153,6 +3153,14 @@ export const patches = [
     "md5": "b941941050fc32406eca4733926a3779",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#rayman"
+  },
+  {
+    "name": "Rayman 2 - The Great Escape",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rayman2.ips",
+    "md5": "feb32471ea029a55d7bdea7e0bdc6961",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rayman-2---the-great-escape"
   },
   {
     "name": "Real Ghostbusters",
