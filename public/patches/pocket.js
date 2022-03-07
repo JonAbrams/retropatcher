@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T06:20:05.325Z';
+export const updated = '2022-03-07T07:20:45.377Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2743,6 +2743,14 @@ export const patches = [
     "md5": "c4dc3987a841a428f837db26bddc586e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis-ii"
+  },
+  {
+    "name": "New Batman Adventures - Chaos in Gotham",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewBatman.ips",
+    "md5": "3d818762aa83330ce4426f8005cc374b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#new-batman-adventures---chaos-in-gotham"
   },
   {
     "name": "New Chessmaster",
