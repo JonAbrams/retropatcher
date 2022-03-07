@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T07:20:45.377Z';
+export const updated = '2022-03-07T08:26:38.349Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -599,6 +599,14 @@ export const patches = [
     "md5": "c987f711dfb9cba8dc1174219877360f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-max---blue-champion"
+  },
+  {
+    "name": "Bomberman Max - Red Challenger",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanMaxRed.ips",
+    "md5": "1757723cf346be2cea58d0fc4ed4cfa9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-max---red-challenger"
   },
   {
     "name": "Bomberman Quest",
@@ -2169,6 +2177,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes"
   },
   {
+    "name": "Loopz",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Loopz.ips",
+    "md5": "7e68c061d77a2e8925442a9b6fa0a0ed",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#loopz"
+  },
+  {
     "name": "Lucky Luke",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LuckyLuke.ips",
@@ -2951,6 +2967,14 @@ export const patches = [
     "md5": "aa13e886a47fd473da63b7d5ddf2828d",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_pikachu"
+  },
+  {
+    "name": "Pocket Music",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMusic.ips",
+    "md5": "84eede6bb298dd354f251eccb1259316",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-music"
   },
   {
     "name": "Pokemon - Yellow Version",
