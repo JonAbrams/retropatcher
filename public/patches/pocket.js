@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T08:26:38.349Z';
+export const updated = '2022-03-07T20:22:53.107Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -327,6 +327,14 @@ export const patches = [
     "md5": "1e8c2c4cdf5e67e708c51c9739e6f2c8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bad-apple-demo"
+  },
+  {
+    "name": "Ballistic",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ballistic.ips",
+    "md5": "3b783f3fded9c61f2f9bb1d956bfd6cd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ballistic"
   },
   {
     "name": "Balloon Fight GB",
@@ -1679,6 +1687,14 @@ export const patches = [
     "md5": "0ff9df46aca45161d1dfa7eee8509c1f",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#harvest-moon-3"
+  },
+  {
+    "name": "Heiankyo Alien",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeiankyoAlien.ips",
+    "md5": "b236e81e9f5c19148c24c4984d8ef90f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heiankyo-alien"
   },
   {
     "name": "Hercules",
