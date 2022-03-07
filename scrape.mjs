@@ -23,6 +23,9 @@ const sources = {
   BestPig: {
     md: "https://gist.githubusercontent.com/BestPig/528fb9a19cbb638fac1278a641041881/raw/analogue-pocket-game-patches.md",
   },
+  reminon: {
+    md: "https://raw.githubusercontent.com/reminon/pocket-patches/main/README.md",
+  },
 };
 
 (async () => {

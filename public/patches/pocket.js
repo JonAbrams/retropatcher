@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T05:19:29.516Z';
+export const updated = '2022-03-07T06:20:05.325Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -593,6 +593,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-gb"
   },
   {
+    "name": "Bomberman Max - Blue Champion",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanMax.ips",
+    "md5": "c987f711dfb9cba8dc1174219877360f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-max---blue-champion"
+  },
+  {
     "name": "Bomberman Quest",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuest.ips",
@@ -1161,6 +1169,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-de"
   },
   {
+    "name": "Dragon Quest-1and2",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Dragon%20Quest%20I%20%26%20II%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips",
+    "md5": "5045139eb57b9d6cdfa1366f473a1e4c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#dragon-quest-1and2"
+  },
+  {
     "name": "Dragon Warrior I & II",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/4f75bb3b2e832eb3ecd27296a2a2d7f2a2dde666/Dragon+Warrior+I+%26+II+%28USA%29+%28SGB+Enhanced%29-71d693da.ips",
@@ -1415,6 +1431,14 @@ export const patches = [
     "md5": "9e3d4ff0ba3d6deec5080f6dbed4fef8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou"
+  },
+  {
+    "name": "GB Genjin 2",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/GB%20Genjin%202%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "b6d07d6830c8517aa96b000d9f3b2bf6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#gb-genjin-2"
   },
   {
     "name": "Game & Watch Gallery",
@@ -2489,6 +2513,14 @@ export const patches = [
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#micro-machines-1-and-2---twin-turbo-ue"
   },
   {
+    "name": "Midori no Makibaou",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Midori%20no%20Makibaou%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "c29df42ef1237c4392049196d2205ffe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#midori-no-makibaou"
+  },
+  {
     "name": "Mighty Morphin Power Rangers - The Movie",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MMPR.ips",
@@ -2865,6 +2897,54 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-monsters---crystal-version-vn"
   },
   {
+    "name": "Pocket Monsters_Aka",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Aka%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "912d4f77d118390a2e2c42b2016a19d4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_aka"
+  },
+  {
+    "name": "Pocket Monsters_Ao",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Ao%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "c1adf0a77809ac91d905a4828888a2f0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_ao"
+  },
+  {
+    "name": "Pocket Monsters_Gin",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20Gin%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips",
+    "md5": "75519c8b57cea3ac91133b3dec7658de",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_gin"
+  },
+  {
+    "name": "Pocket Monsters_Kin",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20Kin%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips",
+    "md5": "85be569fe89f58c40f60480313314c67",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_kin"
+  },
+  {
+    "name": "Pocket Monsters_Midori",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/reminon-pocket-patches/raw/main/Pocket%20Monsters%20-%20Midori%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "e30ffbab1f239f09b226477d84db1368",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_midori"
+  },
+  {
+    "name": "Pocket Monsters_Pikachu",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Pikachu%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "aa13e886a47fd473da63b7d5ddf2828d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pocket-monsters_pikachu"
+  },
+  {
     "name": "Pokemon - Yellow Version",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/cdf8c80447a3ae1987ec4b51b2f11de2a0321f61/Pokemon+Yellow+%28USA%2C+Europe%29-7d527d62.ips",
@@ -2888,6 +2968,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/pokemonBlueColored.ips",
     "outputFilename": "Pokemon Blue - Colored.pocket"
+  },
+  {
+    "name": "Pokemon Gelbe Edition",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pokemon%20-%20Gelbe%20Edition%20-%20Special%20Pikachu%20Edition%20(Germany)%20(GBC%2CSGB%20Enhanced).ips",
+    "md5": "e93f10168e3c9b9d18e3ad4a1415e1d0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-gelbe-edition"
   },
   {
     "name": "Pokemon Picross",
@@ -2937,6 +3025,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/pokemonRedColored.ips",
     "outputFilename": "Pokemon Red - Colored.pocket"
+  },
+  {
+    "name": "Pokemon Rote Edition",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pokemon%20-%20Rote%20Edition%20(Germany)%20(SGB%20Enhanced).ips",
+    "md5": "8ed0e8d45a81ca34de625d930148a512",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-rote-edition"
   },
   {
     "name": "Pokémon Crystal Clear 2.4.4",
@@ -3441,6 +3537,22 @@ export const patches = [
     "md5": "a574e5f7119b31e5112221c3a0ada813",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs"
+  },
+  {
+    "name": "Smurfs' Nightmare",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmare.ips",
+    "md5": "20052c527795a4f332be14aff49d4d4b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs-nightmare"
+  },
+  {
+    "name": "Smurfs' Nightmare (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmurfsNightmareE.ips",
+    "md5": "5da63fe252b4cb3e17dd4986fb276690",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs-nightmare-e"
   },
   {
     "name": "Snow Bros. Jr.",
@@ -4083,6 +4195,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tokimeki-memorial-pocket---sport-hen---koutei-no-photograph"
   },
   {
+    "name": "Tokoro_san no Setagaya C.C.",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Tokoro-san%20no%20Setagaya%20C.C.%20(Japan)%20(GB%20Compatible).ips",
+    "md5": "2b77458ef761618d869eb1713d567aa4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#tokoro_san-no-setagaya-cc"
+  },
+  {
     "name": "Tom Clancy's Rainbow Six",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RainbowSix.ips",
@@ -4321,6 +4441,14 @@ export const patches = [
     "md5": "d9d957771484ef846d4e8d241f6f2815",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land---super-mario-land-3"
+  },
+  {
+    "name": "Wario Land 2",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Wario%20Land%202%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips",
+    "md5": "a5be435543968412caac1fe7c914472e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#wario-land-2"
   },
   {
     "name": "Wario Land 2",
@@ -4563,6 +4691,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshi"
   },
   {
+    "name": "Yoshi no Panepon",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Yoshi%20no%20Panepon%20(Japan)%20(SGB%20Enhanced).ips",
+    "md5": "11be7ff8141f8d7a5c8cca903151f0ba",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#yoshi-no-panepon"
+  },
+  {
     "name": "Yoshi's Cookie",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshisCookie.ips",
@@ -4593,6 +4729,22 @@ export const patches = [
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/zeldaDX-Japan.ips"
+  },
+  {
+    "name": "Zelda no Densetsu_Fushigi no Kinomi_Daichi no Shou",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Daichi%20no%20Shou%20(Japan).ips",
+    "md5": "d3c08c1eb4f93b64c30fcb0bb7ff8924",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#zelda-no-densetsu_fushigi-no-kinomi_daichi-no-shou"
+  },
+  {
+    "name": "Zelda no Densetsu_Fushigi no Kinomi_Jikuu no Shou",
+    "authorName": "reminon",
+    "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20(Japan).ips",
+    "md5": "484020d0bf01d29f2a74322e0d4acc3a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#zelda-no-densetsu_fushigi-no-kinomi_jikuu-no-shou"
   },
   {
     "name": "Zool - Ninja of the N'th Dimension",

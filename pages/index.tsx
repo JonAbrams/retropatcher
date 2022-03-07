@@ -312,8 +312,8 @@ const Home: NextPage = () => {
           ]
         </div>
         <div>
-          Patches created by JoseJX, BestPig, Infinest, jsky0, Trey Turner, and
-          r0r0.
+          Patches created by JoseJX, BestPig, Infinest, jsky0, Trey Turner,
+          reminon, and r0r0.
         </div>
       </footer>
     </div>
