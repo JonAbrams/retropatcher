@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T20:22:53.107Z';
+export const updated = '2022-03-07T23:21:05.804Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1759,6 +1759,14 @@ export const patches = [
     "md5": "ac04d143de6734e181a223d05178bde8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai"
+  },
+  {
+    "name": "Ikari no Yousai 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips",
+    "md5": "1efea4210026a8d733a5b2ade2b005f1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai-2"
   },
   {
     "name": "Indiana Jones and the Infernal Machine",
