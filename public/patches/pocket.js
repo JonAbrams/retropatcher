@@ -1,4 +1,4 @@
-export const updated = '2022-03-06T23:21:36.250Z';
+export const updated = '2022-03-07T01:23:24.151Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1713,6 +1713,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai"
   },
   {
+    "name": "Indiana Jones and the Infernal Machine",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndianaJonesInfernal.ips",
+    "md5": "4adc91b001cf02dc42d2c0339535b8f9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#indiana-jones-and-the-infernal-machine"
+  },
+  {
     "name": "Indiana Jones and the Last Crusade",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndianaJonesLastCrusade.ips",
@@ -1935,6 +1943,14 @@ export const patches = [
     "md5": "7d4f3bf92bbff701583eb74f36951bb9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klax"
+  },
+  {
+    "name": "Klax (Color)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KlaxColor.ips",
+    "md5": "3bd0dad0c695a534b9e89264e09e2b11",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klax-color"
   },
   {
     "name": "Klondike",
