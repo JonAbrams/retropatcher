@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T01:23:24.151Z';
+export const updated = '2022-03-07T02:42:05.396Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2705,6 +2705,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis"
   },
   {
+    "name": "Nemesis II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis2.ips",
+    "md5": "c4dc3987a841a428f837db26bddc586e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis-ii"
+  },
+  {
     "name": "New Chessmaster",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmaster.ips",
@@ -4489,6 +4497,14 @@ export const patches = [
     "md5": "7e0df312ccd8f3e25bf3074e17d5aedf",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#worms-armageddon"
+  },
+  {
+    "name": "X",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/X.ips",
+    "md5": "988516a3d733132af304b1c6710a923a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x"
   },
   {
     "name": "X-Men - Mutant Academy",
