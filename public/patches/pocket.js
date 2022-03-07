@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T02:42:05.396Z';
+export const updated = '2022-03-07T05:19:29.516Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2985,6 +2985,14 @@ export const patches = [
     "md5": "1134862e84110443190df460351d4575",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-2"
+  },
+  {
+    "name": "Pong - The Next Level",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PongNextLevel.ips",
+    "md5": "0a3da06446d9a2c7e1ea8149c9026434",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pong---the-next-level"
   },
   {
     "name": "Pop'n Music GB",
