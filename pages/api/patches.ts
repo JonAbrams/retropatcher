@@ -24,10 +24,12 @@ export default function handler(
     results = patches.filter((patch: Patch) =>
       req.body.md5s.includes(patch.md5)
     );
-  } else if (req.query.q?.length >= 3) {
-    const q = req.query.q as string;
+  } else if (!Array.isArray(req.query.q) && req.query.q?.length >= 3) {
+    const q = req.query.q.toLowerCase();
     results = patches.filter(
-      (patch: Patch) => patch.name.toLowerCase().indexOf(q.toLowerCase()) > -1
+      (patch: Patch) =>
+        patch.name.toLowerCase().indexOf(q) > -1 ||
+        patch.authorName.toLowerCase().indexOf(q) > -1
     );
   } else if (req.query.startsWith?.[0].match(/[#a-z]/)) {
     const startsWith =
