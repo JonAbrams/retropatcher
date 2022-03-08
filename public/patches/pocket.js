@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T12:36:48.773Z';
+export const updated = '2022-03-08T18:26:02.678Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1679,6 +1679,22 @@ export const patches = [
     "md5": "ba85a2ae8aa5829c440eef2d5549506c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harry-potter-and-the-sorcerers-stone"
+  },
+  {
+    "name": "Harvest Moon 2 GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon2.ips",
+    "md5": "a539a7a02639395ad8d7723199c81eae",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harvest-moon-2-gbc"
+  },
+  {
+    "name": "Harvest Moon 2 GBC (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon2E.ips",
+    "md5": "74c9fe928dd97ae193e9f937ce340dcc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harvest-moon-2-gbc-e"
   },
   {
     "name": "Harvest Moon 3",
