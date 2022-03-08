@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T22:22:07.241Z';
+export const updated = '2022-03-08T23:21:39.058Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -847,6 +847,14 @@ export const patches = [
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/cave_noire_aeon_genesis_translation.ips",
     "md5": "10d92861e262069ce31559e12b927aa0",
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
+  },
+  {
+    "name": "Chalvo 55 - Super Puzzle Action",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips",
+    "md5": "ba50565630891680c9cf8b1827fca429",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chalvo-55---super-puzzle-action"
   },
   {
     "name": "Chase H.Q.",
@@ -4641,6 +4649,14 @@ export const patches = [
     "md5": "692fc5a0b6a9893d6ea25326c55caae5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#who-framed-rodger-rabbit"
+  },
+  {
+    "name": "Who Wants to be a Millionare 2nd Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Millionaire2nd.ips",
+    "md5": "866dca02365fd72f9ad396dca758d8b5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#who-wants-to-be-a-millionare-2nd-edition"
   },
   {
     "name": "Wild Snake",
