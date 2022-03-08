@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T18:26:02.678Z';
+export const updated = '2022-03-08T21:18:53.681Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1551,6 +1551,22 @@ export const patches = [
     "md5": "f0462eba75d879c40668e20d1dbdb612",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gex---enter-the-gecko"
+  },
+  {
+    "name": "Gex 3 - Deep Cover Gecko",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex3E.ips",
+    "md5": "89d563bcc7b6f2f087cdafa8a78a8aa7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gex-3---deep-cover-gecko"
+  },
+  {
+    "name": "Gex 3 - Deep Pocket Gecko",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gex3.ips",
+    "md5": "91eb6db42e92e2df05cc2b40f0dbc2f0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gex-3---deep-pocket-gecko"
   },
   {
     "name": "Ghostbusters II",
