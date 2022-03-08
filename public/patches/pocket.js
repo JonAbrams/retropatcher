@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T01:22:48.716Z';
+export const updated = '2022-03-08T02:38:31.450Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3299,6 +3299,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#qix-adventure"
   },
   {
+    "name": "Quarth",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Quarth.ips",
+    "md5": "de2236723c8d218e04c93849ebcda72d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quarth"
+  },
+  {
     "name": "R-Type",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips",
@@ -3593,6 +3601,14 @@ export const patches = [
     "md5": "2a4f3309fe05b47a98d8c5b4c81b91e5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#simpsons---night-of-the-living-tree-house-of-horror"
+  },
+  {
+    "name": "Skate or Die - Bad 'N Rad",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieRad.ips",
+    "md5": "ed7318b615b0a827f3edcff0c817caea",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#skate-or-die---bad-n-rad"
   },
   {
     "name": "Smurfs",
