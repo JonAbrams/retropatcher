@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T02:38:31.450Z';
+export const updated = '2022-03-08T12:36:48.773Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3193,6 +3193,14 @@ export const patches = [
     "md5": "ab5fac354726b7b0710cfdba22d7142f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#populous"
+  },
+  {
+    "name": "Power Mission",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerMission.ips",
+    "md5": "3c8dfc25fd8d2691cfe1cb2c375e097c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-mission"
   },
   {
     "name": "Power Quest",
