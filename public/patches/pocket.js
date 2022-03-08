@@ -1,4 +1,4 @@
-export const updated = '2022-03-07T23:21:05.804Z';
+export const updated = '2022-03-08T01:22:48.716Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3321,6 +3321,14 @@ export const patches = [
     "md5": "f0bfbded7125dd312eaf36d16c1556a1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampage-world-tour"
+  },
+  {
+    "name": "Rampart",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampart.ips",
+    "md5": "aba4c0670730f413d4946d88aab28629",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampart"
   },
   {
     "name": "Rats!",
