@@ -1,4 +1,4 @@
-export const updated = '2022-03-09T01:27:26.619Z';
+export const updated = '2022-03-09T02:43:08.219Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -551,6 +551,14 @@ export const patches = [
     "md5": "7afb675171d58105112dbacf2ced77cb",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bishoujo-senshi-sailor-moon"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon R",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SailorMoonR.ips",
+    "md5": "84634fb36156bb1b9e54bc62fbaf3525",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bishoujo-senshi-sailor-moon-r"
   },
   {
     "name": "Blade",
