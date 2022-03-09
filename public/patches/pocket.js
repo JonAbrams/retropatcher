@@ -1,4 +1,4 @@
-export const updated = '2022-03-09T15:22:47.695Z';
+export const updated = '2022-03-09T16:32:27.149Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1809,6 +1809,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#humans"
   },
   {
+    "name": "Hyper Lode Runner",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HyperLodeRunner.ips",
+    "md5": "dc79b733997e469e961e2d850448db23",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hyper-lode-runner"
+  },
+  {
     "name": "INFGMB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/INFGMB.ips",
@@ -2855,6 +2863,14 @@ export const patches = [
     "md5": "c4dc3987a841a428f837db26bddc586e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis-ii"
+  },
+  {
+    "name": "Nettou Samurai Spirits - Zankurou Musouken",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouSamuraiSpirits.ips",
+    "md5": "4426b35ef04094f9c5518d6fb6414d55",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nettou-samurai-spirits---zankurou-musouken"
   },
   {
     "name": "New Batman Adventures - Chaos in Gotham",
