@@ -1,4 +1,4 @@
-export const updated = '2022-03-09T18:26:07.135Z';
+export const updated = '2022-03-09T20:22:32.144Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2631,6 +2631,14 @@ export const patches = [
     "md5": "a721520df37c636ed924dbc268cdd753",
     "extension": "pocket",
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#micro-machines-1-and-2---twin-turbo-ue"
+  },
+  {
+    "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MS6in1.ips",
+    "md5": "45a4cefca0b17ca193869bf6d6134d7c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#microsoft---the-6-in-1-puzzle-collection-entertainment-pack"
   },
   {
     "name": "Midori no Makibaou",
