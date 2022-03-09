@@ -1,4 +1,4 @@
-export const updated = '2022-03-09T16:32:27.149Z';
+export const updated = '2022-03-09T18:26:07.135Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4617,6 +4617,14 @@ export const patches = [
     "md5": "716de1a7f4178fd941edf22d1a907624",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wacky-races"
+  },
+  {
+    "name": "Walt Disney's Alice In Wonderland",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AliceInWonderland.ips",
+    "md5": "0ed5b9ffe7ad90d819cac810d05b669c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#walt-disneys-alice-in-wonderland"
   },
   {
     "name": "Wario Blast featuring Bomberman!",
