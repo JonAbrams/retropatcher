@@ -1,4 +1,4 @@
-export const updated = '2022-03-08T23:21:39.058Z';
+export const updated = '2022-03-09T01:27:26.619Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -545,6 +545,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bionic-commando---elite-forces"
   },
   {
+    "name": "Bishoujo Senshi Sailor Moon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SailorMoon.ips",
+    "md5": "7afb675171d58105112dbacf2ced77cb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bishoujo-senshi-sailor-moon"
+  },
+  {
     "name": "Blade",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blade.ips",
@@ -799,6 +807,14 @@ export const patches = [
     "md5": "dd5d45d9f8722f8ded9ab85097daa4e5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#captain-america-and-the-avengers"
+  },
+  {
+    "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CardcaptorSakuraTomoeda.ips",
+    "md5": "3a998a2ec99c89696c9b23bbbd87f116",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai"
   },
   {
     "name": "Castlevania - The Adventure",
@@ -2271,6 +2287,14 @@ export const patches = [
     "md5": "31770f7197ea4a7ff99cad7cef5c58b8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucky-luke---desperado-train"
+  },
+  {
+    "name": "Lucle",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lucle.ips",
+    "md5": "e1d28ce25a61b4f623c3c8013ce55b89",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lucle"
   },
   {
     "name": "Lufia - The Legend Returns",
