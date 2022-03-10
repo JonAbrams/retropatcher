@@ -1,4 +1,4 @@
-export const updated = '2022-03-10T03:25:54.653Z';
+export const updated = '2022-03-10T05:19:41.238Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3945,6 +3945,14 @@ export const patches = [
     "md5": "d1e875cb7dac0092e83b9e7799b06653",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars-episode-i---racer"
+  },
+  {
+    "name": "Stargate",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Stargate.ips",
+    "md5": "04bde16beda3f9d7cec4509a04a75946",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#stargate"
   },
   {
     "name": "Stop That Roach!",
