@@ -1,4 +1,4 @@
-export const updated = '2022-03-09T20:22:32.144Z';
+export const updated = '2022-03-10T03:25:54.653Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1839,6 +1839,14 @@ export const patches = [
     "md5": "1efea4210026a8d733a5b2ade2b005f1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai-2"
+  },
+  {
+    "name": "Incredible Crash Dummies",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IncredibleCrashDummies.ips",
+    "md5": "c21058af21efc29413797f0a2c532e16",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#incredible-crash-dummies"
   },
   {
     "name": "Indiana Jones and the Infernal Machine",
@@ -4465,6 +4473,14 @@ export const patches = [
     "md5": "ea82922267095a2268d76e4f21d4ff93",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-ranking-tennis"
+  },
+  {
+    "name": "Track Meet",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TrackMeet.ips",
+    "md5": "9ab4e706b5dd1bb68b4e29a0174c330d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#track-meet"
   },
   {
     "name": "Track and Field",
