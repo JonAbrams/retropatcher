@@ -1,4 +1,4 @@
-export const updated = '2022-03-11T22:22:00.752Z';
+export const updated = '2022-03-11T23:21:33.504Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -65,6 +65,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#a-mazing-tater"
   },
   {
+    "name": "Adulting! v2.0",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Adulting-v2.ips",
+    "md5": "95a0f644d8778b1c934ac5ae8791d80f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adulting-v20"
+  },
+  {
     "name": "Adventure Island",
     "authorName": "Trey Turner",
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Adventure%20Island%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
@@ -87,6 +95,14 @@ export const patches = [
     "md5": "8f6b6ef366a787852f664d945c86eb72",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-lolo"
+  },
+  {
+    "name": "Adventures of Star Saver",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips",
+    "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-star-saver"
   },
   {
     "name": "Aladdin",
@@ -1431,6 +1447,14 @@ export const patches = [
     "md5": "db156bc96b528996ce1bf771195171af",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-legend-iii"
+  },
+  {
+    "name": "Final Fantasy XI - Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FFXI-Adventure.ips",
+    "md5": "efaf761d789e9f6e7cddf81b500576d8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-xi---adventure"
   },
   {
     "name": "Fish Files",
@@ -3595,6 +3619,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revenge-of-the-gator"
   },
   {
+    "name": "Road Rash (Color)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashGBC.ips",
+    "md5": "f5767f97f44365b703eae78afb7562e6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-rash-color"
+  },
+  {
     "name": "RoboCop",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips",
@@ -4363,14 +4395,6 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris-dx"
   },
   {
-    "name": "The Adventures of Star Saver",
-    "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarSaver.ips",
-    "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
-    "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#the-adventures-of-star-saver"
-  },
-  {
     "name": "The Binding of Isaac: Game Boy Edition",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/f64bb1da60b7021d5adb676665c03b19f316a7ec/ISAAC-bf922249.ips",
@@ -5089,5 +5113,13 @@ export const patches = [
     "md5": "2387654e0e8e63bfc5f85d9bd7aa6ac3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zoop"
+  },
+  {
+    "name": "dots",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/dots.ips",
+    "md5": "9b6bae8d17c89b1831047854a530ce5d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dots"
   }
 ];
