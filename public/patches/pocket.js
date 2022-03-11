@@ -1,4 +1,4 @@
-export const updated = '2022-03-11T13:25:06.192Z';
+export const updated = '2022-03-11T20:22:30.264Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -951,6 +951,14 @@ export const patches = [
     "md5": "5a7673f1e61cd707bdc880ff76396a3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cool-bricks"
+  },
+  {
+    "name": "Cool Spot",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolSpot.ips",
+    "md5": "27d7c8ae7cc36c1d5dfd8bd15df57e8d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cool-spot"
   },
   {
     "name": "Cosmo Tank",
@@ -2231,6 +2239,14 @@ export const patches = [
     "md5": "3519c45ce55aad2f0565513723c90672",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-2"
+  },
+  {
+    "name": "Legend of the Sea King",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendSeaKing.ips",
+    "md5": "36dbbefd222bdb0921189c4be4fa1ead",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-sea-king"
   },
   {
     "name": "Lemmings",
@@ -3897,6 +3913,22 @@ export const patches = [
     "md5": "4272d192cf2b14db93f1e2d1bc07aa74",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spongebob-squarepants---legend-of-the-lost-spatula"
+  },
+  {
+    "name": "Spot",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spot.ips",
+    "md5": "2524230d0300f46ebf423ae1b37747eb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spot"
+  },
+  {
+    "name": "Spot - The Cool Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpotCoolAdventure.ips",
+    "md5": "58e1cd396548b0e57b0514d8bec066d9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spot---the-cool-adventure"
   },
   {
     "name": "Spud's Adventure",
