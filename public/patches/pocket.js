@@ -1,4 +1,4 @@
-export const updated = '2022-03-10T05:19:41.238Z';
+export const updated = '2022-03-11T01:34:45.864Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3745,6 +3745,22 @@ export const patches = [
     "md5": "5da63fe252b4cb3e17dd4986fb276690",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs-nightmare-e"
+  },
+  {
+    "name": "Snoopy's - Magic Show",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips",
+    "md5": "3d8f6eccc13f3344c8d971b7e141f064",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopys---magic-show"
+  },
+  {
+    "name": "Snoopy's Magic Show DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShowDX.ips",
+    "md5": "6fd39be1e41aea4b354fd291d9677b39",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopys-magic-show-dx"
   },
   {
     "name": "Snow Bros. Jr.",
