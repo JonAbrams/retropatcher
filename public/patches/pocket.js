@@ -1,4 +1,4 @@
-export const updated = '2022-03-11T02:44:43.987Z';
+export const updated = '2022-03-11T13:25:06.192Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2775,6 +2775,14 @@ export const patches = [
     "md5": "76fa4014bfbb0ee2b63267af7ac373f2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-driller"
+  },
+  {
+    "name": "Mr. Driller (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDrillerJ.ips",
+    "md5": "b4c21d6cf67f5742ef3a19860eb31d2e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-driller-j"
   },
   {
     "name": "Mr. Nutz",
