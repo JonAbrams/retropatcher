@@ -1,4 +1,4 @@
-export const updated = '2022-03-11T20:22:30.264Z';
+export const updated = '2022-03-11T22:22:00.752Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2225,6 +2225,22 @@ export const patches = [
     "downloadUrl": "/patches/ips/ZeldaToRedux.ips"
   },
   {
+    "name": "Legend of Zelda, The - Oracle of Ages (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/e2ea5ff4b5f40ed20337ac8344efd9d5a20dfbc7/Legend+of+Zelda%2C+The+-+Oracle+of+Ages+%28Europe%29+%28En%2CFr%2CDe%2CEs%2CIt%29-5933e3fa.ips",
+    "md5": "825de040ea4dff66661693f8712b1bdb",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-zelda-the---oracle-of-ages-europe"
+  },
+  {
+    "name": "Legend of Zelda, The - Oracle of Seasons (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/b54995e41c0c795804c1c15689b3457935736398/Legend+of+Zelda%2C+The+-+Oracle+of+Seasons+%28Europe%29+%28En%2CFr%2CDe%2CEs%2CIt%29-dbac1357.ips",
+    "md5": "4ca44cbdd4e05c9b3c22da96d3de6338",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-zelda-the---oracle-of-seasons-europe"
+  },
+  {
     "name": "Legend of the River King",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/f41d857eb26893e99200f79782ea08792414a286/Legend+of+the+River+King+GB+%28USA%29+%28SGB+Enhanced%29-7e821f47.ips",
@@ -3259,12 +3275,20 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-puzzle-challenge"
   },
   {
-    "name": "Pokémon Trading Card Game",
+    "name": "Pokémon Trading Card Game (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/adb66f5b1a647ef8e201474054601c7383c35769/Pokemon+Trading+Card+Game+%28Europe%29+%28En%2CFr%2CDe%29+%28SGB+Enhanced%29-4523376e.ips",
+    "md5": "4572f09b61a36e94762ff60cbe182834",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-europe"
+  },
+  {
+    "name": "Pokémon Trading Card Game (US)",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/b03f6c03ff8591daf93b1af6696efa4bc54827e6/poketcg.ips",
     "md5": "219b2cc64e5a052003015d4bd4c622cd",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-us"
   },
   {
     "name": "Pokémon Trading Card Game 2",
