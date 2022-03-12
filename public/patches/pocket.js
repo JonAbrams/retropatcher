@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T13:23:05.172Z';
+export const updated = '2022-03-12T20:22:35.466Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4745,6 +4745,14 @@ export const patches = [
     "md5": "84a0fe6c3fb014cf43c119c344f99965",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition"
+  },
+  {
+    "name": "Vigilante 8",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Vigilante8.ips",
+    "md5": "cb5348c1b469d698eccddce99a16d384",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vigilante-8"
   },
   {
     "name": "WWF - Betrayal",
