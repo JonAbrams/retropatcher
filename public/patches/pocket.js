@@ -1,4 +1,4 @@
-export const updated = '2022-03-11T23:21:33.504Z';
+export const updated = '2022-03-12T01:17:58.511Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -759,6 +759,14 @@ export const patches = [
     "md5": "2ebf6f830013d8702eebf93955db52d5",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#bugs-bunny---crazy-castle-3"
+  },
+  {
+    "name": "Bugs Bunny Collection",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BugsBunnyCollection.ips",
+    "md5": "32628dd7b39919a3a5ab77b245cd6b63",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bugs-bunny-collection"
   },
   {
     "name": "Bugs Bunny in Crazy Castle 4",
