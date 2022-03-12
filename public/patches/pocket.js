@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T03:22:37.211Z';
+export const updated = '2022-03-12T07:19:24.585Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1143,6 +1143,14 @@ export const patches = [
     "md5": "0e63965664df3bf3217254a22422cc86",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#densha-de-go"
+  },
+  {
+    "name": "Dexter's Laboratory - Robot Rampage",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DextersLab.ips",
+    "md5": "2a147b2d7731ac26a999390c3f5ff2ac",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dexters-laboratory---robot-rampage"
   },
   {
     "name": "Dexterity",
