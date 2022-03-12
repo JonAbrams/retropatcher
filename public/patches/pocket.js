@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T01:17:58.511Z';
+export const updated = '2022-03-12T03:22:37.211Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3633,6 +3633,14 @@ export const patches = [
     "md5": "f5767f97f44365b703eae78afb7562e6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-rash-color"
+  },
+  {
+    "name": "Road Rash - (with Repair Service)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadRashRepairService.ips",
+    "md5": "830b84643d24fb2cc9c4fde1305f9610",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-rash---with-repair-service"
   },
   {
     "name": "RoboCop",
