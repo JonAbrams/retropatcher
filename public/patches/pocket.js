@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T07:19:24.585Z';
+export const updated = '2022-03-12T13:23:05.172Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1007,6 +1007,14 @@ export const patches = [
     "md5": "9eb8be5600d2408352bf9ef32b91d1df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cubix---robots-for-everyone---race-n-robots"
+  },
+  {
+    "name": "Cyraid",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cyraid.ips",
+    "md5": "e55ecbd33d5813fe6e9a4ca1d04e9f15",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cyraid"
   },
   {
     "name": "Daedalian Opus",
@@ -3489,6 +3497,14 @@ export const patches = [
     "md5": "1c1619f1caef49132e87160aa20a0a4d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pyramids-of-ra"
+  },
+  {
+    "name": "Q Billion",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBillion.ips",
+    "md5": "ab7a5f3d9e818a434cc64915c3dbd31f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#q-billion"
   },
   {
     "name": "QIX",
