@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T20:22:35.466Z';
+export const updated = '2022-03-12T21:19:04.788Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -855,6 +855,14 @@ export const patches = [
     "md5": "3a998a2ec99c89696c9b23bbbd87f116",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cardcaptor-sakura---tomoeda-shougakkou-daiundoukai"
+  },
+  {
+    "name": "Carmageddon - Carpocalypse Now",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonCarpocalypse.ips",
+    "md5": "f73c5cc4935ede64f5b2d62754c90262",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#carmageddon---carpocalypse-now"
   },
   {
     "name": "Castlevania - The Adventure",
