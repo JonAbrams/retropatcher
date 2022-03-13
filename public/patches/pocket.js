@@ -1,4 +1,4 @@
-export const updated = '2022-03-12T21:19:04.788Z';
+export const updated = '2022-03-13T02:36:18.834Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -865,6 +865,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#carmageddon---carpocalypse-now"
   },
   {
+    "name": "Carmageddon TDR 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CarmagedonTDR2K.ips",
+    "md5": "02f25d1192d129ee73104c5bfc127a94",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#carmageddon-tdr-2000"
+  },
+  {
     "name": "Castlevania - The Adventure",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastlevaniaAdventure.ips",
@@ -1695,6 +1703,14 @@ export const patches = [
     "md5": "a562bbe876b8467cc530213ec84eba0a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gimmick-land"
+  },
+  {
+    "name": "God Medicine - Hukkoku Ban",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicine.ips",
+    "md5": "4057131cb9cedfb2fcdbc36904e7896d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#god-medicine---hukkoku-ban"
   },
   {
     "name": "Godzilla",
@@ -2743,6 +2759,14 @@ export const patches = [
     "md5": "45a4cefca0b17ca193869bf6d6134d7c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#microsoft---the-6-in-1-puzzle-collection-entertainment-pack"
+  },
+  {
+    "name": "Microsoft Pinball Arcade",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MSPinball.ips",
+    "md5": "31f7a606b52e8d10fc010b4efe9fb514",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#microsoft-pinball-arcade"
   },
   {
     "name": "Midori no Makibaou",
