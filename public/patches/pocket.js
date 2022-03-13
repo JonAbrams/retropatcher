@@ -1,4 +1,4 @@
-export const updated = '2022-03-13T02:36:18.834Z';
+export const updated = '2022-03-13T03:23:18.025Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2921,6 +2921,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ms-pac-man"
   },
   {
+    "name": "Muppets",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Muppets.ips",
+    "md5": "3a70f79e33ed4ea546d0ba41a7f2ef25",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#muppets"
+  },
+  {
     "name": "Mysterium",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mysterium.ips",
@@ -3055,6 +3063,14 @@ export const patches = [
     "md5": "e12c5c2897ed095f8d26c7578afddfda",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ninja-gaiden-shadow"
+  },
+  {
+    "name": "Nintedo World Cup",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NintendoWorldCup.ips",
+    "md5": "c9200b1be878f079cee6cbebbeaa27ea",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nintedo-world-cup"
   },
   {
     "name": "Noobow",
