@@ -1,4 +1,4 @@
-export const updated = '2022-03-13T03:23:18.025Z';
+export const updated = '2022-03-13T19:16:36.933Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3897,6 +3897,14 @@ export const patches = [
     "md5": "ed7318b615b0a827f3edcff0c817caea",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#skate-or-die---bad-n-rad"
+  },
+  {
+    "name": "Skate or Die - Tour de Thrash",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SkateOrDieThrash.ips",
+    "md5": "f8d92a05c7be07964824830e9ce3ff30",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#skate-or-die---tour-de-thrash"
   },
   {
     "name": "Smurfs",
