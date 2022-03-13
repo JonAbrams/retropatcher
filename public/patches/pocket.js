@@ -1,4 +1,4 @@
-export const updated = '2022-03-13T19:16:36.933Z';
+export const updated = '2022-03-13T20:21:42.016Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4753,6 +4753,14 @@ export const patches = [
     "md5": "c013958fa8447be55f1e037ed4a1a9f9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#true-lies"
+  },
+  {
+    "name": "Tumble Pop",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TumblePop.ips",
+    "md5": "9038a85be1595de2a4f16b6f6db0f3fd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tumble-pop"
   },
   {
     "name": "Turok 2 - Seeds of Evil",
