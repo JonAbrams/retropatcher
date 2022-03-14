@@ -1,4 +1,4 @@
-export const updated = '2022-03-14T04:35:33.363Z';
+export const updated = '2022-03-14T05:39:10.272Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4305,6 +4305,14 @@ export const patches = [
     "md5": "07d4df7a1c93f5bef617e5a90b9edee2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids"
+  },
+  {
+    "name": "Survival Kids - Kotou no Boukensha",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKidsJ.ips",
+    "md5": "41530a4366254265021eb0668ae9884d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids---kotou-no-boukensha"
   },
   {
     "name": "Survival Kids 2 - Dasshutsu!! Futago-Jima!",
