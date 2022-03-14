@@ -1,4 +1,4 @@
-export const updated = '2022-03-13T20:21:42.016Z';
+export const updated = '2022-03-14T04:35:33.363Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1495,6 +1495,14 @@ export const patches = [
     "md5": "efaf761d789e9f6e7cddf81b500576d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-xi---adventure"
+  },
+  {
+    "name": "Fish Dude",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FishDude.ips",
+    "md5": "0beb67de765ef358d50c28836a39bfb0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fish-dude"
   },
   {
     "name": "Fish Files",
@@ -4289,6 +4297,14 @@ export const patches = [
     "md5": "7bb8a5bc9e55a05eba1a3fcbf460a9b5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-taisen"
+  },
+  {
+    "name": "Survival Kids",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids.ips",
+    "md5": "07d4df7a1c93f5bef617e5a90b9edee2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids"
   },
   {
     "name": "Survival Kids 2 - Dasshutsu!! Futago-Jima!",
