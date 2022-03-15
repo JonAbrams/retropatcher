@@ -1,4 +1,4 @@
-export const updated = '2022-03-15T16:32:11.794Z';
+export const updated = '2022-03-15T17:22:05.547Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4361,6 +4361,14 @@ export const patches = [
     "md5": "64f7f8af18f75a9b3767e4637e693be7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sword-of-hope-ii"
+  },
+  {
+    "name": "T2 - The Arcade Game",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/T2.ips",
+    "md5": "43e26f216d50106a8fccbcc04cda0c29",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#t2---the-arcade-game"
   },
   {
     "name": "Tail 'Gator",
