@@ -1,4 +1,4 @@
-export const updated = '2022-03-14T05:39:10.272Z';
+export const updated = '2022-03-15T07:20:56.803Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3255,6 +3255,14 @@ export const patches = [
     "md5": "84eede6bb298dd354f251eccb1259316",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-music"
+  },
+  {
+    "name": "Pocket Puyo Puyo Tsuu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyo.ips",
+    "md5": "296cb17655e184bb65c1cd2a3bc68d8a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-puyo-puyo-tsuu"
   },
   {
     "name": "Pokemon - Yellow Version",
