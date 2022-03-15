@@ -1,4 +1,4 @@
-export const updated = '2022-03-15T07:20:56.803Z';
+export const updated = '2022-03-15T16:32:11.794Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3529,6 +3529,14 @@ export const patches = [
     "md5": "8fe6340c822daa9cb07c7d8ab8509751",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#project-s-11"
+  },
+  {
+    "name": "Punisher - Ultimate Payback",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Punisher.ips",
+    "md5": "84133af3324fc1aaf00c0769e15708c0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#punisher---ultimate-payback"
   },
   {
     "name": "Puzzle Master",
