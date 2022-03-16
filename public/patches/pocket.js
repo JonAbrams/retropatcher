@@ -1,4 +1,4 @@
-export const updated = '2022-03-16T01:37:26.553Z';
+export const updated = '2022-03-16T02:48:24.204Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2271,6 +2271,14 @@ export const patches = [
     "md5": "96fa4f2c0db499d48bad4ae599877fb3",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-92l"
+  },
+  {
+    "name": "Lazlo's Leap",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LazlosLeap.ips",
+    "md5": "68a06792ae4401f9fc09d460120ec2a1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lazlos-leap"
   },
   {
     "name": "Legend of Zelda, The - Link's Awakening DX (France)",
