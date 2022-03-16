@@ -1,4 +1,4 @@
-export const updated = '2022-03-15T17:22:05.547Z';
+export const updated = '2022-03-16T01:37:26.553Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7,6 +7,14 @@ export const patches = [
     "md5": "1f1fb3cf8783f880bc796d667be60231",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#007-james-bond---the-world-is-not-enough"
+  },
+  {
+    "name": "10-Pin Bowling",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/10PinBowling.ips",
+    "md5": "6b055c6d12e477fbfd7bed1b495d56f7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#10-pin-bowling"
   },
   {
     "name": "1942",
@@ -1847,6 +1855,14 @@ export const patches = [
     "md5": "0ff9df46aca45161d1dfa7eee8509c1f",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#harvest-moon-3"
+  },
+  {
+    "name": "Hatris",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hatris.ips",
+    "md5": "b9d3d91d8389cc510aa8fe9063228644",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hatris"
   },
   {
     "name": "Heiankyo Alien",
@@ -4083,6 +4099,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-3---invasion-of-the-spider-slayers"
   },
   {
+    "name": "Splitz",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Splitz.ips",
+    "md5": "9ecb13a68c8c58d90dd15157440d5b10",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#splitz"
+  },
+  {
     "name": "SpongeBob SquarePants - Legend of the Lost Spatula",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpongeBob.ips",
@@ -5225,6 +5249,14 @@ export const patches = [
     "md5": "c30add585d87114288ff8e3726c5381b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yu-gi-oh---dark-duel-stories"
+  },
+  {
+    "name": "Yu-Gi-Oh! Duel Monsters",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YuGiOh-DuelMonstersJ.ips",
+    "md5": "770a917f18e0aa1f3bb027d0783f548b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yu-gi-oh-duel-monsters"
   },
   {
     "name": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories",
