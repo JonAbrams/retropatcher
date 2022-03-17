@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T05:19:58.790Z';
+export const updated = '2022-03-17T13:27:43.685Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -111,6 +111,14 @@ export const patches = [
     "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-star-saver"
+  },
+  {
+    "name": "Air Force Delta",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AirForceDelta.ips",
+    "md5": "ee37c79e8df6475d90e99e527823f92f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#air-force-delta"
   },
   {
     "name": "Aladdin",
