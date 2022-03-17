@@ -1,4 +1,4 @@
-export const updated = '2022-03-16T02:48:24.204Z';
+export const updated = '2022-03-17T02:44:03.540Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3183,6 +3183,14 @@ export const patches = [
     "md5": "9c17a77f10f8c8024addc299cfd74b8b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penguin-wars"
+  },
+  {
+    "name": "Penta Dragon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PentaDragon.ips",
+    "md5": "df43e0adfdc74b2829c7e95e91c71a28",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penta-dragon"
   },
   {
     "name": "Perfect Dark",
