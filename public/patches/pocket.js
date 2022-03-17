@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T16:31:44.344Z';
+export const updated = '2022-03-17T17:22:05.803Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3135,6 +3135,14 @@ export const patches = [
     "md5": "ccd0cf7cc240714a9694e1fe296afb7c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#noobow"
+  },
+  {
+    "name": "Ohastua Dance Dance Revolution GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OhasutaDDR.ips",
+    "md5": "521f0e017a4266355f3f4dc015f1dd46",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ohastua-dance-dance-revolution-gb"
   },
   {
     "name": "Operation C",
