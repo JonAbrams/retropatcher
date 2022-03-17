@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T02:44:03.540Z';
+export const updated = '2022-03-17T04:28:38.067Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3320,6 +3320,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/pokemonBlueColored.ips",
     "outputFilename": "Pokemon Blue - Colored.pocket"
+  },
+  {
+    "name": "Pokemon Brown",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonBrown.ips",
+    "md5": "854390c4a18d0a1744fb437037b4a531",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-brown"
   },
   {
     "name": "Pokemon Gelbe Edition",
