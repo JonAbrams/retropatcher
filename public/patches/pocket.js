@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T04:28:38.067Z';
+export const updated = '2022-03-17T05:19:58.790Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1191,6 +1191,14 @@ export const patches = [
     "md5": "a58f2b1a317cfb1d60b59f3875f6a9c2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dexterity"
+  },
+  {
+    "name": "Dick Tracy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DickTracy.ips",
+    "md5": "ab5f50d0e31a07e19739453bb9a2d328",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dick-tracy"
   },
   {
     "name": "Donald Duck - Goin' Quackers",
@@ -3393,6 +3401,14 @@ export const patches = [
     "md5": "8ed0e8d45a81ca34de625d930148a512",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-rote-edition"
+  },
+  {
+    "name": "Pokemon Yellow - 151",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellow151.ips",
+    "md5": "51e89f222ec7572a3a892a6e77fb30a8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-yellow---151"
   },
   {
     "name": "Pokémon Crystal Clear 2.4.4",
