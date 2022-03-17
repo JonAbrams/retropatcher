@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T13:27:43.685Z';
+export const updated = '2022-03-17T16:31:44.344Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1455,6 +1455,14 @@ export const patches = [
     "md5": "3ad6a2e9c2872cd8f92d86e18332262c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-1-race"
+  },
+  {
+    "name": "F-18 Thunder Strike",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/F18Thunder.ips",
+    "md5": "58670204ec7b8791576e3c88ba7c1ddf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-18-thunder-strike"
   },
   {
     "name": "F1 World Grand Prix II for Game Boy Color (U)",
