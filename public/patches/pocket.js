@@ -1,4 +1,4 @@
-export const updated = '2022-03-19T02:40:32.243Z';
+export const updated = '2022-03-19T03:22:36.452Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -495,6 +495,14 @@ export const patches = [
     "md5": "023a8fd8eacad0656b5110da26dcdd44",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#battle-unit-zeoth"
+  },
+  {
+    "name": "BattleTanx",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleTanx.ips",
+    "md5": "4ca71b12d89a5bcfcc52095081ae9f51",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battletanx"
   },
   {
     "name": "Battleship",
@@ -4817,6 +4825,14 @@ export const patches = [
     "md5": "a0b4538f687fc61bc88f7ee111170355",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tomb-raider---curse-of-the-sword"
+  },
+  {
+    "name": "Tonic Trouble",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TonicTrouble.ips",
+    "md5": "b5f00d021a370663458b346fad6903cc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tonic-trouble"
   },
   {
     "name": "Tony Hawk's Pro Skater",
