@@ -1,4 +1,4 @@
-export const updated = '2022-03-17T17:22:05.803Z';
+export const updated = '2022-03-19T02:40:32.243Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3241,6 +3241,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2"
   },
   {
+    "name": "Pinball Fantasies",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PinballFantasies.ips",
+    "md5": "3496b0cab86ae1981142c0ddb9ae6183",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pinball-fantasies"
+  },
+  {
     "name": "Pipe Dream",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PipeDream.ips",
@@ -3713,6 +3721,30 @@ export const patches = [
     "md5": "aba4c0670730f413d4946d88aab28629",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampart"
+  },
+  {
+    "name": "Ranma 1/2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12.ips",
+    "md5": "12d88fa2c0e6707f05beb556b661702d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ranma-12"
+  },
+  {
+    "name": "Ranma 1/2 - Kakugeki Mondou!!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12-KM.ips",
+    "md5": "f8b0f3889fc7b9936f7e556a3f73825f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ranma-12---kakugeki-mondou"
+  },
+  {
+    "name": "Ranma 1/2 - Netsuretsu Kakutou Hen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ranma12-NKH.ips",
+    "md5": "cd5b7ab41c9c5b1f0f70f4a736628dc0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ranma-12---netsuretsu-kakutou-hen"
   },
   {
     "name": "Rats!",
@@ -4939,12 +4971,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultraman-ball"
   },
   {
+    "name": "Uno",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Uno.ips",
+    "md5": "c720b196e885fe116d8b0c2154438c0e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#uno"
+  },
+  {
     "name": "V-Rally - Championship Edition",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips",
     "md5": "84a0fe6c3fb014cf43c119c344f99965",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition"
+  },
+  {
+    "name": "Vegas Stakes",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VegasStakes.ips",
+    "md5": "f597728869d7ca129f507e723d17bca1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vegas-stakes"
   },
   {
     "name": "Vigilante 8",
