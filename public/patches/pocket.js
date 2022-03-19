@@ -1,4 +1,4 @@
-export const updated = '2022-03-19T03:22:36.452Z';
+export const updated = '2022-03-19T16:30:20.453Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3343,6 +3343,14 @@ export const patches = [
     "md5": "296cb17655e184bb65c1cd2a3bc68d8a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-puyo-puyo-tsuu"
+  },
+  {
+    "name": "Pocket Soccer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketSoccer.ips",
+    "md5": "03da498c5503d8747dc1eccf1101fce3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-soccer"
   },
   {
     "name": "Pokemon - Yellow Version",
