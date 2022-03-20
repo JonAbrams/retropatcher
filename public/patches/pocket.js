@@ -1,4 +1,4 @@
-export const updated = '2022-03-20T15:24:36.436Z';
+export const updated = '2022-03-20T18:25:52.630Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -279,6 +279,30 @@ export const patches = [
     "md5": "8ffcf9da76aa9ba1c5b1789a92f47d21",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-hits---moon-patrol-and-spy-hunter"
+  },
+  {
+    "name": "Army Men",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMen.ips",
+    "md5": "c75bf50b9fec4e89ced9a2bdfbeb4245",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#army-men"
+  },
+  {
+    "name": "Army Men - Air Combat",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMenAirCombat.ips",
+    "md5": "c48de261bb5111681bd77ca5f0d68a1b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#army-men---air-combat"
+  },
+  {
+    "name": "Army Men 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMen2.ips",
+    "md5": "66a744231189d65db54aa4d670975c5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#army-men-2"
   },
   {
     "name": "Arthur's Absolutely Fun Day!",
