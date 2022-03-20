@@ -1,4 +1,4 @@
-export const updated = '2022-03-20T18:25:52.630Z';
+export const updated = '2022-03-20T19:16:54.491Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -295,6 +295,14 @@ export const patches = [
     "md5": "c48de261bb5111681bd77ca5f0d68a1b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#army-men---air-combat"
+  },
+  {
+    "name": "Army Men - Sarge's Heroes 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmyMenSargesHeroes.ips",
+    "md5": "3dc508d4da71f2e89ca63b42899741a4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#army-men---sarges-heroes-2"
   },
   {
     "name": "Army Men 2",
