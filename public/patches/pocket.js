@@ -1,4 +1,4 @@
-export const updated = '2022-03-19T16:30:20.453Z';
+export const updated = '2022-03-20T15:24:36.436Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3641,6 +3641,14 @@ export const patches = [
     "md5": "84133af3324fc1aaf00c0769e15708c0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#punisher---ultimate-payback"
+  },
+  {
+    "name": "Puyo Puyo Gaiden - Puyo Wars",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoWars.ips",
+    "md5": "ec0985bdad4b519c492f07f2d01f1613",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puyo-puyo-gaiden---puyo-wars"
   },
   {
     "name": "Puzzle Master",
