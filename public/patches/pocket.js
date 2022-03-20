@@ -1,4 +1,4 @@
-export const updated = '2022-03-20T19:16:54.491Z';
+export const updated = '2022-03-20T20:22:21.558Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -879,6 +879,14 @@ export const patches = [
     "md5": "e98124b30408c00786068387353e39e5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-millennium"
+  },
+  {
+    "name": "Buzz Lightyear of Star Command",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BuzzLightyear.ips",
+    "md5": "560e27a4d80b88280d8ad7358467c301",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#buzz-lightyear-of-star-command"
   },
   {
     "name": "Caesars Palace",
