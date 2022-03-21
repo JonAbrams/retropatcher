@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T21:17:29.532Z';
+export const updated = '2022-03-21T22:22:32.009Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2015,6 +2015,14 @@ export const patches = [
     "md5": "4b068708fb29fdabbee834114fe4a09d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
+  },
+  {
+    "name": "Hudson Hawk",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HudsonHawk.ips",
+    "md5": "9c1efb1bd07fd91765f680e7e9bc44f1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hudson-hawk"
   },
   {
     "name": "Humans",
@@ -4793,6 +4801,14 @@ export const patches = [
     "md5": "95517367dd10f6476bcb39a2329ef55a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tesserae"
+  },
+  {
+    "name": "Test Drive 2001",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TestDrive2001.ips",
+    "md5": "4a1eefb91466fd1a2368617d4e697c30",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#test-drive-2001"
   },
   {
     "name": "Tetris",
