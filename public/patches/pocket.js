@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T06:27:53.392Z';
+export const updated = '2022-03-21T07:21:20.423Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1639,6 +1639,14 @@ export const patches = [
     "md5": "a981378da19c08597db03f3ee02cd6d7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fortified-zone"
+  },
+  {
+    "name": "Friday the 13th the GB Game",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Friday13th.ips",
+    "md5": "c416450b06fc81fc07ab792c07790d3a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#friday-the-13th-the-gb-game"
   },
   {
     "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
@@ -5257,6 +5265,14 @@ export const patches = [
     "md5": "f9302265fcbc4178c84aaeac3138af97",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wild-snake"
+  },
+  {
+    "name": "Wink and the Broken Robot v5.7",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wink-v57.ips",
+    "md5": "a7af0986e61230b5f232c970912fb013",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wink-and-the-broken-robot-v57"
   },
   {
     "name": "Wizardry Gaiden I - Joou no Junan",
