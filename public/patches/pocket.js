@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T22:22:32.009Z';
+export const updated = '2022-03-21T23:22:39.706Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1615,6 +1615,14 @@ export const patches = [
     "md5": "edf021b521a496fe7afc5e15949f5c80",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fish-files"
+  },
+  {
+    "name": "Fist of the North Star",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FistOfTheNorthStar.ips",
+    "md5": "c88d94a984afde869426694a3b992894",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fist-of-the-north-star"
   },
   {
     "name": "Flintstones",
