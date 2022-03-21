@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T08:28:19.723Z';
+export const updated = '2022-03-21T15:27:32.705Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1297,6 +1297,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land"
   },
   {
+    "name": "Donkey Kong Land - New Colors Mode",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK1-Color.ips",
+    "md5": "830aae1221b7c48866aa434bd626bc19",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land---new-colors-mode"
+  },
+  {
     "name": "Donkey Kong Land 2",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/702c889b9ad8886beaaa92e8238fa13ecf28612e/Donkey+Kong+Land+2+%28USA%2C+Europe%29+%28SGB+Enhanced%29-2827e5d4.ips",
@@ -2257,6 +2265,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-pinball-land"
   },
   {
+    "name": "Kirby's Pinball Land DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysPinballDX.ips",
+    "md5": "a3ed04cc416176c2dc1b5f5e20f135a2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-pinball-land-dx"
+  },
+  {
     "name": "Kirby's Star Stacker",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbyStarStack.ips",
@@ -2359,6 +2375,38 @@ export const patches = [
     "md5": "68a06792ae4401f9fc09d460120ec2a1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lazlos-leap"
+  },
+  {
+    "name": "Legend of Zelda - Link's Awakening",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakening.ips",
+    "md5": "c4360f89e2b09a21307fe864258ecab7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-zelda---links-awakening"
+  },
+  {
+    "name": "Legend of Zelda - Link's Awakening (F)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningF.ips",
+    "md5": "5bc0913d533000522c7c9cac1ef6f97f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-zelda---links-awakening-f"
+  },
+  {
+    "name": "Legend of Zelda - Link's Awakening (G)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningG.ips",
+    "md5": "8b7af1a8ca96c74301d633e0ce83ba0b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-zelda---links-awakening-g"
+  },
+  {
+    "name": "Legend of Zelda - Link's Awakening (RevA)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningA.ips",
+    "md5": "e202ee96a60ce347e39fe3f5d9fd65e7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-zelda---links-awakening-reva"
   },
   {
     "name": "Legend of Zelda, The - Link's Awakening DX (France)",
@@ -5497,6 +5545,14 @@ export const patches = [
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/zeldaDX-Japan.ips"
+  },
+  {
+    "name": "Zelda no Densetsu: Yume o Miru Shima",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZeldaLinksAwakeningJ.ips",
+    "md5": "ae08c1f73f822116060ef58293b94ed8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zelda-no-densetsu-yume-o-miru-shima"
   },
   {
     "name": "Zelda no Densetsu_Fushigi no Kinomi_Daichi no Shou",
