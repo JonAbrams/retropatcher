@@ -1,4 +1,4 @@
-export const updated = '2022-03-20T20:22:21.558Z';
+export const updated = '2022-03-21T06:27:53.392Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4649,6 +4649,22 @@ export const patches = [
     "md5": "e6104df1feb1318ff1764c791eb4ce0e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teenage-mutant-ninja-turtles-iii---radical-rescue"
+  },
+  {
+    "name": "Telefang - Power Edition (NoRTC)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangPowerEng.ips",
+    "md5": "04f7ea139fef2bc2e3f70b2c23933d2e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#telefang---power-edition-nortc"
+  },
+  {
+    "name": "Telefang - Speed Edition (NoRTC)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangSpeedEng.ips",
+    "md5": "ebfe05828463cc004898e6a95ee57fea",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#telefang---speed-edition-nortc"
   },
   {
     "name": "Tennis",
