@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T15:27:32.705Z';
+export const updated = '2022-03-21T21:17:29.532Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1049,6 +1049,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#contra-iii---alien-wars"
   },
   {
+    "name": "Cool Ball",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBall.ips",
+    "md5": "57b192b42b4e1945cc7f20c98f7e1dab",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cool-ball"
+  },
+  {
     "name": "Cool Bricks",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoolBricks.ips",
@@ -1543,6 +1551,14 @@ export const patches = [
     "md5": "4d606ab4ffd5c3d3ecf914a6af1c1f90",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#felix-the-cat"
+  },
+  {
+    "name": "Fidgetts",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Fidgetts.ips",
+    "md5": "ac2cd2a4227b38765f23fb5b72de6229",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fidgetts"
   },
   {
     "name": "Final Fantasy Adventure",
@@ -3273,6 +3289,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#out-of-gas"
   },
   {
+    "name": "Pac-Attack",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacAtack.ips",
+    "md5": "8a0430cf49abda1fc055c16d2bbea387",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-attack"
+  },
+  {
     "name": "Pac-Man - Special Color Edition",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacManSCE.ips",
@@ -4043,6 +4067,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#scooby-doo-classic-creep-capers"
   },
   {
+    "name": "Scrabble",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Scrabble.ips",
+    "md5": "0e31b2dcde31c590a0835b22f653fd2d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#scrabble"
+  },
+  {
     "name": "Seiken Densetsu - Final Fantasy Gaiden",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SeikenDensetsu.ips",
@@ -4561,6 +4593,14 @@ export const patches = [
     "md5": "7bb8a5bc9e55a05eba1a3fcbf460a9b5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-taisen"
+  },
+  {
+    "name": "Super Scrabble",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperScrabble.ips",
+    "md5": "5c39c161b85481d7154f19081ff40f42",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-scrabble"
   },
   {
     "name": "Survival Kids",
