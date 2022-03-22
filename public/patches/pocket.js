@@ -1,4 +1,4 @@
-export const updated = '2022-03-21T23:22:39.706Z';
+export const updated = '2022-03-22T01:43:02.952Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4073,6 +4073,14 @@ export const patches = [
     "md5": "cb5fe1c733f610ad6151216b6887285a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#samurai-showdown"
+  },
+  {
+    "name": "San Francisco Rush 2049",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SFRush2049.ips",
+    "md5": "19601e4fc1f7084076128dca0182f5a7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#san-francisco-rush-2049"
   },
   {
     "name": "Scooby-Doo! Classic Creep Capers",
