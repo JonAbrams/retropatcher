@@ -1,4 +1,4 @@
-export const updated = '2022-03-22T01:43:02.952Z';
+export const updated = '2022-03-22T02:55:28.917Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -767,6 +767,14 @@ export const patches = [
     "md5": "63bbfce4fb22f4b77e68cc67f02c4b05",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-bender"
+  },
+  {
+    "name": "BreakThru!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BreakThru.ips",
+    "md5": "797580a91cf9dc710c37f5af04dbbca5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#breakthru"
   },
   {
     "name": "Bubble Bobble",
@@ -3497,6 +3505,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-soccer"
   },
   {
+    "name": "Pokemon - Edicion Amarilla - Edicion Especial Pikachu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonYellowEs.ips",
+    "md5": "f0da8b1cff3aab898ecde9dcbda6d817",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-amarilla---edicion-especial-pikachu"
+  },
+  {
     "name": "Pokemon - Yellow Version",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/cdf8c80447a3ae1987ec4b51b2f11de2a0321f61/Pokemon+Yellow+%28USA%2C+Europe%29-7d527d62.ips",
@@ -4873,6 +4889,14 @@ export const patches = [
     "md5": "65973d7a1446346294f8ca9d2d1b7e66",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris-dx"
+  },
+  {
+    "name": "Tetris Plus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisPlus.ips",
+    "md5": "4511333eeecb3c9f20874d595424447c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-plus"
   },
   {
     "name": "The Binding of Isaac: Game Boy Edition",
