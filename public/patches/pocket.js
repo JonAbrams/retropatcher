@@ -1,4 +1,4 @@
-export const updated = '2022-03-22T04:28:54.627Z';
+export const updated = '2022-03-22T05:20:03.711Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4041,6 +4041,14 @@ export const patches = [
     "md5": "a477ac86be35d1fa70b708ad08dc88b8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop"
+  },
+  {
+    "name": "RoboCop (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCopJ.ips",
+    "md5": "4b248813c7f2317e55690b5c95f163b2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robocop-j"
   },
   {
     "name": "RoboCop vs the Terminator",
