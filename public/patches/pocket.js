@@ -1,4 +1,4 @@
-export const updated = '2022-03-22T02:55:28.917Z';
+export const updated = '2022-03-22T04:28:54.627Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5585,6 +5585,14 @@ export const patches = [
     "md5": "af1d1e17a5c568df796f4004be872649",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#xtreme-sports"
+  },
+  {
+    "name": "Yakuman",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips",
+    "md5": "2acfc8d0213b186552124fb8b3085fa1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yakuman"
   },
   {
     "name": "Yoshi",
