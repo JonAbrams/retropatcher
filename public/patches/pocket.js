@@ -1,4 +1,4 @@
-export const updated = '2022-03-24T17:32:40.425Z';
+export const updated = '2022-03-24T18:27:24.819Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4617,6 +4617,14 @@ export const patches = [
     "md5": "a8413347d5df8c9d14f97f0330d67bce",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land-2-dx-rom-hack"
+  },
+  {
+    "name": "Super Mario Land 2 DX and Patches",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DX.ips",
+    "md5": "a8413347d5df8c9d14f97f0330d67bce",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2-dx-and-patches"
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
