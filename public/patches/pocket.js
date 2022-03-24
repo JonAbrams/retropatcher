@@ -1,4 +1,4 @@
-export const updated = '2022-03-24T01:42:15.773Z';
+export const updated = '2022-03-24T17:32:40.425Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1247,6 +1247,14 @@ export const patches = [
     "md5": "0e63965664df3bf3217254a22422cc86",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#densha-de-go"
+  },
+  {
+    "name": "Desert Strike - Return to the Gulf",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DesertStrikeGulf.ips",
+    "md5": "a926508282da0b7889ab4f0947916068",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#desert-strike---return-to-the-gulf"
   },
   {
     "name": "Dexter's Laboratory - Robot Rampage",
@@ -2771,10 +2779,18 @@ export const patches = [
   {
     "name": "Medarot - Kabuto Version (English Patch)",
     "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-Eng.ips",
-    "md5": "cdfb608f2af7ea31d1e5c5c39706baab",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-EN.ips",
+    "md5": "5168e5f5779ec09bf333580c4fa65e42",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kabuto-version-english-patch"
+  },
+  {
+    "name": "Medarot - Kabuto Version (US English Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto-EN-US.ips",
+    "md5": "e2ccd9a7b098f83cfe66f959f402a4a2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kabuto-version-us-english-patch"
   },
   {
     "name": "Medarot - Kuwagata Version",
@@ -2787,10 +2803,18 @@ export const patches = [
   {
     "name": "Medarot - Kuwagata Version (English Patch)",
     "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-Eng.ips",
-    "md5": "7b1657d322e9967f4dff3ff7fa586ee7",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN.ips",
+    "md5": "49515d0da23d5ea4bde8a06dff4a9904",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version-english-patch"
+  },
+  {
+    "name": "Medarot - Kuwagata Version (US English Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKuwagata-EN-US.ips",
+    "md5": "f0871152b2e929c83f7be0d7fdf36f55",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version-us-english-patch"
   },
   {
     "name": "Mega Man - Dr. Wily's Revenge",
