@@ -1,4 +1,4 @@
-export const updated = '2022-03-24T18:27:24.819Z';
+export const updated = '2022-03-24T19:18:00.162Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3361,6 +3361,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-man---special-color-edition"
   },
   {
+    "name": "Pac-in-Time",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacInTime.ips",
+    "md5": "e3b7b3649e52ee6aa6fd98baf88d50de",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-in-time"
+  },
+  {
     "name": "Paperboy",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips",
@@ -5377,6 +5385,14 @@ export const patches = [
     "md5": "d9d957771484ef846d4e8d241f6f2815",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land---super-mario-land-3"
+  },
+  {
+    "name": "Wario Land - Super Mario Land 3 DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandDX.ips",
+    "md5": "a0727807a05cfb8f1292f01656ae3a50",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-land---super-mario-land-3-dx"
   },
   {
     "name": "Wario Land 2",
