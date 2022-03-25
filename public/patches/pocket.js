@@ -1,4 +1,4 @@
-export const updated = '2022-03-25T06:29:15.097Z';
+export const updated = '2022-03-25T14:20:38.116Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1191,6 +1191,14 @@ export const patches = [
     "md5": "7d776329212fa7cc2b00c5a46f06dd92",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck"
+  },
+  {
+    "name": "Dave Mirra Freestyle BMX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaveMirraFreestyleBMX.ips",
+    "md5": "1e062837d15d5e4e43bb2253207115ae",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dave-mirra-freestyle-bmx"
   },
   {
     "name": "David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob",
@@ -2569,6 +2577,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lemmings-2---the-tribes"
   },
   {
+    "name": "Lingo",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lingo.ips",
+    "md5": "cb66b804aea0db325d5f2dd795c71a6a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lingo"
+  },
+  {
     "name": "Link's Awakening Redux",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LinksAwakeningRedux.ips",
@@ -2663,6 +2679,14 @@ export const patches = [
     "md5": "db24c76ac8d32cd23ce3a00519ba874f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lunar-chase"
+  },
+  {
+    "name": "MTV Sports - Pure Ride",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MTVPureRide.ips",
+    "md5": "94e1575453f54cbe157d13eae6e78d92",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mtv-sports---pure-ride"
   },
   {
     "name": "Madden NFL 2002",
@@ -3447,6 +3471,14 @@ export const patches = [
     "md5": "142d1f9f4b868780824cca20010ad4d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2"
+  },
+  {
+    "name": "Pinball Dreams",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PinballDreams.ips",
+    "md5": "49c8eaa9801c56b432beb6cf51d7fde0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pinball-dreams"
   },
   {
     "name": "Pinball Fantasies",
@@ -5313,6 +5345,14 @@ export const patches = [
     "md5": "cb5348c1b469d698eccddce99a16d384",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vigilante-8"
+  },
+  {
+    "name": "WCW Mayhem",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WCWMayhem.ips",
+    "md5": "8940ba032d30f87e6956fbd8009420e3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wcw-mayhem"
   },
   {
     "name": "WWF - Betrayal",
