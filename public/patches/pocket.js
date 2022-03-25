@@ -1,4 +1,4 @@
-export const updated = '2022-03-24T19:18:00.162Z';
+export const updated = '2022-03-25T06:29:15.097Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -679,6 +679,14 @@ export const patches = [
     "md5": "ceaedf86193a8708a8a67e0e472b57fb",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#blues-brothers"
+  },
+  {
+    "name": "Bo Jackson - Two Games in One",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoJackson.ips",
+    "md5": "24b4f33417fc95fe6b092bcd30605cb2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bo-jackson---two-games-in-one"
   },
   {
     "name": "Boggle Plus",
