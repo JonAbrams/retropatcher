@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T16:30:14.502Z';
+export const updated = '2022-03-26T17:20:20.455Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1103,6 +1103,14 @@ export const patches = [
     "md5": "27d7c8ae7cc36c1d5dfd8bd15df57e8d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cool-spot"
+  },
+  {
+    "name": "Core Machina",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CoreMachina1.2c.ips",
+    "md5": "fff3d5d9d280ad7c4aa5e8721c47d880",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#core-machina"
   },
   {
     "name": "Cosmo Tank",
