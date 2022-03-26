@@ -1,4 +1,4 @@
-export const updated = '2022-03-25T14:20:38.116Z';
+export const updated = '2022-03-26T01:40:53.999Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -207,6 +207,14 @@ export const patches = [
     "md5": "d97055e4a2fd4624fc924c4834ace35e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alone-in-the-dark---the-new-nightmare"
+  },
+  {
+    "name": "Altered Space - A 3-D Alien Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlteredSpace.ips",
+    "md5": "012ee0a196c03cca91a43a9eadbecfb6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#altered-space---a-3-d-alien-adventure"
   },
   {
     "name": "Amazing Penguin",
