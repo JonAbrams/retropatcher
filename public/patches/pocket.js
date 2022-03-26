@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T01:40:53.999Z';
+export const updated = '2022-03-26T02:50:22.810Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -535,6 +535,14 @@ export const patches = [
     "md5": "023a8fd8eacad0656b5110da26dcdd44",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#battle-unit-zeoth"
+  },
+  {
+    "name": "Battle Unit Zeoth",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleUnitZeoth.ips",
+    "md5": "023a8fd8eacad0656b5110da26dcdd44",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-unit-zeoth"
   },
   {
     "name": "BattleTanx",
