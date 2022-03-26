@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T17:20:20.455Z';
+export const updated = '2022-03-26T20:22:37.782Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2831,6 +2831,14 @@ export const patches = [
     "md5": "cc7639a2269210338b52e626096a99d9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mary-kate-and-ashley---get-a-clue"
+  },
+  {
+    "name": "Mat Hoffman's Pro BMX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MatHoffmanProBMX.ips",
+    "md5": "8bf8f9a1e0080d257820ec5506a3fc8f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mat-hoffmans-pro-bmx"
   },
   {
     "name": "Max",
