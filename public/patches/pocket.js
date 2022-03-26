@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T14:19:03.442Z';
+export const updated = '2022-03-26T16:30:14.502Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4185,6 +4185,14 @@ export const patches = [
     "md5": "70a9ef90ad443881ca90cdd8d910ae66",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sagaia"
+  },
+  {
+    "name": "Saigo No Nindou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SaigoNoNindou.ips",
+    "md5": "322965849b9103a3d6906c9697a19c09",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#saigo-no-nindou"
   },
   {
     "name": "Sakura Taisen GB - Geki Hana Gumi Nyuutai!",
