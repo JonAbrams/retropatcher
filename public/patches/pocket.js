@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T02:50:22.810Z';
+export const updated = '2022-03-26T14:19:03.442Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1799,6 +1799,22 @@ export const patches = [
     "md5": "63e3f5f4b90f17bdf6d2f2aed515e248",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#gargoyles-quest"
+  },
+  {
+    "name": "Gargoyle's Quest Quest II - The Demon Darkness",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GargoylesQuest2.ips",
+    "md5": "56a1787b8a2dde07756b3cc36e79a9a0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gargoyles-quest-quest-ii---the-demon-darkness"
+  },
+  {
+    "name": "Gargoyle's Quest Quest II - The Demon Darkness (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GargoylesQuest2E.ips",
+    "md5": "409da59eb0050f04834bd2d7a83368ab",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gargoyles-quest-quest-ii---the-demon-darkness-e"
   },
   {
     "name": "Gauntlet II",
