@@ -1,4 +1,4 @@
-export const updated = '2022-03-27T03:26:22.881Z';
+export const updated = '2022-03-27T18:25:39.135Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4203,6 +4203,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robopon---sun-version"
   },
   {
+    "name": "Rodland",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rodland.ips",
+    "md5": "e4fcc98cf30ab2db7d3c08f322667be1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rodland"
+  },
+  {
     "name": "Sagaia",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Sagaia.ips",
@@ -4505,6 +4513,14 @@ export const patches = [
     "md5": "febd6cdb9f12b6003d7ef33045ef7079",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spawn"
+  },
+  {
+    "name": "Speedball 2 - Brutal Deluxe",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Speedball2.ips",
+    "md5": "d7fb01dec29a52de74e5b335b8619e0a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#speedball-2---brutal-deluxe"
   },
   {
     "name": "Speedy Gonzales",
