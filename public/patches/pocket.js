@@ -1,4 +1,4 @@
-export const updated = '2022-03-27T19:52:19.692Z';
+export const updated = '2022-03-27T20:23:20.340Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2703,6 +2703,14 @@ export const patches = [
     "md5": "67117cc76e2b270e65c2778c734f905f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king---simbas-mighty-adventure"
+  },
+  {
+    "name": "Little Mermaid II - Pinball Frenzy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMermaid2.ips",
+    "md5": "7f8c472f3c7bd1eec56a3bad10a2e94c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-mermaid-ii---pinball-frenzy"
   },
   {
     "name": "Lock n' Chase ~ Lock 'n' Chase",
