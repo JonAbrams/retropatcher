@@ -1,4 +1,4 @@
-export const updated = '2022-03-27T18:25:39.135Z';
+export const updated = '2022-03-27T19:17:13.698Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1033,6 +1033,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#chase-hq"
   },
   {
+    "name": "Cherry Rescue",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CherryRescue1.0.ips",
+    "md5": "1e0c5af7d66e1acb389ecd93b572e38a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cherry-rescue"
+  },
+  {
     "name": "Chessmaster",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chessmaster.ips",
@@ -1407,6 +1415,22 @@ export const patches = [
     "md5": "4f3b84eb325f9162086fac77ac577e7c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#double-dragon-ii"
+  },
+  {
+    "name": "Dr. Mario",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/2e5509573e527eacdfb5657fa504ce70fd3dd205/Dr.+Mario+%28World%29+%28Rev+1%29-f0225dd0.ips",
+    "md5": "921bdff008475aa2c5344e1a0d110910",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario"
+  },
+  {
+    "name": "Dr. Mario DX Hack",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/284f98e7f699da4f65492e54a030d9204d284c96/Dr.+Mario+%28World%29+%28Rev+1%29-f0225dd0-dx.ips",
+    "md5": "921bdff008475aa2c5344e1a0d110910",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario-dx-hack"
   },
   {
     "name": "Dracula - Crazy Vampire",
@@ -2521,12 +2545,28 @@ export const patches = [
     "downloadUrl": "/patches/ips/zeldaDX-France.ips"
   },
   {
+    "name": "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/a74ebe85156a69ccb272ab2fed6abdbf33d69eb3/azlf-r1-4e2b75e7.ips",
+    "md5": "68242187b65166b5f8225b20e2021659",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-zelda-the---links-awakening-dx-france-rev-1"
+  },
+  {
     "name": "Legend of Zelda, The - Link's Awakening DX (Germany)",
     "authorName": "BestPig",
     "md5": "e91fd46e7092d32ca264f21853f09539",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/zeldaDX-Germany.ips"
+  },
+  {
+    "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/f832a39decb48fbfc497181294e6e9299b6ded22/azlg-r1-efb76777.ips",
+    "md5": "b0080c2f1919a4bb0ea73b788f4a6786",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-zelda-the---links-awakening-dx-germany-rev-1"
   },
   {
     "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe)",
@@ -3747,6 +3787,38 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-yellow---151"
   },
   {
+    "name": "Pokémon Argent (France)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/e2169fff5aba9e13684b02b4fade0e2c9ac1bb9b/POKEMON_SLV+%28FR%29+%28e0c216ea%29.ips",
+    "md5": "72448fe75f534f70cd90469da95ef76f",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-argent-france"
+  },
+  {
+    "name": "Pokémon Blue",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/6204c14dc3f5ff85ee8891884689899fdbc54c06/pokeblue-d6da8a1a.ips",
+    "md5": "50927e843568814f7ed45ec4f944bd8b",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-blue"
+  },
+  {
+    "name": "Pokémon Blue (Colored version)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/336b99d6d917d046de87b2c9b48db74ec2102f94/pokeblue-gbc-d6da8a1a.ips",
+    "md5": "50927e843568814f7ed45ec4f944bd8b",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-blue-colored-version"
+  },
+  {
+    "name": "Pokémon Crystal",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/216c1b1c727ad9c15952b655cfc937e8266c1a6c/PM_CRYSTAL+%28FR%29+%28878b2aa7%29.ips",
+    "md5": "45d988bdb6cfcc334134dd212cefb7b8",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal"
+  },
+  {
     "name": "Pokémon Crystal Clear 2.4.4",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/3123578a99e45c6f5d1a2010177e749d5d4e4975/Crystal_Clear%282.4.4%29-927332e2.ips",
@@ -3763,6 +3835,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal-clear-250"
   },
   {
+    "name": "Pokémon Gold",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/f9da60050871facb48a36f9e912d885525eaf6f6/POKEMON_GLD+%28USA%2C+Europe%29+%286bde3c3e%29.ips",
+    "md5": "a6924ce1f9ad2228e1c6580779b23878",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-gold"
+  },
+  {
     "name": "Pokémon Pinball",
     "authorName": "Infinest",
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips",
@@ -3777,6 +3857,30 @@ export const patches = [
     "md5": "c7a879befd45bbc5cdab7413d86fff76",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-puzzle-challenge"
+  },
+  {
+    "name": "Pokémon Red",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/a1b43c89b73db33b362243a0d83b5abfecd4e71e/pokered-9f7fdd53.ips",
+    "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-red"
+  },
+  {
+    "name": "Pokémon Red (Colored version)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/812ee9dfba9c05449e548a9d0b93e68b8a222b63/pokered-gbc-9f7fdd53.ips",
+    "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-red-colored-version"
+  },
+  {
+    "name": "Pokémon Silver (USA / Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/eee3f5aac5c1cd18ebd92cf481bee7c3183e2ce8/POKEMON_SLV+%28US%2C+Europe%29+%288ad48636%29.ips",
+    "md5": "2ac166169354e84d0e2d7cf4cb40b312",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-silver-usa--europe"
   },
   {
     "name": "Pokémon Trading Card Game (Europe)",
@@ -5547,6 +5651,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land-3"
   },
   {
+    "name": "Wario Land II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLand2.ips",
+    "md5": "e5e8910d436acb9fd218559a216501a3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-land-ii"
+  },
+  {
     "name": "Warlocked",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Warlocked.ips",
@@ -5835,12 +5947,36 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yu-gi-oh-duel-monsters-ii---dark-duel-stories"
   },
   {
+    "name": "Zelda no Densetsu - Yume o Miru Shima DX",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/000c5b476174d490d64c164667bb7cf51ab73359/azlj-d974abea.ips",
+    "md5": "f75874e3654360094fc2b09bd1fed7e8",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#zelda-no-densetsu---yume-o-miru-shima-dx"
+  },
+  {
     "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan)",
     "authorName": "BestPig",
     "md5": "f75874e3654360094fc2b09bd1fed7e8",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
     "downloadUrl": "/patches/ips/zeldaDX-Japan.ips"
+  },
+  {
+    "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/768873c7817c1d94ca1e154b7b42b531ac7cb87a/azlj-r1-bd8a1041.ips",
+    "md5": "6d8f9cd72201caabdfd0455a819af9ce",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#zelda-no-densetsu---yume-o-miru-shima-dx-japan-rev-1"
+  },
+  {
+    "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/f9c645fab73a4910dfe6299b12bae107275911ce/azlj-r2-e998e595.ips",
+    "md5": "2e2596c008d47df901394d28f5bd66ec",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#zelda-no-densetsu---yume-o-miru-shima-dx-japan-rev-2"
   },
   {
     "name": "Zelda no Densetsu: Yume o Miru Shima",
