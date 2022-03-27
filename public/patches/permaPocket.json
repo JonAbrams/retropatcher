@@ -18,40 +18,6 @@
       "outputFilename": "For Frog the Bell Tolls.pocket"
     },
     {
-      "name": "Pokemon Red (USA)",
-      "authorName": "BestPig",
-      "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/pokemonRed.ips"
-    },
-    {
-      "name": "Pokemon Blue (USA)",
-      "authorName": "BestPig",
-      "md5": "50927e843568814f7ed45ec4f944bd8b",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/pokemonBlue.ips"
-    },
-    {
-      "name": "Pokemon Red - Colored Version (USA)",
-      "authorName": "BestPig",
-      "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/pokemonRedColored.ips",
-      "outputFilename": "Pokemon Red - Colored.pocket"
-    },
-    {
-      "name": "Pokemon Blue - Colored Version (USA)",
-      "authorName": "BestPig",
-      "md5": "50927e843568814f7ed45ec4f944bd8b",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/pokemonBlueColored.ips",
-      "outputFilename": "Pokemon Blue - Colored.pocket"
-    },
-    {
       "name": "Cave Noire (J)",
       "authorName": "jsky0",
       "extension": "pocket",
@@ -74,54 +40,6 @@
       "extension": "pocket",
       "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md",
       "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips"
-    },
-    {
-      "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe)",
-      "authorName": "BestPig",
-      "md5": "07c211479386825042efb4ad31bb525f",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-USA.ips"
-    },
-    {
-      "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 1)",
-      "authorName": "BestPig",
-      "md5": "ccbb56212e3dbaa9007d389a17e9d075",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-USA-rev1.ips"
-    },
-    {
-      "name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2)",
-      "authorName": "BestPig",
-      "md5": "7351daa3c0a91d8f6fe2fbcca6182478",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-USA-rev2.ips"
-    },
-    {
-      "name": "Legend of Zelda, The - Link's Awakening DX (Germany)",
-      "authorName": "BestPig",
-      "md5": "e91fd46e7092d32ca264f21853f09539",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-Germany.ips"
-    },
-    {
-      "name": "Legend of Zelda, The - Link's Awakening DX (France)",
-      "authorName": "BestPig",
-      "md5": "1043fd167d0ed9c4094e3c9d8e757f1e",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-France.ips"
-    },
-    {
-      "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan)",
-      "authorName": "BestPig",
-      "md5": "f75874e3654360094fc2b09bd1fed7e8",
-      "extension": "pocket",
-      "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881",
-      "downloadUrl": "/patches/ips/zeldaDX-Japan.ips"
     },
     {
       "name": "Legend of Zelda, The - Link's Awakening Redux",
