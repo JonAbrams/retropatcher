@@ -1,4 +1,4 @@
-export const updated = '2022-03-26T20:22:37.782Z';
+export const updated = '2022-03-27T03:26:22.881Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4145,6 +4145,14 @@ export const patches = [
     "md5": "113d8f894df6b8c3641b2ba1fe60c250",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revenge-of-the-gator"
+  },
+  {
+    "name": "Road Champs - BXS Stunt Biking",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadChamps.ips",
+    "md5": "618be0636a482b1c5e5898e7cb5f1bb3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-champs---bxs-stunt-biking"
   },
   {
     "name": "Road Rash (Color)",
