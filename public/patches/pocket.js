@@ -1,4 +1,4 @@
-export const updated = '2022-03-27T20:23:20.340Z';
+export const updated = '2022-03-27T21:20:03.718Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1745,6 +1745,14 @@ export const patches = [
     "outputFilename": "For Frog the Bell Tolls.pocket"
   },
   {
+    "name": "Force 21",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Force21.ips",
+    "md5": "2a447279016f60776b5c0f515b5b97f5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#force-21"
+  },
+  {
     "name": "Fortified Zone",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips",
@@ -2703,6 +2711,14 @@ export const patches = [
     "md5": "67117cc76e2b270e65c2778c734f905f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king---simbas-mighty-adventure"
+  },
+  {
+    "name": "Little Mermaid",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMermaid.ips",
+    "md5": "a4dee5de1b4c3d9083f307d910fa0c3f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-mermaid"
   },
   {
     "name": "Little Mermaid II - Pinball Frenzy",
