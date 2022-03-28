@@ -1,4 +1,4 @@
-export const updated = '2022-03-28T03:02:15.280Z';
+export const updated = '2022-03-28T04:28:55.532Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2081,6 +2081,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#harvest-moon-3"
   },
   {
+    "name": "Harvest Moon GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoon.ips",
+    "md5": "7ef69878c3b5bc5532c69a51a2dd42f3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harvest-moon-gb"
+  },
+  {
     "name": "Hatris",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hatris.ips",
@@ -2263,6 +2271,14 @@ export const patches = [
     "md5": "669a4ecf89794505591b36d617e51f8a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#james-bond-007"
+  },
+  {
+    "name": "Jelly Boy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JellyBoy.ips",
+    "md5": "0acefb175380637bf0d49ad96da23d52",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jelly-boy"
   },
   {
     "name": "John Madden Football",
