@@ -1,4 +1,4 @@
-export const updated = '2022-03-28T20:23:35.668Z';
+export const updated = '2022-03-28T22:22:41.747Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3513,12 +3513,12 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nintedo-world-cup"
   },
   {
-    "name": "Nobunga's Ambition",
+    "name": "Nobunaga's Ambition",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobungasAmbition.ips",
     "md5": "7cc78ea5dbc099e8f89849a11a08c38e",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nobungas-ambition"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nobunagas-ambition"
   },
   {
     "name": "Noobow",
