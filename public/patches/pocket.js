@@ -1,4 +1,4 @@
-export const updated = '2022-03-28T06:28:11.400Z';
+export const updated = '2022-03-28T20:23:35.668Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2711,6 +2711,14 @@ export const patches = [
     "md5": "7b96adfd6d3576cb2bab2afd06d8bd6e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lemmings-2---the-tribes"
+  },
+  {
+    "name": "Lethal Weapon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LethalWeapon.ips",
+    "md5": "d345b97e4b43f20a01fa2e4ea4a63a2b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lethal-weapon"
   },
   {
     "name": "Lingo",
