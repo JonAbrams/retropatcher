@@ -1,4 +1,4 @@
-export const updated = '2022-03-27T21:20:03.718Z';
+export const updated = '2022-03-28T03:02:15.280Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1327,6 +1327,14 @@ export const patches = [
     "md5": "ab5f50d0e31a07e19739453bb9a2d328",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dick-tracy"
+  },
+  {
+    "name": "Disney's Tarzan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DisneyTarzan.ips",
+    "md5": "55fea8e7be17975374ab24518bd83171",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#disneys-tarzan"
   },
   {
     "name": "Donald Duck - Goin' Quackers",
