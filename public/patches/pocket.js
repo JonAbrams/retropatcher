@@ -1,4 +1,4 @@
-export const updated = '2022-03-28T04:28:55.532Z';
+export const updated = '2022-03-28T06:28:11.400Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -967,6 +967,14 @@ export const patches = [
     "md5": "02f25d1192d129ee73104c5bfc127a94",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#carmageddon-tdr-2000"
+  },
+  {
+    "name": "Castle Quest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CastleQuest.ips",
+    "md5": "03ce24437224ff296a71f402663a0ee9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castle-quest"
   },
   {
     "name": "Castlevania - The Adventure",
@@ -3495,6 +3503,14 @@ export const patches = [
     "md5": "c9200b1be878f079cee6cbebbeaa27ea",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nintedo-world-cup"
+  },
+  {
+    "name": "Nobunga's Ambition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobungasAmbition.ips",
+    "md5": "7cc78ea5dbc099e8f89849a11a08c38e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nobungas-ambition"
   },
   {
     "name": "Noobow",
