@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T02:46:32.032Z';
+export const updated = '2022-03-29T04:28:27.616Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1879,6 +1879,14 @@ export const patches = [
     "md5": "f1bb0127347994b46258adbda0dc0b16",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game--watch-gallery-3"
+  },
+  {
+    "name": "Game Boy Test Cartridge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBTestCart.ips",
+    "md5": "d36c2b60c8e71fd40b965ead209b2a1e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-test-cartridge"
   },
   {
     "name": "Game Boy Wars 3",
