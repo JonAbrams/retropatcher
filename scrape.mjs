@@ -59,7 +59,11 @@ const sources = {
       ) {
         continue;
       }
-      const hashName = name.trim().replace(/[^-\s\w]/g, '').replace(/\s/g, '-').toLowerCase();
+      const hashName = name
+        .trim()
+        .replace(/[^-\s\wÀ-ú]/g, "")
+        .replace(/\s/g, "-")
+        .toLowerCase();
       const patch = {
         name,
         authorName,

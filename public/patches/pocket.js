@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T02:41:12.953Z';
+export const updated = '2022-03-29T02:46:32.032Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3942,7 +3942,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/e2169fff5aba9e13684b02b4fade0e2c9ac1bb9b/POKEMON_SLV+%28FR%29+%28e0c216ea%29.ips",
     "md5": "72448fe75f534f70cd90469da95ef76f",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-argent-france"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-argent-france"
   },
   {
     "name": "Pokémon Black",
@@ -3958,7 +3958,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/6204c14dc3f5ff85ee8891884689899fdbc54c06/pokeblue-d6da8a1a.ips",
     "md5": "50927e843568814f7ed45ec4f944bd8b",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-blue"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-blue"
   },
   {
     "name": "Pokémon Blue (Colored version)",
@@ -3966,7 +3966,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/336b99d6d917d046de87b2c9b48db74ec2102f94/pokeblue-gbc-d6da8a1a.ips",
     "md5": "50927e843568814f7ed45ec4f944bd8b",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-blue-colored-version"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-blue-colored-version"
   },
   {
     "name": "Pokémon Crystal",
@@ -3974,7 +3974,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/216c1b1c727ad9c15952b655cfc937e8266c1a6c/PM_CRYSTAL+%28FR%29+%28878b2aa7%29.ips",
     "md5": "45d988bdb6cfcc334134dd212cefb7b8",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal"
   },
   {
     "name": "Pokémon Crystal (Ver. 1.0)",
@@ -3998,7 +3998,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/3123578a99e45c6f5d1a2010177e749d5d4e4975/Crystal_Clear%282.4.4%29-927332e2.ips",
     "md5": "069d92f6d594f0c192db4494d55f565c",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal-clear-244"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-244"
   },
   {
     "name": "Pokémon Crystal Clear 2.5.0",
@@ -4006,7 +4006,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/dde789b1a3aa638144a05e5639c423af411b3a21/Crystal_Clear%282.5.0%29-4af8c482.ips",
     "md5": "a642f446a407f67e55117e2ee6b56244",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal-clear-250"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-250"
   },
   {
     "name": "Pokémon Gold",
@@ -4014,7 +4014,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/f9da60050871facb48a36f9e912d885525eaf6f6/POKEMON_GLD+%28USA%2C+Europe%29+%286bde3c3e%29.ips",
     "md5": "a6924ce1f9ad2228e1c6580779b23878",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-gold"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-gold"
   },
   {
     "name": "Pokémon Picross with English Patch",
@@ -4030,7 +4030,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips",
     "md5": "fbe20570c2e52c937a9395024069ba3c",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-pinball"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokémon-pinball"
   },
   {
     "name": "Pokémon Puzzle Challenge",
@@ -4038,7 +4038,7 @@ export const patches = [
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch%201.2.ips",
     "md5": "c7a879befd45bbc5cdab7413d86fff76",
     "extension": "pocket",
-    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokmon-puzzle-challenge"
+    "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#pokémon-puzzle-challenge"
   },
   {
     "name": "Pokémon Red",
@@ -4046,7 +4046,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/a1b43c89b73db33b362243a0d83b5abfecd4e71e/pokered-9f7fdd53.ips",
     "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-red"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-red"
   },
   {
     "name": "Pokémon Red (Colored version)",
@@ -4054,7 +4054,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/812ee9dfba9c05449e548a9d0b93e68b8a222b63/pokered-gbc-9f7fdd53.ips",
     "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-red-colored-version"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-red-colored-version"
   },
   {
     "name": "Pokémon Silver (USA / Europe)",
@@ -4062,7 +4062,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/eee3f5aac5c1cd18ebd92cf481bee7c3183e2ce8/POKEMON_SLV+%28US%2C+Europe%29+%288ad48636%29.ips",
     "md5": "2ac166169354e84d0e2d7cf4cb40b312",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-silver-usa--europe"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-silver-usa--europe"
   },
   {
     "name": "Pokémon Trading Card Game (Europe)",
@@ -4070,7 +4070,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/adb66f5b1a647ef8e201474054601c7383c35769/Pokemon+Trading+Card+Game+%28Europe%29+%28En%2CFr%2CDe%29+%28SGB+Enhanced%29-4523376e.ips",
     "md5": "4572f09b61a36e94762ff60cbe182834",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-europe"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-trading-card-game-europe"
   },
   {
     "name": "Pokémon Trading Card Game (US)",
@@ -4078,7 +4078,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/b03f6c03ff8591daf93b1af6696efa4bc54827e6/poketcg.ips",
     "md5": "219b2cc64e5a052003015d4bd4c622cd",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-us"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-trading-card-game-us"
   },
   {
     "name": "Pokémon Trading Card Game 2",
@@ -4086,7 +4086,7 @@ export const patches = [
     "downloadUrl": "https://shareit.bestpig.fr/get/0de8686af977a4566e91d4a5f7c806a6796b4a78/Pokemon+Card+GB2+-+GR+Dan+Sanjou%21+%28Japan%29-6c933a14.ips",
     "md5": "1134862e84110443190df460351d4575",
     "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-2"
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-trading-card-game-2"
   },
   {
     "name": "Pokémon Trading Card Game 2 with English Patch",
