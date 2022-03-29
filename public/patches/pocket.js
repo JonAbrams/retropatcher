@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T17:22:48.808Z';
+export const updated = '2022-03-29T18:26:55.063Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4743,6 +4743,46 @@ export const patches = [
     "md5": "158691457cb7365cafbd0b7bb230fadf",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensei-devil-children---kuro-no-sho"
+  },
+  {
+    "name": "Shin Pokemon Blue",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonBluev1.23.ips",
+    "md5": "435196c4a4c0fa6f0d4cefdc3cb46060",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-blue"
+  },
+  {
+    "name": "Shin Pokemon Blue (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonBlueJv1.23.ips",
+    "md5": "13bad3a2c036aea35053d977eb6240db",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-blue-j"
+  },
+  {
+    "name": "Shin Pokemon Green",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonGreenv1.23.ips",
+    "md5": "15cf46c8487707fe201c9ff91a21f51e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-green"
+  },
+  {
+    "name": "Shin Pokemon Red",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonRedv1.23.ips",
+    "md5": "846fd740c115c66a379ff38b59f9cc3d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-red"
+  },
+  {
+    "name": "Shin Pokemon Red (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShinPokemonRedJv1.23.ips",
+    "md5": "1669f161c868bde90c0c82fdce31fb04",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-red-j"
   },
   {
     "name": "Side Pocket",
