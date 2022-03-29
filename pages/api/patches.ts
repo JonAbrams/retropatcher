@@ -28,7 +28,7 @@ export default function handler(
     const q = req.query.q.toLowerCase();
     results = patches.filter(
       (patch: Patch) =>
-        patch.name.toLowerCase().indexOf(q) > -1 ||
+        patch.name.toLowerCase().replace(/é/g, "e").indexOf(q) > -1 ||
         patch.authorName.toLowerCase().indexOf(q) > -1
     );
   } else if (req.query.startsWith?.[0].match(/[#a-z]/)) {
