@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T18:26:55.063Z';
+export const updated = '2022-03-29T20:23:01.427Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3343,6 +3343,14 @@ export const patches = [
     "md5": "e5eba5278bbc6e5f040649afe98a0af4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#miner-2049er-starring-bounty-bob"
+  },
+  {
+    "name": "Mission Impossible",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MissionImposible.ips",
+    "md5": "11454ce5a4ad703c29b3a8bdc8b5c3ab",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mission-impossible"
   },
   {
     "name": "Mobile Golf",
