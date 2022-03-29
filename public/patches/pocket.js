@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T15:26:27.833Z';
+export const updated = '2022-03-29T17:22:48.808Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3633,12 +3633,12 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ninja-gaiden-shadow"
   },
   {
-    "name": "Nintedo World Cup",
+    "name": "Nintendo World Cup",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NintendoWorldCup.ips",
     "md5": "c9200b1be878f079cee6cbebbeaa27ea",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nintedo-world-cup"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nintendo-world-cup"
   },
   {
     "name": "Nobunaga's Ambition",
