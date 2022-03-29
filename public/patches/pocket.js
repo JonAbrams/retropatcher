@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T04:28:27.616Z';
+export const updated = '2022-03-29T05:21:27.918Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -444,7 +444,7 @@ export const patches = [
     "name": "Bart and the Beanstalk",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips",
-    "md5": "1d5e05159b0ac6a5119bd6f743c7eb9e",
+    "md5": "19058077b12ac22580aae17b3dd1233f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-and-the-beanstalk"
   },
@@ -4740,7 +4740,7 @@ export const patches = [
     "name": "Snoopy's - Magic Show",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips",
-    "md5": "3d8f6eccc13f3344c8d971b7e141f064",
+    "md5": "8a06994b2e265244147a4d6d0e80623f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopys---magic-show"
   },
@@ -5588,7 +5588,7 @@ export const patches = [
     "name": "Top Gear Pocket 2",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips",
-    "md5": "0a1cf1904c87b60308c404d93bab2702",
+    "md5": "7d9585c947a7637703fb8ccd6a691ed7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-gear-pocket-2"
   },
@@ -5599,6 +5599,22 @@ export const patches = [
     "md5": "ea82922267095a2268d76e4f21d4ff93",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-ranking-tennis"
+  },
+  {
+    "name": "Toy Story",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStory.ips",
+    "md5": "d4e7caf41d3a12facc5d7d5185631567",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story"
+  },
+  {
+    "name": "Toy Story (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryA.ips",
+    "md5": "344ed70fe1a7a8cc904eda886543252c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story-rev-a"
   },
   {
     "name": "Track Meet",
