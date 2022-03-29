@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T01:50:03.960Z';
+export const updated = '2022-03-29T02:29:33.437Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -753,6 +753,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-quest"
   },
   {
+    "name": "Bomberman Quest (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuestE.ips",
+    "md5": "e6f36322946499f2f55b724c3db916cd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-quest-e"
+  },
+  {
+    "name": "Bomberman Quest (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanQuestJ.ips",
+    "md5": "632793107d6a279a2f38236955353906",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-quest-j"
+  },
+  {
     "name": "Bonk's Adventure",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BonksAdventure.ips",
@@ -815,6 +831,14 @@ export const patches = [
     "md5": "11c49d405eef2174d9c14682204bb458",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-bobble"
+  },
+  {
+    "name": "Bubble Bobble Junior",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BubbleBobbleJunior.ips",
+    "md5": "09dbad535406168486b8b688caf33a9c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bubble-bobble-junior"
   },
   {
     "name": "Bubble Bobble Part 2",
@@ -3563,7 +3587,7 @@ export const patches = [
   {
     "name": "Nobunaga's Ambition",
     "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobungasAmbition.ips",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NobunagasAmbition.ips",
     "md5": "7cc78ea5dbc099e8f89849a11a08c38e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nobunagas-ambition"
