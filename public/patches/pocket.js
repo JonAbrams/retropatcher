@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T07:21:29.149Z';
+export const updated = '2022-03-29T15:26:27.833Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2785,6 +2785,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-the-river-king"
   },
   {
+    "name": "Legend of the River King (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKingE.ips",
+    "md5": "cb5fe636114fcb0925d08ceced82dc23",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-e"
+  },
+  {
     "name": "Legend of the River King 2",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips",
@@ -3959,6 +3967,22 @@ export const patches = [
     "md5": "f9ec4cc3c9df3887dc731ccf53663ffb",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-puzzle-challenge"
+  },
+  {
+    "name": "Pokemon Red++ v3 (Hard)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_hard.ips",
+    "md5": "aa74d623585627a71d76411f2f5f8d5c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-red-v3-hard"
+  },
+  {
+    "name": "Pokemon Red++ v3 (Normal)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/r++_normal.ips",
+    "md5": "371ca8999e1dc0d04b6935b07582fa49",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-red-v3-normal"
   },
   {
     "name": "Pokemon Rote Edition",
