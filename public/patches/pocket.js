@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T06:28:12.417Z';
+export const updated = '2022-03-29T07:21:29.149Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1169,6 +1169,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cosmo-tank"
   },
   {
+    "name": "Crystal Quest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CrystalQuest.ips",
+    "md5": "e15a6b601c845e425f62ef2b7aed691f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#crystal-quest"
+  },
+  {
     "name": "Crystalis",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Crystalis.ips",
@@ -1495,6 +1503,14 @@ export const patches = [
     "md5": "4f3b84eb325f9162086fac77ac577e7c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#double-dragon-ii"
+  },
+  {
+    "name": "Double Dribble - 5 on 5",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoubleDribble5on5.ips",
+    "md5": "ff3e6d70d42987dd7f6214067dc83afe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#double-dribble---5-on-5"
   },
   {
     "name": "Dr. Mario",
@@ -3409,6 +3425,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs-2"
   },
   {
+    "name": "Mr. Do!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDo.ips",
+    "md5": "65e455737df458e59cc7b0892b95e6cd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-do"
+  },
+  {
     "name": "Mr. Driller",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrDriller.ips",
@@ -4481,6 +4505,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-rash---with-repair-service"
   },
   {
+    "name": "Robin Hood - Prince of Theives",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RobinHood.ips",
+    "md5": "2815ff13131712bcd00c3852d461b414",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robin-hood---prince-of-theives"
+  },
+  {
     "name": "RoboCop",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoboCop.ips",
@@ -5143,6 +5175,14 @@ export const patches = [
     "md5": "5c39c161b85481d7154f19081ff40f42",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-scrabble"
+  },
+  {
+    "name": "Super Star Wars - Return of the Jedi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperStarWars-RotJ.ips",
+    "md5": "55945a517d1e89003003d51c7ec938be",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-star-wars---return-of-the-jedi"
   },
   {
     "name": "Survival Kids",
