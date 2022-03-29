@@ -1,4 +1,4 @@
-export const updated = '2022-03-28T22:22:41.747Z';
+export const updated = '2022-03-29T01:50:03.960Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -721,6 +721,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-gb"
   },
   {
+    "name": "Bomberman GB (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanGBJ.ips",
+    "md5": "2cad6ee6df3402aeb8f8ab7921517779",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomberman-gb-j"
+  },
+  {
     "name": "Bomberman Max - Blue Champion",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombermanMax.ips",
@@ -1335,6 +1343,22 @@ export const patches = [
     "md5": "ab5f50d0e31a07e19739453bb9a2d328",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dick-tracy"
+  },
+  {
+    "name": "Disco Elysium Game Boy Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiscoElysiumGB.ips",
+    "md5": "07b3756a52db31f1accc85f71d5f34c7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#disco-elysium-game-boy-edition"
+  },
+  {
+    "name": "Disco Elysium Game Boy Edition (Music)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiscoElysiumGBMusic.ips",
+    "md5": "196ce465a2e60ebfa68f377577e6b4aa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#disco-elysium-game-boy-edition-music"
   },
   {
     "name": "Disney's Tarzan",
@@ -2153,6 +2177,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
   },
   {
+    "name": "Hoshi no Kirby",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby.ips",
+    "md5": "b7963a68f95d644f8adedb269d29666c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoshi-no-kirby"
+  },
+  {
+    "name": "Hoshi no Kirby 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoshiNoKirby2.ips",
+    "md5": "28a8263bb19b7ef3ddcac5ee83f62aee",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoshi-no-kirby-2"
+  },
+  {
     "name": "Hudson Hawk",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HudsonHawk.ips",
@@ -2831,6 +2871,14 @@ export const patches = [
     "md5": "1ff9b71a347a7deed87bcedeb7c5ea70",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#lufia---the-legend-returns"
+  },
+  {
+    "name": "Lufia - The Legend Returns (U)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Lufia.ips",
+    "md5": "a00012533e76649f4e7e1b7aa5a9ee07",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lufia---the-legend-returns-u"
   },
   {
     "name": "Lunar Chase",
