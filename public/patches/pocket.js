@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T02:29:33.437Z';
+export const updated = '2022-03-29T02:41:12.953Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1257,6 +1257,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb3"
   },
   {
+    "name": "Dangan GB",
+    "authorName": "r0r0",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/danganV11.ips",
+    "md5": "c85e5ba3dad5aa705b96da083cdd1a1c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#dangan-gb"
+  },
+  {
     "name": "Darkwing Duck",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips",
@@ -1801,7 +1809,7 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flipull"
   },
   {
-    "name": "For Frog the Bell Tolls",
+    "name": "For the Frog the Bell Tolls",
     "authorName": "JoseJX",
     "md5": "4ebe14c4c51555908c0e4cabb66dc813",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru",
@@ -3617,6 +3625,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#operation-c"
   },
   {
+    "name": "Opossum Country",
+    "authorName": "r0r0",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/opossum_country_v1.ips",
+    "md5": "5c0ed7c257219b6fab67c5f9d9ab25f8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#opossum-country"
+  },
+  {
     "name": "Out of Gas",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OutOfGas.ips",
@@ -3841,6 +3857,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-amarilla---edicion-especial-pikachu"
   },
   {
+    "name": "Pokemon - Edicion Cristal",
+    "authorName": "Linkr2",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips",
+    "md5": "8a626340f6b16ba45c1d4e07f2134875",
+    "outputFilename": "Pokemon Edicion Cristal.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokemon---edicion-cristal"
+  },
+  {
     "name": "Pokemon - Yellow Version",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/cdf8c80447a3ae1987ec4b51b2f11de2a0321f61/Pokemon+Yellow+%28USA%2C+Europe%29-7d527d62.ips",
@@ -3921,6 +3945,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-argent-france"
   },
   {
+    "name": "Pokémon Black",
+    "authorName": "janmalec & Ax461",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/black_pocket.ips",
+    "md5": "45ff4e34868e32d638f5db2fc36bdebd",
+    "outputFilename": "Pokemon Black.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-black"
+  },
+  {
     "name": "Pokémon Blue",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/6204c14dc3f5ff85ee8891884689899fdbc54c06/pokeblue-d6da8a1a.ips",
@@ -3945,6 +3977,22 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-crystal"
   },
   {
+    "name": "Pokémon Crystal (Ver. 1.0)",
+    "authorName": "Zhuowei Zhang",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal.ips",
+    "md5": "9f2922b235a5eeb78d65594e82ef5dde",
+    "outputFilename": "Pokemon Crystal.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-crystal-ver-10"
+  },
+  {
+    "name": "Pokémon Crystal (Ver. 1.1)",
+    "authorName": "Zhuowei Zhang",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal11.ips",
+    "md5": "301899b8087289a6436b0a241fbbb474",
+    "outputFilename": "Pokemon Crystal.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-crystal-ver-11"
+  },
+  {
     "name": "Pokémon Crystal Clear 2.4.4",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/3123578a99e45c6f5d1a2010177e749d5d4e4975/Crystal_Clear%282.4.4%29-927332e2.ips",
@@ -3967,6 +4015,14 @@ export const patches = [
     "md5": "a6924ce1f9ad2228e1c6580779b23878",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-gold"
+  },
+  {
+    "name": "Pokémon Picross with English Patch",
+    "authorName": "JoseJX & LeonarthCG",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips",
+    "md5": "35d2e7924408a3460e5c1a770acf3a8a",
+    "outputFilename": "Pokemon Picross [Eng].pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-picross"
   },
   {
     "name": "Pokémon Pinball",
@@ -4031,6 +4087,14 @@ export const patches = [
     "md5": "1134862e84110443190df460351d4575",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokmon-trading-card-game-2"
+  },
+  {
+    "name": "Pokémon Trading Card Game 2 with English Patch",
+    "authorName": "BestPig & Artemis251",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/TCG2%20English%20%2B%20Pocket.ips",
+    "md5": "1134862e84110443190df460351d4575",
+    "outputFilename": "Pokemon TCG 2 [Eng].pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-trading-card-game-2"
   },
   {
     "name": "Pong - The Next Level",
@@ -4463,6 +4527,14 @@ export const patches = [
     "md5": "70883b45a97984cb033c2b95028bef65",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sakura-taisen-gb---geki-hana-gumi-nyuutai"
+  },
+  {
+    "name": "Sakura Wars GB with English Patch",
+    "authorName": "JoseJX & vinheim3",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Sakura%20Wars%20ENG%20Pocket.ips",
+    "md5": "70883b45a97984cb033c2b95028bef65",
+    "outputFilename": "Sakura Wars GB.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#sakura-wars-gb"
   },
   {
     "name": "Samurai Kid",
@@ -5255,6 +5327,14 @@ export const patches = [
     "md5": "982ed5d2b12a0377eb14bcdc4123744e",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris"
+  },
+  {
+    "name": "Tetris + Rosy Retrospection",
+    "authorName": "BestPig & Ospin",
+    "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Tetris_Combo_Patch_Rosy__Pocket.ips",
+    "md5": "982ed5d2b12a0377eb14bcdc4123744e",
+    "outputFilename": "Tetris Rosy Retrospection.pocket",
+    "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#tetris--rosy-retrospection"
   },
   {
     "name": "Tetris 1.0 (J)",
