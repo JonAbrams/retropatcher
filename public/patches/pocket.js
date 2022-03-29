@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T05:21:27.918Z';
+export const updated = '2022-03-29T06:28:12.417Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1303,6 +1303,14 @@ export const patches = [
     "md5": "b04f705f3e4db711560f9834a6431171",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#deadeus"
+  },
+  {
+    "name": "Death Planet",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathPlanet.ips",
+    "md5": "e5c07daa704a35dd105604286546d56e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#death-planet"
   },
   {
     "name": "Deja Vu I & II: The Casebooks of Ace Harding",
@@ -4711,6 +4719,14 @@ export const patches = [
     "md5": "f8d92a05c7be07964824830e9ce3ff30",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#skate-or-die---tour-de-thrash"
+  },
+  {
+    "name": "Small Soldiers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SmallSoldiers.ips",
+    "md5": "46b6ae39b3140f81d66be8338a8bcea3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#small-soldiers"
   },
   {
     "name": "Smurfs",
