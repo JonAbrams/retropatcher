@@ -1,4 +1,4 @@
-export const updated = '2022-03-30T06:28:42.599Z';
+export const updated = '2022-03-30T07:21:52.576Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3103,6 +3103,14 @@ export const patches = [
     "md5": "ccaf9331318d4dfe3d1ee681928a74fd",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marios-picross"
+  },
+  {
+    "name": "Maru's Mission",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarusMission.ips",
+    "md5": "7f26dd90f8e80b52ead8fc0e3609d4f2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marus-mission"
   },
   {
     "name": "Mary-Kate and Ashley - Get a Clue!",
