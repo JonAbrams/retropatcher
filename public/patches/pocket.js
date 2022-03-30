@@ -1,4 +1,4 @@
-export const updated = '2022-03-29T20:23:01.427Z';
+export const updated = '2022-03-30T03:00:33.111Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -711,6 +711,14 @@ export const patches = [
     "md5": "b3be58ae099ab2a695cfebe9881c7461",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boggle-plus"
+  },
+  {
+    "name": "Bomb Jack",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombJack.ips",
+    "md5": "7615154dc9afb1a7d7d2fe63b76c68e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomb-jack"
   },
   {
     "name": "Bomberman GB",
@@ -2391,6 +2399,14 @@ export const patches = [
     "md5": "0acefb175380637bf0d49ad96da23d52",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jelly-boy"
+  },
+  {
+    "name": "Jetsons - Robot Panic",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JetsonsRobotPanic.ips",
+    "md5": "70cd582d3b1f15cb251620203d8b00c9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jetsons---robot-panic"
   },
   {
     "name": "John Madden Football",
@@ -5167,6 +5183,30 @@ export const patches = [
     "md5": "b259feb41811c7e4e1dc200167985c84",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land"
+  },
+  {
+    "name": "Super Mario Land 2 - 6 Golden Coins (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2A.ips",
+    "md5": "1d2c316f9f32727261328c7a49b22e2c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2---6-golden-coins-rev-a"
+  },
+  {
+    "name": "Super Mario Land 2 - 6 Golden Coins (Rev B)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2B.ips",
+    "md5": "4bd6e929ec716a5c7fe7dc684860d551",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2---6-golden-coins-rev-b"
+  },
+  {
+    "name": "Super Mario Land 2 - 6-tsu no Kinka",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2J.ips",
+    "md5": "98dab710bdf256c1f1cf92c31d58d632",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2---6-tsu-no-kinka"
   },
   {
     "name": "Super Mario Land 2 DX ROM Hack",
