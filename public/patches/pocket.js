@@ -1,4 +1,4 @@
-export const updated = '2022-03-30T07:21:52.576Z';
+export const updated = '2022-03-30T08:27:47.638Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -799,6 +799,14 @@ export const patches = [
     "md5": "b73d76599e3d7f979a99bba5f1c92add",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bonks-revenge"
+  },
+  {
+    "name": "Boomer's Adventure in ASMIK World",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoomerAsmik.ips",
+    "md5": "3b051df77605172195dcff97c2c935cc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boomers-adventure-in-asmik-world"
   },
   {
     "name": "Boxxle",
