@@ -1,4 +1,4 @@
-export const updated = '2022-03-30T05:20:12.585Z';
+export const updated = '2022-03-30T06:28:42.599Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2657,6 +2657,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#krustys-fun-house"
   },
   {
+    "name": "Kung-Fu Master",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KungFuMaster.ips",
+    "md5": "18fe3526f170f47a277e0fac17d90170",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kung-fu-master"
+  },
+  {
     "name": "Kwirk - He's A-maze-ing",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kwirk.ips",
@@ -3665,6 +3673,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#ninja-gaiden-shadow"
   },
   {
+    "name": "Ninja Taro",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NinjaTaro.ips",
+    "md5": "1a52fb8f767e24dc75c3bb2d08679f6c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ninja-taro"
+  },
+  {
     "name": "Nintendo World Cup",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NintendoWorldCup.ips",
@@ -4537,6 +4553,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revenge-of-the-gator"
   },
   {
+    "name": "Ring Rage",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RingRage.ips",
+    "md5": "6c4d2f2a4aa7029759441d2c16d8c931",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ring-rage"
+  },
+  {
     "name": "Road Champs - BXS Stunt Biking",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadChamps.ips",
@@ -4607,6 +4631,22 @@ export const patches = [
     "md5": "e4fcc98cf30ab2db7d3c08f322667be1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rodland"
+  },
+  {
+    "name": "Rolan's Curse",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse.ips",
+    "md5": "ebd1866dc6c13ca48f45538ed33ea46f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rolans-curse"
+  },
+  {
+    "name": "Rolan's Curse II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RolansCurse2.ips",
+    "md5": "27f2c99b13cbdb5a5be4afce87b9039b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rolans-curse-ii"
   },
   {
     "name": "Sagaia",
@@ -6399,6 +6439,14 @@ export const patches = [
     "md5": "484020d0bf01d29f2a74322e0d4acc3a",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#zelda-no-densetsu_fushigi-no-kinomi_jikuu-no-shou"
+  },
+  {
+    "name": "Zen - Intergalactic Ninja",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZenIntergalacticNinja.ips",
+    "md5": "a517826d1cc3984a141f0f08d3ad72ee",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zen---intergalactic-ninja"
   },
   {
     "name": "Zool - Ninja of the N'th Dimension",
