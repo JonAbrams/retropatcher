@@ -1,4 +1,4 @@
-export const updated = '2022-03-30T03:00:33.111Z';
+export const updated = '2022-03-30T05:20:12.585Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1081,6 +1081,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#chase-hq"
   },
   {
+    "name": "Chase H.Q. - Secret Police",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChaseHQSecretPolice.ips",
+    "md5": "ff92e59c47a990815bc548e5e253c390",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chase-hq---secret-police"
+  },
+  {
     "name": "Cherry Rescue",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CherryRescue1.0.ips",
@@ -1175,6 +1183,14 @@ export const patches = [
     "md5": "b340bad71c781bd1394d95241ed1adce",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cosmo-tank"
+  },
+  {
+    "name": "Crazy Bikers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips",
+    "md5": "d6311339384cb70c35975c8d30a1cd98",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#crazy-bikers"
   },
   {
     "name": "Crystal Quest",
@@ -3447,14 +3463,6 @@ export const patches = [
     "md5": "de1572d4d181b265e2cb7d517c0ba04a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs"
-  },
-  {
-    "name": "Motocross Maniacs 2",
-    "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips",
-    "md5": "d6311339384cb70c35975c8d30a1cd98",
-    "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs-2"
   },
   {
     "name": "Mr. Do!",
