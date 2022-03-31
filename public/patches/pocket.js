@@ -1,4 +1,4 @@
-export const updated = '2022-03-31T08:24:31.906Z';
+export const updated = '2022-03-31T20:23:26.248Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1577,6 +1577,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-ball-z---legendary-super-warriors"
   },
   {
+    "name": "Dragon Quest III: Soshite Densetsu e...",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuest3J.ips",
+    "md5": "729934ddb7aa39779a456523a81b4a45",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-iii-soshite-densetsu-e"
+  },
+  {
     "name": "Dragon Quest Monsters (DE)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersDE.ips",
@@ -2071,6 +2079,14 @@ export const patches = [
     "md5": "a562bbe876b8467cc530213ec84eba0a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gimmick-land"
+  },
+  {
+    "name": "Go! Go! Tank",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoGoTank.ips",
+    "md5": "23824d72928a05e9fcf052d42f3c91c6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#go-go-tank"
   },
   {
     "name": "God Medicine - Hukkoku Ban",
@@ -3679,6 +3695,14 @@ export const patches = [
     "md5": "4426b35ef04094f9c5518d6fb6414d55",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nettou-samurai-spirits---zankurou-musouken"
+  },
+  {
+    "name": "New Addams Family Series",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewAddamsFamily.ips",
+    "md5": "2d2a8314f789d490bf83ed3c44538fe3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#new-addams-family-series"
   },
   {
     "name": "New Batman Adventures - Chaos in Gotham",
