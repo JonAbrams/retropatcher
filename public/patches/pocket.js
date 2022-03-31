@@ -1,4 +1,4 @@
-export const updated = '2022-03-31T07:21:13.907Z';
+export const updated = '2022-03-31T08:24:31.906Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3777,6 +3777,22 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#opossum-country"
   },
   {
+    "name": "Othello",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Othello.ips",
+    "md5": "f57101bf26e140991a4e2f50a968ce7c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#othello"
+  },
+  {
+    "name": "Othello (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OthelloJ.ips",
+    "md5": "f57101bf26e140991a4e2f50a968ce7c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#othello-j"
+  },
+  {
     "name": "Out of Gas",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OutOfGas.ips",
@@ -5439,6 +5455,14 @@ export const patches = [
     "md5": "64f7f8af18f75a9b3767e4637e693be7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sword-of-hope-ii"
+  },
+  {
+    "name": "Sylvester and Tweety - Breakfast on the Run",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnT-BotR.ips",
+    "md5": "88e01db4aee70b3c48324f991d149a2a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sylvester-and-tweety---breakfast-on-the-run"
   },
   {
     "name": "T2 - The Arcade Game",
