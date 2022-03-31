@@ -1,4 +1,4 @@
-export const updated = '2022-03-31T06:27:30.459Z';
+export const updated = '2022-03-31T07:21:13.907Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2951,6 +2951,14 @@ export const patches = [
     "md5": "f687b51a0fab72e03766356b62261a49",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-gbc"
+  },
+  {
+    "name": "Looney Tunes - Twouble!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesTwouble.ips",
+    "md5": "1d31fa1e431ec840e5f769fdd019405f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes---twouble"
   },
   {
     "name": "Loopz",
@@ -6031,6 +6039,14 @@ export const patches = [
     "md5": "8940ba032d30f87e6956fbd8009420e3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wcw-mayhem"
+  },
+  {
+    "name": "WWF - Attitude",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WWFAttitude.ips",
+    "md5": "87c5862edce9eae3d6afe964bfed5204",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wwf---attitude"
   },
   {
     "name": "WWF - Betrayal",
