@@ -1,4 +1,4 @@
-export const updated = '2022-03-31T01:45:33.830Z';
+export const updated = '2022-03-31T06:27:30.459Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2945,6 +2945,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes"
   },
   {
+    "name": "Looney Tunes (GBC)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips",
+    "md5": "f687b51a0fab72e03766356b62261a49",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-gbc"
+  },
+  {
     "name": "Loopz",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Loopz.ips",
@@ -3599,6 +3607,14 @@ export const patches = [
     "md5": "feaa1bbb7e532872cf1d37d80af6fdb4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystical-ninja-starring-goemon"
+  },
+  {
+    "name": "NBA All Star Challenge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAAllStar.ips",
+    "md5": "709726eb6de8d45e63a88063529605bc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-all-star-challenge"
   },
   {
     "name": "NBA Jam",
