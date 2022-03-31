@@ -1,4 +1,4 @@
-export const updated = '2022-03-30T08:27:47.638Z';
+export const updated = '2022-03-31T01:45:33.830Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3145,6 +3145,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#max"
   },
   {
+    "name": "McDonaldland",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/McDonaldland.ips",
+    "md5": "dcf79d785d5ce187f727f7dc2e00dc8c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mcdonaldland"
+  },
+  {
     "name": "Medarot - Kabuto Version",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MedarotKabuto.ips",
@@ -5511,6 +5519,14 @@ export const patches = [
     "md5": "e6104df1feb1318ff1764c791eb4ce0e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teenage-mutant-ninja-turtles-iii---radical-rescue"
+  },
+  {
+    "name": "Teke! Teke! Asmik-kun World",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TekeTekeAsmik.ips",
+    "md5": "563c4c81878db48d8a0b6091f4c1cd92",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#teke-teke-asmik-kun-world"
   },
   {
     "name": "Telefang - Power Edition (NoRTC)",
