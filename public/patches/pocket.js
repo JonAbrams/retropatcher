@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T01:58:36.655Z';
+export const updated = '2022-04-01T02:38:48.571Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -447,6 +447,14 @@ export const patches = [
     "md5": "19058077b12ac22580aae17b3dd1233f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-and-the-beanstalk"
+  },
+  {
+    "name": "Bart no Jack to Mame no Ki",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BartBeanstalk.ips",
+    "md5": "1d5e05159b0ac6a5119bd6f743c7eb9e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bart-no-jack-to-mame-no-ki"
   },
   {
     "name": "Bart vs. the Juggernauts",
@@ -2865,6 +2873,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-2"
   },
   {
+    "name": "Legend of the River King 2 (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendOfTheRiverKing2.ips",
+    "md5": "052cd45a69af16f025a545b29bc8f450",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-2-e"
+  },
+  {
     "name": "Legend of the Sea King",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendSeaKing.ips",
@@ -2967,6 +2983,14 @@ export const patches = [
     "md5": "f687b51a0fab72e03766356b62261a49",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-gbc"
+  },
+  {
+    "name": "Looney Tunes (GBC) (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesGBC.ips",
+    "md5": "a539a0ae1b1ed8034fc3a4733b4298c3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-gbc-e"
   },
   {
     "name": "Looney Tunes - Twouble!",
@@ -3313,20 +3337,20 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mercenary-force"
   },
   {
+    "name": "Metal Gear Solid",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips",
+    "md5": "f6dd1b1e5747412b9e5f25376c972d5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid"
+  },
+  {
     "name": "Metal Gear Solid (European Version)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGearEuro.ips",
     "md5": "7971c95ad9745fe20df52e03cd52f636",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid-european-version"
-  },
-  {
-    "name": "Metal Gear Solid (USA)",
-    "authorName": "JoseJX",
-    "md5": "f6dd1b1e5747412b9e5f25376c972d5a",
-    "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGear.ips"
   },
   {
     "name": "Metal Walker",
@@ -3527,6 +3551,14 @@ export const patches = [
     "md5": "de1572d4d181b265e2cb7d517c0ba04a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs"
+  },
+  {
+    "name": "Motocross Maniacs 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Motocross2.ips",
+    "md5": "4d08e5553356aecd728b5ef7d78ee261",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs-2"
   },
   {
     "name": "Mr. Do!",
@@ -5017,6 +5049,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopys---magic-show"
   },
   {
+    "name": "Snoopy's - Magic Show (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShow.ips",
+    "md5": "3d8f6eccc13f3344c8d971b7e141f064",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopys---magic-show-j"
+  },
+  {
     "name": "Snoopy's Magic Show DX",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyMagicShowDX.ips",
@@ -5913,6 +5953,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-gear-pocket-2"
   },
   {
+    "name": "Top Gear Rally 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopGearPocket2.ips",
+    "md5": "0a1cf1904c87b60308c404d93bab2702",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-gear-rally-2"
+  },
+  {
     "name": "Top Ranking Tennis",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TopRankingTennis.ips",
@@ -5927,6 +5975,14 @@ export const patches = [
     "md5": "d4e7caf41d3a12facc5d7d5185631567",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story"
+  },
+  {
+    "name": "Toy Story (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryA.ips",
+    "md5": "508e937dc634f36d738d65734f3ae0ab",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story-e"
   },
   {
     "name": "Toy Story (Rev A)",

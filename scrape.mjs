@@ -53,8 +53,7 @@ const sources = {
       if (
         patches.some(
           (p) =>
-            (p.authorName === authorName && p.name === name) ||
-            p.downloadUrl === downloadUrl
+            p.downloadUrl === downloadUrl && p.md5 === md5
         )
       ) {
         continue;
