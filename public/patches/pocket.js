@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T19:17:49.287Z';
+export const updated = '2022-04-01T21:19:45.609Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3687,6 +3687,14 @@ export const patches = [
     "md5": "feaa1bbb7e532872cf1d37d80af6fdb4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mystical-ninja-starring-goemon"
+  },
+  {
+    "name": "NBA 3-on-3 Featuring Kobe Bryant",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBA3on3.ips",
+    "md5": "8cbb9b7401be513c913a3a54eee0da54",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-3-on-3-featuring-kobe-bryant"
   },
   {
     "name": "NBA All Star Challenge",
