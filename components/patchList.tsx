@@ -69,7 +69,12 @@ export function PatchList() {
       </div>
       {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
       {patches.map((patch) => (
-        <PatchInfo patch={patch} key={patch.downloadUrl} showDownload showMd5 />
+        <PatchInfo
+          patch={patch}
+          key={`${patch.md5}:${patch.downloadUrl}`}
+          showDownload
+          showMd5
+        />
       ))}
     </div>
   );
