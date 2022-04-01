@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T03:21:03.713Z';
+export const updated = '2022-04-01T04:30:33.831Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2337,6 +2337,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#humans"
   },
   {
+    "name": "Hunt for Red October",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HuntForRedOctober.ips",
+    "md5": "cca5288a7a9e0270592bf75c0431bbb5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hunt-for-red-october"
+  },
+  {
     "name": "Hyper Lode Runner",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HyperLodeRunner.ips",
@@ -4415,6 +4423,14 @@ export const patches = [
     "md5": "6073cb28e651b48f0bf19e654aab8c7d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-racer"
+  },
+  {
+    "name": "Power Rangers - Time Force",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRangersTimeForce.ips",
+    "md5": "7510fe2592accfa6ccd4745612e64f88",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-rangers---time-force"
   },
   {
     "name": "Prehistorik Man",
