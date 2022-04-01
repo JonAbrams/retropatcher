@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T04:30:33.831Z';
+export const updated = '2022-04-01T19:17:49.287Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2321,6 +2321,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoshi-no-kirby-2"
   },
   {
+    "name": "Hoyle Card Games",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoyleCardGames.ips",
+    "md5": "83087e1a3fa7160a59ee7e4f0b5c3671",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoyle-card-games"
+  },
+  {
     "name": "Hudson Hawk",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HudsonHawk.ips",
@@ -3703,6 +3711,14 @@ export const patches = [
     "md5": "802cfbc386bb79b0889d7dd2b6abdc13",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam---tournament-edition"
+  },
+  {
+    "name": "NBA Jam 2001",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAJam2001.ips",
+    "md5": "14bfce85af0ae19affbdcef23a9d6baf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam-2001"
   },
   {
     "name": "NHL Blades of Steel (U)",
