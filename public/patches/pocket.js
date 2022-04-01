@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T02:38:48.571Z';
+export const updated = '2022-04-01T03:21:03.713Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1767,6 +1767,14 @@ export const patches = [
     "md5": "05ba7f165dab1ffd49b63b4f5c704c02",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#faceball-2000"
+  },
+  {
+    "name": "Fatass (Fast Tracker II Clone for GB)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/fatass.ips",
+    "md5": "32c52dd5930156df8d08ccbf50c6f570",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fatass-fast-tracker-ii-clone-for-gb"
   },
   {
     "name": "Felix the Cat",
