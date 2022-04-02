@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T15:22:28.712Z';
+export const updated = '2022-04-02T16:30:30.723Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4497,6 +4497,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#probotector"
   },
   {
+    "name": "Probotector 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Probotector2.ips",
+    "md5": "e1ea97584e0cf0d0f4187e1c6322da93",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#probotector-2"
+  },
+  {
     "name": "Project S-11",
     "authorName": "r0r0",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/project-s-11-pocket-8fe6340c822daa9cb07c7d8ab8509751-v2.ips",
@@ -6031,6 +6039,14 @@ export const patches = [
     "md5": "ea82922267095a2268d76e4f21d4ff93",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#top-ranking-tennis"
+  },
+  {
+    "name": "Total Carnage",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TotalCarnage.ips",
+    "md5": "6e8ea043087f4ca441866b03389575e2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#total-carnage"
   },
   {
     "name": "Toy Story",
