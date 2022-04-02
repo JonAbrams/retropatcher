@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T16:30:30.723Z';
+export const updated = '2022-04-02T18:25:36.849Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3503,6 +3503,14 @@ export const patches = [
     "md5": "fbf1ffe76883dffcca299228c81f171f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mobile-golf"
+  },
+  {
+    "name": "Moguranya",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Moguranya.ips",
+    "md5": "4ff223851bc7e3d19acdbf8034e4829f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#moguranya"
   },
   {
     "name": "Mole Mania",
