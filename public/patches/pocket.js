@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T20:21:58.263Z';
+export const updated = '2022-04-02T21:19:48.604Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -167,6 +167,14 @@ export const patches = [
     "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-3"
+  },
+  {
+    "name": "Alien vs. Predator - The Last of His Clan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AvPLastOfHisClan.ips",
+    "md5": "50a208bd0a223c037e01ffe07b04fa5b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-vs-predator---the-last-of-his-clan"
   },
   {
     "name": "Aliens - The Thanatos Encounter",
@@ -1137,6 +1145,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#choplifter-ii---rescue-and-survive"
   },
   {
+    "name": "Classic Bubble Bobble",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobble.ips",
+    "md5": "4bc8467ed91a94ba23648706b551cef5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#classic-bubble-bobble"
+  },
+  {
+    "name": "Classic Bubble Bobble (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ClassicBubbleBobbleE.ips",
+    "md5": "83f1b6f79b8f0fecc4427efc9fa7d732",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#classic-bubble-bobble-e"
+  },
+  {
     "name": "Commander Keen",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CommanderKeen.ips",
@@ -1601,20 +1625,20 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-de"
   },
   {
-    "name": "Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Inu no Bouken",
+    "name": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Inu no Bouken",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-InB.ips",
     "md5": "f47edc51d53ae8f416898b80bd3022a1",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2--maruta-no-fushigi-na-kagi-inu-no-bouken"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---inu-no-bouken"
   },
   {
-    "name": "Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Ruka no Tabidachi",
+    "name": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-RnT.ips",
     "md5": "979eb4fd473c344cb2cfc6ea4211ca5a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2--maruta-no-fushigi-na-kagi-ruka-no-tabidachi"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2---maruta-no-fushigi-na-kagi---ruka-no-tabidachi"
   },
   {
     "name": "Dragon Quest-1and2",
@@ -5631,6 +5655,14 @@ export const patches = [
     "md5": "cac94925bf098982d31f7c9a2c296d25",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tail-gator"
+  },
+  {
+    "name": "Taito Memorial - Bubble Bobble",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaitoMemorialBubbleBobble.ips",
+    "md5": "b59fa772b15a07f44110d5b7aa24b424",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taito-memorial---bubble-bobble"
   },
   {
     "name": "Take it Racing 2 - Demo",
