@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T05:19:39.898Z';
+export const updated = '2022-04-02T15:22:28.712Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4487,6 +4487,14 @@ export const patches = [
     "md5": "80034da43f35307291714ae2553d9ddf",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prince-of-persia-1992"
+  },
+  {
+    "name": "Probotector",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Probotector.ips",
+    "md5": "298c80fe568bb2ff8bb7e4dfe5862a9d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#probotector"
   },
   {
     "name": "Project S-11",
