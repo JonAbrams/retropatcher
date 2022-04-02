@@ -1,4 +1,4 @@
-export const updated = '2022-04-01T21:19:45.609Z';
+export const updated = '2022-04-02T05:19:39.898Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5591,6 +5591,14 @@ export const patches = [
     "md5": "cac94925bf098982d31f7c9a2c296d25",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tail-gator"
+  },
+  {
+    "name": "Take it Racing 2 - Demo",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TakeItRacing2Demo.ips",
+    "md5": "0dea233e00ac3ee930d23db9002df57c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#take-it-racing-2---demo"
   },
   {
     "name": "TaleSpin",
