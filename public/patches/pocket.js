@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T21:19:48.604Z';
+export const updated = '2022-04-02T22:21:45.059Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2343,6 +2343,14 @@ export const patches = [
     "md5": "4b068708fb29fdabbee834114fe4a09d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
+  },
+  {
+    "name": "Hook",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hook.ips",
+    "md5": "c4e2de3be0bb5608ab903a885afc065d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hook"
   },
   {
     "name": "Hoshi no Kirby",
