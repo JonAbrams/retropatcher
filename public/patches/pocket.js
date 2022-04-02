@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T18:25:36.849Z';
+export const updated = '2022-04-02T20:21:58.263Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1599,6 +1599,22 @@ export const patches = [
     "md5": "08bca718c62e3c2870a2df107fc0a562",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-de"
+  },
+  {
+    "name": "Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Inu no Bouken",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-InB.ips",
+    "md5": "f47edc51d53ae8f416898b80bd3022a1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2--maruta-no-fushigi-na-kagi-inu-no-bouken"
+  },
+  {
+    "name": "Dragon Quest Monsters 2 : Maruta no Fushigi na Kagi, Ruka no Tabidachi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DQM2-RnT.ips",
+    "md5": "979eb4fd473c344cb2cfc6ea4211ca5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-2--maruta-no-fushigi-na-kagi-ruka-no-tabidachi"
   },
   {
     "name": "Dragon Quest-1and2",
