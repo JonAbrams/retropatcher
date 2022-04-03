@@ -1,4 +1,4 @@
-export const updated = '2022-04-03T18:25:45.287Z';
+export const updated = '2022-04-03T20:23:14.419Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3209,6 +3209,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marble-madness-color"
   },
   {
+    "name": "Mario & Yoshi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioYoshi.ips",
+    "md5": "5cff00db388d27727a1c9fb4c303f40b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mario--yoshi"
+  },
+  {
     "name": "Mario Golf",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/d4dd21a7ac1dddbce64235722f40eb1ee825f39c/Mario+Golf+%28USA%29-905ad0cb.ips",
@@ -6225,6 +6233,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tumble-pop"
   },
   {
+    "name": "Turok - Battle of the Bionosaurs",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TurokBattleOfBionosaurs.ips",
+    "md5": "fe68b048f7f77454f73ddef30c16316f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok---battle-of-the-bionosaurs"
+  },
+  {
     "name": "Turok 2 - Seeds of Evil",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turok2.ips",
@@ -6673,6 +6689,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yakuman"
   },
   {
+    "name": "Yoda Stories",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YodaStories.ips",
+    "md5": "544eb3962ef54f89718c8dfa668ec4be",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoda-stories"
+  },
+  {
     "name": "Yoshi",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yoshi.ips",
@@ -6681,12 +6705,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshi"
   },
   {
+    "name": "Yoshi no Cookie",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshiNoCookie.ips",
+    "md5": "95e0ce560fe647b955fa1d3b2808acfa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshi-no-cookie"
+  },
+  {
     "name": "Yoshi no Panepon",
     "authorName": "reminon",
     "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Yoshi%20no%20Panepon%20(Japan)%20(SGB%20Enhanced).ips",
     "md5": "11be7ff8141f8d7a5c8cca903151f0ba",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#yoshi-no-panepon"
+  },
+  {
+    "name": "Yoshi no Tomago",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YoshiNoTamago.ips",
+    "md5": "0ccb1e6beb86d79a7a5dad81eb6c73a9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoshi-no-tomago"
   },
   {
     "name": "Yoshi's Cookie",
