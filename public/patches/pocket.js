@@ -1,4 +1,4 @@
-export const updated = '2022-04-03T04:28:30.475Z';
+export const updated = '2022-04-03T18:25:45.287Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3463,6 +3463,14 @@ export const patches = [
     "md5": "38b65d28ac0bd619f5dee5a45d5fc542",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickey-mouse---magic-wands"
+  },
+  {
+    "name": "Mickey's Racing Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysRacingAdventure.ips",
+    "md5": "221d3b96df7d86291b553a7cb4702dec",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-racing-adventure"
   },
   {
     "name": "Mickey's Speedway USA",
