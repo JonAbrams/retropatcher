@@ -1,4 +1,4 @@
-export const updated = '2022-04-02T22:21:45.059Z';
+export const updated = '2022-04-03T04:28:30.475Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3519,6 +3519,14 @@ export const patches = [
     "md5": "c29df42ef1237c4392049196d2205ffe",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#midori-no-makibaou"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MightyMorphinPowerRangers.ips",
+    "md5": "5b83db9958eefbd72a82c4893e79d9e1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mighty-morphin-power-rangers"
   },
   {
     "name": "Mighty Morphin Power Rangers - The Movie",
