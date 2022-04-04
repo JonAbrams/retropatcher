@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T06:28:06.288Z';
+export const updated = '2022-04-04T15:24:44.166Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4977,6 +4977,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rolans-curse-ii"
   },
   {
+    "name": "Sabrina - The Animated Series - Spooked!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SabrinaSpooked.ips",
+    "md5": "3073432455a395835de6147399b36cfc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sabrina---the-animated-series---spooked"
+  },
+  {
+    "name": "Sabrina - The Animated Series - Zapped!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SabrinaZapped.ips",
+    "md5": "ec39462e39e3cbcabe03667fabf12d5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sabrina---the-animated-series---zapped"
+  },
+  {
     "name": "Sagaia",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Sagaia.ips",
@@ -5311,6 +5327,22 @@ export const patches = [
     "md5": "d32b9da8028d357e20c791b07ded4f86",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders"
+  },
+  {
+    "name": "Space Invaders (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvadersE.ips",
+    "md5": "704cefb5c77dc74631b9acbaa2b19435",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders-e"
+  },
+  {
+    "name": "Space Invaders (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvadersJ.ips",
+    "md5": "7c1ab6fe16bcf564c7f8e13e40f2b87d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders-j"
   },
   {
     "name": "Space Marauder",
@@ -6131,7 +6163,7 @@ export const patches = [
   {
     "name": "Tomb Raider - Curse of the Sword",
     "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaiderCurse.ips",
     "md5": "a0b4538f687fc61bc88f7ee111170355",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tomb-raider---curse-of-the-sword"
