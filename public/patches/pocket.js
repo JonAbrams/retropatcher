@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T15:24:44.166Z';
+export const updated = '2022-04-04T16:34:24.146Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6161,6 +6161,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tom-and-jerry-in-mouse-attacks"
   },
   {
+    "name": "Tomb Raider",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaider.ips",
+    "md5": "74b9b221c2b32147422144b327bd5f30",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tomb-raider"
+  },
+  {
     "name": "Tomb Raider - Curse of the Sword",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TombRaiderCurse.ips",
@@ -6335,6 +6343,14 @@ export const patches = [
     "md5": "fe68b048f7f77454f73ddef30c16316f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok---battle-of-the-bionosaurs"
+  },
+  {
+    "name": "Turok - Rage Wars",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TurokRageWars.ips",
+    "md5": "2d7d0adcec6f72ca0755862c5fddf353",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok---rage-wars"
   },
   {
     "name": "Turok 2 - Seeds of Evil",
