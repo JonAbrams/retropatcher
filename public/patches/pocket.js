@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T20:23:15.275Z';
+export const updated = '2022-04-04T23:23:41.802Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4447,6 +4447,14 @@ export const patches = [
     "md5": "a642f446a407f67e55117e2ee6b56244",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-250"
+  },
+  {
+    "name": "Pokémon Crystal Clear 2.5.1",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/83d779224a45c607957a54f3e0be8b746a321751/Crystal_Clear%282.5.1%29-1627acd.ips",
+    "md5": "9d70694d975ba415c6a27dda7b3dfdf2",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-251"
   },
   {
     "name": "Pokémon Gold",
