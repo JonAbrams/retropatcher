@@ -1,4 +1,4 @@
-export const updated = '2022-04-03T20:23:14.419Z';
+export const updated = '2022-04-04T03:07:14.924Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1961,6 +1961,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#friday-the-13th-the-gb-game"
   },
   {
+    "name": "Frogger",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger.ips",
+    "md5": "1ed313c4fd78b81a8ca3613e6234da7e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger"
+  },
+  {
     "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB2.ips",
@@ -2775,6 +2783,22 @@ export const patches = [
     "md5": "3a4bb57e9fbd4ef563c0c7b59a1c82a5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kwirk---hes-a-maze-ing"
+  },
+  {
+    "name": "LEGO Island 2 - The Brickster's Revenge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOIsland2.ips",
+    "md5": "1d0ea47375fca723c0f86a5178e545f3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-island-2---the-bricksters-revenge"
+  },
+  {
+    "name": "LEGO Island 2 - The Brickster's Revenge (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOIsland2E.ips",
+    "md5": "2a1efef6d25431529b0d2f5063f63a17",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-island-2---the-bricksters-revenge-e"
   },
   {
     "name": "LSDJ (Version 9.2L)",
