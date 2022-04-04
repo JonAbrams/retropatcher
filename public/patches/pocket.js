@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T19:18:18.489Z';
+export const updated = '2022-04-04T20:23:15.275Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4791,6 +4791,14 @@ export const patches = [
     "md5": "dae7b7625d41d8a06266b09924154bb2",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#r-type-dx"
+  },
+  {
+    "name": "Radar Mission",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RadarMission.ips",
+    "md5": "82d650a781ef372126a863d519c01aae",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#radar-mission"
   },
   {
     "name": "Rampage World Tour",
