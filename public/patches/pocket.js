@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T18:28:09.943Z';
+export const updated = '2022-04-04T19:18:18.489Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1721,6 +1721,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragons-lair"
   },
   {
+    "name": "Dragon's Lair - The Legend",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonsLairLegend.ips",
+    "md5": "ae4fda03378a0584d45a4735c9d6290e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragons-lair---the-legend"
+  },
+  {
     "name": "Driver - You are the Wheelman",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Driver.ips",
@@ -1807,6 +1815,14 @@ export const patches = [
     "md5": "3ad6a2e9c2872cd8f92d86e18332262c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-1-race"
+  },
+  {
+    "name": "F-1 Race (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/F1RaceA.ips",
+    "md5": "8ac5c061641b2a8b4c44b46ef693aeef",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-1-race-rev-a"
   },
   {
     "name": "F-18 Thunder Strike",
