@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T04:28:43.237Z';
+export const updated = '2022-04-04T06:28:06.288Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4137,6 +4137,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pipe-dream"
   },
   {
+    "name": "Pitfall - Beyond the Jungle",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PitfallBeyondTheJungle.ips",
+    "md5": "d6dce5c8dc02ce77d58f8852653e42e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pitfall---beyond-the-jungle"
+  },
+  {
     "name": "Pocket Bomberman",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips",
@@ -4711,6 +4719,22 @@ export const patches = [
     "md5": "de2236723c8d218e04c93849ebcda72d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quarth"
+  },
+  {
+    "name": "Quest For Camelot (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelotE.ips",
+    "md5": "81dd8a336e1b1b705235a7b20a536bc0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-for-camelot-e"
+  },
+  {
+    "name": "Quest for Camelot",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelot.ips",
+    "md5": "3b26dfc4e7c55cf86f4a4f3c18344ac7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-for-camelot"
   },
   {
     "name": "R-Type",
