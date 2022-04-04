@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T17:25:04.054Z';
+export const updated = '2022-04-04T18:28:09.943Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1623,6 +1623,14 @@ export const patches = [
     "md5": "ac46bc779e1e844674de1d4c13d06f96",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-ball-z---legendary-super-warriors"
+  },
+  {
+    "name": "Dragon Dance",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonDance.ips",
+    "md5": "0c6a0f2add131ca4afd24763fe3c3a04",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-dance"
   },
   {
     "name": "Dragon Quest III: Soshite Densetsu e...",
@@ -4111,6 +4119,14 @@ export const patches = [
     "md5": "840e1ddb2696ecae487fd264a3c34581",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#perfect-dark"
+  },
+  {
+    "name": "Philip & Marlowe in Bloomland",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bloomland.ips",
+    "md5": "6c06369e6d6ecbf2d7b5a5254a11e541",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#philip--marlowe-in-bloomland"
   },
   {
     "name": "Picross 2",
