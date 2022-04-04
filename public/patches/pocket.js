@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T16:34:24.146Z';
+export const updated = '2022-04-04T17:25:04.054Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1463,6 +1463,14 @@ export const patches = [
     "md5": "ab5f50d0e31a07e19739453bb9a2d328",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dick-tracy"
+  },
+  {
+    "name": "Dig Dug",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DigDug.ips",
+    "md5": "9719eaada417782a236a9d84805a512a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dig-dug"
   },
   {
     "name": "Disco Elysium Game Boy Edition",
