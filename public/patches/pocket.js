@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T03:07:14.924Z';
+export const updated = '2022-04-04T04:28:43.237Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -975,6 +975,14 @@ export const patches = [
     "md5": "e98124b30408c00786068387353e39e5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-millennium"
+  },
+  {
+    "name": "Bust-a-Move 4",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Bust-A-Move4.ips",
+    "md5": "dc835fa5664aa83ff90dc2ff6cc83f24",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bust-a-move-4"
   },
   {
     "name": "Buzz Lightyear of Star Command",
@@ -1967,6 +1975,14 @@ export const patches = [
     "md5": "1ed313c4fd78b81a8ca3613e6234da7e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger"
+  },
+  {
+    "name": "Frogger 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Frogger2.ips",
+    "md5": "06b0d6b88e54337f3f5c7bbea373f237",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger-2"
   },
   {
     "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
