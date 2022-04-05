@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T05:20:34.294Z';
+export const updated = '2022-04-05T06:28:38.123Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3929,6 +3929,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis-ii"
   },
   {
+    "name": "Nettou Real Bout Garou Densetsu Special",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouRealBout.ips",
+    "md5": "4c24f644e70f0786d20d8ca9ffcea51c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nettou-real-bout-garou-densetsu-special"
+  },
+  {
     "name": "Nettou Samurai Spirits - Zankurou Musouken",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouSamuraiSpirits.ips",
@@ -6423,6 +6431,14 @@ export const patches = [
     "md5": "fe68b048f7f77454f73ddef30c16316f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok---battle-of-the-bionosaurs"
+  },
+  {
+    "name": "Turok - Battle of the Bionosaurs (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TurokBattleBionosaursJ.ips",
+    "md5": "412075e19f160df8c3571ae37184d827",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok---battle-of-the-bionosaurs-j"
   },
   {
     "name": "Turok - Rage Wars",
