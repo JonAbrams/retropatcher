@@ -1,4 +1,4 @@
-export const updated = '2022-04-04T23:23:41.802Z';
+export const updated = '2022-04-05T01:45:34.613Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4295,6 +4295,14 @@ export const patches = [
     "md5": "d9290db87b1f0a23b89f99ee4469e34b",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokemon---yellow-version"
+  },
+  {
+    "name": "Pokemon Blaue",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonBlaue.ips",
+    "md5": "a1ec7f07c7b4251d5fafc50622d546f8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-blaue"
   },
   {
     "name": "Pokemon Brown",
