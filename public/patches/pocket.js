@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T01:45:34.613Z';
+export const updated = '2022-04-05T02:57:56.097Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -375,6 +375,14 @@ export const patches = [
     "md5": "5a88b67ed5475e591747bc7956642456",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#astro-rabby"
+  },
+  {
+    "name": "Atlantis - The Lost Empire",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AtlantisLostEmpire.ips",
+    "md5": "5aab47cf957c82c969bbc0a93232f883",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#atlantis---the-lost-empire"
   },
   {
     "name": "Atomic Punk",
@@ -2143,6 +2151,14 @@ export const patches = [
     "md5": "8a4245cbeb1d6400b4cb586790400b60",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#george-foremans-ko-boxing"
+  },
+  {
+    "name": "Getaway",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Getaway.ips",
+    "md5": "033c219483ec7766517c94635b3a43f8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#getaway"
   },
   {
     "name": "Gex - Enter the Gecko",
