@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T06:28:38.123Z';
+export const updated = '2022-04-05T15:24:37.843Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3927,6 +3927,14 @@ export const patches = [
     "md5": "c4dc3987a841a428f837db26bddc586e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nemesis-ii"
+  },
+  {
+    "name": "Nettou Garou Densetsu 2 - Aratanaru Tatakai",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NettouGarouDensetsu2.ips",
+    "md5": "4e493ada5353cf6eb1c0f009d6a5ac13",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nettou-garou-densetsu-2---aratanaru-tatakai"
   },
   {
     "name": "Nettou Real Bout Garou Densetsu Special",
