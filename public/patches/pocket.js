@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T02:57:56.097Z';
+export const updated = '2022-04-05T05:20:34.294Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6447,6 +6447,14 @@ export const patches = [
     "md5": "a9d2f36d6c2a334e0b2261c57c20f0d4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turok-3---shadow-of-oblivion"
+  },
+  {
+    "name": "Turrican",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Turrican.ips",
+    "md5": "6534eff4dff0000f66a0059f0b84e71e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turrican"
   },
   {
     "name": "Ultima - Runes of Virtue",
