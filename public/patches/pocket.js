@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T21:17:21.888Z';
+export const updated = '2022-04-05T22:21:31.731Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1191,6 +1191,14 @@ export const patches = [
     "md5": "fee6336f969c9e72e9b78be53d512c1e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#conkers-pocket-tales"
+  },
+  {
+    "name": "Contra",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Contra.ips",
+    "md5": "2cc322a27530f6aaa09a35b2f14aebd5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#contra"
   },
   {
     "name": "Contra III - Alien Wars",
@@ -2527,6 +2535,14 @@ export const patches = [
     "md5": "a27e15cde0a8fbfc4489e0f599a53a9a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#indiana-jones-and-the-last-crusade"
+  },
+  {
+    "name": "InfoGenius Systems - Personal Organizer with Phone Book",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/InfoGeniusOrganizer.ips",
+    "md5": "872e582831a17faee1df663c39a73e99",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#infogenius-systems---personal-organizer-with-phone-book"
   },
   {
     "name": "International Karate 2000",
@@ -4423,6 +4439,14 @@ export const patches = [
     "md5": "8ed0e8d45a81ca34de625d930148a512",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-rote-edition"
+  },
+  {
+    "name": "Pokemon Trading Card Game (En, Es, It)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Pokemon-TCG-EnEsIt.ips",
+    "md5": "7eb08ef6d67164251eeeabf537fedccb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-trading-card-game-en-es-it"
   },
   {
     "name": "Pokemon Yellow - 151",
