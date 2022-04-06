@@ -1,4 +1,4 @@
-export const updated = '2022-04-06T06:01:21.461Z';
+export const updated = '2022-04-06T20:23:19.144Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -121,6 +121,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#air-force-delta"
   },
   {
+    "name": "Akazukin Chacha",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AkazukinChacha.ips",
+    "md5": "9a5215658c60a1802b11f728c292b536",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#akazukin-chacha"
+  },
+  {
     "name": "Aladdin",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aladdin.ips",
@@ -241,6 +249,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amazing-spider-man"
   },
   {
+    "name": "Amida",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Amida.ips",
+    "md5": "9642b7c599b47135cbd4e45e039d608d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amida"
+  },
+  {
     "name": "Animaniacs",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Animaniacs.ips",
@@ -295,6 +311,14 @@ export const patches = [
     "md5": "8ffcf9da76aa9ba1c5b1789a92f47d21",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-hits---moon-patrol-and-spy-hunter"
+  },
+  {
+    "name": "Aretha",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha.ips",
+    "md5": "9c23d37d51a593e82378dad038a52ef2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aretha"
   },
   {
     "name": "Army Men",
@@ -823,6 +847,14 @@ export const patches = [
     "md5": "b73d76599e3d7f979a99bba5f1c92add",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bonks-revenge"
+  },
+  {
+    "name": "Booby Boys",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoobyBoys.ips",
+    "md5": "d17aa3dd0a52bc3dc03bfe20f27c8b07",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#booby-boys"
   },
   {
     "name": "Boomer's Adventure in ASMIK World",
@@ -3151,6 +3183,14 @@ export const patches = [
     "md5": "8bb31f539e8999d5c4e9449fe1befad6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lock-n-chase--lock-n-chase"
+  },
+  {
+    "name": "Logical",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Logical.ips",
+    "md5": "eac27e6d4cd1d38d07f2a18ad8169af1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#logical"
   },
   {
     "name": "Looney Tunes",
