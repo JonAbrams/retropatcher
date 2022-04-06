@@ -6717,7 +6717,7 @@ export const patches = [
     "authorName": "JoseJX",
     "md5": "d9d957771484ef846d4e8d241f6f2815",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-land---super-mario-land-3-dx",
-    "downloadUrl": "/patches/ips/warioLandDX.ips"
+    "downloadUrl": "/patches/ips/WarioLandDX.ips"
   },
   {
     "name": "Wario Land II",
