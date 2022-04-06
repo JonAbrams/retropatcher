@@ -50,7 +50,9 @@ const Home: NextPage = () => {
     const blob = new Blob([patchedBytes]);
     const matched = filename.match(/(.*)\.gbc?/);
     if (!matched) return;
-    let outputFilename = `${matched[1]}.${patch.extension || "pocket"}`;
+    let outputFilename = `${patch.name
+      .replace(/[^ \w$%\-!#$%&'()@^_`{}~]/g, "")
+      .slice(0, 56)}.pocket`;
     if (patch.outputFilename) {
       outputFilename = patch.outputFilename;
     }
