@@ -1,4 +1,4 @@
-export const updated = '2022-04-06T02:59:07.616Z';
+export const updated = '2022-04-06T06:01:21.461Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6711,6 +6711,13 @@ export const patches = [
     "md5": "16bb3fb83e8cbbf2c4c510b9f50cf4ee",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#wario-land-3"
+  },
+  {
+    "name": "Wario Land DX",
+    "authorName": "JoseJX",
+    "md5": "d9d957771484ef846d4e8d241f6f2815",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-land---super-mario-land-3-dx",
+    "downloadUrl": "/patches/ips/warioLandDX.ips"
   },
   {
     "name": "Wario Land II",
