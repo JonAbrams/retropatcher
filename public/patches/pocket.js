@@ -1,4 +1,4 @@
-export const updated = '2022-04-05T22:21:31.731Z';
+export const updated = '2022-04-06T02:59:07.616Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2863,6 +2863,14 @@ export const patches = [
     "md5": "3a4bb57e9fbd4ef563c0c7b59a1c82a5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kwirk---hes-a-maze-ing"
+  },
+  {
+    "name": "LEGO Alpha Team",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOAlphaTeam.ips",
+    "md5": "e79ce8c2b2e9ea0c0907cfbfadaa8744",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-alpha-team"
   },
   {
     "name": "LEGO Island 2 - The Brickster's Revenge",
