@@ -1,4 +1,4 @@
-export const updated = '2022-04-07T01:43:07.575Z';
+export const updated = '2022-04-07T02:57:14.814Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -433,6 +433,14 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#avenging-spirit"
   },
   {
+    "name": "Ayakashi no Shiro",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiro.ips",
+    "md5": "8f3095c4d98694f19270d8c2788d5e46",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ayakashi-no-shiro"
+  },
+  {
     "name": "Azure Dreams",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/d42073221f5418e1059c159246e3a89f6a0011e8/Azure+Dreams+%28USA%29+%28SGB+Enhanced%29-71d52876.ips",
@@ -743,6 +751,14 @@ export const patches = [
     "md5": "c4868bf46a993b4c33a9a8af5341282a",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#blaster-master-boy"
+  },
+  {
+    "name": "Block Kuzushi GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlockKuzushiGB.ips",
+    "md5": "55ef8421492242c2726e355c41aef000",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#block-kuzushi-gb"
   },
   {
     "name": "Blues Brothers",
