@@ -1,4 +1,4 @@
-export const updated = '2022-04-06T20:23:19.144Z';
+export const updated = '2022-04-07T01:43:07.575Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -111,6 +111,14 @@ export const patches = [
     "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-star-saver"
+  },
+  {
+    "name": "After Burst",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AfterBurst.ips",
+    "md5": "b5c541c765fd3a5767b3fa1cfc821587",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#after-burst"
   },
   {
     "name": "Air Force Delta",
@@ -3335,6 +3343,14 @@ export const patches = [
     "md5": "a13623a452327ede4553ee2bd1b89a1a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magical-tetris-challenge"
+  },
+  {
+    "name": "Magnetic Soccer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagneticSoccer.ips",
+    "md5": "27334d7717d8e3dc953ba733ef1853c4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magnetic-soccer"
   },
   {
     "name": "Makai Mura Gaiden - The Demon Darkness",
