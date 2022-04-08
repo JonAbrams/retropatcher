@@ -1,4 +1,4 @@
-export const updated = '2022-04-08T22:22:50.485Z';
+export const updated = '2022-04-08T23:22:24.532Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3463,6 +3463,22 @@ export const patches = [
     "md5": "1624f857098ca278b15629914f48352b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magi-nation"
+  },
+  {
+    "name": "Magic Knight Rayearth 2nd. - The Missing Colors",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicKnightRayearth2nd.ips",
+    "md5": "522c139d757a5f5aef530c60ef3c5502",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magic-knight-rayearth-2nd---the-missing-colors"
+  },
+  {
+    "name": "Magic Knight Rayearth 2nd. - The Missing Colors (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicKnightRayearth2ndEng.ips",
+    "md5": "8a0bd22a1e8c1c4259d12df1f1136b57",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magic-knight-rayearth-2nd---the-missing-colors-english-translation"
   },
   {
     "name": "Magical Chase",
