@@ -1,4 +1,4 @@
-export const updated = '2022-04-07T02:57:14.814Z';
+export const updated = '2022-04-08T01:49:49.471Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1377,6 +1377,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daikatana"
   },
   {
+    "name": "Daiku no Gen-San - Robot Teikoku no Yabou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips",
+    "md5": "a46ded16cdf9308ed765e857203a59e7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daiku-no-gen-san---robot-teikoku-no-yabou"
+  },
+  {
     "name": "Dance Dance Revolution GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR.ips",
@@ -2151,6 +2159,30 @@ export const patches = [
     "md5": "c10a76a601ea375593f1cb944c3365e7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-turbo"
+  },
+  {
+    "name": "Gamera - Daikaijuu Kuuchuu Kessen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gamera.ips",
+    "md5": "88c33c0fc3dbdc848b9be604cdda5744",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gamera---daikaijuu-kuuchuu-kessen"
+  },
+  {
+    "name": "Gamera - Guardian of the Universe",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GameraEn.ips",
+    "md5": "aed4f63feaba8b8731aa3cf556a68e1a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gamera---guardian-of-the-universe"
+  },
+  {
+    "name": "Ganso!! Yancha Maru",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ganso.ips",
+    "md5": "a60df6aeb6820683805be1717097fca8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ganso-yancha-maru"
   },
   {
     "name": "Garfield Labyrinth",
