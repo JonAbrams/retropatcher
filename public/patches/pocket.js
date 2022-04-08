@@ -1,4 +1,4 @@
-export const updated = '2022-04-08T20:23:24.563Z';
+export const updated = '2022-04-08T22:22:50.485Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6775,6 +6775,14 @@ export const patches = [
     "md5": "84a0fe6c3fb014cf43c119c344f99965",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition"
+  },
+  {
+    "name": "VR Pocket Manager",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRPocketManager.ips",
+    "md5": "9c83e00b56b75e49cd52922bfd7313d9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vr-pocket-manager"
   },
   {
     "name": "Vegas Stakes",
