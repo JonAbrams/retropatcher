@@ -1,4 +1,4 @@
-export const updated = '2022-04-08T03:05:31.909Z';
+export const updated = '2022-04-08T20:23:24.563Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -441,6 +441,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ayakashi-no-shiro"
   },
   {
+    "name": "Ayakashi no Shiro (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AyakashiNoShiroEng.ips",
+    "md5": "501de1b6056bee7aeb0c2bcbb8b3d806",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ayakashi-no-shiro-english-translation"
+  },
+  {
     "name": "Azure Dreams",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/d42073221f5418e1059c159246e3a89f6a0011e8/Azure+Dreams+%28USA%29+%28SGB+Enhanced%29-71d52876.ips",
@@ -761,6 +769,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#block-kuzushi-gb"
   },
   {
+    "name": "Block Kuzushi GB (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlockKuzushiGBEng.ips",
+    "md5": "b4c3e1ecce45d316a60e54f379f6acb1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#block-kuzushi-gb-english-translation"
+  },
+  {
     "name": "Blues Brothers",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesBrothers.ips",
@@ -879,6 +895,14 @@ export const patches = [
     "md5": "d17aa3dd0a52bc3dc03bfe20f27c8b07",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#booby-boys"
+  },
+  {
+    "name": "Booby Boys (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoobyBoysEng.ips",
+    "md5": "faa5793986914861a1edeb8719d6fe76",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#booby-boys-english-translation"
   },
   {
     "name": "Boomer's Adventure in ASMIK World",
@@ -1881,6 +1905,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elevator-action-ex"
   },
   {
+    "name": "Elmo's ABCs",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ElmosABCs.ips",
+    "md5": "db9d9e20af969a2ee248ae9af42a5d36",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elmos-abcs"
+  },
+  {
     "name": "Extra Bases!",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ExtraBases.ips",
@@ -2753,6 +2785,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru"
   },
   {
+    "name": "Karakuri Kengou Den - Musashi Lord",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDen.ips",
+    "md5": "a74a2a87bb4b2637c5243a37523fa7ae",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#karakuri-kengou-den---musashi-lord"
+  },
+  {
+    "name": "Karakuri Kengou Den - Musashi Lord (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KarakuriKengouDenEng.ips",
+    "md5": "ba683fde6480ae150860402c9523aa3d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#karakuri-kengou-den---musashi-lord-english-translation"
+  },
+  {
     "name": "Kid Dracula",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KidDracula.ips",
@@ -2791,6 +2839,22 @@ export const patches = [
     "md5": "cf6ec3c13cd20240ef0c0c63ec06558f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#king-of-fighters---heat-of-battle"
+  },
+  {
+    "name": "Kinin Koumaroku Oni",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KininKoumarokuOni.ips",
+    "md5": "a7594d0b4362a7e4325dd8ea913c4bf1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kinin-koumaroku-oni"
+  },
+  {
+    "name": "Kinin Koumaroku Oni (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KininKoumarokuOniEng.ips",
+    "md5": "0e07210b5f62ec8587d270c33a04ed1e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kinin-koumaroku-oni-english-translation"
   },
   {
     "name": "Kirby Tilt n Tumble",
@@ -2935,6 +2999,14 @@ export const patches = [
     "md5": "f3414d53473e2cc43347774cc5f40495",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#konami-gb-collection-volume-4"
+  },
+  {
+    "name": "Koro Dice",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KoroDice.ips",
+    "md5": "dd846c4e076dd2f02fc3a4e2ecb6c940",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#koro-dice"
   },
   {
     "name": "Krusty's Fun House",
@@ -3223,6 +3295,22 @@ export const patches = [
     "md5": "67117cc76e2b270e65c2778c734f905f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lion-king---simbas-mighty-adventure"
+  },
+  {
+    "name": "Little Master - Raikuban no Densetsu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMaster.ips",
+    "md5": "de95d425f6a2836960f4ee2a9aa2f6f7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-master---raikuban-no-densetsu"
+  },
+  {
+    "name": "Little Master - Raikuban no Densetsu (English Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LittleMasterEng.ips",
+    "md5": "6ee73d60e4d5a2984edea054082b15bf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-master---raikuban-no-densetsu-english-patch"
   },
   {
     "name": "Little Mermaid",
