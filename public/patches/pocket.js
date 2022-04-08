@@ -1,4 +1,4 @@
-export const updated = '2022-04-08T01:49:49.471Z';
+export const updated = '2022-04-08T03:05:31.909Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2095,6 +2095,14 @@ export const patches = [
     "md5": "06b0d6b88e54337f3f5c7bbea373f237",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger-2"
+  },
+  {
+    "name": "Frogger GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FroggerGBC.ips",
+    "md5": "d94e22b4c08ab3c7b1929f5490adcbf2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger-gbc"
   },
   {
     "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
@@ -5591,6 +5599,14 @@ export const patches = [
     "md5": "7c1ab6fe16bcf564c7f8e13e40f2b87d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders-j"
+  },
+  {
+    "name": "Space Invaders GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvadersGBC.ips",
+    "md5": "46e0e199f58aebbb75b4ed16da5aae60",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#space-invaders-gbc"
   },
   {
     "name": "Space Marauder",
