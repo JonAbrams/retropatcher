@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T07:20:49.144Z';
+export const updated = '2022-04-09T08:25:45.598Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4321,6 +4321,22 @@ export const patches = [
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#nhl-blades-of-steel-u"
   },
   {
+    "name": "Nangoku Shounen Papuwa-kun - Ganmadan no Yabou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips",
+    "md5": "c5256354a6fcd57240c97a399773822e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nangoku-shounen-papuwa-kun---ganmadan-no-yabou"
+  },
+  {
+    "name": "Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips",
+    "md5": "686abad72092adccabc6db3687b1075e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation"
+  },
+  {
     "name": "Nectaris GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips",
@@ -4335,6 +4351,22 @@ export const patches = [
     "md5": "b5775a65e744ef9f39a1d4b01a6bc01d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nectaris-gb-english-translation"
+  },
+  {
+    "name": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NekketsuKouhaKuniokun.ips",
+    "md5": "eb771fb255fa207a830df06338af6d87",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nekketsu-kouha-kunio-kun---bangai-rantou-hen"
+  },
+  {
+    "name": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NekketsuKouhaKuniokun.ips",
+    "md5": "c9ff7b9b68ba68ba4116f19c95a059fa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nekketsu-kouha-kunio-kun---bangai-rantou-hen-english-translation"
   },
   {
     "name": "Nemesis",
