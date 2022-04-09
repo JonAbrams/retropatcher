@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T08:25:45.598Z';
+export const updated = '2022-04-09T18:27:23.543Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4569,6 +4569,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-in-time"
   },
   {
+    "name": "Painter Momopie",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PainterMomopie.ips",
+    "md5": "7a1db9950b7fb12499df822b32ef1ed9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#painter-momopie"
+  },
+  {
+    "name": "Painter Momopie (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PainterMomopie.ips",
+    "md5": "c2db2cbce374ef0a20f930222d6820df",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#painter-momopie-english-translation"
+  },
+  {
     "name": "Paperboy",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy.ips",
@@ -6951,6 +6967,14 @@ export const patches = [
     "md5": "c46e059a69d9b3b4b0b9d8d303c559b3",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#trip-world"
+  },
+  {
+    "name": "Trip World (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TripWorldJ.ips",
+    "md5": "e0a81dcc3aa0db3896c6f46e0ed3fc80",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#trip-world-j"
   },
   {
     "name": "Trogday 2022",
