@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T01:42:31.141Z';
+export const updated = '2022-04-09T05:20:01.924Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -281,6 +281,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#another-bible"
   },
   {
+    "name": "Another Bible (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AnotherBible.ips",
+    "md5": "b13538b9512185226eb21b8cdb534761",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#another-bible-english-translation"
+  },
+  {
     "name": "Arcade Classic No. 1 - Asteroids and Missile Command",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC1.ips",
@@ -300,17 +308,33 @@ export const patches = [
     "name": "Arcade Classic No. 3 - Galaga and Galaxian",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips",
-    "md5": "08f46bb59e52562f08c76f4e6c0040c5",
+    "md5": "19fd29efaf7ea9e314bd613954a92169",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian"
+  },
+  {
+    "name": "Arcade Classic No. 3 - Galaga and Galaxian (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3.ips",
+    "md5": "08f46bb59e52562f08c76f4e6c0040c5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-e"
   },
   {
     "name": "Arcade Classic No. 3 - Galaga and Galaxian DX",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips",
-    "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
+    "md5": "e7af45fbb8cba8a3bf049eec038452d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-dx"
+  },
+  {
+    "name": "Arcade Classic No. 3 - Galaga and Galaxian DX (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC3DX.ips",
+    "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-dx-e"
   },
   {
     "name": "Arcade Hits - Moon Patrol and Spy Hunter",
@@ -473,6 +497,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ballistic"
   },
   {
+    "name": "Ballon Fight GB (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips",
+    "md5": "2a0abe753877bf312725a9122f1e6489",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ballon-fight-gb-english-translation"
+  },
+  {
     "name": "Balloon Fight GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BalloonFightGB.ips",
@@ -495,6 +527,14 @@ export const patches = [
     "md5": "8fdffb08770609255ec3cd314f79f976",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#banishing-racer"
+  },
+  {
+    "name": "Banishing Racer (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BanishingRacer.ips",
+    "md5": "fa8b94ede7e7192c0ccd2fff6c51e948",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#banishing-racer-english-translation"
   },
   {
     "name": "Bart Simpson's Escape from Camp Deadly",
@@ -1193,6 +1233,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chalvo-55---super-puzzle-action"
   },
   {
+    "name": "Chalvo 55 - Super Puzzle Action (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips",
+    "md5": "254e64b81d7eaed6502afd781d909261",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chalvo-55---super-puzzle-action-english-translation"
+  },
+  {
     "name": "Chase H.Q.",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/bb26b8b5e0cd81ee60514d2742ec5d43f706b110/Chase+H.Q.+%28USA%2C+Europe%29-67a45d19.ips",
@@ -1631,6 +1679,14 @@ export const patches = [
     "md5": "22afe691095c65f34aeaba3c283b2a9c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong"
+  },
+  {
+    "name": "Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DK3Color.ips",
+    "md5": "8c7dd60017bec54add72e4d2bcb3f7db",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation"
   },
   {
     "name": "Donkey Kong Land",
@@ -2193,12 +2249,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-3"
   },
   {
+    "name": "Game Boy Wars 3 (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBW3.ips",
+    "md5": "8057b76523862f9966f489efed044090",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-3-english-translation"
+  },
+  {
     "name": "Game Boy Wars Turbo",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips",
     "md5": "c10a76a601ea375593f1cb944c3365e7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-turbo"
+  },
+  {
+    "name": "Game Boy Wars Turbo (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBWTurbo.ips",
+    "md5": "4ff3b2129d632e25942c98ce12c4ac70",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-wars-turbo-english-translation"
   },
   {
     "name": "Gamera - Daikaijuu Kuuchuu Kessen",
@@ -2361,6 +2433,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#god-medicine---hukkoku-ban"
   },
   {
+    "name": "God Medicine - Hukkoku Ban (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicine.ips",
+    "md5": "c2cc37e8a5c1c6dd5656b501903f9bcd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#god-medicine---hukkoku-ban-english-translation"
+  },
+  {
     "name": "Godzilla",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Godzilla.ips",
@@ -2415,6 +2495,14 @@ export const patches = [
     "md5": "5679de3c41c63c6b9dc9432c7ed1105a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grandia---parallel-trippers"
+  },
+  {
+    "name": "Grandia - Parallel Trippers (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grandia.ips",
+    "md5": "76cadd4218948451ffc46fad1d0c8359",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grandia---parallel-trippers-english-translation"
   },
   {
     "name": "Great Greed",
@@ -2641,6 +2729,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai-2"
   },
   {
+    "name": "Ikari no Yousai 2 (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IkariNoYousai2.ips",
+    "md5": "162d7af328f40daac091d949a658a869",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ikari-no-yousai-2-english-translation"
+  },
+  {
     "name": "Incredible Crash Dummies",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IncredibleCrashDummies.ips",
@@ -2783,6 +2879,14 @@ export const patches = [
     "md5": "4ebe14c4c51555908c0e4cabb66dc813",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru"
+  },
+  {
+    "name": "Kaeru no Tame ni Kane wa Naru (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips",
+    "md5": "5e477cdea0b3266b505ac5938ddc5e5c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru-english-translation"
   },
   {
     "name": "Karakuri Kengou Den - Musashi Lord",
@@ -3521,6 +3625,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#makai-mura-gaiden---the-demon-darkness"
   },
   {
+    "name": "Makai Mura Gaiden - The Demon Darkness (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MakaiMuraGaiden.ips",
+    "md5": "3574c3ae7c83faeb018cb1c05950c25d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#makai-mura-gaiden---the-demon-darkness-english-translation"
+  },
+  {
     "name": "Marble Madness",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarbleMadness.ips",
@@ -3785,12 +3897,12 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid"
   },
   {
-    "name": "Metal Gear Solid (European Version)",
+    "name": "Metal Gear Solid (E)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalGearEuro.ips",
     "md5": "7971c95ad9745fe20df52e03cd52f636",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid-european-version"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid-e"
   },
   {
     "name": "Metal Walker",
@@ -3935,6 +4047,14 @@ export const patches = [
     "md5": "fbf1ffe76883dffcca299228c81f171f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mobile-golf"
+  },
+  {
+    "name": "Mobile Golf (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips",
+    "md5": "f42ddde3e24354991842f5b222b1cffe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mobile-golf-english-translation"
   },
   {
     "name": "Moguranya",
@@ -4185,6 +4305,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nectaris-gb"
   },
   {
+    "name": "Nectaris GB (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nectaris.ips",
+    "md5": "b5775a65e744ef9f39a1d4b01a6bc01d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nectaris-gb-english-translation"
+  },
+  {
     "name": "Nemesis",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Nemesis.ips",
@@ -4303,6 +4431,14 @@ export const patches = [
     "md5": "ccd0cf7cc240714a9694e1fe296afb7c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#noobow"
+  },
+  {
+    "name": "Noobow (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Noobow.ips",
+    "md5": "15449adf4a457462d59c92ed0ac49d5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#noobow-english-translation"
   },
   {
     "name": "Ohastua Dance Dance Revolution GB",
@@ -4433,6 +4569,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penta-dragon"
   },
   {
+    "name": "Penta Dragon (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PentaDragon.ips",
+    "md5": "586ec6c567c255fa060bc62e20900354",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penta-dragon-english-translation"
+  },
+  {
     "name": "Perfect Dark",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PerfectDark.ips",
@@ -4455,6 +4599,14 @@ export const patches = [
     "md5": "142d1f9f4b868780824cca20010ad4d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2"
+  },
+  {
+    "name": "Picross 2 (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Picross2.ips",
+    "md5": "34bc051c58166d7bd1fc2540870edfdb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2-english-translation"
   },
   {
     "name": "Pinball Dreams",
@@ -5393,6 +5545,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sakura-taisen-gb---geki-hana-gumi-nyuutai"
   },
   {
+    "name": "Sakura Wars GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SakuraWars.ips",
+    "md5": "ce604c67bf2806f5a6f736ba168ed271",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sakura-wars-gb"
+  },
+  {
     "name": "Sakura Wars GB with English Patch",
     "authorName": "JoseJX & vinheim3",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Sakura%20Wars%20ENG%20Pocket.ips",
@@ -5407,6 +5567,14 @@ export const patches = [
     "md5": "7ee095116f1733dc6ba2b2de3f28f5ef",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#samurai-kid"
+  },
+  {
+    "name": "Samurai Kid (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamuraiKid.ips",
+    "md5": "c4f6cd3e25ff074ffe337be7f43dd409",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#samurai-kid-english-translation"
   },
   {
     "name": "Samurai Showdown",
@@ -5535,6 +5703,14 @@ export const patches = [
     "md5": "158691457cb7365cafbd0b7bb230fadf",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensei-devil-children---kuro-no-sho"
+  },
+  {
+    "name": "Shin Megami Tensei Devil Children - Kuro no Sho (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMTDC-Kuro.ips",
+    "md5": "f6c1fbb84d256db9d668c8c5a39c2caa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-megami-tensei-devil-children---kuro-no-sho-english-translation"
   },
   {
     "name": "Shin Pokemon Blue",
@@ -5873,6 +6049,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere"
   },
   {
+    "name": "Star Ocean - Blue Sphere (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
+    "md5": "e1ed3ef70534299d4f1be45eb1b9b360",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere-english-translation"
+  },
+  {
     "name": "Star Trek - 25th Anniversary",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarTrek25th.ips",
@@ -6073,12 +6257,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-pinball"
   },
   {
+    "name": "Super Robot Pinball (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotPinball.ips",
+    "md5": "ebfe169aa00c10e50529c6a4b41e61ed",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-pinball-english-translation"
+  },
+  {
     "name": "Super Robot Taisen",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips",
     "md5": "7bb8a5bc9e55a05eba1a3fcbf460a9b5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-taisen"
+  },
+  {
+    "name": "Super Robot Taisen (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperRobotTaisen.ips",
+    "md5": "d05a4c81821a4627d56d08e08f9449d4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-robot-taisen-english-translation"
   },
   {
     "name": "Super Scrabble",
@@ -6119,6 +6319,14 @@ export const patches = [
     "md5": "9d2f7e1ac30a46456a841c264963e5ea",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids-2---dasshutsu-futago-jima"
+  },
+  {
+    "name": "Survival Kids 2 - Dasshutsu!! Futago-Jima! (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids2.ips",
+    "md5": "20f638d4cf7fe7e7365dc8378222ddb1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#survival-kids-2---dasshutsu-futago-jima-english-translation"
   },
   {
     "name": "Sutte Hakkun GB",
@@ -6793,6 +7001,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultraman-ball"
   },
   {
+    "name": "Ultraman Ball (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltramanBall.ips",
+    "md5": "bc977605b3db8aeab9d60289e6b7e361",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultraman-ball-english-translation"
+  },
+  {
     "name": "Uno",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Uno.ips",
@@ -7056,12 +7272,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-i---joou-no-junan"
   },
   {
+    "name": "Wizardry Gaiden I - Joou no Junan (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden1.ips",
+    "md5": "cb2ab3952aebf23b1c3dae2f453849d4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-i---joou-no-junan-english-translation"
+  },
+  {
     "name": "Wizardry Gaiden II - Kodai Koutei no Noroi",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips",
     "md5": "177f5fc642f650e45bae33b10ba1fe48",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-ii---kodai-koutei-no-noroi"
+  },
+  {
+    "name": "Wizardry Gaiden II - Kodai Koutei no Noroi (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden2.ips",
+    "md5": "1919c1597fa158092c159230df1f6349",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-ii---kodai-koutei-no-noroi-english-translation"
   },
   {
     "name": "Wizardry Gaiden III - Yami no Seiten",
@@ -7072,12 +7304,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-iii---yami-no-seiten"
   },
   {
+    "name": "Wizardry Gaiden III - Yami no Seiten (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryGaiden3.ips",
+    "md5": "e1f712b4d9d4496e679c736c15895772",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-gaiden-iii---yami-no-seiten-english-translation"
+  },
+  {
     "name": "Wizardry I - Proving Grounds of the Mad Overlord",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips",
     "md5": "6b94c050291c68d6fb13c642c46873ab",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-i---proving-grounds-of-the-mad-overlord"
+  },
+  {
+    "name": "Wizardry I - Proving Grounds of the Mad Overlord (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry1.ips",
+    "md5": "2d5e0f6082655ee0d76d84d3df53bb9c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-i---proving-grounds-of-the-mad-overlord-english-translation"
   },
   {
     "name": "Wizardry II - Llylgamyn no Isan",
@@ -7088,12 +7336,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-ii---llylgamyn-no-isan"
   },
   {
+    "name": "Wizardry II - Llylgamyn no Isan (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry2.ips",
+    "md5": "5572bf2247869acec5ccd1af6f9b63d0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-ii---llylgamyn-no-isan-english-translation"
+  },
+  {
     "name": "Wizardry III - Diamond no Kishi",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips",
     "md5": "e81e4977a1380a6a0bac49bfd9e04671",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-iii---diamond-no-kishi"
+  },
+  {
+    "name": "Wizardry III - Diamond no Kishi (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Wizardry3.ips",
+    "md5": "142f0c6229e089b6ea6b99dc690d2aaa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-iii---diamond-no-kishi-english-translation"
   },
   {
     "name": "Wizards and Warriors Chapter X - The Fortress of Fear",
@@ -7214,6 +7478,14 @@ export const patches = [
     "md5": "2acfc8d0213b186552124fb8b3085fa1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yakuman"
+  },
+  {
+    "name": "Yakuman (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Yakuman.ips",
+    "md5": "837a9e13b7f378bcb94bf1ed294312a0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yakuman-english-translation"
   },
   {
     "name": "Yoda Stories",
