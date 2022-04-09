@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T18:27:23.543Z';
+export const updated = '2022-04-09T19:17:28.489Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4583,6 +4583,22 @@ export const patches = [
     "md5": "c2db2cbce374ef0a20f930222d6820df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#painter-momopie-english-translation"
+  },
+  {
+    "name": "Panel no Ninja Kesamaru",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PanelNoNinjaKesamaru.ips",
+    "md5": "4ead57f6fb441fb86a78922f1288ee40",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#panel-no-ninja-kesamaru"
+  },
+  {
+    "name": "Panel no Ninja Kesamaru (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PanelNoNinjaKesamaru.ips",
+    "md5": "bfe2a1fc0aca51504da74f6a04c89a4e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#panel-no-ninja-kesamaru-english-translation"
   },
   {
     "name": "Paperboy",
