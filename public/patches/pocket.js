@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T05:20:01.924Z';
+export const updated = '2022-04-09T07:20:49.144Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4033,6 +4033,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#miner-2049er-starring-bounty-bob"
   },
   {
+    "name": "Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MiracleAdventureEsparks.ips",
+    "md5": "64080619789f154ee057f2946a98c61c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#miracle-adventure-of-esparks---ushinawareta-seiseki-perivron"
+  },
+  {
     "name": "Mission Impossible",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MissionImposible.ips",
@@ -4071,6 +4079,22 @@ export const patches = [
     "md5": "f28ade3926852a8ad2e449c274683956",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mole-mania"
+  },
+  {
+    "name": "Momotarou Dengeki",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MomotarouDengeki.ips",
+    "md5": "f31c556186b91cf161ecf60644fbecba",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#momotarou-dengeki"
+  },
+  {
+    "name": "Momotarou Dengeki (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MomotarouDengeki.ips",
+    "md5": "f7572c43cb8b4ddaef69e45f48051d47",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#momotarou-dengeki-english-translation"
   },
   {
     "name": "Monkey Puncher",
