@@ -1,4 +1,4 @@
-export const updated = '2022-04-08T23:22:24.532Z';
+export const updated = '2022-04-09T01:42:31.141Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3607,6 +3607,22 @@ export const patches = [
     "md5": "cc7639a2269210338b52e626096a99d9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mary-kate-and-ashley---get-a-clue"
+  },
+  {
+    "name": "Masakari Densetsu - Kintarou Action Hen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MasakariDensetsu.ips",
+    "md5": "33349ad9019762b79c467cd241d79344",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#masakari-densetsu---kintarou-action-hen"
+  },
+  {
+    "name": "Masakari Densetsu - Kintarou Action Hen (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MasakariDensetsuEn.ips",
+    "md5": "e842471b71debfe85d4025a1023ec738",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#masakari-densetsu---kintarou-action-hen-english-translation"
   },
   {
     "name": "Mat Hoffman's Pro BMX",
