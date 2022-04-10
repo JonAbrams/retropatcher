@@ -1,4 +1,4 @@
-export const updated = '2022-04-09T19:17:28.489Z';
+export const updated = '2022-04-10T10:24:09.551Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1127,6 +1127,14 @@ export const patches = [
     "md5": "9c9679e4da4daa2ee22f1c35eef03cad",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md#caesars-palace"
+  },
+  {
+    "name": "Caesars Palace II",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/af139700f76629310169636f7cf2cbbcae1f6e8a/Caesars+Palace+II+%28USA%2C+Europe%29-351ba5ea.ips",
+    "md5": "64396458bb3a82f26f522e85291b5fc5",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#caesars-palace-ii"
   },
   {
     "name": "Cannon Fodder",
