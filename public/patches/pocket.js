@@ -1,4 +1,4 @@
-export const updated = '2022-04-10T18:26:36.104Z';
+export const updated = '2022-04-10T19:17:48.152Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6513,6 +6513,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taito-memorial---bubble-bobble"
   },
   {
+    "name": "Taiyou no Yuusha - Fighbird GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaiyouNoYuusha.ips",
+    "md5": "5bd352e85f75a8314e4dce538cb956c6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taiyou-no-yuusha---fighbird-gb"
+  },
+  {
+    "name": "Taiyou no Yuusha - Fighbird GB (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TaiyouNoYuusha.ips",
+    "md5": "8a3bf3e9dc29ec7ea6d48551f4b64e95",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taiyou-no-yuusha---fighbird-gb-english-translation"
+  },
+  {
     "name": "Take it Racing 2 - Demo",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TakeItRacing2Demo.ips",
@@ -7750,6 +7766,22 @@ export const patches = [
     "md5": "a517826d1cc3984a141f0f08d3ad72ee",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zen---intergalactic-ninja"
+  },
+  {
+    "name": "Zoids Densetsu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZoidsDensetsu.ips",
+    "md5": "a77e8144b00215385ebf8490a539e4be",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zoids-densetsu"
+  },
+  {
+    "name": "Zoids Densetsu (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ZoidsDensetsu.ips",
+    "md5": "2ef78f44cf5d7d73da0d371ad8986b09",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#zoids-densetsu-english-translation"
   },
   {
     "name": "Zool - Ninja of the N'th Dimension",
