@@ -1,4 +1,4 @@
-export const updated = '2022-04-10T10:24:09.551Z';
+export const updated = '2022-04-10T18:26:36.104Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4649,6 +4649,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#parodius-da"
   },
   {
+    "name": "Peke to Poko no Daruman Busters",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PekeToPoko.ips",
+    "md5": "b86be9c65c1ba0db48d6eb8e0770926d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#peke-to-poko-no-daruman-busters"
+  },
+  {
+    "name": "Peke to Poko no Daruman Busters (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PekeToPoko.ips",
+    "md5": "c908283b237622a0fb190aa722f38819",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#peke-to-poko-no-daruman-busters-english-translation"
+  },
+  {
     "name": "Penguin Wars",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinWars.ips",
@@ -6239,6 +6255,22 @@ export const patches = [
     "md5": "dc3ef8d3fad26cba840327cc428cadbc",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-ii"
+  },
+  {
+    "name": "Super Bikkuriman - Densetsu no Sekiban",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips",
+    "md5": "42f06d0e5fa65bf245f52249385b94a6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-bikkuriman---densetsu-no-sekiban"
+  },
+  {
+    "name": "Super Bikkuriman - Densetsu no Sekiban (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips",
+    "md5": "8a57ce73b10f55bb392d461f9a1ca5d6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-bikkuriman---densetsu-no-sekiban-english-translation"
   },
   {
     "name": "Super Imposter Bros.",
