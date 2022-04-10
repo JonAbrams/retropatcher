@@ -1,4 +1,4 @@
-export const updated = '2022-04-10T20:22:32.075Z';
+export const updated = '2022-04-10T21:19:09.637Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4593,6 +4593,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-attack"
   },
   {
+    "name": "Pac-Man",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacMan.ips",
+    "md5": "f6b898bfaa367ac1b0782a363cd098c7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-man"
+  },
+  {
     "name": "Pac-Man - Special Color Edition",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacManSCE.ips",
@@ -4855,6 +4863,14 @@ export const patches = [
     "md5": "84eede6bb298dd354f251eccb1259316",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-music"
+  },
+  {
+    "name": "Pocket Puyo Puyo Sun",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketPuyoPuyoSun.ips",
+    "md5": "de204ad9ae3e29cf2c06ceb372ec9cd2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-puyo-puyo-sun"
   },
   {
     "name": "Pocket Puyo Puyo Tsuu",
@@ -6303,6 +6319,22 @@ export const patches = [
     "md5": "8a57ce73b10f55bb392d461f9a1ca5d6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-bikkuriman---densetsu-no-sekiban-english-translation"
+  },
+  {
+    "name": "Super Breakout!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBreakout.ips",
+    "md5": "9b8869fa36562a32edec76717632875e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-breakout"
+  },
+  {
+    "name": "Super Breakout! (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBreakoutE.ips",
+    "md5": "3383c2754015c4da7b5295a28ac09739",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-breakout-e"
   },
   {
     "name": "Super Imposter Bros.",
