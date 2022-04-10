@@ -1,4 +1,4 @@
-export const updated = '2022-04-10T19:17:48.152Z';
+export const updated = '2022-04-10T20:22:32.075Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1465,6 +1465,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daiku-no-gen-san---robot-teikoku-no-yabou"
   },
   {
+    "name": "Daiku no Gen-San - Robot Teikoku no Yabou (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGen-San.ips",
+    "md5": "8b63a1f33c97708fe6f7dac4b977b100",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daiku-no-gen-san---robot-teikoku-no-yabou-english-translation"
+  },
+  {
+    "name": "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaikuNoGensan-Kachikachi.ips",
+    "md5": "7455ea4fb9bc8ac752b4e43fd6864b7f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#daiku-no-gen-san---kachikachi-no-tonkachi-ga-kachi"
+  },
+  {
     "name": "Dance Dance Revolution GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DDR.ips",
@@ -2351,6 +2367,22 @@ export const patches = [
     "md5": "16af858484041d572299b501ead2b788",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gear-works"
+  },
+  {
+    "name": "Geheimnis der Happy Hippo-Insel",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeheimnisHappyHippo.ips",
+    "md5": "3bc2db27baff012307501c31d49922ac",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#geheimnis-der-happy-hippo-insel"
+  },
+  {
+    "name": "Geheimnis der Happy Hippo-Insel (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GeheimnisHappyHippo.ips",
+    "md5": "5535a76f0ee88d244edbbf3c843eb72f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#geheimnis-der-happy-hippo-insel-english-translation"
   },
   {
     "name": "Gekito Power Modeler",
