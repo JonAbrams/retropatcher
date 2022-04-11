@@ -1,4 +1,4 @@
-export const updated = '2022-04-11T01:54:13.133Z';
+export const updated = '2022-04-11T03:13:39.361Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4177,6 +4177,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat"
   },
   {
+    "name": "Mortal Kombat 3",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MortalKombat3.ips",
+    "md5": "c19d61e31d6aebc12abf80d628a7bd09",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mortal-kombat-3"
+  },
+  {
     "name": "Mortal Kombat 4",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MK4.ips",
@@ -7606,6 +7614,14 @@ export const patches = [
     "md5": "2a26b9d248bf62788e23aa897e8e355c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#woody-woodpecker"
+  },
+  {
+    "name": "Word-o v3",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Word-o_v3.ips",
+    "md5": "2863835c2f892c3b0f34b8591415178a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#word-o-v3"
   },
   {
     "name": "WordZap",
