@@ -1,4 +1,4 @@
-export const updated = '2022-04-10T21:19:09.637Z';
+export const updated = '2022-04-11T01:54:13.133Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5375,6 +5375,22 @@ export const patches = [
     "md5": "ab7a5f3d9e818a434cc64915c3dbd31f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#q-billion"
+  },
+  {
+    "name": "Q-Bert for Game Boy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBert.ips",
+    "md5": "514688df17c1f7bcf978a13c83d0c22c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#q-bert-for-game-boy"
+  },
+  {
+    "name": "Q-Bert for Game Boy (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QBertJ.ips",
+    "md5": "1c1911e4a8d299fcc5df4180f33b69e6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#q-bert-for-game-boy-j"
   },
   {
     "name": "QIX",
