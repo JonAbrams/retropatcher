@@ -1,4 +1,4 @@
-export const updated = '2022-04-12T19:18:22.768Z';
+export const updated = '2022-04-12T20:23:45.820Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6679,6 +6679,22 @@ export const patches = [
     "md5": "aa782f4fc0b64f2e37bf9a554186f352",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sylvanian-families-otogi-no-kuni-no-pendant-english-translation"
+  },
+  {
+    "name": "Sylvanian Melodies - Mori no Nakama to Odori Masho!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianMelodies.ips",
+    "md5": "08130cb33fe270321d04d056b85d2037",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sylvanian-melodies---mori-no-nakama-to-odori-masho"
+  },
+  {
+    "name": "Sylvanian Melodies - Mori no Nakama to Odori Masho! (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SylvanianMelodies.ips",
+    "md5": "e00326574376257c4095f2e752e9d620",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sylvanian-melodies---mori-no-nakama-to-odori-masho-english-translation"
   },
   {
     "name": "Sylvester and Tweety - Breakfast on the Run",
