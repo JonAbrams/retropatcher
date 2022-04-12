@@ -1,4 +1,4 @@
-export const updated = '2022-04-12T04:28:42.545Z';
+export const updated = '2022-04-12T05:20:39.985Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3487,6 +3487,14 @@ export const patches = [
     "md5": "8bb31f539e8999d5c4e9449fe1befad6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lock-n-chase--lock-n-chase"
+  },
+  {
+    "name": "Lode Runner - Domudomu Dan no Yabou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LodeRunner.ips",
+    "md5": "7bcf428844d32b279b7c25fb98f98a73",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lode-runner---domudomu-dan-no-yabou"
   },
   {
     "name": "Logical",
