@@ -1,4 +1,4 @@
-export const updated = '2022-04-12T06:28:05.263Z';
+export const updated = '2022-04-12T07:22:05.391Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -63,6 +63,14 @@ export const patches = [
     "md5": "089ce8f23f829cc08597b13dd526b53b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#4000ad-by-protodome"
+  },
+  {
+    "name": "A Dark Winter Wander",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ADarkWinterWander.ips",
+    "md5": "d26054cdb11d2ea6f4e991de75b30164",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#a-dark-winter-wander"
   },
   {
     "name": "A-mazing Tater",
@@ -343,6 +351,14 @@ export const patches = [
     "md5": "8ffcf9da76aa9ba1c5b1789a92f47d21",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-hits---moon-patrol-and-spy-hunter"
+  },
+  {
+    "name": "Arcadia",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Arcadia.ips",
+    "md5": "847d268fcd78982fe89098aad2346bc6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcadia"
   },
   {
     "name": "Aretha",
@@ -1567,6 +1583,14 @@ export const patches = [
     "md5": "e5c07daa704a35dd105604286546d56e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#death-planet"
+  },
+  {
+    "name": "Deep Dungeon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeepDungeonv1.3.ips",
+    "md5": "4f9b77afb81d66e6af1bd54b7b06351f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deep-dungeon"
   },
   {
     "name": "Deja Vu I & II: The Casebooks of Ace Harding",
@@ -3215,6 +3239,14 @@ export const patches = [
     "md5": "96fa4f2c0db499d48bad4ae599877fb3",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-92l"
+  },
+  {
+    "name": "Layers of a Killer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LayersOfAKiller.ips",
+    "md5": "5431664bcf5bd408bf2fdfdacf300040",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#layers-of-a-killer"
   },
   {
     "name": "Lazlo's Leap",
@@ -6097,6 +6129,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#solomons-club"
   },
   {
+    "name": "Souls Rest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SoulsRest1.12.ips",
+    "md5": "c99335566f063df9ee393fe915a1bc55",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#souls-rest"
+  },
+  {
     "name": "Space Invaders",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpaceInvaders.ips",
@@ -7297,6 +7337,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#uno"
   },
   {
+    "name": "Usurper Ghoul",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UsurperGhoulv.1.9.ips",
+    "md5": "a395cafa0678f64114e6a8577ed58bfe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#usurper-ghoul"
+  },
+  {
     "name": "V-Rally - Championship Edition",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRally.ips",
@@ -7656,12 +7704,12 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#woody-woodpecker"
   },
   {
-    "name": "Word-o v3",
+    "name": "Word-o",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Word-o_v3.ips",
     "md5": "2863835c2f892c3b0f34b8591415178a",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#word-o-v3"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#word-o"
   },
   {
     "name": "WordZap",
