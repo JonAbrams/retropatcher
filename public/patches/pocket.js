@@ -1,4 +1,4 @@
-export const updated = '2022-04-11T03:13:39.361Z';
+export const updated = '2022-04-12T04:28:42.545Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2311,6 +2311,14 @@ export const patches = [
     "md5": "aed4f63feaba8b8731aa3cf556a68e1a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gamera---guardian-of-the-universe"
+  },
+  {
+    "name": "Ganbare Goemon - Seikuushi Dynamites Arawaru!!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GanbareGoemon.ips",
+    "md5": "b1e72ba9c23587d002bf1059504ad6db",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ganbare-goemon---seikuushi-dynamites-arawaru"
   },
   {
     "name": "Ganso!! Yancha Maru",
