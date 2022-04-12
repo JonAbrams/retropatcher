@@ -1,4 +1,4 @@
-export const updated = '2022-04-12T05:20:39.985Z';
+export const updated = '2022-04-12T06:28:05.263Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4561,6 +4561,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#noobow-english-translation"
   },
   {
+    "name": "Nushi Tsuri Adventure - Kite no Bouken",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NushiTsuri.ips",
+    "md5": "5b40590960c204efd6303b2e89a0cc10",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nushi-tsuri-adventure---kite-no-bouken"
+  },
+  {
+    "name": "Nushi Tsuri Adventure - Kite no Bouken (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NushiTsuri.ips",
+    "md5": "c9a1f0543dd127e9e169f84ed5b04c0a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nushi-tsuri-adventure---kite-no-bouken-english-translation"
+  },
+  {
     "name": "Ohastua Dance Dance Revolution GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OhasutaDDR.ips",
@@ -5759,6 +5775,14 @@ export const patches = [
     "md5": "70883b45a97984cb033c2b95028bef65",
     "outputFilename": "Sakura Wars GB.pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#sakura-wars-gb"
+  },
+  {
+    "name": "Sam Mallard - The Case of the Missing Swan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SamMallard.ips",
+    "md5": "83fc53defeb7b05ac619c9918797ee83",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sam-mallard---the-case-of-the-missing-swan"
   },
   {
     "name": "Samurai Kid",
