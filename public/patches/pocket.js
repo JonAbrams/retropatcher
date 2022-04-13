@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T04:30:34.714Z';
+export const updated = '2022-04-13T05:20:53.642Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1335,6 +1335,14 @@ export const patches = [
     "md5": "83f1b6f79b8f0fecc4427efc9fa7d732",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#classic-bubble-bobble-e"
+  },
+  {
+    "name": "Color Test",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ColorTest.ips",
+    "md5": "a973913be575962df815307b25875f1e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#color-test"
   },
   {
     "name": "Commander Keen",
