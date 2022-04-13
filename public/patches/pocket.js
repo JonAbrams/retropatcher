@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T07:22:13.602Z';
+export const updated = '2022-04-13T18:27:04.731Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6367,6 +6367,14 @@ export const patches = [
     "md5": "00408b7c09c99b8ea15b8ebb66e69130",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spy-vs-spy---operation-booby-trap"
+  },
+  {
+    "name": "Star Hawk",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarHawk.ips",
+    "md5": "c284b8a9019020336c89b680fb6552e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-hawk"
   },
   {
     "name": "Star Ocean - Blue Sphere",
