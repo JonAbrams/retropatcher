@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T06:28:33.460Z';
+export const updated = '2022-04-13T07:22:13.602Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4815,6 +4815,14 @@ export const patches = [
     "md5": "c908283b237622a0fb190aa722f38819",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#peke-to-poko-no-daruman-busters-english-translation"
+  },
+  {
+    "name": "Penguin Land",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PenguinLand.ips",
+    "md5": "62f6b0c1c7eed0af0cb7d9f15d14e7c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#penguin-land"
   },
   {
     "name": "Penguin Wars",
