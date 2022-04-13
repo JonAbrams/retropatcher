@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T05:20:53.642Z';
+export const updated = '2022-04-13T06:28:33.460Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2737,6 +2737,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
   },
   {
+    "name": "Home Alone",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HomeAlone.ips",
+    "md5": "6993211741eea010f51b1c20b05d4c43",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#home-alone"
+  },
+  {
+    "name": "Home Alone 2 - Lost in New York",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HomeAlone2.ips",
+    "md5": "0611b365116b22c1aaa7e3ce4faed5ed",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#home-alone-2---lost-in-new-york"
+  },
+  {
     "name": "Hook",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Hook.ips",
@@ -5367,6 +5383,14 @@ export const patches = [
     "md5": "64f43161eb16eb1be99262c36867bc79",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prehistorik-man"
+  },
+  {
+    "name": "Pri Pri - Primitive Princess!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PriPri.ips",
+    "md5": "24186cb8ef3210c00b9c227c71b9db73",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pri-pri---primitive-princess"
   },
   {
     "name": "Primal Rage",
