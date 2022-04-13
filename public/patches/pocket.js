@@ -1,4 +1,4 @@
-export const updated = '2022-04-12T20:23:45.820Z';
+export const updated = '2022-04-13T04:30:34.714Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1415,6 +1415,14 @@ export const patches = [
     "md5": "d6311339384cb70c35975c8d30a1cd98",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#crazy-bikers"
+  },
+  {
+    "name": "Croc",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Croc.ips",
+    "md5": "0552078f981c2ef3977f2dfeee19510a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#croc"
   },
   {
     "name": "Crystal Quest",
@@ -4156,7 +4164,7 @@ export const patches = [
     "name": "Mobile Golf (English Translation)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MobileGolf.ips",
-    "md5": "f42ddde3e24354991842f5b222b1cffe",
+    "md5": "23f98b48fe91b5c5b98f5adf7bcc828b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mobile-golf-english-translation"
   },
@@ -6713,6 +6721,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#t2---the-arcade-game"
   },
   {
+    "name": "Tabaluga",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tabaluga.ips",
+    "md5": "89f251b40b2420ae1dde4d22ca01ed72",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tabaluga"
+  },
+  {
+    "name": "Tabaluga (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tabaluga.ips",
+    "md5": "07388b3b90875d30e23b8f110efabf20",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tabaluga-english-translation"
+  },
+  {
     "name": "Tail 'Gator",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TailGator.ips",
@@ -7407,6 +7431,14 @@ export const patches = [
     "md5": "9c83e00b56b75e49cd52922bfd7313d9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vr-pocket-manager"
+  },
+  {
+    "name": "Vattle Giuce",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VattleGiuce.ips",
+    "md5": "813755de3d7338c9442f072ed52f52b3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#vattle-giuce"
   },
   {
     "name": "Vegas Stakes",
