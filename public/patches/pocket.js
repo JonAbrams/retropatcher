@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T18:27:04.731Z';
+export const updated = '2022-04-13T20:24:25.879Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1551,6 +1551,14 @@ export const patches = [
     "md5": "3ced79ad60ab5195058d5d658550f04f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dance-dance-revolution-gb3"
+  },
+  {
+    "name": "Dancing Furby",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DancingFurby.ips",
+    "md5": "ed517a9923865f4e4945ca4095313fe2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dancing-furby"
   },
   {
     "name": "Dangan GB",
