@@ -1,4 +1,4 @@
-export const updated = '2022-04-14T18:26:22.940Z';
+export const updated = '2022-04-14T20:23:48.035Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1577,6 +1577,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck"
   },
   {
+    "name": "Darkwing Duck (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips",
+    "md5": "5c837aeba2aa844d4cd34653d4e332ea",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck-e"
+  },
+  {
     "name": "Dave Mirra Freestyle BMX",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaveMirraFreestyleBMX.ips",
@@ -1983,6 +1991,22 @@ export const patches = [
     "md5": "785441d3d75913393807b10b3194dc48",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales"
+  },
+  {
+    "name": "Duck Tales (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTalesE.ips",
+    "md5": "ca7a62e5e14aafd813bc806d0cf54117",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-e"
+  },
+  {
+    "name": "Duck Tales (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTalesJ.ips",
+    "md5": "9057925ed2531251d494f76d3b8bb471",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-j"
   },
   {
     "name": "Duck Tales 2",
