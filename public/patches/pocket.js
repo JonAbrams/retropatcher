@@ -1,4 +1,4 @@
-export const updated = '2022-04-13T20:24:25.879Z';
+export const updated = '2022-04-14T01:58:03.724Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4039,6 +4039,14 @@ export const patches = [
     "md5": "7971c95ad9745fe20df52e03cd52f636",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-gear-solid-e"
+  },
+  {
+    "name": "Metal Masters",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MetalMasters.ips",
+    "md5": "680c8fbb0bc15c850121ef2c929df177",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#metal-masters"
   },
   {
     "name": "Metal Walker",
