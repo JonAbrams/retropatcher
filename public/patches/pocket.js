@@ -1,4 +1,4 @@
-export const updated = '2022-04-14T01:58:03.724Z';
+export const updated = '2022-04-14T18:26:22.940Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2639,6 +2639,14 @@ export const patches = [
     "md5": "48ce279084e1fc7a9136cc211f4fad5d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hamtaro---ham-hams-unite"
+  },
+  {
+    "name": "Hands of Time",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HandsOfTime.ips",
+    "md5": "cecc79084e6515e9c59ce8d63d49eace",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hands-of-time"
   },
   {
     "name": "Harry Potter and the Chamber of Secrets",
