@@ -1,4 +1,4 @@
-export const updated = '2022-04-14T20:23:48.035Z';
+export const updated = '2022-04-15T03:44:03.307Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4929,6 +4929,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#picross-2-english-translation"
   },
   {
+    "name": "Pierre le Chef is ... Out to Lunch",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PierreLeChef.ips",
+    "md5": "e41aac285898754055eb3f0c3f280ea3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pierre-le-chef-is--out-to-lunch"
+  },
+  {
     "name": "Pinball Dreams",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PinballDreams.ips",
@@ -5511,6 +5519,22 @@ export const patches = [
     "md5": "84133af3324fc1aaf00c0769e15708c0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#punisher---ultimate-payback"
+  },
+  {
+    "name": "Puyo Puyo",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoPuyo.ips",
+    "md5": "1a181f068d715c4ca350fb168fb9dd8a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puyo-puyo"
+  },
+  {
+    "name": "Puyo Puyo (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuyoPuyoA.ips",
+    "md5": "300ea2593b2c29c3950fed23d672e11e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puyo-puyo-rev-a"
   },
   {
     "name": "Puyo Puyo Gaiden - Puyo Wars",
