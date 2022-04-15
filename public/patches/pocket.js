@@ -1,4 +1,4 @@
-export const updated = '2022-04-15T03:44:03.307Z';
+export const updated = '2022-04-15T04:42:42.822Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2545,6 +2545,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gimmick-land"
   },
   {
+    "name": "Gluecksrad",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gluecksrad.ips",
+    "md5": "060caa70249d12da3cf53d6d48323b08",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gluecksrad"
+  },
+  {
     "name": "Go! Go! Tank",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GoGoTank.ips",
@@ -4815,6 +4823,14 @@ export const patches = [
     "md5": "dcabc0879c258e54048237d280ffa7da",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy"
+  },
+  {
+    "name": "Paperboy 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Paperboy2.ips",
+    "md5": "86e22a57cf0055f858acc9a4062ebc30",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy-2"
   },
   {
     "name": "Paragon5 Album",
