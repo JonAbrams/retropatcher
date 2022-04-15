@@ -1,4 +1,4 @@
-export const updated = '2022-04-15T09:22:01.518Z';
+export const updated = '2022-04-15T19:19:54.780Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -479,6 +479,14 @@ export const patches = [
     "md5": "76010c6ff6bd0c4e8ac934dc69fb96ab",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#atomic-punk"
+  },
+  {
+    "name": "Austin Powers - Oh Behave!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AustinPowersBehave.ips",
+    "md5": "2aba33e89caca45c9091b25a276dd4c6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#austin-powers---oh-behave"
   },
   {
     "name": "Avenging Spirit",
