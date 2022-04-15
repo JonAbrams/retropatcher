@@ -1,4 +1,4 @@
-export const updated = '2022-04-15T08:27:49.614Z';
+export const updated = '2022-04-15T09:22:01.518Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -415,6 +415,14 @@ export const patches = [
     "md5": "3d630cb2ff52e7fedfca6c938b82fa24",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arthurs-absolutely-fun-day"
+  },
+  {
+    "name": "Asmik-kun World 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AsmikWorld2.ips",
+    "md5": "24db7b8d9080b1626dd949331ac40aca",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asmik-kun-world-2"
   },
   {
     "name": "Asterix",
@@ -2999,6 +3007,14 @@ export const patches = [
     "md5": "70cd582d3b1f15cb251620203d8b00c9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jetsons---robot-panic"
+  },
+  {
+    "name": "Joe and Mac - Caveman Ninja",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JoeMacCavemanNinja.ips",
+    "md5": "341b155413d2253886d8f188625cc1c3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#joe-and-mac---caveman-ninja"
   },
   {
     "name": "John Madden Football",
