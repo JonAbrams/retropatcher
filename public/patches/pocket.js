@@ -1,4 +1,4 @@
-export const updated = '2022-04-16T20:22:36.846Z';
+export const updated = '2022-04-16T23:22:03.696Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1185,6 +1185,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cannon-fodder"
   },
   {
+    "name": "Cannon Fodder (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CannonFodder.ips",
+    "md5": "3dd6b4dd7da7f2b412f92c2509b9f1df",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cannon-fodder-e"
+  },
+  {
     "name": "Captain America and the Avengers",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaptainAmerica.ips",
@@ -2351,6 +2359,14 @@ export const patches = [
     "md5": "f1bb0127347994b46258adbda0dc0b16",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game--watch-gallery-3"
+  },
+  {
+    "name": "Game Boy Gallery - 5 Games in One",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GameBoyGallery.ips",
+    "md5": "b6d1139fb8d57cd47f173faef592c813",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#game-boy-gallery---5-games-in-one"
   },
   {
     "name": "Game Boy Test Cartridge",
