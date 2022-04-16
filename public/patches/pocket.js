@@ -1,4 +1,4 @@
-export const updated = '2022-04-15T19:19:54.780Z';
+export const updated = '2022-04-16T20:22:36.846Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7537,6 +7537,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turrican"
   },
   {
+    "name": "UEFA 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UEFA2000.ips",
+    "md5": "ca00c843a575efd01814fcbf7d84a8dc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#uefa-2000"
+  },
+  {
     "name": "Ultima - Runes of Virtue",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ultima1.ips",
@@ -7551,6 +7559,14 @@ export const patches = [
     "md5": "15cd267d7805fe9f1769e9644a9cec2e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultima---runes-of-virtue-ii"
+  },
+  {
+    "name": "Ultra Golf",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UltraGolf.ips",
+    "md5": "0a1cbc05d75c2bd3e01aad3acb4e4019",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultra-golf"
   },
   {
     "name": "Ultraman Ball",
