@@ -1,4 +1,4 @@
-export const updated = '2022-04-16T23:22:03.696Z';
+export const updated = '2022-04-17T01:51:25.201Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -375,6 +375,22 @@ export const patches = [
     "md5": "9c23d37d51a593e82378dad038a52ef2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aretha"
+  },
+  {
+    "name": "Aretha II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha2.ips",
+    "md5": "a3059206ef517091a475249ce6c0db4f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aretha-ii"
+  },
+  {
+    "name": "Aretha III",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aretha3.ips",
+    "md5": "bb0cca048a51ddbae426221bb3d2e508",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aretha-iii"
   },
   {
     "name": "Army Men",
@@ -1586,6 +1602,14 @@ export const patches = [
   },
   {
     "name": "Dangan GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dangan.ips",
+    "md5": "c85e5ba3dad5aa705b96da083cdd1a1c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dangan-gb"
+  },
+  {
+    "name": "Dangan GB",
     "authorName": "r0r0",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/danganV11.ips",
     "md5": "c85e5ba3dad5aa705b96da083cdd1a1c",
@@ -2335,6 +2359,14 @@ export const patches = [
     "md5": "b6d07d6830c8517aa96b000d9f3b2bf6",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#gb-genjin-2"
+  },
+  {
+    "name": "GB Genjin Land - Viva! Chikkun Oukoku",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GBGenjinLand.ips",
+    "md5": "e6e405968face6a00abf3abf8514e9de",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gb-genjin-land---viva-chikkun-oukoku"
   },
   {
     "name": "Game & Watch Gallery",
