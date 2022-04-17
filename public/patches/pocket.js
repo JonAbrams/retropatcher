@@ -1,4 +1,4 @@
-export const updated = '2022-04-17T01:51:25.201Z';
+export const updated = '2022-04-17T02:59:51.711Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7239,6 +7239,14 @@ export const patches = [
     "md5": "f2dc6c4e093e4f8c6cbea80e8dbd62cb",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#the-legend-of-zelda-oracle-of-seasons"
+  },
+  {
+    "name": "Tiger Woods PGA Tour 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TigerWoods.ips",
+    "md5": "c58361b88496e7ad0179b59122afd687",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tiger-woods-pga-tour-2000"
   },
   {
     "name": "Tintin - Prisoners of the Sun",
