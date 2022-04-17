@@ -1,4 +1,4 @@
-export const updated = '2022-04-17T08:26:46.309Z';
+export const updated = '2022-04-17T09:21:37.229Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3071,6 +3071,14 @@ export const patches = [
     "md5": "70cd582d3b1f15cb251620203d8b00c9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jetsons---robot-panic"
+  },
+  {
+    "name": "Joe and Mac",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JoeMac.ips",
+    "md5": "a4627fb86c2b91fc0ace4f628aa607e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#joe-and-mac"
   },
   {
     "name": "Joe and Mac - Caveman Ninja",
