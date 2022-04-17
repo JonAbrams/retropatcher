@@ -1,4 +1,4 @@
-export const updated = '2022-04-17T02:59:51.711Z';
+export const updated = '2022-04-17T08:26:46.309Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2895,6 +2895,14 @@ export const patches = [
     "md5": "83087e1a3fa7160a59ee7e4f0b5c3671",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoyle-card-games"
+  },
+  {
+    "name": "Hoyle Casino",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoyleCasino.ips",
+    "md5": "e0245d992101be481c355e3e2c2cbb83",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoyle-casino"
   },
   {
     "name": "Hudson Hawk",
