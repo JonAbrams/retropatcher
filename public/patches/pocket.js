@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T17:27:07.817Z';
+export const updated = '2022-04-18T18:29:14.250Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6273,6 +6273,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shin-pokemon-red-j"
   },
   {
+    "name": "Shitwave",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/shitwave1.ips",
+    "md5": "f7103c8e8c260123615985e65f85b211",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shitwave"
+  },
+  {
     "name": "Side Pocket",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SidePocket.ips",
@@ -8366,5 +8374,13 @@ export const patches = [
     "md5": "457c212fe19e7552060dad8715868170",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mgb"
+  },
+  {
+    "name": "uCity",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/uCity.ips",
+    "md5": "a13bebff10a53c113554b8e882343d9d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ucity"
   }
 ];
