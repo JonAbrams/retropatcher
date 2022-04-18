@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T14:20:56.092Z';
+export const updated = '2022-04-18T15:23:56.034Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4567,6 +4567,14 @@ export const patches = [
     "md5": "709726eb6de8d45e63a88063529605bc",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-all-star-challenge"
+  },
+  {
+    "name": "NBA All Star Challenge 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NBAAllStar2.ips",
+    "md5": "0a1ea6552eb8daf756824adb1f498559",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-all-star-challenge-2"
   },
   {
     "name": "NBA Jam",
