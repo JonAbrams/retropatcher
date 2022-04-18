@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T18:29:14.250Z';
+export const updated = '2022-04-18T19:18:35.161Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3951,6 +3951,22 @@ export const patches = [
     "md5": "50af67f7321d84bd052f0e793ee0613c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#mario-tennis"
+  },
+  {
+    "name": "Mario Tennis (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioTennisE.ips",
+    "md5": "a320f9de83767bb1bc1bbbc6fbd96011",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mario-tennis-e"
+  },
+  {
+    "name": "Mario Tennis GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarioTennisGB.ips",
+    "md5": "d7f63bbb351a95d73d085a58c8e9f449",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mario-tennis-gb"
   },
   {
     "name": "Mario no Picross",
