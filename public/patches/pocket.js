@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T15:23:56.034Z';
+export const updated = '2022-04-18T17:27:07.817Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5185,12 +5185,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-amarilla---edicion-especial-pikachu"
   },
   {
+    "name": "Pokemon - Edicion Azul",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionAzul.ips",
+    "md5": "6e7663f908334724548a66fc9c386002",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-azul"
+  },
+  {
     "name": "Pokemon - Edicion Cristal",
     "authorName": "Linkr2",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips",
     "md5": "8a626340f6b16ba45c1d4e07f2134875",
     "outputFilename": "Pokemon Edicion Cristal.pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokemon---edicion-cristal"
+  },
+  {
+    "name": "Pokemon - Edicion Roja",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionRoja.ips",
+    "md5": "463c241c8721ab1d1da17c91de9f8a32",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-roja"
   },
   {
     "name": "Pokemon - Yellow Version",
