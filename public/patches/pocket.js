@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T19:18:35.161Z';
+export const updated = '2022-04-18T21:20:13.945Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3591,6 +3591,30 @@ export const patches = [
     "md5": "052cd45a69af16f025a545b29bc8f450",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-2-e"
+  },
+  {
+    "name": "Legend of the River King GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendRiverKingGB.ips",
+    "md5": "e54042d63d3671719b95d311731c02e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-gb"
+  },
+  {
+    "name": "Legend of the River King GB (AU)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendRiverKingGB.ips",
+    "md5": "55ad8dd2a99a840f3726600380b44315",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-gb-au"
+  },
+  {
+    "name": "Legend of the River King GB (DE)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LegendRiverKingGB_DE.ips",
+    "md5": "c74c40b7da1a54568f4d5ccd3eb56090",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-river-king-gb-de"
   },
   {
     "name": "Legend of the Sea King",
