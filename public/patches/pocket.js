@@ -1,4 +1,4 @@
-export const updated = '2022-04-17T09:21:37.229Z';
+export const updated = '2022-04-18T14:20:56.092Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6495,6 +6495,14 @@ export const patches = [
     "md5": "8833ae0fd3b4c47b8249a12708c98a98",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-3---invasion-of-the-spider-slayers"
+  },
+  {
+    "name": "Spirou Robbedoes - The Robot Invasion",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SpirouRobbedoes.ips",
+    "md5": "144fc4636fcefbd56d906505f5308da1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spirou-robbedoes---the-robot-invasion"
   },
   {
     "name": "Splitz",
