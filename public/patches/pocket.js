@@ -1,4 +1,4 @@
-export const updated = '2022-04-19T16:36:09.802Z';
+export const updated = '2022-04-19T21:20:50.759Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7543,6 +7543,14 @@ export const patches = [
     "md5": "365f913d6f2b0f44d87b7a347daea528",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tony-hawks-pro-skater-3"
+  },
+  {
+    "name": "Toobin'",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Toobin.ips",
+    "md5": "d9575286a0da1da5f6036f649024298c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toobin"
   },
   {
     "name": "Top Gear Pocket 2",
