@@ -1,4 +1,4 @@
-export const updated = '2022-04-18T21:20:13.945Z';
+export const updated = '2022-04-19T03:56:24.022Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1625,12 +1625,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck"
   },
   {
+    "name": "Darkwing Duck (DE)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuckDE.ips",
+    "md5": "b364d2bbe0a3a09adafa9b6b982a9acb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck-de"
+  },
+  {
     "name": "Darkwing Duck (E)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuck.ips",
     "md5": "5c837aeba2aa844d4cd34653d4e332ea",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck-e"
+  },
+  {
+    "name": "Darkwing Duck (ES)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DarkwingDuckES.ips",
+    "md5": "780bbec4b26617b3a1a4fcdfa5a731e4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkwing-duck-es"
   },
   {
     "name": "Dave Mirra Freestyle BMX",
@@ -1943,6 +1959,22 @@ export const patches = [
     "md5": "08bca718c62e3c2870a2df107fc0a562",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-de"
+  },
+  {
+    "name": "Dragon Quest Monsters (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersJ.ips",
+    "md5": "5254ea1935c43057358d2efba26c60c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-j"
+  },
+  {
+    "name": "Dragon Quest Monsters (J) (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonQuestMonstersJA.ips",
+    "md5": "b28c999d1b43e8e39998827ff39965cc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-quest-monsters-j-rev-a"
   },
   {
     "name": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Inu no Bouken",
