@@ -1,4 +1,4 @@
-export const updated = '2022-04-19T21:20:50.759Z';
+export const updated = '2022-04-20T02:06:55.859Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2663,6 +2663,14 @@ export const patches = [
     "md5": "23824d72928a05e9fcf052d42f3c91c6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#go-go-tank"
+  },
+  {
+    "name": "God Medicine - Fantasy Sekai no Tanjou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodMedicineFantasySekaiNoTanjou.ips",
+    "md5": "52e110882a9f42c8b5c97489a29005f5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#god-medicine---fantasy-sekai-no-tanjou"
   },
   {
     "name": "God Medicine - Hukkoku Ban",
