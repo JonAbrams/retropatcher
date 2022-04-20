@@ -1,4 +1,4 @@
-export const updated = '2022-04-20T02:06:55.859Z';
+export const updated = '2022-04-20T20:25:01.310Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6903,6 +6903,14 @@ export const patches = [
     "md5": "b48161623f12f86fec88320166a21fce",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#super-mario-land-dx"
+  },
+  {
+    "name": "Super Mario Land DX (v2.0)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMLDX.ips",
+    "md5": "119bdf89bdf38e489facd79cf251ccd0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20"
   },
   {
     "name": "Super Momotarou Dentetsu II",
