@@ -1,4 +1,4 @@
-export const updated = '2022-04-22T02:15:47.358Z';
+export const updated = '2022-04-22T02:26:06.862Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6873,13 +6873,6 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2---6-tsu-no-kinka"
   },
   {
-    "name": "Super Mario Land 2 DX 2.0",
-    "authorName": "JoseJX",
-    "md5": "b48161623f12f86fec88320166a21fce",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20",
-    "downloadUrl": "/patches/ips/SMDX2.ips"
-  },
-  {
     "name": "Super Mario Land 2 DX ROM Hack",
     "authorName": "Infinest",
     "downloadUrl": "https://github.com/jduckett95/infinest-pocket-patches/raw/main/SML2%20DX%20Pocket%20Patch.ips",
@@ -6918,6 +6911,13 @@ export const patches = [
     "md5": "119bdf89bdf38e489facd79cf251ccd0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20"
+  },
+  {
+    "name": "Super Mario Land DX v2",
+    "authorName": "JoseJX",
+    "md5": "b48161623f12f86fec88320166a21fce",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20",
+    "downloadUrl": "/patches/ips/SMDX2.ips"
   },
   {
     "name": "Super Momotarou Dentetsu II",
