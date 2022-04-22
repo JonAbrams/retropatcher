@@ -130,6 +130,13 @@
       "downloadUrl": "/patches/ips/kirbyDXFluffy.ips"
     },
     {
+      "name": "Super Mario Land DX v2",
+      "authorName": "JoseJX",
+      "md5": "b48161623f12f86fec88320166a21fce",
+      "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20",
+      "downloadUrl": "/patches/ips/SMDX2.ips"
+    },
+    {
       "name": "Wario Land DX",
       "authorName": "JoseJX",
       "md5": "d9d957771484ef846d4e8d241f6f2815",
