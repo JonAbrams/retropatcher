@@ -1,4 +1,4 @@
-export const updated = '2022-04-22T05:40:18.355Z';
+export const updated = '2022-04-22T23:23:01.114Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3199,6 +3199,14 @@ export const patches = [
     "md5": "ba683fde6480ae150860402c9523aa3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#karakuri-kengou-den---musashi-lord-english-translation"
+  },
+  {
+    "name": "Ken Griffey Jr. Presents Major League Baseball",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KGJrMLB.ips",
+    "md5": "2d07ba7a88c2daff07da53831166500a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ken-griffey-jr-presents-major-league-baseball"
   },
   {
     "name": "Kid Dracula",
