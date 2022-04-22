@@ -1,4 +1,4 @@
-export const updated = '2022-04-22T02:26:06.862Z';
+export const updated = '2022-04-22T05:40:18.355Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5047,6 +5047,14 @@ export const patches = [
     "md5": "2e3a0305f79b058cc4618565bc2db745",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#parodius-da"
+  },
+  {
+    "name": "Peetan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Peetan.ips",
+    "md5": "1a9c3966c0c2d17c1d67a0a49409db29",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#peetan"
   },
   {
     "name": "Peke to Poko no Daruman Busters",
