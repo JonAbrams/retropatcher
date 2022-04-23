@@ -1,4 +1,4 @@
-export const updated = '2022-04-22T23:23:01.114Z';
+export const updated = '2022-04-23T03:03:58.780Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3207,6 +3207,14 @@ export const patches = [
     "md5": "2d07ba7a88c2daff07da53831166500a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ken-griffey-jr-presents-major-league-baseball"
+  },
+  {
+    "name": "Ken Griffey Jr.'s Slugfest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KenGriffeyJrSlugfest.ips",
+    "md5": "869d388027e0498e3d9994b0dc71984a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ken-griffey-jrs-slugfest"
   },
   {
     "name": "Kid Dracula",
