@@ -1,4 +1,4 @@
-export const updated = '2022-04-23T03:03:58.780Z';
+export const updated = '2022-04-23T19:18:14.221Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7334,6 +7334,14 @@ export const patches = [
     "md5": "982ed5d2b12a0377eb14bcdc4123744e",
     "outputFilename": "Tetris Rosy Retrospection.pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#tetris--rosy-retrospection"
+  },
+  {
+    "name": "Tetris - Rosy Retrospection",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisRosyRetrospection_v1.2.ips",
+    "md5": "5b93a029cee83d40490006beb9025d39",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris---rosy-retrospection"
   },
   {
     "name": "Tetris 1.0 (J)",
