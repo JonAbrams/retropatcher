@@ -1,4 +1,4 @@
-export const updated = '2022-04-23T19:18:14.221Z';
+export const updated = '2022-04-23T20:23:28.272Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8101,6 +8101,14 @@ export const patches = [
     "md5": "f9302265fcbc4178c84aaeac3138af97",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wild-snake"
+  },
+  {
+    "name": "Wings of Fury",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WingsOfFury.ips",
+    "md5": "8b01ed48b1f51f57cfba2f3024fa60d8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wings-of-fury"
   },
   {
     "name": "Wink and the Broken Robot v5.7",
