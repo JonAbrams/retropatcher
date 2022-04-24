@@ -1,4 +1,4 @@
-export const updated = '2022-04-24T18:26:43.013Z';
+export const updated = '2022-04-24T20:23:59.501Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -703,6 +703,14 @@ export const patches = [
     "md5": "d6d8e759c19c1ba384670f2a06b4d11b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-bull"
+  },
+  {
+    "name": "Battle City",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleCity.ips",
+    "md5": "e6980267d58310af5ad57570045a95fa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-city"
   },
   {
     "name": "Battle Pingpong",
