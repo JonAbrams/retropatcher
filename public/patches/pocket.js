@@ -1,4 +1,4 @@
-export const updated = '2022-04-23T20:23:28.272Z';
+export const updated = '2022-04-24T14:20:31.558Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6727,6 +6727,14 @@ export const patches = [
     "md5": "e1ed3ef70534299d4f1be45eb1b9b360",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere-english-translation"
+  },
+  {
+    "name": "Star Ocean - Blue Sphere (Spanish Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
+    "md5": "5f0a9e0ce6c0085af12c787579790f1c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere-spanish-translation"
   },
   {
     "name": "Star Trek - 25th Anniversary",
