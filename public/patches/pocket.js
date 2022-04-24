@@ -1,4 +1,4 @@
-export const updated = '2022-04-24T14:20:31.558Z';
+export const updated = '2022-04-24T18:26:43.013Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -631,6 +631,14 @@ export const patches = [
     "md5": "e7bcb3f5534c8363f855ba92d83cb2d9",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#baseball"
+  },
+  {
+    "name": "Bases Loaded for Game Boy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BasesLoadedGB.ips",
+    "md5": "c1c084439399dc1541ee555bcabb7700",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bases-loaded-for-game-boy"
   },
   {
     "name": "Batman - Return of the Joker",
@@ -6247,6 +6255,14 @@ export const patches = [
     "md5": "3b359e9fec183bff5f964e25b599b246",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#seiken-densetsu---final-fantasy-gaiden"
+  },
+  {
+    "name": "Sensible Soccer - European Champions",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SensibleSoccerEuropeanChampions.ips",
+    "md5": "3ae8eceb23913aeb1a655da481541a6b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sensible-soccer---european-champions"
   },
   {
     "name": "Shadowgate Classic",
