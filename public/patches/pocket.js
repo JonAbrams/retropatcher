@@ -1,4 +1,4 @@
-export const updated = '2022-04-25T05:22:32.191Z';
+export const updated = '2022-04-25T06:30:29.880Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1793,6 +1793,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dick-tracy"
   },
   {
+    "name": "Die Maus GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DieMausGB.ips",
+    "md5": "ff3b9e42aa323ef0045a6000f6010764",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#die-maus-gb"
+  },
+  {
+    "name": "Die Maus GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DieMausGBC.ips",
+    "md5": "f9be99d213760ba2e9525abea1de3cb6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#die-maus-gbc"
+  },
+  {
     "name": "Dig Dug",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DigDug.ips",
@@ -3127,6 +3143,14 @@ export const patches = [
     "md5": "669a4ecf89794505591b36d617e51f8a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#james-bond-007"
+  },
+  {
+    "name": "Jeep Jamboree - Off Road Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JeepJamboree.ips",
+    "md5": "47b2627e14592a8c5b53c84c5f06400b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jeep-jamboree---off-road-adventure"
   },
   {
     "name": "Jelly Boy",
