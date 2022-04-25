@@ -1,4 +1,4 @@
-export const updated = '2022-04-24T20:23:59.501Z';
+export const updated = '2022-04-25T01:59:39.001Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2953,6 +2953,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hoshi-no-kirby-2"
   },
   {
+    "name": "Hot Wheels - Stunt Track Driver",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HotWheels.ips",
+    "md5": "9a908fd85216b1b3a994ec75d2cf9318",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hot-wheels---stunt-track-driver"
+  },
+  {
     "name": "Hoyle Card Games",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HoyleCardGames.ips",
@@ -3391,6 +3399,22 @@ export const patches = [
     "md5": "7f79af6e30ac9b0cd865caf073103268",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klondike"
+  },
+  {
+    "name": "Klustar",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Klustar.ips",
+    "md5": "d0308455ba266cc5b0cd6ca9b671cb4b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klustar"
+  },
+  {
+    "name": "Klustar (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KlustarE.ips",
+    "md5": "acb6b136fa26888d42b5f95871a75eaa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#klustar-e"
   },
   {
     "name": "Knight Quest",
@@ -4247,6 +4271,14 @@ export const patches = [
     "md5": "1f64989765f605d05cbd013e7ffcc352",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-xtreme-2"
+  },
+  {
+    "name": "Megalit",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Megalit.ips",
+    "md5": "45b5142059907dbd92aaf3f8d003721b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#megalit"
   },
   {
     "name": "Megami Tensei Gaiden - Last Bible II",
