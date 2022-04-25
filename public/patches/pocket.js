@@ -1,4 +1,4 @@
-export const updated = '2022-04-25T03:19:30.024Z';
+export const updated = '2022-04-25T05:22:32.191Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4535,6 +4535,14 @@ export const patches = [
     "md5": "65da43aef4c10cfd8feee70e842a46ae",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monkey-puncher"
+  },
+  {
+    "name": "Monopoly",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Monopoly.ips",
+    "md5": "5f1481260760c69843a61e9060ad7154",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monopoly"
   },
   {
     "name": "Monster Max",
