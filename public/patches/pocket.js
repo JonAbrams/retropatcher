@@ -1,4 +1,4 @@
-export const updated = '2022-04-26T19:18:43.027Z';
+export const updated = '2022-04-26T20:25:12.768Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6127,6 +6127,14 @@ export const patches = [
     "md5": "113d8f894df6b8c3641b2ba1fe60c250",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#revenge-of-the-gator"
+  },
+  {
+    "name": "Rez",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rez.ips",
+    "md5": "6acb1beff2a280194c82d633a9461fbf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rez"
   },
   {
     "name": "Ring Rage",
