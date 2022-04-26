@@ -1,4 +1,4 @@
-export const updated = '2022-04-26T18:30:18.325Z';
+export const updated = '2022-04-26T19:18:43.027Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6983,6 +6983,14 @@ export const patches = [
     "md5": "b259feb41811c7e4e1dc200167985c84",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-land"
+  },
+  {
+    "name": "Super Mario Land",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioLand.ips",
+    "md5": "b48161623f12f86fec88320166a21fce",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land"
   },
   {
     "name": "Super Mario Land 2 - 6 Golden Coins (Rev A)",
