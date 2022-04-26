@@ -1,4 +1,4 @@
-export const updated = '2022-04-26T21:21:17.436Z';
+export const updated = '2022-04-26T23:23:39.399Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1287,6 +1287,22 @@ export const patches = [
     "md5": "0b4410c6b94d6359dba5609ae9a32909",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania---the-adventure"
+  },
+  {
+    "name": "Castlevania - The Adventure (Konami GB Volume 1 Standalone - No Graphics Changes)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami1.ips",
+    "md5": "29cf6cd3c19ee398bf14ff33ffa4a6e2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania---the-adventure-konami-gb-volume-1-standalone---no-graphics-changes"
+  },
+  {
+    "name": "Castlevania - The Adventure (Konami GB Volume 1 Standalone)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami1.ips",
+    "md5": "ae9103870f3b00d557c4fe8b4009e940",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania---the-adventure-konami-gb-volume-1-standalone"
   },
   {
     "name": "Castlevania II - Belmont's Revenge",
