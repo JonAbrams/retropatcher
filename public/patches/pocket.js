@@ -1,4 +1,4 @@
-export const updated = '2022-04-26T20:25:12.768Z';
+export const updated = '2022-04-26T21:21:17.436Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -927,6 +927,14 @@ export const patches = [
     "md5": "7615154dc9afb1a7d7d2fe63b76c68e4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomb-jack"
+  },
+  {
+    "name": "Bomb Jack DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BombJackDX.ips",
+    "md5": "972aff07aec589e2b4362c0ffe01f6e0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bomb-jack-dx"
   },
   {
     "name": "Bomberman GB",
