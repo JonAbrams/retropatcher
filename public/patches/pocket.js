@@ -1,4 +1,4 @@
-export const updated = '2022-04-25T06:30:29.880Z';
+export const updated = '2022-04-26T18:30:18.325Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4815,6 +4815,14 @@ export const patches = [
     "md5": "686abad72092adccabc6db3687b1075e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nangoku-shounen-papuwa-kun---ganmadan-no-yabou-english-translation"
+  },
+  {
+    "name": "Navy Seals",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NavySeals.ips",
+    "md5": "fc2b347600edffc8e997a7fc75382873",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#navy-seals"
   },
   {
     "name": "Nectaris GB",
