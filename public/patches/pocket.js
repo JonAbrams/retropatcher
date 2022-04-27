@@ -1,4 +1,4 @@
-export const updated = '2022-04-26T23:23:39.399Z';
+export const updated = '2022-04-27T04:02:58.713Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3871,6 +3871,14 @@ export const patches = [
     "md5": "7f8c472f3c7bd1eec56a3bad10a2e94c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-mermaid-ii---pinball-frenzy"
+  },
+  {
+    "name": "Little Sound DJ (v7.0.2)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LSDJ-7.0.2.ips",
+    "md5": "25976b793307a8713ec29b53f63cebe9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#little-sound-dj-v702"
   },
   {
     "name": "Lock n' Chase ~ Lock 'n' Chase",
