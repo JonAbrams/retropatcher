@@ -1,4 +1,4 @@
-export const updated = '2022-04-27T04:02:58.713Z';
+export const updated = '2022-04-27T12:43:22.514Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2255,6 +2255,14 @@ export const patches = [
     "md5": "69a6ebc942c7d0ecef2e514989debde6",
     "extension": "pocket",
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#f1-world-grand-prix-ii-for-game-boy-color-u"
+  },
+  {
+    "name": "FIFA 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FIFA2000.ips",
+    "md5": "128dc75244ecc2f74d1e50551d888127",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fifa-2000"
   },
   {
     "name": "Faceball 2000",
