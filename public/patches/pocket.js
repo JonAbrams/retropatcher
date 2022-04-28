@@ -1,4 +1,4 @@
-export const updated = '2022-04-27T12:43:22.514Z';
+export const updated = '2022-04-28T02:45:11.935Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -87,6 +87,14 @@ export const patches = [
     "md5": "b235f6e34fdf0b6a3b956c347ee9e7e0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#abyss-story"
+  },
+  {
+    "name": "Action Man - Search for Base X",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ActionMan.ips",
+    "md5": "d9d85b81d1b0b4d3c86c95a6e1846f5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#action-man---search-for-base-x"
   },
   {
     "name": "Adulting! v2.0",
