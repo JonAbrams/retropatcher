@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T04:12:15.975Z';
+export const updated = '2022-05-02T05:33:12.522Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3625,6 +3625,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-92l"
   },
   {
+    "name": "Last Action Hero",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LastActionHero.ips",
+    "md5": "36ce150459099b9a7fccbc2ee46ac22c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#last-action-hero"
+  },
+  {
     "name": "Layers of a Killer",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LayersOfAKiller.ips",
@@ -5207,6 +5215,14 @@ export const patches = [
     "md5": "86e22a57cf0055f858acc9a4062ebc30",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy-2"
+  },
+  {
+    "name": "Paperboy GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PaperboyGBC.ips",
+    "md5": "ee133ab2f9ea5b18e9a19ce9b599a883",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy-gbc"
   },
   {
     "name": "Paragon5 Album",
