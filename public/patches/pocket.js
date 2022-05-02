@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T05:33:12.522Z';
+export const updated = '2022-05-02T06:29:36.825Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6095,6 +6095,14 @@ export const patches = [
     "md5": "82d650a781ef372126a863d519c01aae",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#radar-mission"
+  },
+  {
+    "name": "Rampage 2 - Universal Tour",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rampage2.ips",
+    "md5": "617dcfac99f28045b8f4c46b9d75b58e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rampage-2---universal-tour"
   },
   {
     "name": "Rampage World Tour",
