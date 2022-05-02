@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T06:29:36.825Z';
+export const updated = '2022-05-02T07:22:51.604Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2873,6 +2873,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gremlins-2---the-new-batch"
   },
   {
+    "name": "Gremlins Unleashed",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GremlinsUnleashed.ips",
+    "md5": "d05a9da7cd90cc9822e9655fb5476d54",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gremlins-unleashed"
+  },
+  {
     "name": "Hammerin' Harry - Ghost Building Company",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HammerinHarry.ips",
@@ -4727,6 +4735,22 @@ export const patches = [
     "md5": "4d08e5553356aecd728b5ef7d78ee261",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#motocross-maniacs-2"
+  },
+  {
+    "name": "Mouse Trap Hotel",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MouseTrapHotel.ips",
+    "md5": "cd8eb18dec915d8e2ea73f097d33ba04",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mouse-trap-hotel"
+  },
+  {
+    "name": "Mr. Chin's Gourmet Paradise",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MrChins.ips",
+    "md5": "1efbb42c4db24e5e42e778d969ba1f5d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mr-chins-gourmet-paradise"
   },
   {
     "name": "Mr. Do!",
