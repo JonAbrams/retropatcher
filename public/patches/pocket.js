@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T02:11:36.985Z';
+export const updated = '2022-05-02T04:12:15.975Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1551,6 +1551,14 @@ export const patches = [
     "md5": "0552078f981c2ef3977f2dfeee19510a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#croc"
+  },
+  {
+    "name": "Croc 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Croc2.ips",
+    "md5": "03a8bcab4b2975fa2d850d18c728ea9c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#croc-2"
   },
   {
     "name": "Crystal Quest",
