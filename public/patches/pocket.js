@@ -1,4 +1,4 @@
-export const updated = '2022-04-28T02:45:11.935Z';
+export const updated = '2022-05-02T02:11:36.985Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -479,6 +479,14 @@ export const patches = [
     "md5": "b7d6335b8d3a34b15ce0b631bb9731a2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asterix-and-obelix-vs-caesar"
+  },
+  {
+    "name": "Asteroids",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Asteroids.ips",
+    "md5": "cfac8209d5119235f678303dfb3cc0f2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#asteroids"
   },
   {
     "name": "Astro Rabby",
@@ -1071,6 +1079,22 @@ export const patches = [
     "md5": "63bbfce4fb22f4b77e68cc67f02c4b05",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-bender"
+  },
+  {
+    "name": "Brain Drain",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainDrain.ips",
+    "md5": "0c7beead4f65e97a23b718ce20a1bf55",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-drain"
+  },
+  {
+    "name": "Brain Drain (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BrainDrain.ips",
+    "md5": "56f304dbd0045521271de857ffc77fbe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-drain-e"
   },
   {
     "name": "BreakThru!",
