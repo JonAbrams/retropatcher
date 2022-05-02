@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T07:22:51.604Z';
+export const updated = '2022-05-02T08:30:23.822Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2169,6 +2169,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#driver---you-are-the-wheelman"
   },
   {
+    "name": "Dropzone",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dropzone.ips",
+    "md5": "b3142aae557bc4e04e2f0f740fae9577",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dropzone"
+  },
+  {
     "name": "Duck Tales",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales.ips",
@@ -3007,6 +3015,14 @@ export const patches = [
     "md5": "4b068708fb29fdabbee834114fe4a09d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
+  },
+  {
+    "name": "Hollywood Pinball",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HollywoodPinball.ips",
+    "md5": "9889afc5b4e72c9f96db8e6b4260f6b7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hollywood-pinball"
   },
   {
     "name": "Home Alone",
