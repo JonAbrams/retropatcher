@@ -1,4 +1,4 @@
-export const updated = '2022-05-02T08:30:23.822Z';
+export const updated = '2022-05-04T19:19:16.965Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2255,6 +2255,14 @@ export const patches = [
     "md5": "f88959b615f284cc120cd17f5263d018",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elevator-action-ex"
+  },
+  {
+    "name": "Elite Soccer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EliteSoccer.ips",
+    "md5": "0a3304bdadddadc6c6b1d7cc8425d566",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elite-soccer"
   },
   {
     "name": "Elmo's ABCs",
