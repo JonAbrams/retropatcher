@@ -1,4 +1,4 @@
-export const updated = '2022-05-05T16:34:32.323Z';
+export const updated = '2022-05-05T21:20:53.779Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2367,6 +2367,14 @@ export const patches = [
     "md5": "4d606ab4ffd5c3d3ecf914a6af1c1f90",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#felix-the-cat"
+  },
+  {
+    "name": "Ferrari Grand Prix Challenge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FerrariGPChallenge.ips",
+    "md5": "d5596fa64e5b0ff193feeac749b8be88",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ferrari-grand-prix-challenge"
   },
   {
     "name": "Fidgetts",
@@ -8150,6 +8158,14 @@ export const patches = [
     "md5": "bc977605b3db8aeab9d60289e6b7e361",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ultraman-ball-english-translation"
+  },
+  {
+    "name": "Universal Soldier",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UniversalSoldier.ips",
+    "md5": "545277c74a3fbeda2c9213d49659ffdd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#universal-soldier"
   },
   {
     "name": "Uno",
