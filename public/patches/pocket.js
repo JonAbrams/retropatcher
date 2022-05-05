@@ -1,4 +1,4 @@
-export const updated = '2022-05-05T06:29:44.772Z';
+export const updated = '2022-05-05T16:34:32.323Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2279,6 +2279,22 @@ export const patches = [
     "md5": "db9d9e20af969a2ee248ae9af42a5d36",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#elmos-abcs"
+  },
+  {
+    "name": "Emperor's New Groove",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EmperorsNewGroove.ips",
+    "md5": "e98b6a7bb91bb0a7e80e40985eefb1d0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#emperors-new-groove"
+  },
+  {
+    "name": "Emperor's New Groove (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/EmperorsNewGrooveE.ips",
+    "md5": "a308de3b28ce996e8a1ff16ae8d26919",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#emperors-new-groove-e"
   },
   {
     "name": "Extra Bases!",
@@ -6143,6 +6159,14 @@ export const patches = [
     "md5": "dae7b7625d41d8a06266b09924154bb2",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#r-type-dx"
+  },
+  {
+    "name": "Race Days",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDays.ips",
+    "md5": "b65938f85944bda47e59c123537abea0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#race-days"
   },
   {
     "name": "Radar Mission",
