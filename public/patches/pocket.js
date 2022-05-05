@@ -1,4 +1,4 @@
-export const updated = '2022-05-04T19:19:16.965Z';
+export const updated = '2022-05-05T06:29:44.772Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -271,6 +271,14 @@ export const patches = [
     "md5": "d8326bfee457ccb2c0afb8dd6ac11db2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amazing-penguin"
+  },
+  {
+    "name": "Amazing Penguin DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AmazingPenguinDX.ips",
+    "md5": "58dd9396ca73e6e5e94b3dfb5b3c00a0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#amazing-penguin-dx"
   },
   {
     "name": "Amazing Spider-Man",
