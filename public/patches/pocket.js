@@ -1,4 +1,4 @@
-export const updated = '2022-05-05T21:20:53.779Z';
+export const updated = '2022-05-06T03:09:59.942Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1927,6 +1927,14 @@ export const patches = [
     "md5": "4859ec2b18c4fabf489eb570c1d7d326",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#donkey-kong"
+  },
+  {
+    "name": "Donkey Kong '94",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DonkeyKong94.ips",
+    "md5": "60e55697da19bb160316ec290a7a7437",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-94"
   },
   {
     "name": "Donkey Kong Country",
