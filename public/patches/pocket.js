@@ -1,4 +1,4 @@
-export const updated = '2022-05-06T13:37:39.807Z';
+export const updated = '2022-05-06T19:19:11.428Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2337,6 +2337,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-18-thunder-strike"
   },
   {
+    "name": "F-Zero Project P",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FZeroPROM.ips",
+    "md5": "cd5bd70c93494a58aa919d84eba8e77e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#f-zero-project-p"
+  },
+  {
     "name": "F1 World Grand Prix II for Game Boy Color (U)",
     "authorName": "jsky0",
     "downloadUrl": "https://github.com/jsky0/analogue-pocket-patches/raw/main/f1_world_grand_prix_ii_for_gbc.ips",
@@ -4081,6 +4089,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-collector---martian-alert"
   },
   {
+    "name": "Looney Tunes Collector - Martian Quest!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorMartianQuest.ips",
+    "md5": "74f0ca3425914df4af3210541ff619c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-collector---martian-quest"
+  },
+  {
+    "name": "Looney Tunes Collector - Martian Revenge!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorMartianRevenge.ips",
+    "md5": "f765e4019c3ab207c5804ca530173a31",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-collector---martian-revenge"
+  },
+  {
     "name": "Loopz",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Loopz.ips",
@@ -4327,6 +4351,14 @@ export const patches = [
     "md5": "7f26dd90f8e80b52ead8fc0e3609d4f2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marus-mission"
+  },
+  {
+    "name": "Marvin Strikes Back!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MarvinStrikesBack.ips",
+    "md5": "fdf704aff61ad3e6848642241ddb6032",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#marvin-strikes-back"
   },
   {
     "name": "Mary-Kate and Ashley - Get a Clue!",
@@ -7033,6 +7065,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spy-vs-spy---operation-booby-trap"
   },
   {
+    "name": "Star Fox Grounded",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarFoxGrounded.ips",
+    "md5": "e585b4fc4acf013599938e3d84e4afe3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-fox-grounded"
+  },
+  {
     "name": "Star Hawk",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarHawk.ips",
@@ -7191,6 +7231,14 @@ export const patches = [
     "md5": "a455a70d52a9ffcfe8c4d8c164267500",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-imposter-bros"
+  },
+  {
+    "name": "Super JetPak DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperJetPakDX.ips",
+    "md5": "e5bfbe8dd1f3017834496626208b9d7d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-jetpak-dx"
   },
   {
     "name": "Super Mario Bros. Deluxe",
