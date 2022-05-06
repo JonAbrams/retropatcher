@@ -1,4 +1,4 @@
-export const updated = '2022-05-06T03:09:59.942Z';
+export const updated = '2022-05-06T04:30:21.626Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4063,6 +4063,14 @@ export const patches = [
     "md5": "1d31fa1e431ec840e5f769fdd019405f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes---twouble"
+  },
+  {
+    "name": "Looney Tunes Collector - Alert!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCollectorAlert.ips",
+    "md5": "164c4fcfe733d89fff3ddc42b017c5ca",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-collector---alert"
   },
   {
     "name": "Loopz",
