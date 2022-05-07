@@ -1,4 +1,4 @@
-export const updated = '2022-05-06T23:23:22.179Z';
+export const updated = '2022-05-07T01:49:31.784Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1999,6 +1999,14 @@ export const patches = [
     "md5": "20b436fc3c9621eb4ee82bc3ef3687fb",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#doraemon-kart"
+  },
+  {
+    "name": "Doraemon Kart 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DoraemonKart2.ips",
+    "md5": "d0009c14cfdcd02695d84d068c0d4abe",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#doraemon-kart-2"
   },
   {
     "name": "Double Dragon",
