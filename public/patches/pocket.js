@@ -1,4 +1,4 @@
-export const updated = '2022-05-07T01:49:31.784Z';
+export const updated = '2022-05-07T19:20:34.599Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4703,6 +4703,14 @@ export const patches = [
     "md5": "967473063a55634223f15e4c0a79dc44",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mighty-morphin-power-rangers---the-movie"
+  },
+  {
+    "name": "Milon's Secret Castle",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MilonsSecretCastle.ips",
+    "md5": "1f93249c298f3ecdc4099602d9dedbb5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#milons-secret-castle"
   },
   {
     "name": "Miner 2049er Starring Bounty Bob",
