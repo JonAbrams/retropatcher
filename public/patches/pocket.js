@@ -1,4 +1,4 @@
-export const updated = '2022-05-07T19:20:34.599Z';
+export const updated = '2022-05-07T23:22:53.892Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1991,6 +1991,14 @@ export const patches = [
     "md5": "2e46072ce2416feb18f4bd1e9943546c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land-iii"
+  },
+  {
+    "name": "Doraemon 2 - Animal Planet Densetsu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Doraemon2-AnimalPlanetDensetsu.ips",
+    "md5": "bbf5e9e76b28352665aff796a13830e8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#doraemon-2---animal-planet-densetsu"
   },
   {
     "name": "Doraemon Kart",
@@ -7598,6 +7606,22 @@ export const patches = [
     "md5": "26c65da146faa09505c554447792e493",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#talespin"
+  },
+  {
+    "name": "Tales of Phantasia - Narikiri Dungeon",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TalesOfPhantasia.ips",
+    "md5": "a3c65d746e0e171843e9013e8d8e1021",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tales-of-phantasia---narikiri-dungeon"
+  },
+  {
+    "name": "Tales of Phantasia - Narikiri Dungeon (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TalesOfPhantasia.ips",
+    "md5": "160f164dbc2a3671f28f8a1f3f457e8b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tales-of-phantasia---narikiri-dungeon-english-translation"
   },
   {
     "name": "Tamagotchi",
