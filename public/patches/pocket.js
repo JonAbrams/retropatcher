@@ -1,4 +1,4 @@
-export const updated = '2022-05-07T23:22:53.892Z';
+export const updated = '2022-05-08T02:04:10.082Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1105,6 +1105,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#brain-drain-e"
   },
   {
+    "name": "Bram Stoker's Dracula",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BramStokersDracula.ips",
+    "md5": "d8e5252704cf0681a7f737d599526591",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bram-stokers-dracula"
+  },
+  {
     "name": "BreakThru!",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BreakThru.ips",
@@ -2207,6 +2215,14 @@ export const patches = [
     "md5": "413e1acd7847d628364163eb2c97cecd",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#driver---you-are-the-wheelman"
+  },
+  {
+    "name": "Droneboy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Droneboy.ips",
+    "md5": "f229536982f8ba9c42172800e542f1e2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#droneboy"
   },
   {
     "name": "Dropzone",
