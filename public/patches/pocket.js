@@ -1,4 +1,4 @@
-export const updated = '2022-05-08T19:19:03.357Z';
+export const updated = '2022-05-08T20:23:46.251Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1359,6 +1359,14 @@ export const patches = [
     "md5": "7c65e9da405d2225d079f75e56276822",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania-ii---belmonts-revenge"
+  },
+  {
+    "name": "Castlevania II - Belmont's Revenge (Konmai GB Volume 4 Standalone)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Konami4.ips",
+    "md5": "196e11035b0808fb50982a8e6cf59986",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania-ii---belmonts-revenge-konmai-gb-volume-4-standalone"
   },
   {
     "name": "Castlevania Legends",
