@@ -1,4 +1,4 @@
-export const updated = '2022-05-08T18:27:02.472Z';
+export const updated = '2022-05-08T19:19:03.357Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2247,6 +2247,22 @@ export const patches = [
     "md5": "b3142aae557bc4e04e2f0f740fae9577",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dropzone"
+  },
+  {
+    "name": "Drum Tech",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrumTechFreeVersion2009.ips",
+    "md5": "eb834408434acf32929ad4332b8bc025",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#drum-tech"
+  },
+  {
+    "name": "Drum Tech - Patched",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrumTechFreeVersion2009.ips",
+    "md5": "37241cce04853074eca9b7711d864a82",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#drum-tech---patched"
   },
   {
     "name": "Duck Tales",
@@ -4991,6 +5007,38 @@ export const patches = [
     "md5": "3a70f79e33ed4ea546d0ba41a7f2ef25",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#muppets"
+  },
+  {
+    "name": "Music Tech V1",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV1FreeVersion2009.ips",
+    "md5": "13c0df2743bd794cac401e4fbc0b04c8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#music-tech-v1"
+  },
+  {
+    "name": "Music Tech V1 - Patched",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV1FreeVersion2009.ips",
+    "md5": "b422270a2a07ff382386f5741d963a77",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#music-tech-v1---patched"
+  },
+  {
+    "name": "Music Tech V2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV2FreeVersion2009.ips",
+    "md5": "6ff6a4b562a0b2289199b24e62f98632",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#music-tech-v2"
+  },
+  {
+    "name": "Music Tech V2 - Patched",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MusicTechV2FreeVersion2009.ips",
+    "md5": "77e38a89eadcd784fb4d4067d9d46fc6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#music-tech-v2---patched"
   },
   {
     "name": "Mysterium",
