@@ -1,4 +1,4 @@
-export const updated = '2022-05-08T02:04:10.082Z';
+export const updated = '2022-05-08T18:27:02.472Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1791,6 +1791,22 @@ export const patches = [
     "md5": "e5c07daa704a35dd105604286546d56e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#death-planet"
+  },
+  {
+    "name": "Deathray",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathrayFreeVersion2009.ips",
+    "md5": "c725c2affa36f3e81ac6fed1b51e836e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deathray"
+  },
+  {
+    "name": "Deathray - Patched",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathrayFreeVersion2009.ips",
+    "md5": "e0e03e15d09308338a2dc59512f315cb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deathray---patched"
   },
   {
     "name": "Deep Dungeon",
@@ -8781,6 +8797,14 @@ export const patches = [
     "md5": "b1729716baaea01d4baa795db31800b0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-men---wolverines-rage"
+  },
+  {
+    "name": "Xena Warrior Princess",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/XenaWarriorPrincess.ips",
+    "md5": "acb82a5584f830d6d7bc33f4827571b9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#xena-warrior-princess"
   },
   {
     "name": "Xenon 2 - Megablast",
