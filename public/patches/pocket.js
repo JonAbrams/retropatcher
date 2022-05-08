@@ -1,4 +1,4 @@
-export const updated = '2022-05-08T20:23:46.251Z';
+export const updated = '2022-05-08T22:22:23.230Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2087,6 +2087,14 @@ export const patches = [
     "md5": "921bdff008475aa2c5344e1a0d110910",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario"
+  },
+  {
+    "name": "Dr. Mario DX - Polish-Up",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrMarioDXPolished.ips",
+    "md5": "3dfcef6dc4b31b68270b129647c756b4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dr-mario-dx---polish-up"
   },
   {
     "name": "Dr. Mario DX Hack",
@@ -5817,6 +5825,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-e"
   },
   {
+    "name": "Pokemon Pinball Generations",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballGenerations.ips",
+    "md5": "14dd6bf0d9cb4ef16cdbb6e46e548069",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-generations"
+  },
+  {
     "name": "Pokemon Prism",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokePrism.ips",
@@ -7910,6 +7926,14 @@ export const patches = [
     "md5": "65973d7a1446346294f8ca9d2d1b7e66",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tetris-dx"
+  },
+  {
+    "name": "Tetris DX (Korobeiniki Music Patch)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TetrisDX_Korobeiniki.ips",
+    "md5": "dbe6f25ca80736a4ea0ecbfb80ea1bd6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tetris-dx-korobeiniki-music-patch"
   },
   {
     "name": "Tetris Plus",
