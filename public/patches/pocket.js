@@ -1,4 +1,4 @@
-export const updated = '2022-05-08T22:22:23.230Z';
+export const updated = '2022-05-09T02:06:08.534Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3553,6 +3553,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#king-of-fighters---heat-of-battle"
   },
   {
+    "name": "Kingdom Crusade",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KingdomCrusade.ips",
+    "md5": "79603fd837abd36b72d73f959e0ae749",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kingdom-crusade"
+  },
+  {
     "name": "Kinin Koumaroku Oni",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KininKoumarokuOni.ips",
@@ -5809,6 +5817,14 @@ export const patches = [
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-gelbe-edition"
   },
   {
+    "name": "Pokemon Green",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGreen.ips",
+    "md5": "1e9baf36b209fd06854b8e5e064b00a8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-green"
+  },
+  {
     "name": "Pokemon Picross",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPicross.ips",
@@ -5831,6 +5847,14 @@ export const patches = [
     "md5": "14dd6bf0d9cb4ef16cdbb6e46e548069",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-generations"
+  },
+  {
+    "name": "Pokemon Playable Yellow",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPlayableYellow.ips",
+    "md5": "ebbe3e5c1a2834c9876aad387f817896",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-playable-yellow"
   },
   {
     "name": "Pokemon Prism",
