@@ -1,4 +1,4 @@
-export const updated = '2022-05-09T20:24:43.722Z';
+export const updated = '2022-05-09T21:21:09.774Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3471,6 +3471,14 @@ export const patches = [
     "md5": "4ebe14c4c51555908c0e4cabb66dc813",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru"
+  },
+  {
+    "name": "Kaeru no Tame ni Kane wa Naru (English Translation with Title Fix)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Kaeru.ips",
+    "md5": "d4cfeb4958db49fc19917795f9527850",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kaeru-no-tame-ni-kane-wa-naru-english-translation-with-title-fix"
   },
   {
     "name": "Kaeru no Tame ni Kane wa Naru (English Translation)",
@@ -7281,6 +7289,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere-english-translation"
   },
   {
+    "name": "Star Ocean - Blue Sphere (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
+    "md5": "70bcee3fd3813fe23646e0c79fd0e0f5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-ocean---blue-sphere-english-translation"
+  },
+  {
     "name": "Star Ocean - Blue Sphere (Spanish Translation)",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarOcean.ips",
@@ -7511,6 +7527,14 @@ export const patches = [
     "md5": "119bdf89bdf38e489facd79cf251ccd0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20"
+  },
+  {
+    "name": "Super Mario Land DX (v2.0) with Sound Improvement Mod",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SMLDX.ips",
+    "md5": "52cb05b821fc2b49ef5ba492b2ecaa78",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-dx-v20-with-sound-improvement-mod"
   },
   {
     "name": "Super Mario Land DX v2",
