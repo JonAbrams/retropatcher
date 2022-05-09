@@ -1,4 +1,4 @@
-export const updated = '2022-05-09T02:06:08.534Z';
+export const updated = '2022-05-09T20:24:43.722Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2263,6 +2263,14 @@ export const patches = [
     "md5": "b3142aae557bc4e04e2f0f740fae9577",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dropzone"
+  },
+  {
+    "name": "Druaga no Tou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DruagaNoTou.ips",
+    "md5": "c8611861afe5d9b47043150ee2c94389",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#druaga-no-tou"
   },
   {
     "name": "Drum Tech",
@@ -6135,6 +6143,22 @@ export const patches = [
     "md5": "ab5fac354726b7b0710cfdba22d7142f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#populous"
+  },
+  {
+    "name": "Powa! (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowaE.ips",
+    "md5": "c9c39627ee5049e47ce1acd67fff7b8a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#powa-e"
+  },
+  {
+    "name": "Powa! (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowaJ.ips",
+    "md5": "79057202277940eb8a37257ebcb513c3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#powa-j"
   },
   {
     "name": "Power Mission",
