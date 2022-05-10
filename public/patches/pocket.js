@@ -1,4 +1,4 @@
-export const updated = '2022-05-09T21:21:09.774Z';
+export const updated = '2022-05-10T02:53:19.919Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7806,6 +7806,14 @@ export const patches = [
     "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#tamagotchi"
+  },
+  {
+    "name": "Tamagotchi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Tamagotchi.ips",
+    "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tamagotchi"
   },
   {
     "name": "Tarzan",
