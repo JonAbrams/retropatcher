@@ -1,4 +1,4 @@
-export const updated = '2022-05-11T13:43:31.330Z';
+export const updated = '2022-05-11T19:20:31.108Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8981,6 +8981,14 @@ export const patches = [
     "md5": "988516a3d733132af304b1c6710a923a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x"
+  },
+  {
+    "name": "X (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/X_En.ips",
+    "md5": "74174b2984a38d625046fb80dab77f08",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#x-english-translation"
   },
   {
     "name": "X-Men - Mutant Academy",
