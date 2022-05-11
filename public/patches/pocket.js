@@ -1,4 +1,4 @@
-export const updated = '2022-05-10T03:32:24.762Z';
+export const updated = '2022-05-11T12:49:52.134Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1183,6 +1183,14 @@ export const patches = [
     "md5": "32628dd7b39919a3a5ab77b245cd6b63",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bugs-bunny-collection"
+  },
+  {
+    "name": "Bugs Bunny and Lola Bunny - Operation Carrots",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCarrotCrazy.ips",
+    "md5": "d5a558f3f63771ac1e40d53976e090ef",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bugs-bunny-and-lola-bunny---operation-carrots"
   },
   {
     "name": "Bugs Bunny in Crazy Castle 4",
@@ -4175,6 +4183,14 @@ export const patches = [
     "md5": "a539a0ae1b1ed8034fc3a4733b4298c3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes-gbc-e"
+  },
+  {
+    "name": "Looney Tunes - Carrot Crazy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LooneyTunesCarrotCrazy.ips",
+    "md5": "b6c357bb1a544fb1f8731cbdc3046596",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#looney-tunes---carrot-crazy"
   },
   {
     "name": "Looney Tunes - Twouble!",
