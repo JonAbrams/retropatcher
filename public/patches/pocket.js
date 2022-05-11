@@ -1,4 +1,4 @@
-export const updated = '2022-05-11T12:49:52.134Z';
+export const updated = '2022-05-11T13:43:31.330Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1391,6 +1391,14 @@ export const patches = [
     "md5": "5a75fe8de54e4cbd09cae23f050f6965",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#catrap"
+  },
+  {
+    "name": "Catwoman",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Catwoman.ips",
+    "md5": "2692494cef091b908b02c9046bdd876c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#catwoman"
   },
   {
     "name": "Cave Noire (J)",
@@ -3815,6 +3823,22 @@ export const patches = [
     "md5": "2a1efef6d25431529b0d2f5063f63a17",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-island-2---the-bricksters-revenge-e"
+  },
+  {
+    "name": "LEGO Racers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGORacers.ips",
+    "md5": "a2d07e7da188092c88ef6d9fd2e5eaa4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-racers"
+  },
+  {
+    "name": "LEGO Racers (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGORacersE.ips",
+    "md5": "0e13c1506562050ab39bc7d0fcd41ecf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-racers-e"
   },
   {
     "name": "LSDJ (Version 9.2L)",
