@@ -1,4 +1,4 @@
-export const updated = '2022-05-11T19:20:31.108Z';
+export const updated = '2022-05-11T21:19:45.171Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6839,6 +6839,14 @@ export const patches = [
     "md5": "3ae8eceb23913aeb1a655da481541a6b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sensible-soccer---european-champions"
+  },
+  {
+    "name": "Sgt. Rock - On the Frontline",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SgtRock.ips",
+    "md5": "a2623acf15ec36ab072ee5b92b88b613",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sgt-rock---on-the-frontline"
   },
   {
     "name": "Shadowgate Classic",
