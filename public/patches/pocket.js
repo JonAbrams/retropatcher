@@ -1,4 +1,4 @@
-export const updated = '2022-05-11T21:19:45.171Z';
+export const updated = '2022-05-12T18:30:29.022Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2255,6 +2255,22 @@ export const patches = [
     "md5": "ae4fda03378a0584d45a4735c9d6290e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragons-lair---the-legend"
+  },
+  {
+    "name": "Dragonborne",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Dragonborne.ips",
+    "md5": "13359a8ab266247449f73b8b84ffe93f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragonborne"
+  },
+  {
+    "name": "Dragonborne (DE)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DragonborneDE.ips",
+    "md5": "b8721dd89cfec4aa2f10f7e13c950646",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragonborne-de"
   },
   {
     "name": "Driver - You are the Wheelman",
