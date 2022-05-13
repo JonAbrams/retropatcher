@@ -1,4 +1,4 @@
-export const updated = '2022-05-12T18:30:29.022Z';
+export const updated = '2022-05-13T10:27:40.914Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3479,6 +3479,22 @@ export const patches = [
     "md5": "7e9d69eacd6b4c82527065bcf63e474b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#judge-dredd"
+  },
+  {
+    "name": "Jungle Book - Mowgli's Wild Adventure",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleBookMowglisWildAdventure.ips",
+    "md5": "2f7bb3bebbf2deb2b8f3ed62d041fa57",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jungle-book---mowglis-wild-adventure"
+  },
+  {
+    "name": "Jungle Book - Mowgli's Wild Adventure (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleBookMowglisWildAdventure.ips",
+    "md5": "173a37c4d4aae04766aa0abbf385233d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jungle-book---mowglis-wild-adventure-e"
   },
   {
     "name": "Jurassic Park",
