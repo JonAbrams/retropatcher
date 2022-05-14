@@ -1,4 +1,4 @@
-export const updated = '2022-05-13T10:27:40.914Z';
+export const updated = '2022-05-14T15:24:41.749Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -559,6 +559,14 @@ export const patches = [
     "md5": "464acbe3c82887db897c39cdba877237",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#azure-dreams"
+  },
+  {
+    "name": "Azure Dreams (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AzureDreamsE.ips",
+    "md5": "f6b6ddfaaf03392dc469f4eed49ec15d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#azure-dreams-e"
   },
   {
     "name": "Bad Apple (Demo)",
