@@ -1,4 +1,4 @@
-export const updated = '2022-05-14T20:24:21.497Z';
+export const updated = '2022-05-18T04:37:11.609Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1817,6 +1817,14 @@ export const patches = [
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#deadeus"
   },
   {
+    "name": "Deadeus (v1.3.8)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeadeusV138.ips",
+    "md5": "b04f705f3e4db711560f9834a6431171",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deadeus-v138"
+  },
+  {
     "name": "Death Planet",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeathPlanet.ips",
@@ -2239,6 +2247,14 @@ export const patches = [
     "md5": "f71ac6ac4bb335f59bfd2b594d47ab49",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-warrior-monsters-2---cobis-journey"
+  },
+  {
+    "name": "Dragon Warrior Monsters 2 - Cobi's Journey - Ultimate",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DWM2Cobi.ips",
+    "md5": "06bc11f1e74a7dcc036a0524405168fb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dragon-warrior-monsters-2---cobis-journey---ultimate"
   },
   {
     "name": "Dragon Warrior Monsters 2 - Tara's Adventure",
@@ -6513,6 +6529,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#race-days"
   },
   {
+    "name": "Race Drivin'",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RaceDrivin.ips",
+    "md5": "74d409740ce00448d42b25ebb31e7bcd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#race-drivin"
+  },
+  {
     "name": "Radar Mission",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RadarMission.ips",
@@ -7175,6 +7199,14 @@ export const patches = [
     "md5": "c99335566f063df9ee393fe915a1bc55",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#souls-rest"
+  },
+  {
+    "name": "South Park",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SouthPark.ips",
+    "md5": "a537394fbf3378116a27a57ca6d588b7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#south-park"
   },
   {
     "name": "Space Invaders",
