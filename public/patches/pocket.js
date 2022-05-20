@@ -1,4 +1,4 @@
-export const updated = '2022-05-18T04:37:11.609Z';
+export const updated = '2022-05-20T03:21:55.787Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3911,6 +3911,22 @@ export const patches = [
     "md5": "36ce150459099b9a7fccbc2ee46ac22c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#last-action-hero"
+  },
+  {
+    "name": "Laura",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Laura.ips",
+    "md5": "637b90b33aeb3688187c6ac73db3488e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#laura"
+  },
+  {
+    "name": "Laura (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LauraE.ips",
+    "md5": "37824faeedc1d562cae1ceee675c6ac8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#laura-e"
   },
   {
     "name": "Layers of a Killer",
