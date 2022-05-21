@@ -1,4 +1,4 @@
-export const updated = '2022-05-20T03:21:55.787Z';
+export const updated = '2022-05-21T19:18:51.193Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8446,6 +8446,14 @@ export const patches = [
     "md5": "344ed70fe1a7a8cc904eda886543252c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story-rev-a"
+  },
+  {
+    "name": "Toy Story Racer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ToyStoryRacer.ips",
+    "md5": "01a67ed2dc935044ba69eda42bddebf3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#toy-story-racer"
   },
   {
     "name": "Track Meet",
