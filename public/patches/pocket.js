@@ -1,4 +1,4 @@
-export const updated = '2022-05-21T19:18:51.193Z';
+export const updated = '2022-05-22T04:30:31.385Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1607,6 +1607,14 @@ export const patches = [
     "md5": "03a8bcab4b2975fa2d850d18c728ea9c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#croc-2"
+  },
+  {
+    "name": "Crusin' Exotica",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CruisnExotica.ips",
+    "md5": "3af0cf37eadd6e98fdc43d4b3967c966",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#crusin-exotica"
   },
   {
     "name": "Crystal Quest",
