@@ -1,4 +1,4 @@
-export const updated = '2022-05-22T18:27:42.148Z';
+export const updated = '2022-05-22T19:19:14.522Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -367,6 +367,14 @@ export const patches = [
     "md5": "1b87d9ad90df06c1ee4a2ae280ed6d88",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-3---galaga-and-galaxian-dx-e"
+  },
+  {
+    "name": "Arcade Classic No. 4 - Defender and Joust",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AC4.ips",
+    "md5": "211a15218fa66e4a09bc253ae064991c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-4---defender-and-joust"
   },
   {
     "name": "Arcade Hits - Moon Patrol and Spy Hunter",
@@ -4857,6 +4865,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickey-mouse---magic-wands"
   },
   {
+    "name": "Mickey's Dangerous Chase",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysDangerousChase.ips",
+    "md5": "b0195767bf5d839e4cc4c837a4709b54",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-dangerous-chase"
+  },
+  {
+    "name": "Mickey's Dangerous Chase",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysDangerousChase.ips",
+    "md5": "16bc18ef00088094e9fad502e613be5e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mickeys-dangerous-chase"
+  },
+  {
     "name": "Mickey's Racing Adventure",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MickeysRacingAdventure.ips",
@@ -6831,6 +6855,22 @@ export const patches = [
     "md5": "27f2c99b13cbdb5a5be4afce87b9039b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rolans-curse-ii"
+  },
+  {
+    "name": "Rox",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Rox.ips",
+    "md5": "c4cd1e337bb76ad0f7307f5cfa1ef6bc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rox"
+  },
+  {
+    "name": "Rox (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoxJ.ips",
+    "md5": "d5cde4a6f4877a71b06278a4802c7cce",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rox-j"
   },
   {
     "name": "Sabrina - The Animated Series - Spooked!",
