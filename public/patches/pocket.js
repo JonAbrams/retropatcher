@@ -1,4 +1,4 @@
-export const updated = '2022-05-22T05:21:55.043Z';
+export const updated = '2022-05-22T18:27:42.148Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3471,6 +3471,22 @@ export const patches = [
     "md5": "0acefb175380637bf0d49ad96da23d52",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jelly-boy"
+  },
+  {
+    "name": "Jeopardy!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Jeopardy.ips",
+    "md5": "60ef5ffc3af0ac5110c2b31e83570494",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jeopardy"
+  },
+  {
+    "name": "Jeopardy! Platinum Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JeopardyPlatinum.ips",
+    "md5": "60f66390bef3ec6e5a84e299d2261f73",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jeopardy-platinum-edition"
   },
   {
     "name": "Jetsons - Robot Panic",
