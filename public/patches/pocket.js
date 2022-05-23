@@ -1,4 +1,4 @@
-export const updated = '2022-05-22T19:19:14.522Z';
+export const updated = '2022-05-23T04:39:57.820Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7671,6 +7671,30 @@ export const patches = [
     "md5": "1fd75c2b798c04acd4b99ad2f1006280",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#super-mario-bros-deluxe"
+  },
+  {
+    "name": "Super Mario Bros. Deluxe",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxe.ips",
+    "md5": "ec764e03228d212ca794ac0b9df62857",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-bros-deluxe"
+  },
+  {
+    "name": "Super Mario Bros. Deluxe (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxeJ.ips",
+    "md5": "8040970140b2e728a0078504c2bcd908",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-bros-deluxe-j"
+  },
+  {
+    "name": "Super Mario Bros. Deluxe (RevB)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperMarioBrosDeluxeB.ips",
+    "md5": "b5a71128227f5bc953fd55cb0025807f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-bros-deluxe-revb"
   },
   {
     "name": "Super Mario Land",
