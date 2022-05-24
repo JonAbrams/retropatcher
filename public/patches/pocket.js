@@ -1,4 +1,4 @@
-export const updated = '2022-05-23T04:39:57.820Z';
+export const updated = '2022-05-24T02:05:41.005Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3337,6 +3337,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hunt-for-red-october"
   },
   {
+    "name": "Hype - The Time Quest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HypeTimeQuest.ips",
+    "md5": "7039b471857d20f77a5ba7f48065ed53",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hype---the-time-quest"
+  },
+  {
     "name": "Hyper Lode Runner",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HyperLodeRunner.ips",
@@ -5673,6 +5681,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#paperboy-gbc"
   },
   {
+    "name": "Papyrus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Papyrus.ips",
+    "md5": "59f3f8585cfc12876db9a27018d41f78",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#papyrus"
+  },
+  {
     "name": "Paragon5 Album",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/d1c11e2d26a87a24a375eda930e720b210c25404/p5_album-da9cb40f.ips",
@@ -6553,12 +6569,12 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quarth"
   },
   {
-    "name": "Quest For Camelot (E)",
+    "name": "Quest RPG - Brian's Journey",
     "authorName": "JoseJX",
-    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelotE.ips",
-    "md5": "81dd8a336e1b1b705235a7b20a536bc0",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestRPGBriansJourney.ips",
+    "md5": "93ff3f6b4bfe0a138d8a8897899e8cb0",
     "extension": "pocket",
-    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-for-camelot-e"
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-rpg---brians-journey"
   },
   {
     "name": "Quest for Camelot",
@@ -6567,6 +6583,14 @@ export const patches = [
     "md5": "3b26dfc4e7c55cf86f4a4f3c18344ac7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-for-camelot"
+  },
+  {
+    "name": "Quest for Camelot (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestForCamelotE.ips",
+    "md5": "81dd8a336e1b1b705235a7b20a536bc0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-for-camelot-e"
   },
   {
     "name": "R-Type",
