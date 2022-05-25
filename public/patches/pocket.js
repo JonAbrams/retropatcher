@@ -1,4 +1,4 @@
-export const updated = '2022-05-25T06:30:24.167Z';
+export const updated = '2022-05-25T20:25:20.173Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1767,6 +1767,14 @@ export const patches = [
     "md5": "c85e5ba3dad5aa705b96da083cdd1a1c",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#dangan-gb"
+  },
+  {
+    "name": "Darkman",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Darkman.ips",
+    "md5": "849c5fe4002dd4240020e9ec84c8dc29",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#darkman"
   },
   {
     "name": "Darkwing Duck",
