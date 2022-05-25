@@ -1,4 +1,4 @@
-export const updated = '2022-05-25T03:50:14.155Z';
+export const updated = '2022-05-25T04:37:50.868Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3327,6 +3327,22 @@ export const patches = [
     "md5": "6c960f0e87a857a7b49ef08484f79ce0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hugo"
+  },
+  {
+    "name": "Hugo - Black Diamond Fever",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HugoBlackDiamondFever.ips",
+    "md5": "0762fc989c52652b2660f26be0830f20",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hugo---black-diamond-fever"
+  },
+  {
+    "name": "Hugo - The Evil Mirror",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HugoEvilMirror.ips",
+    "md5": "18c5ddde4bcffd1ddcba490eb529f0d7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hugo---the-evil-mirror"
   },
   {
     "name": "Humans",
