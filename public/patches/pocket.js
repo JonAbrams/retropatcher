@@ -1,4 +1,4 @@
-export const updated = '2022-05-25T05:25:44.753Z';
+export const updated = '2022-05-25T06:30:24.167Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6481,6 +6481,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#project-d-mon"
   },
   {
+    "name": "Prophecy - The Viking Child",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ProphecyVikingChild.ips",
+    "md5": "afa16d0822254cf68df1e29556e6cbcc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prophecy---the-viking-child"
+  },
+  {
+    "name": "Prophecy - The Viking Child (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ProphecyVikingChildE.ips",
+    "md5": "d7569c3faaa4a657385c119e6b4a48c6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#prophecy---the-viking-child-e"
+  },
+  {
     "name": "Punisher - Ultimate Payback",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Punisher.ips",
@@ -6655,6 +6671,14 @@ export const patches = [
     "md5": "82d650a781ef372126a863d519c01aae",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#radar-mission"
+  },
+  {
+    "name": "Rainbow Islands",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RainbowIslands.ips",
+    "md5": "3c3f9f06b791df796b55ac94f2188ff2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rainbow-islands"
   },
   {
     "name": "Rampage 2 - Universal Tour",
