@@ -1,4 +1,4 @@
-export const updated = '2022-05-25T04:37:50.868Z';
+export const updated = '2022-05-25T05:25:44.753Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7912,6 +7912,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-star-wars---return-of-the-jedi"
   },
   {
+    "name": "Superman",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Superman.ips",
+    "md5": "a55e4143925f5cbe2b929cc5f598bbe9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#superman"
+  },
+  {
     "name": "Survival Kids",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SurvivalKids.ips",
@@ -8790,6 +8798,14 @@ export const patches = [
     "md5": "c720b196e885fe116d8b0c2154438c0e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#uno"
+  },
+  {
+    "name": "Urban Strike",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/UrbanStrike.ips",
+    "md5": "d42a0f2f9205e81cbbbe132711d69d58",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#urban-strike"
   },
   {
     "name": "Usurper Ghoul",
