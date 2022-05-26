@@ -1,4 +1,4 @@
-export const updated = '2022-05-26T18:30:13.707Z';
+export const updated = '2022-05-26T20:26:19.673Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8510,6 +8510,30 @@ export const patches = [
     "md5": "7aa389f71808dc989a38b41009a32851",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#tiny-toons-adventures-2---montanas-movie-madness"
+  },
+  {
+    "name": "Titus the Fox - To Marrakech and Back",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFox.ips",
+    "md5": "63811bc7f768c0de33fb2c4c702e9533",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#titus-the-fox---to-marrakech-and-back"
+  },
+  {
+    "name": "Titus the Fox - To Marrakech and Back (GBC)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFoxGBC.ips",
+    "md5": "3f45aaeb406c50d03fc6984908fcbfa5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#titus-the-fox---to-marrakech-and-back-gbc"
+  },
+  {
+    "name": "Titus the Fox - To Marrakech and Back (GBC) (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TitusFoxGBCE.ips",
+    "md5": "3b2f918967698c3eef1f04ef7cd5601a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#titus-the-fox---to-marrakech-and-back-gbc-e"
   },
   {
     "name": "Tobu Tobu Girl",
