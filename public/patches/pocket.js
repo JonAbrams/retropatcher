@@ -1,4 +1,4 @@
-export const updated = '2022-05-26T03:53:03.153Z';
+export const updated = '2022-05-26T18:30:13.707Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5903,6 +5903,14 @@ export const patches = [
     "md5": "3496b0cab86ae1981142c0ddb9ae6183",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pinball-fantasies"
+  },
+  {
+    "name": "Pine Creek",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekUMC.ips",
+    "md5": "f2a7d981ff292ef19673ca132c00ce02",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pine-creek"
   },
   {
     "name": "Pineapple Kid",
