@@ -1,4 +1,4 @@
-export const updated = '2022-05-25T20:25:20.173Z';
+export const updated = '2022-05-26T03:53:03.153Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -889,6 +889,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bishoujo-senshi-sailor-moon-r"
   },
   {
+    "name": "Black Castle",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BlackCastle.ips",
+    "md5": "15db12b81db55364a5c0b064b22e569f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#black-castle"
+  },
+  {
     "name": "Blade",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Blade.ips",
@@ -1433,6 +1441,14 @@ export const patches = [
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md"
   },
   {
+    "name": "Cavern",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Cavern_MVM9.ips",
+    "md5": "c2fd153e0f8c5e48f6fe7dc3b178a679",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cavern"
+  },
+  {
     "name": "Chalvo 55 - Super Puzzle Action",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Chalvo55.ips",
@@ -1769,6 +1785,14 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#dangan-gb"
   },
   {
+    "name": "Dango Dash",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DangoDash_v02.ips",
+    "md5": "8a26c5ed9ca5577ecf93cf9bfe475052",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dango-dash"
+  },
+  {
     "name": "Darkman",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Darkman.ips",
@@ -1943,6 +1967,14 @@ export const patches = [
     "md5": "a58f2b1a317cfb1d60b59f3875f6a9c2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dexterity"
+  },
+  {
+    "name": "DiaMaze",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DiaMaze.ips",
+    "md5": "9aa480224f43cbcc71bb2f4c51da2507",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#diamaze"
   },
   {
     "name": "Dick Tracy",
@@ -2639,6 +2671,14 @@ export const patches = [
     "md5": "c88d94a984afde869426694a3b992894",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fist-of-the-north-star"
+  },
+  {
+    "name": "Fix My Heart",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FixMyHeart.ips",
+    "md5": "c2bdeda559f02973c213e5085fd0d4df",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fix-my-heart"
   },
   {
     "name": "Flintstones",
@@ -5863,6 +5903,14 @@ export const patches = [
     "md5": "3496b0cab86ae1981142c0ddb9ae6183",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pinball-fantasies"
+  },
+  {
+    "name": "Pineapple Kid",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineappleKid.ips",
+    "md5": "e63bba411ca5d496bbb2a33a7ca22155",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pineapple-kid"
   },
   {
     "name": "Pipe Dream",
