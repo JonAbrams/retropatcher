@@ -1,4 +1,4 @@
-export const updated = '2022-05-26T20:26:19.673Z';
+export const updated = '2022-05-27T17:27:20.711Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7687,6 +7687,22 @@ export const patches = [
     "md5": "63098fde8f2dcb977c9a8f0389e0d033",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars"
+  },
+  {
+    "name": "Star Wars (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips",
+    "md5": "8a874449c207af6e4726337ca899e35a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars-e"
+  },
+  {
+    "name": "Star Wars (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/StarWars.ips",
+    "md5": "cb1dce08c78c509a876c494d6333f45c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#star-wars-rev-a"
   },
   {
     "name": "Star Wars - The Empire Strikes Back",
