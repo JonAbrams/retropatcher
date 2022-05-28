@@ -1,4 +1,4 @@
-export const updated = '2022-05-27T17:27:20.711Z';
+export const updated = '2022-05-28T20:24:35.935Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1193,6 +1193,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#buffy-the-vampire-slayer"
   },
   {
+    "name": "Bug's Life",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BugsLife.ips",
+    "md5": "64d2d5df9d0e5035ef549a189fbdb475",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bugs-life"
+  },
+  {
     "name": "Bugs Bunny - Crazy Castle 3",
     "authorName": "Trey Turner",
     "downloadUrl": "https://github.com/treyturner/analogue-pocket-patches/raw/main/Bugs%20Bunny%20-%20Crazy%20Castle%203%20(USA,%20Europe)%20Pocket%20Conversion%20v1.0.ips",
@@ -1351,6 +1359,14 @@ export const patches = [
     "md5": "02f25d1192d129ee73104c5bfc127a94",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#carmageddon-tdr-2000"
+  },
+  {
+    "name": "Casper",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Casper.ips",
+    "md5": "792c706a0addebed39d177077a1caac0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#casper"
   },
   {
     "name": "Castle Quest",
