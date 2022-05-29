@@ -1,4 +1,4 @@
-export const updated = '2022-05-29T20:25:04.757Z';
+export const updated = '2022-05-29T21:20:44.817Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1511,6 +1511,14 @@ export const patches = [
     "md5": "3db9f9f0c5913d3c9f7b5d5fbf7b5e02",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster"
+  },
+  {
+    "name": "Chicken Run",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChickenRun.ips",
+    "md5": "bda8c4e5e18070924261823e5fca655c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chicken-run"
   },
   {
     "name": "Chikyuu Kaihou Gun ZAS",
