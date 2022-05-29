@@ -1,4 +1,4 @@
-export const updated = '2022-05-28T20:24:35.935Z';
+export const updated = '2022-05-29T03:53:16.593Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3503,6 +3503,14 @@ export const patches = [
     "md5": "872e582831a17faee1df663c39a73e99",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#infogenius-systems---personal-organizer-with-phone-book"
+  },
+  {
+    "name": "Inspector Gadget - Operation Madkactus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/InspectorGadget.ips",
+    "md5": "f9594360b2a4ed8745b63304063baabb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#inspector-gadget---operation-madkactus"
   },
   {
     "name": "International Karate 2000",
