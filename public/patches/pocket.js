@@ -1,4 +1,4 @@
-export const updated = '2022-05-29T19:19:28.327Z';
+export const updated = '2022-05-29T20:25:04.757Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5199,6 +5199,14 @@ export const patches = [
     "md5": "f55ed9e6a8fece5220e9876fb515e222",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-rancher-explorer"
+  },
+  {
+    "name": "Monsters Inc.",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonstersInc.ips",
+    "md5": "5776965258ee78832e7eabc0db66ff4b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monsters-inc"
   },
   {
     "name": "Mortal Kombat",
