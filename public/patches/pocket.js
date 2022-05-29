@@ -1,4 +1,4 @@
-export const updated = '2022-05-29T18:28:03.074Z';
+export const updated = '2022-05-29T19:19:28.327Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3935,6 +3935,14 @@ export const patches = [
     "md5": "3418b37cc4ab9bbd8b416ba27be2f8f7",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#knight-quest"
+  },
+  {
+    "name": "Knockout Kings",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KnockoutKings.ips",
+    "md5": "64fa89b64514a71651c1b8dc629ba8f3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#knockout-kings"
   },
   {
     "name": "Konami GB Collection Vol.1",
