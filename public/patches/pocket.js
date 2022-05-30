@@ -1,4 +1,4 @@
-export const updated = '2022-05-30T04:49:55.312Z';
+export const updated = '2022-05-30T19:19:24.356Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4559,6 +4559,30 @@ export const patches = [
     "md5": "db24c76ac8d32cd23ce3a00519ba874f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lunar-chase"
+  },
+  {
+    "name": "M&M's Minis Madness",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinis.ips",
+    "md5": "c7bcdd8ace2dfac5fdce889880472f80",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mms-minis-madness"
+  },
+  {
+    "name": "M&M's Minis Madness (DE)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisDE.ips",
+    "md5": "0650cbe5e04f8968d5c09740af7aa152",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mms-minis-madness-de"
+  },
+  {
+    "name": "M&M's Minis Madness (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MnMsMinisE.ips",
+    "md5": "0bfac235a5bd9cd57d7b3e7e83993458",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mms-minis-madness-e"
   },
   {
     "name": "MTV Sports - Pure Ride",
