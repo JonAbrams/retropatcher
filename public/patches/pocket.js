@@ -1,4 +1,4 @@
-export const updated = '2022-05-29T21:20:44.817Z';
+export const updated = '2022-05-30T03:58:55.375Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1927,6 +1927,14 @@ export const patches = [
     "md5": "4f9b77afb81d66e6af1bd54b7b06351f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deep-dungeon"
+  },
+  {
+    "name": "Deer Hunter",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DeerHunter.ips",
+    "md5": "11d3ca80ad24431babbec7a675d83bed",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#deer-hunter"
   },
   {
     "name": "Deja Vu I & II: The Casebooks of Ace Harding",
