@@ -1,4 +1,4 @@
-export const updated = '2022-05-31T04:39:55.497Z';
+export const updated = '2022-05-31T06:29:31.809Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7895,6 +7895,14 @@ export const patches = [
     "md5": "8a57ce73b10f55bb392d461f9a1ca5d6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-bikkuriman---densetsu-no-sekiban-english-translation"
+  },
+  {
+    "name": "Super Black Bass",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBlackBass.ips",
+    "md5": "426f96e31186b3a6e73a624d97b3b2dc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-black-bass"
   },
   {
     "name": "Super Breakout!",
