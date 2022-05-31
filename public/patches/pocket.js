@@ -1,4 +1,4 @@
-export const updated = '2022-05-31T06:29:31.809Z';
+export const updated = '2022-05-31T07:23:47.042Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7919,6 +7919,14 @@ export const patches = [
     "md5": "3383c2754015c4da7b5295a28ac09739",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-breakout-e"
+  },
+  {
+    "name": "Super Hunchback",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperHunchback.ips",
+    "md5": "f5e132763e20e45f407258d3c6ec0c61",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-hunchback"
   },
   {
     "name": "Super Imposter Bros.",
