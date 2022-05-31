@@ -1,4 +1,4 @@
-export const updated = '2022-05-30T19:19:24.356Z';
+export const updated = '2022-05-31T02:07:29.544Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6559,6 +6559,14 @@ export const patches = [
     "md5": "6073cb28e651b48f0bf19e654aab8c7d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-racer"
+  },
+  {
+    "name": "Power Rangers - Lightspeed Rescue",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PowerRangersLightspeedRescue.ips",
+    "md5": "c3c4b88e40538c1c99b85313bc88df6d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#power-rangers---lightspeed-rescue"
   },
   {
     "name": "Power Rangers - Time Force",
