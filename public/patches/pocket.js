@@ -1,4 +1,4 @@
-export const updated = '2022-05-31T02:07:29.544Z';
+export const updated = '2022-05-31T04:39:55.497Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1871,6 +1871,14 @@ export const patches = [
     "md5": "81f7dee7546e630de075a3397349efb8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#david-cranes-the-rescue-of-princess-blobette-starring-a-boy-and-his-blob"
+  },
+  {
+    "name": "Days of Thunder",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DaysOfThunder.ips",
+    "md5": "bdcf042bc2458768522c3cca43c89ee1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#days-of-thunder"
   },
   {
     "name": "Dead Heat Scramble",
