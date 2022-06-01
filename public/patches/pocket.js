@@ -1,4 +1,4 @@
-export const updated = '2022-05-31T07:23:47.042Z';
+export const updated = '2022-06-01T21:22:35.056Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2151,6 +2151,14 @@ export const patches = [
     "md5": "4ec83c4936802797025d0141f623801d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land-2---game-boy-color-edition"
+  },
+  {
+    "name": "Donkey Kong Land 2 - Game Boy Color Edition (v1.1)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL2Color.ips",
+    "md5": "736a016646e66873946fff5c468a1358",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-land-2---game-boy-color-edition-v11"
   },
   {
     "name": "Donkey Kong Land III",
