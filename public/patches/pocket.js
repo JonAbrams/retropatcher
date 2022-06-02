@@ -1,4 +1,4 @@
-export const updated = '2022-06-02T02:07:49.936Z';
+export const updated = '2022-06-02T05:35:37.926Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9605,6 +9605,14 @@ export const patches = [
     "md5": "837a9e13b7f378bcb94bf1ed294312a0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yakuman-english-translation"
+  },
+  {
+    "name": "Yar's Revenge",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YarsRevenge.ips",
+    "md5": "1405c2c436255d0d5c901bf6d64f68a1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yars-revenge"
   },
   {
     "name": "Yoda Stories",
