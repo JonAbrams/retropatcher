@@ -1,4 +1,4 @@
-export const updated = '2022-06-01T21:22:35.056Z';
+export const updated = '2022-06-02T02:07:49.936Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9341,6 +9341,22 @@ export const patches = [
     "md5": "a7af0986e61230b5f232c970912fb013",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wink-and-the-broken-robot-v57"
+  },
+  {
+    "name": "Wizardry Empire (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips",
+    "md5": "14407063008693058990de686a784991",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-empire-english-translation"
+  },
+  {
+    "name": "Wizardry Empire (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireA.ips",
+    "md5": "fcf910e4d2f27bab40244eb7bf4aa2d3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-empire-rev-a"
   },
   {
     "name": "Wizardry Gaiden I - Joou no Junan",
