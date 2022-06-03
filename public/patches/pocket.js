@@ -1,4 +1,4 @@
-export const updated = '2022-06-02T05:35:37.926Z';
+export const updated = '2022-06-03T03:16:16.542Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1423,6 +1423,14 @@ export const patches = [
     "md5": "1475824e7262c0d6359f43c287e034a5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#castlevania-legends"
+  },
+  {
+    "name": "Caterpillar Construction Zone",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CaterpillarConstructionZone.ips",
+    "md5": "046af13647ed4777510aa86fcb753bf9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#caterpillar-construction-zone"
   },
   {
     "name": "Catrap",
@@ -7407,6 +7415,14 @@ export const patches = [
     "md5": "f7103c8e8c260123615985e65f85b211",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shitwave"
+  },
+  {
+    "name": "Shrek - Fairy Tale Freakdown",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shrek.ips",
+    "md5": "69c68b13bb0da057acbafe24e389e855",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shrek---fairy-tale-freakdown"
   },
   {
     "name": "Side Pocket",
