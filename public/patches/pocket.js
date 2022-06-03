@@ -1,4 +1,4 @@
-export const updated = '2022-06-03T03:16:16.542Z';
+export const updated = '2022-06-03T04:28:49.387Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7279,6 +7279,14 @@ export const patches = [
     "md5": "90280833c156e2ca8e4eaa29adf369b2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shadowgate-classic"
+  },
+  {
+    "name": "Shamus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shamus.ips",
+    "md5": "c0e42b4b7ba5605c3ab7b83b1e2fab6d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shamus"
   },
   {
     "name": "Shanghai",
