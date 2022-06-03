@@ -1,4 +1,4 @@
-export const updated = '2022-06-03T04:28:49.387Z';
+export const updated = '2022-06-03T05:20:53.884Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5103,6 +5103,14 @@ export const patches = [
     "md5": "a721520df37c636ed924dbc268cdd753",
     "extension": "pocket",
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#micro-machines-1-and-2---twin-turbo-ue"
+  },
+  {
+    "name": "Micro Machines V3",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MicroMachinesV3.ips",
+    "md5": "b6ea71372c0acb3cdc8cc64a4b2add2e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#micro-machines-v3"
   },
   {
     "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack",
