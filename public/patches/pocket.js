@@ -1,4 +1,4 @@
-export const updated = '2022-06-03T05:20:53.884Z';
+export const updated = '2022-06-04T04:27:04.045Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5823,6 +5823,14 @@ export const patches = [
     "md5": "e3b7b3649e52ee6aa6fd98baf88d50de",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-in-time"
+  },
+  {
+    "name": "Painter",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Painter.ips",
+    "md5": "d4255175d7cbca6080c31ec839893d05",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#painter"
   },
   {
     "name": "Painter Momopie",
