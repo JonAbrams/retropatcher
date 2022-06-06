@@ -1,4 +1,4 @@
-export const updated = '2022-06-04T04:27:04.045Z';
+export const updated = '2022-06-06T05:22:14.805Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6735,6 +6735,14 @@ export const patches = [
     "md5": "ec0985bdad4b519c492f07f2d01f1613",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puyo-puyo-gaiden---puyo-wars"
+  },
+  {
+    "name": "Puzzle Bobble GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PuzzleBobbleGB.ips",
+    "md5": "37c69c73c81e221189a672938b5f30ab",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#puzzle-bobble-gb"
   },
   {
     "name": "Puzzle Master",
