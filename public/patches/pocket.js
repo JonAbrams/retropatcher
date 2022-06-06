@@ -1,4 +1,4 @@
-export const updated = '2022-06-06T05:22:14.805Z';
+export const updated = '2022-06-06T06:28:49.334Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2831,6 +2831,14 @@ export const patches = [
     "md5": "d94e22b4c08ab3c7b1929f5490adcbf2",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger-gbc"
+  },
+  {
+    "name": "Full Time Soccer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FullTimeSoccer.ips",
+    "md5": "991957a67a63f1e54bf34a3715402ca5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#full-time-soccer"
   },
   {
     "name": "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou",
@@ -6089,6 +6097,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-monsters---crystal-version-vn"
   },
   {
+    "name": "Pocket Monsters Crystal Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketMonstersCrystalVersion.ips",
+    "md5": "9c3ae66bffb28ea8ed2896822da02992",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pocket-monsters-crystal-version"
+  },
+  {
     "name": "Pocket Monsters_Aka",
     "authorName": "reminon",
     "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Aka%20(Japan)%20(SGB%20Enhanced).ips",
@@ -6186,11 +6202,35 @@ export const patches = [
   },
   {
     "name": "Pokemon - Edicion Cristal",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionCristal.ips",
+    "md5": "8a626340f6b16ba45c1d4e07f2134875",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-cristal"
+  },
+  {
+    "name": "Pokemon - Edicion Cristal",
     "authorName": "Linkr2",
     "downloadUrl": "https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips",
     "md5": "8a626340f6b16ba45c1d4e07f2134875",
     "outputFilename": "Pokemon Edicion Cristal.pocket",
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokemon---edicion-cristal"
+  },
+  {
+    "name": "Pokemon - Edicion Oro",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionOro.ips",
+    "md5": "9462bc81907e38c59acccd739690e6f9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-oro"
+  },
+  {
+    "name": "Pokemon - Edicion Plata",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonEdicionPlata.ips",
+    "md5": "2d83fb454dd5687a802425c501854dc2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-plata"
   },
   {
     "name": "Pokemon - Edicion Roja",
@@ -6233,12 +6273,28 @@ export const patches = [
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-gelbe-edition"
   },
   {
+    "name": "Pokemon Goldene Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGoldeneEdition.ips",
+    "md5": "7542ec9b695d4fe38adfdaaa57364d83",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-goldene-edition"
+  },
+  {
     "name": "Pokemon Green",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonGreen.ips",
     "md5": "1e9baf36b209fd06854b8e5e064b00a8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-green"
+  },
+  {
+    "name": "Pokemon Kristal Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonKristallEdition.ips",
+    "md5": "a35c0fa2e3b3d1c1779cd9f2352bc427",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-kristal-edition"
   },
   {
     "name": "Pokemon Picross",
@@ -6311,6 +6367,14 @@ export const patches = [
     "md5": "8ed0e8d45a81ca34de625d930148a512",
     "extension": "pocket",
     "originalUrl": "https://github.com/reminon/pocket-patches/blob/main/README.md#pokemon-rote-edition"
+  },
+  {
+    "name": "Pokemon Silberne Edition",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonSilberneEdition.ips",
+    "md5": "f1f013cd591bc4ea77305bbc9f8cbb3c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-silberne-edition"
   },
   {
     "name": "Pokemon Trading Card Game (En, Es, It)",
