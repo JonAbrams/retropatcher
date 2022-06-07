@@ -1,4 +1,4 @@
-export const updated = '2022-06-06T06:28:49.334Z';
+export const updated = '2022-06-07T01:58:57.308Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1087,6 +1087,14 @@ export const patches = [
     "md5": "3b051df77605172195dcff97c2c935cc",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boomers-adventure-in-asmik-world"
+  },
+  {
+    "name": "Boulder Dash",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BoulderDash.ips",
+    "md5": "800c1a8f99bea585490673352b5f11f4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boulder-dash"
   },
   {
     "name": "Boxxle",
@@ -8001,6 +8009,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#street-fighter-ii"
   },
   {
+    "name": "Super Battletank - War in the Gulf",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBattletank.ips",
+    "md5": "85b010930ccbb4a7e1bd2adaadcf00a5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-battletank---war-in-the-gulf"
+  },
+  {
     "name": "Super Bikkuriman - Densetsu no Sekiban",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBikkuriman.ips",
@@ -9110,6 +9126,14 @@ export const patches = [
     "md5": "6534eff4dff0000f66a0059f0b84e71e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#turrican"
+  },
+  {
+    "name": "Tyco RC - Racin' Ratz",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TycoRCRacinRatz.ips",
+    "md5": "9dece7202bd00a2806b36b5848ca985e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tyco-rc---racin-ratz"
   },
   {
     "name": "UEFA 2000",
