@@ -1,4 +1,4 @@
-export const updated = '2022-06-07T15:24:36.239Z';
+export const updated = '2022-06-07T19:18:51.286Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -231,6 +231,14 @@ export const patches = [
     "md5": "73a78663a6388bf4d1c56e05bbf790d4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aliens---the-thanatos-encounter"
+  },
+  {
+    "name": "All Star Tennis 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AllStarTennis2000.ips",
+    "md5": "c5e3bb77000c5d3755e816f6c0eed489",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#all-star-tennis-2000"
   },
   {
     "name": "Alleyway",
