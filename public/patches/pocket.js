@@ -1,4 +1,4 @@
-export const updated = '2022-06-08T06:27:22.929Z';
+export const updated = '2022-06-08T17:24:17.899Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1527,6 +1527,14 @@ export const patches = [
     "md5": "ff92e59c47a990815bc548e5e253c390",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chase-hq---secret-police"
+  },
+  {
+    "name": "Chee-Chai Alien",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CheeChaiAlien.ips",
+    "md5": "94f4306cb0c27686661e37a96eef730b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chee-chai-alien"
   },
   {
     "name": "Cherry Rescue",
