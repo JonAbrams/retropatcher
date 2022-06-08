@@ -1,4 +1,4 @@
-export const updated = '2022-06-07T19:18:51.286Z';
+export const updated = '2022-06-08T06:27:22.929Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4695,6 +4695,14 @@ export const patches = [
     "md5": "af157e560d1ff87970c1bd2ee90d0932",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magical-drop"
+  },
+  {
+    "name": "Magical Drop (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MagicalDropE.ips",
+    "md5": "618946a1d8d7154c200fe278ef030140",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#magical-drop-e"
   },
   {
     "name": "Magical Tetris Challenge",
