@@ -1,4 +1,4 @@
-export const updated = '2022-06-08T17:24:17.899Z';
+export const updated = '2022-06-09T03:53:34.713Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6121,6 +6121,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pitfall---beyond-the-jungle"
   },
   {
+    "name": "Planet Hop - Demo",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PlanetHopDemo.ips",
+    "md5": "4ef26676e8432dcce6495eb5dc9bdf46",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#planet-hop---demo"
+  },
+  {
     "name": "Pocket Bomberman",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PocketBomberman.ips",
@@ -6961,12 +6969,36 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#r-type"
   },
   {
+    "name": "R-Type (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RType.ips",
+    "md5": "89bdc38fd17a6c969306f756edef8a70",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#r-type-j"
+  },
+  {
     "name": "R-Type DX",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/5481339d9693dad93a8f371729d6c856de855de7/R-Type+DX+%28USA%2C+Europe%29-fc1d4089.ips",
     "md5": "dae7b7625d41d8a06266b09924154bb2",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#r-type-dx"
+  },
+  {
+    "name": "R-Type II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RTypeII.ips",
+    "md5": "967030223fa85f7ba4ac71f26837f831",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#r-type-ii"
+  },
+  {
+    "name": "R-Type II (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RTypeII.ips",
+    "md5": "acac255e33082dde52eee7af941d8681",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#r-type-ii-j"
   },
   {
     "name": "Race Days",
@@ -7175,6 +7207,30 @@ export const patches = [
     "md5": "830b84643d24fb2cc9c4fde1305f9610",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#road-rash---with-repair-service"
+  },
+  {
+    "name": "Roadster",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Roadster.ips",
+    "md5": "e6edabd28a9d6600f8b8e9707baa930e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#roadster"
+  },
+  {
+    "name": "Roadsters Trophy",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadstersTrophy.ips",
+    "md5": "79b84a54581ca90b245619522c09e523",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#roadsters-trophy"
+  },
+  {
+    "name": "Roadsters Trophy (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoadstersTrophy.ips",
+    "md5": "ec6d8099aa51acc791e3846558c81ebb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#roadsters-trophy-e"
   },
   {
     "name": "Robin Hood - Prince of Theives",
