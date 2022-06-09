@@ -1,4 +1,4 @@
-export const updated = '2022-06-09T03:53:34.713Z';
+export const updated = '2022-06-09T14:20:18.290Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2527,6 +2527,22 @@ export const patches = [
     "md5": "b4e5876c5acedd12b62e25a12973a4ae",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-2"
+  },
+  {
+    "name": "Duck Tales 2 (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2.ips",
+    "md5": "2eee88360aa199b7adc9d9c6647e0809",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-2-e"
+  },
+  {
+    "name": "Duck Tales 2 (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DuckTales2J.ips",
+    "md5": "665b9ef961ee82edb8db54b3eb5152fd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#duck-tales-2-j"
   },
   {
     "name": "Duke Nukem",
