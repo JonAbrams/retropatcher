@@ -1,4 +1,4 @@
-export const updated = '2022-06-09T16:34:00.200Z';
+export const updated = '2022-06-09T18:28:01.092Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -791,6 +791,14 @@ export const patches = [
     "md5": "023a8fd8eacad0656b5110da26dcdd44",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-unit-zeoth"
+  },
+  {
+    "name": "Battle of Kingdom",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleOfKingdom.ips",
+    "md5": "f7aa9880db8e7884618ff0dcab6fba85",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-of-kingdom"
   },
   {
     "name": "BattleTanx",
@@ -2897,6 +2905,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fushigi-no-dungeon---fuurai-no-shiren-gb2---sabaku-no-majou"
   },
   {
+    "name": "Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikage Mura no Kaibutsu",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShirenGB.ips",
+    "md5": "754398219a3ab38394cdac543d8deb47",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu"
+  },
+  {
     "name": "GB Genjin 2",
     "authorName": "reminon",
     "downloadUrl": "https://github.com/reminon/pocket-patches/raw/main/GB%20Genjin%202%20(Japan)%20(SGB%20Enhanced).ips",
@@ -3407,6 +3423,14 @@ export const patches = [
     "md5": "4b068708fb29fdabbee834114fe4a09d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hexcite---the-shapes-of-victory"
+  },
+  {
+    "name": "Hiden Inyou Kikouhou Ca Da",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HidenInyouKikouhouCaDa.ips",
+    "md5": "7e6c999c8b4bd0e7030977c7fa73c75c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hiden-inyou-kikouhou-ca-da"
   },
   {
     "name": "Hollywood Pinball",
