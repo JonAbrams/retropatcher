@@ -1,4 +1,4 @@
-export const updated = '2022-06-09T14:20:18.290Z';
+export const updated = '2022-06-09T16:34:00.200Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5879,6 +5879,14 @@ export const patches = [
     "md5": "b81ddb7d86302384efe1675f75cc35f6",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-man---special-color-edition"
+  },
+  {
+    "name": "Pac-Panic",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PacAtack.ips",
+    "md5": "f683f5e516c1f267d4d16dc0e697f746",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pac-panic"
   },
   {
     "name": "Pac-in-Time",
