@@ -1,4 +1,4 @@
-export const updated = '2022-06-09T18:28:01.092Z';
+export const updated = '2022-06-09T19:18:13.012Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2799,6 +2799,14 @@ export const patches = [
     "md5": "c2bdeda559f02973c213e5085fd0d4df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fix-my-heart"
+  },
+  {
+    "name": "Flappy Special",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FlappySpecial.ips",
+    "md5": "c27ebebee5a53fe6eb857747c0556111",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#flappy-special"
   },
   {
     "name": "Flintstones",
