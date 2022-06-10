@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T04:31:35.868Z';
+export const updated = '2022-06-10T05:19:49.713Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -223,6 +223,14 @@ export const patches = [
     "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-3"
+  },
+  {
+    "name": "Alien Olympics",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlienOlympics.ips",
+    "md5": "d300bf9412617a95b00b80fa468a8a04",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alien-olympics"
   },
   {
     "name": "Alien vs. Predator - The Last of His Clan",
@@ -4951,6 +4959,14 @@ export const patches = [
     "md5": "8bf8f9a1e0080d257820ec5506a3fc8f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mat-hoffmans-pro-bmx"
+  },
+  {
+    "name": "Maui Mallard",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MauiMallard.ips",
+    "md5": "6dfcaebffc8e2645bb2b1e5be69e1514",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#maui-mallard"
   },
   {
     "name": "Max",
