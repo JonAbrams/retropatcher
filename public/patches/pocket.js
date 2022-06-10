@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T07:22:38.755Z';
+export const updated = '2022-06-10T19:18:07.052Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7815,6 +7815,14 @@ export const patches = [
     "md5": "5da63fe252b4cb3e17dd4986fb276690",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#smurfs-nightmare-e"
+  },
+  {
+    "name": "Snail DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnailDX.ips",
+    "md5": "1b8671a31a0c30a62eef62ddb4bf915f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snail-dx"
   },
   {
     "name": "Sneaky Snakes",
