@@ -1,4 +1,4 @@
-export const updated = '2022-06-09T19:18:13.012Z';
+export const updated = '2022-06-10T03:47:57.460Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2695,6 +2695,14 @@ export const patches = [
     "md5": "05ba7f165dab1ffd49b63b4f5c704c02",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#faceball-2000"
+  },
+  {
+    "name": "Faceball 2000 DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Faceball2000DX.ips",
+    "md5": "db7d676c93ce9cb24dad231cc8cf24d0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#faceball-2000-dx"
   },
   {
     "name": "Fatass (Fast Tracker II Clone for GB)",
@@ -8215,6 +8223,14 @@ export const patches = [
     "md5": "a455a70d52a9ffcfe8c4d8c164267500",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-imposter-bros"
+  },
+  {
+    "name": "Super James Pond",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperJamesPond.ips",
+    "md5": "c4b03180037d53cb64b93634439acea0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-james-pond"
   },
   {
     "name": "Super JetPak DX",
