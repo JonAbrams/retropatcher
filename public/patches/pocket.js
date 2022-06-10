@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T05:19:49.713Z';
+export const updated = '2022-06-10T06:27:22.964Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -103,6 +103,14 @@ export const patches = [
     "md5": "d9d85b81d1b0b4d3c86c95a6e1846f5a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#action-man---search-for-base-x"
+  },
+  {
+    "name": "Addams Family - Pugsley's Scavenger Hunt",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AddamsFamilyPugsleysScavengerHunt.ips",
+    "md5": "57726c28dc09949029a154f63b891dd0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#addams-family---pugsleys-scavenger-hunt"
   },
   {
     "name": "Adulting! v2.0",
@@ -895,6 +903,14 @@ export const patches = [
     "md5": "9d94d01d3133165d4469bb27d58f0f6c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bill-and-teds-excellent-game-boy-adventure"
+  },
+  {
+    "name": "Bionic Battler",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BionicBattler.ips",
+    "md5": "b5a6254b1711edfaf89830bcfff09d38",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bionic-battler"
   },
   {
     "name": "Bionic Commando",
@@ -2799,6 +2815,14 @@ export const patches = [
     "md5": "efaf761d789e9f6e7cddf81b500576d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-fantasy-xi---adventure"
+  },
+  {
+    "name": "Final Reverse",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FinalReverse.ips",
+    "md5": "c836b4b44edcbe8a811fb10541919fe8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#final-reverse"
   },
   {
     "name": "Fish Dude",
