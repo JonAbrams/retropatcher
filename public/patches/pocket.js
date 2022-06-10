@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T03:47:57.460Z';
+export const updated = '2022-06-10T04:31:35.868Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -143,6 +143,14 @@ export const patches = [
     "md5": "91ecec5f8d06f18724bd1462b53c4b3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#adventures-of-star-saver"
+  },
+  {
+    "name": "Aerostar",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Aerostar.ips",
+    "md5": "f777a4526089a83ca758efbf01007ec1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aerostar"
   },
   {
     "name": "After Burst",
@@ -2271,6 +2279,14 @@ export const patches = [
     "md5": "ff3e6d70d42987dd7f6214067dc83afe",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#double-dribble---5-on-5"
+  },
+  {
+    "name": "Doug's Big Game",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DougsBigGame.ips",
+    "md5": "19e0d71a2a6090e0f59607ca4da9b156",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dougs-big-game"
   },
   {
     "name": "Dr. Mario",
@@ -5641,6 +5657,14 @@ export const patches = [
     "originalUrl": "https://github.com/jsky0/analogue-pocket-patches/blob/main/README.md#nhl-blades-of-steel-u"
   },
   {
+    "name": "Nail'n Scale",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NailnScale.ips",
+    "md5": "521d2aa473f4e740a6938861f70511cc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nailn-scale"
+  },
+  {
     "name": "Nangoku Shounen Papuwa-kun - Ganmadan no Yabou",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NangokuShounenPapuwakun.ips",
@@ -7751,6 +7775,30 @@ export const patches = [
     "md5": "0b5127a54cc8581acfabe0413378ca3d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sneaky-snakes"
+  },
+  {
+    "name": "Snoopy Tennis",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennis.ips",
+    "md5": "56cbf668af5095a073e205a07987c82a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopy-tennis"
+  },
+  {
+    "name": "Snoopy Tennis (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennisE.ips",
+    "md5": "d3c6c44a4f6021b4d5a6454a87af9a6c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopy-tennis-e"
+  },
+  {
+    "name": "Snoopy Tennis (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnoopyTennisJ.ips",
+    "md5": "6def7d77e305997838c4b64b5163e3c2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snoopy-tennis-j"
   },
   {
     "name": "Snoopy's - Magic Show",
