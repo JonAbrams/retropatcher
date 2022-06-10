@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T06:27:22.964Z';
+export const updated = '2022-06-10T07:22:38.755Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4495,6 +4495,14 @@ export const patches = [
     "md5": "d345b97e4b43f20a01fa2e4ea4a63a2b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lethal-weapon"
+  },
+  {
+    "name": "Lil' Monster",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LilMonster.ips",
+    "md5": "17233eaf718e241f290d6590ef1b42a9",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lil-monster"
   },
   {
     "name": "Lingo",
