@@ -1,4 +1,4 @@
-export const updated = '2022-06-12T04:30:37.626Z';
+export const updated = '2022-06-12T18:25:15.004Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5063,6 +5063,38 @@ export const patches = [
     "md5": "f0871152b2e929c83f7be0d7fdf36f55",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot---kuwagata-version-us-english-patch"
+  },
+  {
+    "name": "Medarot 2 - Kabuto Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot2Kabuto.ips",
+    "md5": "c0fd19d90d3d876cc321074239c7334e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-2---kabuto-version"
+  },
+  {
+    "name": "Medarot 2 - Kuwagata Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot2Kuwagata.ips",
+    "md5": "44090e5f80e30abddf264b170c236a9e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-2---kuwagata-version"
+  },
+  {
+    "name": "Medarot 3 - Kabuto Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot3Kabuto.ips",
+    "md5": "cbc55f3bb98f8c0443917ae477e56e51",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-3---kabuto-version"
+  },
+  {
+    "name": "Medarot 3 - Kuwagata Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot3Kuwagata.ips",
+    "md5": "dabfbdc9aba5f2edc21f884c52881e0d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-3---kuwagata-version"
   },
   {
     "name": "Mega Man - Dr. Wily's Revenge",
