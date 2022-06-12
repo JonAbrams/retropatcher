@@ -1,4 +1,4 @@
-export const updated = '2022-06-12T18:25:15.004Z';
+export const updated = '2022-06-12T19:16:48.570Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5095,6 +5095,38 @@ export const patches = [
     "md5": "dabfbdc9aba5f2edc21f884c52881e0d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-3---kuwagata-version"
+  },
+  {
+    "name": "Medarot 4 - Kabuto Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot4Kabuto.ips",
+    "md5": "c5effc311c2248d6de58b487e729406b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-4---kabuto-version"
+  },
+  {
+    "name": "Medarot 4 - Kuwagata Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot4Kuwagata.ips",
+    "md5": "7e9f03dcbf376fb935553684d6c7d8f5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-4---kuwagata-version"
+  },
+  {
+    "name": "Medarot 5 - Susutake Mura no Tenkousei, Kabuto",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot5Kabuto.ips",
+    "md5": "6cc1cfbd1fc01b948e03f507c530260d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-5---susutake-mura-no-tenkousei-kabuto"
+  },
+  {
+    "name": "Medarot 5 - Susutake Mura no Tenkousei, Kuwagata",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Medarot5Kuwagata.ips",
+    "md5": "11893f422bcfe26e22889a0fcdf61547",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#medarot-5---susutake-mura-no-tenkousei-kuwagata"
   },
   {
     "name": "Mega Man - Dr. Wily's Revenge",
