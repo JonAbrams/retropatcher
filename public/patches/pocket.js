@@ -1,4 +1,4 @@
-export const updated = '2022-06-10T20:21:31.367Z';
+export const updated = '2022-06-12T04:30:37.626Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5455,6 +5455,14 @@ export const patches = [
     "md5": "5776965258ee78832e7eabc0db66ff4b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monsters-inc"
+  },
+  {
+    "name": "Morbius Trailer",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/morb_trailer.ips",
+    "md5": "98e7724dfdc59a2f39aca4b9f3d5f7cf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#morbius-trailer"
   },
   {
     "name": "Mortal Kombat",
