@@ -1,4 +1,4 @@
-export const updated = '2022-06-14T02:19:24.244Z';
+export const updated = '2022-06-14T19:18:57.798Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5503,6 +5503,14 @@ export const patches = [
     "md5": "3029c962c483df174fc6f5c9202326e3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-race"
+  },
+  {
+    "name": "Monster Race 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRace2.ips",
+    "md5": "c9a1dab66e0b13d5835c392437b16a5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-race-2"
   },
   {
     "name": "Monster Rancher Battle Card GB",
