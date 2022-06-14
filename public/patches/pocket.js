@@ -1,4 +1,4 @@
-export const updated = '2022-06-12T19:16:48.570Z';
+export const updated = '2022-06-14T02:19:24.244Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3863,6 +3863,14 @@ export const patches = [
     "md5": "7173cecc94bcdb7aeb7240ae87491044",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jurassic-park-e"
+  },
+  {
+    "name": "Jurassic Park 2 - The Chaos Continues",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicPark2.ips",
+    "md5": "b94eb524347bb0a8a5c151b59ad63cfa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jurassic-park-2---the-chaos-continues"
   },
   {
     "name": "Kaeru no Tame ni Kane wa Naru",
