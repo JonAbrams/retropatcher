@@ -1,4 +1,4 @@
-export const updated = '2022-06-14T19:18:57.798Z';
+export const updated = '2022-06-14T20:24:53.415Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5513,6 +5513,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-race-2"
   },
   {
+    "name": "Monster Race Okawari",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRaceOkawari.ips",
+    "md5": "e2c928a942cd827b52499aa9fb148f9a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#monster-race-okawari"
+  },
+  {
     "name": "Monster Rancher Battle Card GB",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MonsterRancherBC.ips",
@@ -7647,6 +7655,22 @@ export const patches = [
     "md5": "19601e4fc1f7084076128dca0182f5a7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#san-francisco-rush-2049"
+  },
+  {
+    "name": "Sanrio Timenet - Kako Hen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SanrioTimenetKakoHen.ips",
+    "md5": "0146768d48b8317e0c8a2c7dd8d31860",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sanrio-timenet---kako-hen"
+  },
+  {
+    "name": "Sanrio Timenet - Mirai Hen",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SanrioTimenetMiraiHen.ips",
+    "md5": "388a603e8b6d0fcf7c553fb00a7c5171",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sanrio-timenet---mirai-hen"
   },
   {
     "name": "Scooby-Doo! Classic Creep Capers",
