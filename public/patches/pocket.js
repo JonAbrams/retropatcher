@@ -1,4 +1,4 @@
-export const updated = '2022-06-14T20:24:53.415Z';
+export const updated = '2022-06-15T04:43:37.204Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9877,6 +9877,22 @@ export const patches = [
     "md5": "fcf910e4d2f27bab40244eb7bf4aa2d3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-empire-rev-a"
+  },
+  {
+    "name": "Wizardry Empire - Fukkatsu no Tsue",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireFukkatsuNoTsue.ips",
+    "md5": "fa8360094cae37a838fabcfd333ae300",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-empire---fukkatsu-no-tsue"
+  },
+  {
+    "name": "Wizardry Empire - Fukkatsu no Tsue (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WizardryEmpireFukkatsuNoTsue.ips",
+    "md5": "e8fe54e3483adee2019996a4cc1545ac",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wizardry-empire---fukkatsu-no-tsue-english-translation"
   },
   {
     "name": "Wizardry Gaiden I - Joou no Junan",
