@@ -1,4 +1,4 @@
-export const updated = '2022-06-15T04:43:37.204Z';
+export const updated = '2022-06-18T14:19:19.580Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8415,6 +8415,14 @@ export const patches = [
     "md5": "426f96e31186b3a6e73a624d97b3b2dc",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-black-bass"
+  },
+  {
+    "name": "Super Bombliss DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SuperBomblissDX.ips",
+    "md5": "6dbc891774265f4bc8ccba65f9383aec",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-bombliss-dx"
   },
   {
     "name": "Super Breakout!",
