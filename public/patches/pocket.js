@@ -1,4 +1,4 @@
-export const updated = '2022-06-18T14:19:19.580Z';
+export const updated = '2022-06-19T18:25:25.885Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6663,6 +6663,14 @@ export const patches = [
     "md5": "f1f013cd591bc4ea77305bbc9f8cbb3c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-silberne-edition"
+  },
+  {
+    "name": "Pokemon Super Gold 97",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonSuperGold97.ips",
+    "md5": "1de727dee9d38349440474fe5924b6be",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-super-gold-97"
   },
   {
     "name": "Pokemon Trading Card Game (En, Es, It)",
