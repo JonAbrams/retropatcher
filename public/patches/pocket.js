@@ -1,4 +1,4 @@
-export const updated = '2022-06-19T18:25:25.885Z';
+export const updated = '2022-06-21T03:59:32.254Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -615,6 +615,14 @@ export const patches = [
     "md5": "f6b6ddfaaf03392dc469f4eed49ec15d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#azure-dreams-e"
+  },
+  {
+    "name": "B-Daman Bakugaiden - Victory e no Michi",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BDamanBakugaidenVictoryENoMichi.ips",
+    "md5": "ba1195224261abd308db025d69ee2227",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#b-daman-bakugaiden---victory-e-no-michi"
   },
   {
     "name": "Bad Apple (Demo)",
