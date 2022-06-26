@@ -1,4 +1,4 @@
-export const updated = '2022-06-21T03:59:32.254Z';
+export const updated = '2022-06-26T02:24:49.618Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -831,6 +831,14 @@ export const patches = [
     "md5": "f7aa9880db8e7884618ff0dcab6fba85",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-of-kingdom"
+  },
+  {
+    "name": "Battle of Olympus",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BattleOfOlympus.ips",
+    "md5": "044c71562429da60891a93a131a0304a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#battle-of-olympus"
   },
   {
     "name": "BattleTanx",
@@ -4783,6 +4791,14 @@ export const patches = [
     "md5": "94e1575453f54cbe157d13eae6e78d92",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mtv-sports---pure-ride"
+  },
+  {
+    "name": "Madden 95",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Madden95.ips",
+    "md5": "eb57688da8812dee7c813954dee175ce",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#madden-95"
   },
   {
     "name": "Madden NFL 2002",
