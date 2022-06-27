@@ -1,4 +1,4 @@
-export const updated = '2022-06-26T02:24:49.618Z';
+export const updated = '2022-06-27T15:27:15.419Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3463,6 +3463,22 @@ export const patches = [
     "md5": "b236e81e9f5c19148c24c4984d8ef90f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heiankyo-alien"
+  },
+  {
+    "name": "Heracles no Eikou - Ugokidashita Kamigami",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips",
+    "md5": "ccbd8d97a61883e05eab21a5546188b2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heracles-no-eikou---ugokidashita-kamigami"
+  },
+  {
+    "name": "Heracles no Eikou - Ugokidashita Kamigami (English Translation)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Heracles.ips",
+    "md5": "51d4ff9a9346b16cf290f50111b110c0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heracles-no-eikou---ugokidashita-kamigami-english-translation"
   },
   {
     "name": "Hercules",
