@@ -1,4 +1,4 @@
-export const updated = '2022-06-27T15:27:15.419Z';
+export const updated = '2022-06-30T06:29:44.501Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3729,6 +3729,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#infogenius-systems---personal-organizer-with-phone-book"
   },
   {
+    "name": "Initial D Gaiden",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/InitialDGaiden.ips",
+    "md5": "83ef6dc979ee752513a3b2c794d4cbff",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#initial-d-gaiden"
+  },
+  {
     "name": "Inspector Gadget - Operation Madkactus",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/InspectorGadget.ips",
@@ -6639,6 +6647,14 @@ export const patches = [
     "md5": "3757c89c36bec5e2093741a3e51d22df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-e"
+  },
+  {
+    "name": "Pokemon Pinball (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PokemonPinballJ.ips",
+    "md5": "852d68f167a5957f5e73954763f36ada",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon-pinball-j"
   },
   {
     "name": "Pokemon Pinball Generations",
