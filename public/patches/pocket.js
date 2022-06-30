@@ -1,4 +1,4 @@
-export const updated = '2022-06-30T07:19:46.377Z';
+export const updated = '2022-06-30T17:31:24.741Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6079,6 +6079,22 @@ export const patches = [
     "md5": "c9a1f0543dd127e9e169f84ed5b04c0a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nushi-tsuri-adventure---kite-no-bouken-english-translation"
+  },
+  {
+    "name": "Oddworld Adventures",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Oddworld.ips",
+    "md5": "5ca71cd4ceace3cb6650ff05d679d149",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#oddworld-adventures"
+  },
+  {
+    "name": "Oddworld Adventures II",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OddworldAdventuresII.ips",
+    "md5": "627c3542307661990802806ebd0acd90",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#oddworld-adventures-ii"
   },
   {
     "name": "Ohastua Dance Dance Revolution GB",
