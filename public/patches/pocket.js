@@ -1,4 +1,4 @@
-export const updated = '2022-06-30T06:29:44.501Z';
+export const updated = '2022-06-30T07:19:46.377Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3887,6 +3887,14 @@ export const patches = [
     "md5": "173a37c4d4aae04766aa0abbf385233d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jungle-book---mowglis-wild-adventure-e"
+  },
+  {
+    "name": "Jungle Strike",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JungleStrike.ips",
+    "md5": "2b42dbc0934fdd90bca3a4965520bf37",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jungle-strike"
   },
   {
     "name": "Jurassic Park",
