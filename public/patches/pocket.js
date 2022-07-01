@@ -1,4 +1,4 @@
-export const updated = '2022-06-30T17:31:24.741Z';
+export const updated = '2022-07-01T02:30:25.023Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5201,12 +5201,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man---dr-wilys-revenge"
   },
   {
+    "name": "Mega Man - Dr. Wily's Revenge (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan1E.ips",
+    "md5": "2c1358474573c9dd38d6a128f4714a86",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man---dr-wilys-revenge-e"
+  },
+  {
     "name": "Mega Man II",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2.ips",
     "md5": "7fe07271d04ed9e0bc0663dde55a2ae4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-ii"
+  },
+  {
+    "name": "Mega Man II (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan2E.ips",
+    "md5": "b9cfee05797beb8ff7e259ee77eaf2fb",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-ii-e"
   },
   {
     "name": "Mega Man III",
@@ -5217,6 +5233,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iii"
   },
   {
+    "name": "Mega Man III (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan3E.ips",
+    "md5": "f155c9c04ef01a99b26478c1121c8069",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iii-e"
+  },
+  {
     "name": "Mega Man IV",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips",
@@ -5225,12 +5249,28 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iv"
   },
   {
+    "name": "Mega Man IV (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan4.ips",
+    "md5": "b1a4da0fc96be115b3d5303c9ca1447f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-iv-e"
+  },
+  {
     "name": "Mega Man V",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5.ips",
     "md5": "ceb17d831b410d91aa41bf2819cbed82",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-v"
+  },
+  {
+    "name": "Mega Man V (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MegaMan5E.ips",
+    "md5": "b53fe06db30ab689153135990354dd5a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-v-e"
   },
   {
     "name": "Mega Man Xtreme",
