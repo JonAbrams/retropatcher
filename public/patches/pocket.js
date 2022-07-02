@@ -1,4 +1,4 @@
-export const updated = '2022-07-02T18:25:55.363Z';
+export const updated = '2022-07-02T19:16:59.759Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8878,6 +8878,14 @@ export const patches = [
     "md5": "243b2b6151d41d8e111e98ac49ba9ab4",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sutte-hakkun-gb"
+  },
+  {
+    "name": "Swamp Thing",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SwampThing.ips",
+    "md5": "85ccd61e2298b5f9b26312e8e182f10e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#swamp-thing"
   },
   {
     "name": "Sword of Hope",
