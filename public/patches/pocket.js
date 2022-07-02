@@ -1,4 +1,4 @@
-export const updated = '2022-07-02T19:16:59.759Z';
+export const updated = '2022-07-02T22:21:22.769Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7695,6 +7695,22 @@ export const patches = [
     "md5": "27f2c99b13cbdb5a5be4afce87b9039b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rolans-curse-ii"
+  },
+  {
+    "name": "Roswell Conspiracies - Aliens, Myths and Legends",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoswellConspiracies.ips",
+    "md5": "dbd7bc8a47d78e84016f0c240e6aa179",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#roswell-conspiracies---aliens-myths-and-legends"
+  },
+  {
+    "name": "Roswell Conspiracies - Aliens, Myths and Legends (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RoswellConspiraciesE.ips",
+    "md5": "79d382d378d49695e9867ede063eff17",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#roswell-conspiracies---aliens-myths-and-legends-e"
   },
   {
     "name": "Rox",
