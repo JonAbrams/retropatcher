@@ -1,4 +1,4 @@
-export const updated = '2022-07-01T17:26:21.718Z';
+export const updated = '2022-07-02T17:20:47.642Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7911,6 +7911,14 @@ export const patches = [
     "md5": "028c4262dbb49f4fc462a6eb3e514d72",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#shantae"
+  },
+  {
+    "name": "Shantae (Limited Run Games)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Shantae.ips",
+    "md5": "ec11bd38c10913047913eab36b06c2a0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shantae-limited-run-games"
   },
   {
     "name": "Sheep It Up!",
