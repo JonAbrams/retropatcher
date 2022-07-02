@@ -1,4 +1,4 @@
-export const updated = '2022-07-02T22:21:22.769Z';
+export const updated = '2022-07-02T23:20:52.969Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7399,6 +7399,14 @@ export const patches = [
     "md5": "74d409740ce00448d42b25ebb31e7bcd",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#race-drivin"
+  },
+  {
+    "name": "Racing Damashii",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RacingDamashii.ips",
+    "md5": "cf4e3f4ee5df2d68e978826ae564e1da",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#racing-damashii"
   },
   {
     "name": "Radar Mission",
