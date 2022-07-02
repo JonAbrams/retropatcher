@@ -1,4 +1,4 @@
-export const updated = '2022-07-02T17:20:47.642Z';
+export const updated = '2022-07-02T18:25:55.363Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3527,6 +3527,22 @@ export const patches = [
     "md5": "7e6c999c8b4bd0e7030977c7fa73c75c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hiden-inyou-kikouhou-ca-da"
+  },
+  {
+    "name": "Hit the Ice - VHL - The Official Video Hockey League",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HitTheIce.ips",
+    "md5": "66fc892b9682e8e2981fa83fa681ccad",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hit-the-ice---vhl---the-official-video-hockey-league"
+  },
+  {
+    "name": "Hollow Knight Demake - Beta V1",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HollowKnight_BetaV1.ips",
+    "md5": "507bb840a0bf4f9e8471a105cc525756",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hollow-knight-demake---beta-v1"
   },
   {
     "name": "Hollywood Pinball",
