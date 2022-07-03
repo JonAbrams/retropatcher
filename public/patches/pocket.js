@@ -1,4 +1,4 @@
-export const updated = '2022-07-03T15:22:18.447Z';
+export const updated = '2022-07-03T18:25:48.098Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3479,6 +3479,14 @@ export const patches = [
     "md5": "7ef69878c3b5bc5532c69a51a2dd42f3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harvest-moon-gb"
+  },
+  {
+    "name": "Harvest Moon GBC",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HarvestMoonGB.ips",
+    "md5": "498c0a50a5e5cde16127617a97ad6162",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#harvest-moon-gbc"
   },
   {
     "name": "Hatris",
