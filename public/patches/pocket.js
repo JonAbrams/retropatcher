@@ -1,4 +1,4 @@
-export const updated = '2022-07-03T20:22:27.092Z';
+export const updated = '2022-07-03T21:18:53.917Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1063,6 +1063,22 @@ export const patches = [
     "md5": "b3be58ae099ab2a695cfebe9881c7461",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#boggle-plus"
+  },
+  {
+    "name": "Bokujou Monogatari GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BokujouMonogatariGB.ips",
+    "md5": "6633ea57f86c4a117f0b027da68bda92",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bokujou-monogatari-gb"
+  },
+  {
+    "name": "Bokujou Monogatari GB (Rev AB)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BokujouMonogatariGBAB.ips",
+    "md5": "275dc0712e83f34252c2fcd2eaefb72f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bokujou-monogatari-gb-rev-ab"
   },
   {
     "name": "Bomb Jack",
