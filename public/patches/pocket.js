@@ -1,4 +1,4 @@
-export const updated = '2022-07-02T23:20:52.969Z';
+export const updated = '2022-07-03T02:21:45.212Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1783,6 +1783,14 @@ export const patches = [
     "md5": "9eb8be5600d2408352bf9ef32b91d1df",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cubix---robots-for-everyone---race-n-robots"
+  },
+  {
+    "name": "CyberTiger",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CyberTiger.ips",
+    "md5": "7a36423ec39604d7043336af71145010",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cybertiger"
   },
   {
     "name": "Cyraid",
