@@ -1,4 +1,4 @@
-export const updated = '2022-07-03T02:21:45.212Z';
+export const updated = '2022-07-03T15:22:18.447Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -103,6 +103,30 @@ export const patches = [
     "md5": "d9d85b81d1b0b4d3c86c95a6e1846f5a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#action-man---search-for-base-x"
+  },
+  {
+    "name": "Addams Family",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AddamsFamily.ips",
+    "md5": "f629f0b6d156bec6acb9e6b9da4ad4e3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#addams-family"
+  },
+  {
+    "name": "Addams Family (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AddamsFamilyE.ips",
+    "md5": "8814b9ec76241a6ac4deefa00ebebad8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#addams-family-e"
+  },
+  {
+    "name": "Addams Family (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AddamsFamilyJ.ips",
+    "md5": "dc2f4d927edda442de2148af590bebb5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#addams-family-j"
   },
   {
     "name": "Addams Family - Pugsley's Scavenger Hunt",
