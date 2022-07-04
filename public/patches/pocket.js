@@ -1,4 +1,4 @@
-export const updated = '2022-07-03T21:18:53.917Z';
+export const updated = '2022-07-04T05:32:47.865Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1079,6 +1079,14 @@ export const patches = [
     "md5": "275dc0712e83f34252c2fcd2eaefb72f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bokujou-monogatari-gb-rev-ab"
+  },
+  {
+    "name": "Bokujou Monogatari GB 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BokujouMonogatariGB2.ips",
+    "md5": "245c759effda3cf83e2caf274c93c8aa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#bokujou-monogatari-gb-2"
   },
   {
     "name": "Bomb Jack",
@@ -8031,6 +8039,14 @@ export const patches = [
     "md5": "ec11bd38c10913047913eab36b06c2a0",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shantae-limited-run-games"
+  },
+  {
+    "name": "Shaun Palmer's Pro Snowboarder",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ShaunPalmersProSnowboarder.ips",
+    "md5": "3bcb284142a35a8d86550c2f34549dcc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shaun-palmers-pro-snowboarder"
   },
   {
     "name": "Sheep It Up!",
