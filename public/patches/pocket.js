@@ -1,4 +1,4 @@
-export const updated = '2022-07-04T05:32:47.865Z';
+export const updated = '2022-07-04T07:21:04.829Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7759,6 +7759,30 @@ export const patches = [
     "md5": "398f7b60ea114b90b24503178f47e8d8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#robopon---sun-version"
+  },
+  {
+    "name": "Rockman World",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld.ips",
+    "md5": "d0b1c550250c859f4563165eb29033d6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rockman-world"
+  },
+  {
+    "name": "Rockman World 2",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld2.ips",
+    "md5": "c05b47df8bdfe770be228e51bc42da84",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rockman-world-2"
+  },
+  {
+    "name": "Rockman World 3",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RockmanWorld3.ips",
+    "md5": "c22f3efe9048652ef6f798650fce2d2a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rockman-world-3"
   },
   {
     "name": "Rodland",
