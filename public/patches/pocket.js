@@ -1,4 +1,4 @@
-export const updated = '2022-07-05T13:47:13.232Z';
+export const updated = '2022-07-05T16:37:37.286Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3871,6 +3871,14 @@ export const patches = [
     "md5": "2518020d9c2ff903b3af2d07d2552438",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#is-that-a-demo-in-your-pocket"
+  },
+  {
+    "name": "Is that a Demo in your Pocket?",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IsThatADemoInYourPocket.ips",
+    "md5": "2518020d9c2ff903b3af2d07d2552438",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#is-that-a-demo-in-your-pocket"
   },
   {
     "name": "Ishido - The Way of Stones",
