@@ -1,4 +1,4 @@
-export const updated = '2022-07-04T08:30:41.260Z';
+export const updated = '2022-07-05T13:47:13.232Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8095,6 +8095,14 @@ export const patches = [
     "md5": "6d22cab0cbb831bc64abf4f5bad464ff",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sheep-it-up"
+  },
+  {
+    "name": "Shenzhen Solitaire",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/shenzhen-solitaire.ips",
+    "md5": "49a676dde6c01f032cedf0ec0cdb7f89",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#shenzhen-solitaire"
   },
   {
     "name": "Shin Megami Tensai Devil Children - Shiro no Sho",
