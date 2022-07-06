@@ -1,4 +1,4 @@
-export const updated = '2022-07-05T16:37:37.286Z';
+export const updated = '2022-07-06T04:10:04.550Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3287,6 +3287,14 @@ export const patches = [
     "md5": "0841a527b116a52ad26de023b20b1a42",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ghostbusters-ii"
+  },
+  {
+    "name": "Ghostbusters II (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Ghostbusters2J.ips",
+    "md5": "4067f70f9def39ceb49a258540ce3d66",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ghostbusters-ii-j"
   },
   {
     "name": "Ghosts'n Goblins",
