@@ -1,4 +1,4 @@
-export const updated = '2022-07-14T22:24:31.415Z';
+export const updated = '2022-07-15T04:20:45.420Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1695,6 +1695,14 @@ export const patches = [
     "md5": "83f1b6f79b8f0fecc4427efc9fa7d732",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#classic-bubble-bobble-e"
+  },
+  {
+    "name": "Color Lines",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ColorLines.ips",
+    "md5": "dea87e807ab68250ac64c89fb996a59a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#color-lines"
   },
   {
     "name": "Color Test",
