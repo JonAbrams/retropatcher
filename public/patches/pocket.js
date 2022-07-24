@@ -1,4 +1,4 @@
-export const updated = '2022-07-24T03:57:32.671Z';
+export const updated = '2022-07-24T05:24:44.251Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9494,6 +9494,30 @@ export const patches = [
     "md5": "f2dc6c4e093e4f8c6cbea80e8dbd62cb",
     "extension": "pocket",
     "originalUrl": "https://github.com/jduckett95/infinest-pocket-patches/blob/main/README.md#the-legend-of-zelda-oracle-of-seasons"
+  },
+  {
+    "name": "Thunderbirds",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsE.ips",
+    "md5": "5164521245f41b0f3a51cffe0704d21d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#thunderbirds"
+  },
+  {
+    "name": "Thunderbirds (En,Fr,De,Es,It)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsE_Localized.ips",
+    "md5": "543fe119633338174899829b6d4c571f",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#thunderbirds-enfrdeesit"
+  },
+  {
+    "name": "Thunderbirds (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ThunderbirdsJ.ips",
+    "md5": "6949e7e7307b0885898e5330e8a7e9cc",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#thunderbirds-j"
   },
   {
     "name": "Tiger Woods PGA Tour 2000",
