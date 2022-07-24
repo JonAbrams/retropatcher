@@ -1,4 +1,4 @@
-export const updated = '2022-07-17T04:43:15.965Z';
+export const updated = '2022-07-24T03:57:32.671Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2407,6 +2407,14 @@ export const patches = [
     "md5": "921bdff008475aa2c5344e1a0d110910",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario"
+  },
+  {
+    "name": "Dr. Mario",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DrMario.ips",
+    "md5": "0281fd8061d82472e242954513805196",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#dr-mario"
   },
   {
     "name": "Dr. Mario DX - Polish-Up",
