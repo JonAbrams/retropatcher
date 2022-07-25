@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T04:08:30.968Z';
+export const updated = '2022-07-25T16:33:37.389Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3799,6 +3799,14 @@ export const patches = [
     "md5": "4a1ecc8ccc706ed5fdce2fdab2aaf03e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#humans"
+  },
+  {
+    "name": "Hunchback of Notre Dame - 5 Foolishly Fun Topsy Turvy Games",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HunchbackOfNotreDame.ips",
+    "md5": "3f55fde8e05a4d372f7f30a1f7398fb5",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hunchback-of-notre-dame---5-foolishly-fun-topsy-turvy-games"
   },
   {
     "name": "Hunt for Red October",
@@ -9326,6 +9334,14 @@ export const patches = [
     "md5": "9db0e1e39aa5a40471911a40e12ba739",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taz-mania"
+  },
+  {
+    "name": "Taz-Mania (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TazManiaE.ips",
+    "md5": "bb922ce354fc5caec500f99985a07c39",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#taz-mania-e"
   },
   {
     "name": "Taz-Mania 2",
