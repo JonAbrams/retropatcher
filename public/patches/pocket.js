@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T18:30:01.273Z';
+export const updated = '2022-07-25T19:17:54.079Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3295,6 +3295,14 @@ export const patches = [
     "md5": "255bca32093336ccbacdd185951c8727",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gekito-power-modeler"
+  },
+  {
+    "name": "Genesis",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Genesis.ips",
+    "md5": "a95ef483162d0ca6824a08a5e68f90b0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#genesis"
   },
   {
     "name": "George Foreman's KO Boxing",
@@ -6641,6 +6649,22 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pine-creek"
   },
   {
+    "name": "Pine Creek (Catalan)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekCatalan.ips",
+    "md5": "8c39ac2a57d47b5e721301d0706f918e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pine-creek-catalan"
+  },
+  {
+    "name": "Pine Creek (GB)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineCreekUM.ips",
+    "md5": "c62d71022ad43f6aeb0f51095275214b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pine-creek-gb"
+  },
+  {
     "name": "Pineapple Kid",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/PineappleKid.ips",
@@ -7495,6 +7519,14 @@ export const patches = [
     "md5": "de2236723c8d218e04c93849ebcda72d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quarth"
+  },
+  {
+    "name": "Quest Arrest",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/QuestArrest.ips",
+    "md5": "98ce3dda6530b382036478bf9850f1a1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#quest-arrest"
   },
   {
     "name": "Quest RPG - Brian's Journey",
