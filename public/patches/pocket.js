@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T16:33:37.389Z';
+export const updated = '2022-07-25T17:28:50.808Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -10174,6 +10174,22 @@ export const patches = [
     "md5": "716de1a7f4178fd941edf22d1a907624",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wacky-races"
+  },
+  {
+    "name": "Walt Disney World Quest - Magical Racing Tour",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WDWQuest-MagicalRacingTour.ips",
+    "md5": "31e1af241f91ca3b9c165431258a4312",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#walt-disney-world-quest---magical-racing-tour"
+  },
+  {
+    "name": "Walt Disney World Quest - Magical Racing Tour (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WDWQuest-MagicalRacingTourE.ips",
+    "md5": "3ccf696ddc0e2ed66c26c2ff2cb9e12a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#walt-disney-world-quest---magical-racing-tour-e"
   },
   {
     "name": "Walt Disney's Alice In Wonderland",
