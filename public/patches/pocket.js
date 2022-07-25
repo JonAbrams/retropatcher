@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T19:17:54.079Z';
+export const updated = '2022-07-25T20:23:46.875Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3505,6 +3505,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gremlins-unleashed"
   },
   {
+    "name": "Gunship",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Gunship.ips",
+    "md5": "6a7cb6e2df241e843569c539b724bb5d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gunship"
+  },
+  {
     "name": "Hammerin' Harry - Ghost Building Company",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HammerinHarry.ips",
@@ -3879,6 +3887,14 @@ export const patches = [
     "md5": "c21058af21efc29413797f0a2c532e16",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#incredible-crash-dummies"
+  },
+  {
+    "name": "IndestructoTank!",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/IndestructoTank.ips",
+    "md5": "71e215d472c7e2e27b70749dea9bffe1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#indestructotank"
   },
   {
     "name": "Indiana Jones and the Infernal Machine",
