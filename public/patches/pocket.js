@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T02:19:00.312Z';
+export const updated = '2022-07-25T04:08:30.968Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1655,6 +1655,38 @@ export const patches = [
     "md5": "3db9f9f0c5913d3c9f7b5d5fbf7b5e02",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster"
+  },
+  {
+    "name": "Chessmaster (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterE.ips",
+    "md5": "fb62e511419ff8ea89ee1cf558e7208a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster-e"
+  },
+  {
+    "name": "Chessmaster (GBC)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterGBC.ips",
+    "md5": "f0ae420d6ce590baac5b2ca03f4b2ba6",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster-gbc"
+  },
+  {
+    "name": "Chessmaster (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterJ.ips",
+    "md5": "f04f23d228f03311545b1b3bb9b3b73c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster-j"
+  },
+  {
+    "name": "Chessmaster (Rev A)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ChessmasterA.ips",
+    "md5": "6b6d4a25d3c1e2890b22271c44e62dbf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#chessmaster-rev-a"
   },
   {
     "name": "Chicken Run",
@@ -6167,6 +6199,14 @@ export const patches = [
     "md5": "f395f7b8ce24e6da365b843adf7d763e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#new-chessmaster"
+  },
+  {
+    "name": "New Chessmaster (J)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NewChessmasterJ.ips",
+    "md5": "25b34ebece0e2c54baf9dee4f5845292",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#new-chessmaster-j"
   },
   {
     "name": "Nicktoons Racing",
