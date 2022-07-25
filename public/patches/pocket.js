@@ -1,4 +1,4 @@
-export const updated = '2022-07-24T05:24:44.251Z';
+export const updated = '2022-07-25T02:19:00.312Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6527,6 +6527,14 @@ export const patches = [
     "md5": "840e1ddb2696ecae487fd264a3c34581",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#perfect-dark"
+  },
+  {
+    "name": "Phantasm",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Phantasm.ips",
+    "md5": "2a457900607b2bf87d1377f066d7aa44",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#phantasm"
   },
   {
     "name": "Philip & Marlowe in Bloomland",
