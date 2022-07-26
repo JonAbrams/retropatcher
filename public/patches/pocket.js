@@ -1,4 +1,4 @@
-export const updated = '2022-07-26T17:25:48.202Z';
+export const updated = '2022-07-26T18:29:06.117Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -719,6 +719,14 @@ export const patches = [
     "md5": "fa8b94ede7e7192c0ccd2fff6c51e948",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#banishing-racer-english-translation"
+  },
+  {
+    "name": "Barbie - Game Girl",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BarbieGameGirl.ips",
+    "md5": "159c8ca77e153b1cc5fe6d5d82a091c2",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#barbie---game-girl"
   },
   {
     "name": "Bart Simpson's Escape from Camp Deadly",
