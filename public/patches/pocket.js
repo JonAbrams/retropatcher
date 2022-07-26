@@ -1,4 +1,4 @@
-export const updated = '2022-07-25T20:23:46.875Z';
+export const updated = '2022-07-26T16:34:09.699Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -441,6 +441,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-classic-no-4---defender-and-joust"
   },
   {
+    "name": "Arcade Hits - Joust and Defender",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArcadeHitsJoustDefender.ips",
+    "md5": "341249f65f19579b9d335c807982b6fa",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#arcade-hits---joust-and-defender"
+  },
+  {
     "name": "Arcade Hits - Moon Patrol and Spy Hunter",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AH-MoonSpy.ips",
@@ -647,6 +655,14 @@ export const patches = [
     "md5": "ba1195224261abd308db025d69ee2227",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#b-daman-bakugaiden---victory-e-no-michi"
+  },
+  {
+    "name": "B-Daman Bakugaiden V - Final Mega Tune",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BDamanBakugaidenVFinalMegaTune.ips",
+    "md5": "a10a70354cc998e31f0b5fb27c471c37",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#b-daman-bakugaiden-v---final-mega-tune"
   },
   {
     "name": "Bad Apple (Demo)",
