@@ -1,4 +1,4 @@
-export const updated = '2022-07-26T16:34:09.699Z';
+export const updated = '2022-07-26T17:25:48.202Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1479,6 +1479,14 @@ export const patches = [
     "md5": "dd5d45d9f8722f8ded9ab85097daa4e5",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#captain-america-and-the-avengers"
+  },
+  {
+    "name": "Cardcaptor Sakura - Itsumo Sakura-chan to Issho",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/CardcaptorSakuraItsumo.ips",
+    "md5": "60f6fbdd07d01ad1835269fdeaebb83d",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#cardcaptor-sakura---itsumo-sakura-chan-to-issho"
   },
   {
     "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai",
@@ -4183,6 +4191,22 @@ export const patches = [
     "md5": "d5161ed7380af488b22302691c9a33cd",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#keep-the-balance"
+  },
+  {
+    "name": "Keitai Denjuu Telefang - Power Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangPower.ips",
+    "md5": "04f7ea139fef2bc2e3f70b2c23933d2e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#keitai-denjuu-telefang---power-version"
+  },
+  {
+    "name": "Keitai Denjuu Telefang - Speed Version",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TelefangSpeed.ips",
+    "md5": "ebfe05828463cc004898e6a95ee57fea",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#keitai-denjuu-telefang---speed-version"
   },
   {
     "name": "Ken Griffey Jr. Presents Major League Baseball",
