@@ -1,4 +1,4 @@
-export const updated = '2022-07-26T18:29:06.117Z';
+export const updated = '2022-07-27T04:10:55.460Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3455,6 +3455,22 @@ export const patches = [
     "md5": "e83411adccf5266f2deb263e67b68bc1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla"
+  },
+  {
+    "name": "Godzilla - The Series",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeries.ips",
+    "md5": "7b4345daf8ebda416a84c5932bf817ec",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla---the-series"
+  },
+  {
+    "name": "Godzilla - The Series (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeries.ips",
+    "md5": "149073afd1cf8ae83783143a166592f7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla---the-series-e"
   },
   {
     "name": "Gold and Glory - The Road to El Dorado",
