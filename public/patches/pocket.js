@@ -1,4 +1,4 @@
-export const updated = '2022-07-27T04:10:55.460Z';
+export const updated = '2022-07-27T08:30:11.419Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3471,6 +3471,22 @@ export const patches = [
     "md5": "149073afd1cf8ae83783143a166592f7",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla---the-series-e"
+  },
+  {
+    "name": "Godzilla - The Series - Monster Wars",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeriesMonsterWars.ips",
+    "md5": "597bd5a8aa26af757cba57aff575eaa3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla---the-series---monster-wars"
+  },
+  {
+    "name": "Godzilla - The Series - Monster Wars (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GodzillaTheSeriesMonsterWarsE.ips",
+    "md5": "6f67b154450bd3d88924c179f8165721",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#godzilla---the-series---monster-wars-e"
   },
   {
     "name": "Gold and Glory - The Road to El Dorado",
