@@ -1,4 +1,4 @@
-export const updated = '2022-07-27T08:30:11.419Z';
+export const updated = '2022-07-29T02:28:28.020Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3503,6 +3503,14 @@ export const patches = [
     "md5": "6175a5ef55a1998944267e75d8ebf79d",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#golf"
+  },
+  {
+    "name": "Graal V1.1 - Adventure Demo",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Graal_v1.1.ips",
+    "md5": "2b2fef91df11f9fbae3e1ece2366fdd3",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#graal-v11---adventure-demo"
   },
   {
     "name": "Gradius - The Interstellar Assault",
