@@ -1,4 +1,4 @@
-export const updated = '2022-07-29T02:28:28.020Z';
+export const updated = '2022-07-29T12:51:16.362Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9095,6 +9095,22 @@ export const patches = [
     "md5": "98dab710bdf256c1f1cf92c31d58d632",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2---6-tsu-no-kinka"
+  },
+  {
+    "name": "Super Mario Land 2 DX",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DX_v1.81.ips",
+    "md5": "946a4a60bbd5328ca2250d5f9f0606c7",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2-dx"
+  },
+  {
+    "name": "Super Mario Land 2 DX - 6-tsu no Kinka",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SML2DXJ_v1.81.ips",
+    "md5": "55935b66d1a130967dffc6e911d4e42e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#super-mario-land-2-dx---6-tsu-no-kinka"
   },
   {
     "name": "Super Mario Land 2 DX ROM Hack",
