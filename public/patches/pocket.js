@@ -1,4 +1,4 @@
-export const updated = '2022-07-29T12:51:16.362Z';
+export const updated = '2023-01-17T19:27:11.150Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4593,6 +4593,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#last-action-hero"
   },
   {
+    "name": "Last Crown Warriors Demo",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/9c0819aa8e2643c2e741affaba376d81d304a2d5/Last+Crown+Warriors+%28Kickstarter+Demo%29+v1.0.1-4a58315b.ips",
+    "md5": "d965384426146361d6e94b901d3e96f8",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#last-crown-warriors-demo"
+  },
+  {
     "name": "Laura",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Laura.ips",
@@ -5559,6 +5567,14 @@ export const patches = [
     "md5": "b53fe06db30ab689153135990354dd5a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-v-e"
+  },
+  {
+    "name": "Mega Man World 5 DX (v1.0)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/mmw5dx_v1_0.ips",
+    "md5": "b98ce4d1606c2fd533557b3cd16de789",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-world-5-dx-v10"
   },
   {
     "name": "Mega Man Xtreme",
@@ -7145,6 +7161,14 @@ export const patches = [
     "originalUrl": "https://github.com/jduckett95/misc-pocket-patches/blob/main/README.md#pokmon-black"
   },
   {
+    "name": "Pokémon Bleue",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/aa843f0c2e6e4d743a411cbaa6e4640085ad116a/pokebleu-337fce11.ips",
+    "md5": "35c8154c81abb2ab850689fd28a03515",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-bleue"
+  },
+  {
     "name": "Pokémon Blue",
     "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/6204c14dc3f5ff85ee8891884689899fdbc54c06/pokeblue-d6da8a1a.ips",
@@ -7211,6 +7235,14 @@ export const patches = [
   {
     "name": "Pokémon Crystal Clear 2.5.2",
     "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/f01cfe5ad0b73cfec08d54ad1de2156770f6d286/Crystal_Clear%282.5.5%29-12c1deeb.ips",
+    "md5": "a9ea243b844c2182a7fd240474e403aa",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-252"
+  },
+  {
+    "name": "Pokémon Crystal Clear 2.5.2",
+    "authorName": "BestPig",
     "downloadUrl": "https://shareit.bestpig.fr/get/2909535afcb794e03c482b3b20ea37e3396f8f1b/Crystal_Clear%282.5.2%29-b5847ca5.ips",
     "md5": "a9fa67d3abb5e385bfcf68bc6d8a900c",
     "extension": "pocket",
@@ -7263,6 +7295,14 @@ export const patches = [
     "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-red-colored-version"
+  },
+  {
+    "name": "Pokémon Rouge",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/c7bdf0d20d66e85dcdb75995bb2a3e878893ab29/pokerouge-337fce11.ips",
+    "md5": "669700657cb06ed09371cdbdef69e8a3",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-rouge"
   },
   {
     "name": "Pokémon Silver (USA / Europe)",
