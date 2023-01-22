@@ -1,4 +1,4 @@
-export const updated = '2023-01-17T19:27:11.150Z';
+export const updated = '2023-01-22T13:16:02.246Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7255,6 +7255,14 @@ export const patches = [
     "md5": "a6924ce1f9ad2228e1c6580779b23878",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-gold"
+  },
+  {
+    "name": "Pokémon Or (France)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/c7d32c8ca3b0ffc9d8e367d5ea1b5876690995b7/POKEMON_GLD+%28FR%29+%2837a70702%29.ips",
+    "md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-or-france"
   },
   {
     "name": "Pokémon Picross with English Patch",
