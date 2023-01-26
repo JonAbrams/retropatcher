@@ -1,4 +1,4 @@
-export const updated = '2023-01-22T13:16:02.246Z';
+export const updated = '2023-01-26T21:11:33.851Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6975,6 +6975,14 @@ export const patches = [
     "md5": "463c241c8721ab1d1da17c91de9f8a32",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#pokemon---edicion-roja"
+  },
+  {
+    "name": "Pokemon - Version Jaune",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/6b4daa3646efb0ab472432c5ae16678c346bc8c6/pokered-fr-d03426e9.ips",
+    "md5": "2df6b439a35e0d511d52fa75c6a7849a",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokemon---version-jaune"
   },
   {
     "name": "Pokemon - Yellow Version",
