@@ -1,4 +1,4 @@
-export const updated = '2023-01-26T21:11:33.851Z';
+export const updated = '2023-01-29T11:09:57.773Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -9566,6 +9566,30 @@ export const patches = [
     "md5": "dc2732dba9121aad355fa2e1dfbbb069",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tecmo-bowl"
+  },
+  {
+    "name": "Teenage Mutant Hero Turtles - Fall of the Foot Clan (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/498dd99bace9b626521d3eaf9109f35a1ecb30ae/TMNT-ed8a73fb.ips",
+    "md5": "3172f2d0c417107da132f8437c43763b",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#teenage-mutant-hero-turtles---fall-of-the-foot-clan-europe"
+  },
+  {
+    "name": "Teenage Mutant Hero Turtles II - Back from the Sewers (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/f146e62c53ac71b37823fc70b13fb10731337a5f/TMNT2-cf24506c.ips",
+    "md5": "b439f2ca31e47f7ac4ea4a95cc6c9fa5",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#teenage-mutant-hero-turtles-ii---back-from-the-sewers-europe"
+  },
+  {
+    "name": "Teenage Mutant Hero Turtles III - Radical Rescue (Europe)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://shareit.bestpig.fr/get/c5895395c36fe0795620537dbc1c455beb3f9c81/TMNT3-9f3245f3.ips",
+    "md5": "7768609b189e788ab08c8aac165b9f4c",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#teenage-mutant-hero-turtles-iii---radical-rescue-europe"
   },
   {
     "name": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan",
