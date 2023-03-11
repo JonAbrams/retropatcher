@@ -1,6 +1,13 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { useEffect, useRef, useState, DragEventHandler } from "react";
+import {
+  useEffect,
+  useRef,
+  useState,
+  DragEventHandler,
+  ChangeEventHandler,
+  FormEventHandler,
+} from "react";
 import md5 from "js-md5";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
@@ -14,6 +21,8 @@ import { updated } from "../public/patches/pocket";
 const Home: NextPage = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [showTimeAgo, setShowTimeAgo] = useState(false);
+  const [urlInput, setUrlInput] = useState("");
+  const [urlSubmitDisabled, setUrlSubmitDisabled] = useState(true);
   const [filenames, setFilenames] = useState<string[]>([]);
   const [filesBytes, setFilesBytes] = useState<Uint8Array[]>([]);
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
@@ -24,7 +33,7 @@ const Home: NextPage = () => {
   useEffect(() => {
     setShowTimeAgo(true);
   }, []);
-  
+
   useEffect(() => {
     if (filesBytes.length === 0) return;
     const md5s = filesBytes.map((f) => md5(f));
@@ -170,6 +179,18 @@ const Home: NextPage = () => {
     setDragOver(false);
   };
 
+  const handleUrlInput: ChangeEventHandler<HTMLInputElement> = (e) => {
+    const newUrl = e.target.value;
+    setUrlInput(newUrl);
+    const validArchiveUrl = /(http)?s?(:\/\/)?archive.org\/(details|download)/;
+    setUrlSubmitDisabled(!validArchiveUrl.test(newUrl));
+  };
+
+  const handleUrlSubmit: FormEventHandler = (e) => {
+    e.preventDefault();
+    fetch(`/api/fetchArchive?url=${urlInput}`);
+  };
+
   return (
     <div
       className={styles.container}
@@ -221,6 +242,16 @@ const Home: NextPage = () => {
 
         <div className={styles.dndMsg}>
           You can also drag and drop files onto the page.
+        </div>
+
+        <div className={styles.urlContainer}>
+          <form onSubmit={handleUrlSubmit}>
+            <label>
+              Or paste an archive.org URL:
+              <input type="text" value={urlInput} onChange={handleUrlInput} />
+            </label>
+            <button disabled={urlSubmitDisabled}>Submit</button>
+          </form>
         </div>
 
         {typeof patchInfo === "string" && (
