@@ -13,6 +13,7 @@ import { updated } from "../public/patches/pocket";
 
 const Home: NextPage = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const [showTimeAgo, setShowTimeAgo] = useState(false);
   const [filenames, setFilenames] = useState<string[]>([]);
   const [filesBytes, setFilesBytes] = useState<Uint8Array[]>([]);
   const [patchInfo, setPatchInfo] = useState<Patch[] | "loading" | null>(null);
@@ -20,6 +21,10 @@ const Home: NextPage = () => {
   const [applying, setApplying] = useState(false);
   const [dragOver, setDragOver] = useState(false);
 
+  useEffect(() => {
+    setShowTimeAgo(true);
+  }, []);
+  
   useEffect(() => {
     if (filesBytes.length === 0) return;
     const md5s = filesBytes.map((f) => md5(f));
@@ -279,7 +284,11 @@ const Home: NextPage = () => {
         {errorOutput && <div className={styles.errorOutput}>{errorOutput}</div>}
         <div className={styles.updated}>
           Patch list updated:{" "}
-          <ReactTimeAgo date={new Date(updated)} locale="en-US" />
+          {showTimeAgo ? (
+            <ReactTimeAgo date={new Date(updated)} locale="en-US" />
+          ) : (
+            ""
+          )}
         </div>
         <p className={styles.note}>
           {
