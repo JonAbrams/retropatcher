@@ -102,6 +102,7 @@ const Home: NextPage = () => {
       });
     });
     setFilesBytes(await Promise.all(newFilesBytes));
+    setApplying(false);
   };
 
   const handleApplyPatch = async (patch: Patch) => {
@@ -118,7 +119,13 @@ const Home: NextPage = () => {
     if (url[0] !== "/") {
       url = `/api/getPatchFile?url=${encodeURIComponent(patch.downloadUrl)}`;
     }
-    const patchIps = await fetch(url).then((res) => res.arrayBuffer());
+    const result = await fetch(url);
+    if (result.status !== 200) {
+      const resultText = await result.text();
+      setErrorOutput(resultText);
+      return;
+    }
+    const patchIps = await result.arrayBuffer();
     if (!patchIps) return;
     savePatchedFile(
       filename,

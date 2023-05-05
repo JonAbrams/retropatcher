@@ -12,6 +12,11 @@ export default async function handler(
     return res.status(404).send("No patches found.");
   }
 
-  const file = await fetch(url).then((res) => res.arrayBuffer());
-  res.send(Buffer.from(file));
+  const result = await fetch(url);
+  if (result.status !== 200) {
+    res.status(result.status).send(`Failed to get patch file from ${url}`);
+    return;
+  }
+  const fileBuffer = await result.arrayBuffer();
+  res.send(Buffer.from(fileBuffer));
 }
