@@ -1,4 +1,4 @@
-export const updated = '2023-01-29T11:09:57.773Z';
+export const updated = '2023-05-06T03:08:28.799Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4369,6 +4369,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-2"
   },
   {
+    "name": "Kirby's Dream Land 2 DX (1.0b)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamLand2DX_1.0b.ips",
+    "md5": "2122e6e3b47e259d668b0f8200be2db1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-2-dx-10b"
+  },
+  {
     "name": "Kirby's Dream Land DX with Fluffy Repair Service",
     "authorName": "JoseJX",
     "md5": "a66e4918edcd042ec171a57fe3ce36c3",
@@ -5567,6 +5575,14 @@ export const patches = [
     "md5": "b53fe06db30ab689153135990354dd5a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-v-e"
+  },
+  {
+    "name": "Mega Man World 5 DX (1.5.1)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/mmw5dx_v1_5_1.ips",
+    "md5": "4a8d49921209f1a96861a410fdf6c754",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mega-man-world-5-dx-151"
   },
   {
     "name": "Mega Man World 5 DX (v1.0)",
