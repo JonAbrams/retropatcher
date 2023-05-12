@@ -1,4 +1,4 @@
-export const updated = '2023-05-06T17:28:34.897Z';
+export const updated = '2023-05-12T17:07:15.620Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -311,6 +311,14 @@ export const patches = [
     "md5": "72c44e5ac726ed8f23efbc6c30e60f1b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alleyway-dx"
+  },
+  {
+    "name": "Alleyway DX (1.1)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/AlleywayDx_1.1.ips",
+    "md5": "d73879b815cc5672ae657b0715984f2b",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#alleyway-dx-11"
   },
   {
     "name": "Alone in the Dark - The New Nightmare",
