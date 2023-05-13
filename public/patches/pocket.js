@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T15:06:58.373Z';
+export const updated = '2023-05-13T16:09:21.099Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3081,6 +3081,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#force-21"
   },
   {
+    "name": "Fort Boyard",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortBoyard.ips",
+    "md5": "21ae960e6c5a42b498b00fa6f635b1e1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#fort-boyard"
+  },
+  {
     "name": "Fortified Zone",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FortifiedZone.ips",
@@ -4143,6 +4151,14 @@ export const patches = [
     "md5": "e76328b0795af8cd85a70e84c1ef4722",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#john-madden-football"
+  },
+  {
+    "name": "Jordan vs. Bird - One on One",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JordanVsBird.ips",
+    "md5": "99314aee7dea4221cb38c03216239a51",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#jordan-vs-bird---one-on-one"
   },
   {
     "name": "Judge Dredd",
