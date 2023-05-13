@@ -1,4 +1,4 @@
-export const updated = '2023-05-12T17:07:15.620Z';
+export const updated = '2023-05-13T15:06:58.373Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5047,6 +5047,14 @@ export const patches = [
     "md5": "7e68c061d77a2e8925442a9b6fa0a0ed",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#loopz"
+  },
+  {
+    "name": "Lost World - Jurassic Park",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/JurassicParkLostWorld.ips",
+    "md5": "81ad77f41587aab8e452f42cc0252e26",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lost-world---jurassic-park"
   },
   {
     "name": "Lucky Luke",
