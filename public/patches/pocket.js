@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T18:09:50.709Z';
+export const updated = '2023-05-13T19:06:08.124Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1073,6 +1073,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#block-kuzushi-gb-english-translation"
   },
   {
+    "name": "Blue's Clues - Blue's Alphabet Book",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesAlphabetBook.ips",
+    "md5": "6af9bb4957485a0f5cebc9b44e805392",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#blues-clues---blues-alphabet-book"
+  },
+  {
     "name": "Blues Brothers",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/BluesBrothers.ips",
@@ -1767,6 +1775,14 @@ export const patches = [
     "md5": "83f1b6f79b8f0fecc4427efc9fa7d732",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#classic-bubble-bobble-e"
+  },
+  {
+    "name": "Colin McRae Rally",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ColinMcRaeRally.ips",
+    "md5": "8fbc58ce16cc0c571eb43a8038c97e83",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#colin-mcrae-rally"
   },
   {
     "name": "Color Lines",
