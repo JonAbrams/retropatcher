@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T16:09:21.099Z';
+export const updated = '2023-05-13T18:09:50.709Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -5391,6 +5391,14 @@ export const patches = [
     "md5": "8bf8f9a1e0080d257820ec5506a3fc8f",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mat-hoffmans-pro-bmx"
+  },
+  {
+    "name": "Matchbox Emergency Patrol",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/MatchboxEmergencyPatrol.ips",
+    "md5": "b717e9a48b44a5d367e8bcb4a5e68535",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#matchbox-emergency-patrol"
   },
   {
     "name": "Maui Mallard",
