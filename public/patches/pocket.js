@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T19:06:08.124Z';
+export const updated = '2023-05-13T20:07:50.406Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -495,6 +495,14 @@ export const patches = [
     "md5": "bb0cca048a51ddbae426221bb3d2e508",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#aretha-iii"
+  },
+  {
+    "name": "Armada FX Racers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/ArmadaFXRacers.ips",
+    "md5": "43527e9aff69649306c749da2d3c72c0",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#armada-fx-racers"
   },
   {
     "name": "Army Men",
@@ -8217,6 +8225,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rox-j"
   },
   {
+    "name": "SWIV",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SWIV.ips",
+    "md5": "3a00468ea1520a57f23f88d43cf8c067",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#swiv"
+  },
+  {
     "name": "Sabrina - The Animated Series - Spooked!",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SabrinaSpooked.ips",
@@ -8359,6 +8375,14 @@ export const patches = [
     "md5": "3ae8eceb23913aeb1a655da481541a6b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sensible-soccer---european-champions"
+  },
+  {
+    "name": "Sesame Street Sports",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SesameStreetSports.ips",
+    "md5": "6814576ee449d4119027dc4a85b92555",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#sesame-street-sports"
   },
   {
     "name": "Sgt. Rock - On the Frontline",
