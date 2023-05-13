@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T20:07:50.406Z';
+export const updated = '2023-05-13T21:06:42.623Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3615,6 +3615,14 @@ export const patches = [
     "md5": "d05a9da7cd90cc9822e9655fb5476d54",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gremlins-unleashed"
+  },
+  {
+    "name": "Grinch",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Grinch.ips",
+    "md5": "42ad3639f6abf013d5dacd4358abf6ca",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#grinch"
   },
   {
     "name": "Gunship",
