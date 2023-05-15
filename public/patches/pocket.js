@@ -1,4 +1,4 @@
-export const updated = '2023-05-13T21:06:42.623Z';
+export const updated = '2023-05-15T02:02:36.280Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6159,6 +6159,14 @@ export const patches = [
     "md5": "4d090ceaa53d571db00d7160ca4be69d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#ms-pac-man---special-color-edition"
+  },
+  {
+    "name": "Mulan",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Mulan.ips",
+    "md5": "314ca1610e00861bc97611c8f874503a",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#mulan"
   },
   {
     "name": "Muppets",
