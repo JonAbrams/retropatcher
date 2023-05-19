@@ -1,4 +1,4 @@
-export const updated = '2023-05-15T02:02:36.280Z';
+export const updated = '2023-05-19T13:09:54.205Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4431,6 +4431,14 @@ export const patches = [
     "md5": "2122e6e3b47e259d668b0f8200be2db1",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-2-dx-10b"
+  },
+  {
+    "name": "Kirby's Dream Land 2 DX (1.1)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/KirbysDreamLand2DX_1.1.ips",
+    "md5": "5a55a031c97b9430f53049bd5e46b8a4",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#kirbys-dream-land-2-dx-11"
   },
   {
     "name": "Kirby's Dream Land DX with Fluffy Repair Service",
