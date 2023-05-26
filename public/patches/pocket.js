@@ -1,4 +1,4 @@
-export const updated = '2023-05-26T20:08:22.702Z';
+export const updated = '2023-05-26T21:07:15.053Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -71,6 +71,14 @@ export const patches = [
     "md5": "089ce8f23f829cc08597b13dd526b53b",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#4000ad-by-protodome"
+  },
+  {
+    "name": "720 Degrees",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/720Degrees.ips",
+    "md5": "221a0e464f5f0c3d38494939b1765a24",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#720-degrees"
   },
   {
     "name": "A Dark Winter Wander",
@@ -10078,6 +10086,14 @@ export const patches = [
     "md5": "6e863b582bddb6126bb63633f41befd8",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tom-clancys-rainbow-six"
+  },
+  {
+    "name": "Tom and Jerry - Frantic Antics",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/TomJerryFranticAntics.ips",
+    "md5": "cb61afd7708d90d976f585edebcaaa89",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#tom-and-jerry---frantic-antics"
   },
   {
     "name": "Tom and Jerry in Mouse Attacks!",
