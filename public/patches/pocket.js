@@ -1,4 +1,4 @@
-export const updated = '2023-05-19T13:09:54.205Z';
+export const updated = '2023-05-26T20:08:22.702Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8247,6 +8247,14 @@ export const patches = [
     "md5": "d5cde4a6f4877a71b06278a4802c7cce",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rox-j"
+  },
+  {
+    "name": "Rugrats Movie",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsMovie.ips",
+    "md5": "1383da42b08bf94b6fad381cada66fad",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rugrats-movie"
   },
   {
     "name": "SWIV",
