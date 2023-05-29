@@ -1,4 +1,4 @@
-export const updated = '2023-05-26T21:07:15.053Z';
+export const updated = '2023-05-29T23:07:35.177Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -10685,6 +10685,14 @@ export const patches = [
     "md5": "916d740fc366ecbf9e5626218e56562d",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wetrix-gb"
+  },
+  {
+    "name": "What Friends Are For",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/What_Friends_Are_for-cbed3dd6.ips",
+    "md5": "9db11a12e5721bfecca10ac782f55247",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#what-friends-are-for"
   },
   {
     "name": "Wheel of Fortune",
