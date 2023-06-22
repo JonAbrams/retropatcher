@@ -1,4 +1,4 @@
-export const updated = '2023-05-29T23:07:35.177Z';
+export const updated = '2023-06-22T17:07:19.253Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2375,6 +2375,22 @@ export const patches = [
     "md5": "22afe691095c65f34aeaba3c283b2a9c",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong"
+  },
+  {
+    "name": "Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - New Title)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL3_Color_NewTitle_v1.3.ips",
+    "md5": "e1e06631635a0e41503c43ba0a08f888",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v13---new-title"
+  },
+  {
+    "name": "Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation - v1.3 - Original Title)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/DKL3_Color_OldTitle_v1.3.ips",
+    "md5": "8accafbb4286ed6507ec8678b364c18e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#donkey-kong-gb---dinky-kong-and-dixie-kong-english-translation---v13---original-title"
   },
   {
     "name": "Donkey Kong GB - Dinky Kong and Dixie Kong (English Translation)",
