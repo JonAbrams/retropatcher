@@ -1,4 +1,4 @@
-export const updated = '2023-06-22T17:07:19.253Z';
+export const updated = '2023-07-07T03:21:23.735Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8281,6 +8281,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rugrats-movie"
   },
   {
+    "name": "Rugrats in Paris - The Movie",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsParis.ips",
+    "md5": "c1dee0a8036d61d1483a793126da3b45",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rugrats-in-paris---the-movie"
+  },
+  {
     "name": "SWIV",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SWIV.ips",
@@ -8919,6 +8927,14 @@ export const patches = [
     "md5": "8833ae0fd3b4c47b8249a12708c98a98",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spider-man-3---invasion-of-the-spider-slayers"
+  },
+  {
+    "name": "Spirou",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/Spirou.ips",
+    "md5": "5aa012cf540a5267d6adea6659764441",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#spirou"
   },
   {
     "name": "Spirou Robbedoes - The Robot Invasion",
