@@ -1,4 +1,4 @@
-export const updated = '2023-07-07T03:21:23.735Z';
+export const updated = '2023-07-15T00:55:02.486Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8775,6 +8775,22 @@ export const patches = [
     "md5": "b4cee49981c3124df8bbd40a60426f9e",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snow-bros-jr"
+  },
+  {
+    "name": "Snowboard Champion",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnowboardChampion.ips",
+    "md5": "78f920f4e9174cd3382294129d30f373",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snowboard-champion"
+  },
+  {
+    "name": "Snowboard Champion (English Translation v1.01)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/SnowboardChampion_EN_1.01.ips",
+    "md5": "24af8c3ec86e70cd098c8e7fcdeb54bd",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#snowboard-champion-english-translation-v101"
   },
   {
     "name": "Solar Striker",
