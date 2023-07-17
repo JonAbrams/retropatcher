@@ -1,4 +1,4 @@
-export const updated = '2023-07-15T00:55:02.486Z';
+export const updated = '2023-07-17T13:20:10.439Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -8271,6 +8271,22 @@ export const patches = [
     "md5": "d5cde4a6f4877a71b06278a4802c7cce",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rox-j"
+  },
+  {
+    "name": "Rugrats - Time Travelers",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsTimeTravelers.ips",
+    "md5": "069b01643e876ec91a5555450068f4ac",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rugrats---time-travelers"
+  },
+  {
+    "name": "Rugrats - Totally Angelica",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/RugratsTotallyAngelica.ips",
+    "md5": "80cf4b05b2a0388a804e54f433cdd126",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#rugrats---totally-angelica"
   },
   {
     "name": "Rugrats Movie",
