@@ -1,4 +1,4 @@
-export const updated = '2023-07-19T18:10:10.569Z';
+export const updated = '2023-07-19T19:06:53.919Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6327,6 +6327,14 @@ export const patches = [
     "md5": "14bfce85af0ae19affbdcef23a9d6baf",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nba-jam-2001"
+  },
+  {
+    "name": "NFL BLitz",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/NFLBlitz.ips",
+    "md5": "2022ae2cb1bbd83edefa3a5bdf2a2b72",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nfl-blitz"
   },
   {
     "name": "NHL Blades of Steel (U)",
