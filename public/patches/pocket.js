@@ -1,4 +1,4 @@
-export const updated = '2023-07-17T13:20:10.439Z';
+export const updated = '2023-07-19T18:10:10.569Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -11101,6 +11101,14 @@ export const patches = [
     "md5": "544eb3962ef54f89718c8dfa668ec4be",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yoda-stories"
+  },
+  {
+    "name": "Yogi Bear - Great Ballon Blast",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/YogiBearBallonBlast.ips",
+    "md5": "cd5c8be982147d4ba99376c2b60bdbcf",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#yogi-bear---great-ballon-blast"
   },
   {
     "name": "Yoshi",
