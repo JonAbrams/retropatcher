@@ -1,4 +1,4 @@
-export const updated = '2023-07-19T19:06:53.919Z';
+export const updated = '2023-07-24T17:07:28.894Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4839,6 +4839,22 @@ export const patches = [
     "md5": "4ca44cbdd4e05c9b3c22da96d3de6338",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#legend-of-zelda-the---oracle-of-seasons-europe"
+  },
+  {
+    "name": "Legend of the Mana Sword (2023-02-13) - Amanda",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Amanda-2023-02-13.ips",
+    "md5": "e61754e7fe388311ef8637a930bf7081",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-mana-sword-2023-02-13---amanda"
+  },
+  {
+    "name": "Legend of the Mana Sword (2023-02-13) - Duke",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LotMS-Duke-2023-02-13.ips",
+    "md5": "bcc106eedcf047606353c915532169ec",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#legend-of-the-mana-sword-2023-02-13---duke"
   },
   {
     "name": "Legend of the Mana Sword - Amanda",
