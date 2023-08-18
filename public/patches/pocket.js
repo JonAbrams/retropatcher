@@ -1,4 +1,4 @@
-export const updated = '2023-07-24T17:07:28.894Z';
+export const updated = '2023-08-18T17:07:02.706Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -4671,6 +4671,22 @@ export const patches = [
     "md5": "0e13c1506562050ab39bc7d0fcd41ecf",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-racers-e"
+  },
+  {
+    "name": "LEGO Stunt Rally",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOStuntRally.ips",
+    "md5": "c468c6d714a2d86e2f68bdcdbb40b658",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-stunt-rally"
+  },
+  {
+    "name": "LEGO Stunt Rally (E)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/LEGOStuntRallyE.ips",
+    "md5": "3d75b453859c2c6f1c84b68ca987adda",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#lego-stunt-rally-e"
   },
   {
     "name": "LSDJ (Version 9.2L)",
