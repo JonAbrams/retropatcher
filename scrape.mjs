@@ -21,7 +21,7 @@ const sources = {
     md: "https://raw.githubusercontent.com/jduckett95/misc-pocket-patches/main/r0r0-patches.md",
   },
   BestPig: {
-    md: "https://gist.githubusercontent.com/BestPig/528fb9a19cbb638fac1278a641041881/raw/analogue-pocket-game-patches.md",
+    md: "https://raw.githubusercontent.com/BestPig/analogue-pocket-patches/master/README.md",
   },
   reminon: {
     md: "https://raw.githubusercontent.com/reminon/pocket-patches/main/README.md",
