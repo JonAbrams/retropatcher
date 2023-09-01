@@ -1,4 +1,4 @@
-export const updated = '2023-08-18T17:07:02.706Z';
+export const updated = '2023-09-01T03:02:32.300Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3759,6 +3759,14 @@ export const patches = [
     "md5": "b9d3d91d8389cc510aa8fe9063228644",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#hatris"
+  },
+  {
+    "name": "Heavyweight Championship Boxing",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/HeavyweightChampionship.ips",
+    "md5": "1f8089ca53d6e9aff6d1907710d28bc8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#heavyweight-championship-boxing"
   },
   {
     "name": "Heiankyo Alien",
