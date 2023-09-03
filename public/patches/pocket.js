@@ -1,4 +1,4 @@
-export const updated = '2023-09-01T03:02:32.300Z';
+export const updated = '2023-09-03T19:02:00.494Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -6607,6 +6607,14 @@ export const patches = [
     "md5": "c9a1f0543dd127e9e169f84ed5b04c0a",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#nushi-tsuri-adventure---kite-no-bouken-english-translation"
+  },
+  {
+    "name": "O'Leary Manager 2000",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/OLearyManager2000.ips",
+    "md5": "7784ff1a16b15e8e55a6b43159cc1774",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#oleary-manager-2000"
   },
   {
     "name": "Oddworld Adventures",
