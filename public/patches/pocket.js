@@ -1,4 +1,4 @@
-export const updated = '2023-09-03T19:02:00.494Z';
+export const updated = '2023-09-05T05:02:55.594Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3351,6 +3351,14 @@ export const patches = [
     "md5": "409da59eb0050f04834bd2d7a83368ab",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gargoyles-quest-quest-ii---the-demon-darkness-e"
+  },
+  {
+    "name": "Gator Gold (v1)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/GatorGoldv1.ips",
+    "md5": "ea614603aef8b723f7eb425cfb3d0f1c",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#gator-gold-v1"
   },
   {
     "name": "Gauntlet II",
