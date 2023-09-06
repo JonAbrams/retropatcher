@@ -1,4 +1,4 @@
-export const updated = '2023-09-05T05:02:55.594Z';
+export const updated = '2023-09-06T03:02:16.616Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -10576,6 +10576,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition"
   },
   {
+    "name": "V-Rally - Championship Edition GB",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRallyGB.ips",
+    "md5": "fb0adff5efe92c9d3a26be9313bcc236",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#v-rally---championship-edition-gb"
+  },
+  {
     "name": "VR Pocket Manager",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/VRPocketManager.ips",
@@ -10781,6 +10789,22 @@ export const patches = [
     "md5": "e5e8910d436acb9fd218559a216501a3",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#wario-land-ii"
+  },
+  {
+    "name": "WarioLand II - Polished and Uncensored",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandII_RevB-2.3.ips",
+    "md5": "f0cae38fa576076cde315f1f2b19b55e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#warioland-ii---polished-and-uncensored"
+  },
+  {
+    "name": "WarioLand II - Polished and Uncensored (JP Eye Version)",
+    "authorName": "JoseJX",
+    "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/WarioLandII_RevB-2.3-Eye.ips",
+    "md5": "00ddb4872561a5951e915fc365907921",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#warioland-ii---polished-and-uncensored-jp-eye-version"
   },
   {
     "name": "Warlocked",
