@@ -13,6 +13,7 @@
     "file-saver": "^2.0.5",
     "javascript-time-ago": "^2.3.11",
     "js-md5": "^0.7.3",
+    "jszip": "^3.10.1",
     "next": "^12.1.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
