@@ -4,6 +4,7 @@ import { useEffect, useRef, useState, DragEventHandler } from "react";
 import md5 from "js-md5";
 import { saveAs } from "file-saver";
 import ReactTimeAgo from "react-time-ago";
+import JSZip from "jszip";
 import { Patch } from "./api/patches";
 import { PatchList } from "../components/patchList";
 import { PatchInfo } from "../components/patchInfo";
@@ -50,7 +51,8 @@ const Home: NextPage = () => {
   const savePatchedFile = (
     filename: string,
     patch: Patch,
-    patchedBytes: Uint8Array
+    patchedBytes: Uint8Array,
+    zip?: JSZip
   ) => {
     const blob = new Blob([patchedBytes]);
     const matched = filename.match(/(.*)\.gbc?/);
@@ -61,7 +63,11 @@ const Home: NextPage = () => {
     if (patch.outputFilename) {
       outputFilename = patch.outputFilename;
     }
-    saveAs(blob, outputFilename);
+    if (zip) {
+      zip.file(outputFilename, blob);
+    } else {
+      saveAs(blob, outputFilename);
+    }
   };
 
   const handleFilesChosen = async ({
@@ -96,7 +102,7 @@ const Home: NextPage = () => {
     setApplying(false);
   };
 
-  const handleApplyPatch = async (patch: Patch) => {
+  const handleApplyPatch = async (patch: Patch, zip?: JSZip) => {
     const fbIndex = filesBytes.findIndex((fb) => md5(fb) === patch.md5);
     const fileBytes = filesBytes[fbIndex];
     const filename = filenames[fbIndex];
@@ -121,14 +127,18 @@ const Home: NextPage = () => {
     savePatchedFile(
       filename,
       patch,
-      applyPatch(fileBytes, new Uint8Array(patchIps))
+      applyPatch(fileBytes, new Uint8Array(patchIps)),
+      zip
     );
   };
 
   const handleApplyAllPatches = async () => {
+    const zip = new JSZip();
     for (const patch of patchInfo as Patch[]) {
-      await handleApplyPatch(patch);
+      await handleApplyPatch(patch, zip);
     }
+    const blob = await zip.generateAsync({ type: "blob" });
+    saveAs(blob, "patchedpockets.zip");
   };
 
   const wrapApplying = (func: { (): Promise<void> }) => {
