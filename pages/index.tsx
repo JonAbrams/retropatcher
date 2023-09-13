@@ -25,7 +25,7 @@ const Home: NextPage = () => {
   useEffect(() => {
     setShowTimeAgo(true);
   }, []);
-  
+
   useEffect(() => {
     if (filesBytes.length === 0) return;
     const md5s = filesBytes.map((f) => md5(f));

@@ -1,4 +1,4 @@
-export const updated = '2023-09-06T03:02:16.616Z';
+export const updated = '2023-09-13T06:06:57.236Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -10038,6 +10038,14 @@ export const patches = [
     "md5": "8963803e642dbfbe4f5f3bc5a567785d",
     "extension": "pocket",
     "originalUrl": "https://github.com/treyturner/analogue-pocket-patches/blob/main/README.md#the-bugs-bunny-crazy-castle-2"
+  },
+  {
+    "name": "The Legend of Zelda: Link's Awakening DX (Italian Translation)",
+    "authorName": "megane72GH",
+    "downloadUrl": "https://github.com/megane72GH/analogue-pocket-patches/raw/main/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20DX%20(USA%2C%20Europe)(Rev%202)(SGB%20Enhanced)(GB%20Compatible)%5BITA-Pocket%20Conversion%20v1.0%5D.ips",
+    "md5": "56653f3f7c9520eaf988671df7a99779",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#the-legend-of-zelda-links-awakening-dx-italian-translation"
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",

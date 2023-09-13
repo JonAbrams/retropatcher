@@ -26,6 +26,9 @@ const sources = {
   reminon: {
     md: "https://raw.githubusercontent.com/reminon/pocket-patches/main/README.md",
   },
+  megane72GH: {
+    md: "https://raw.githubusercontent.com/megane72GH/analogue-pocket-patches/main/README.md",
+  },
 };
 
 (async () => {
@@ -50,12 +53,7 @@ const sources = {
         authorName === "BestPig"
           ? url.replace("shareit.bestpig.fr/file", "shareit.bestpig.fr/get")
           : url.replace("/blob/main/", "/raw/main/");
-      if (
-        patches.some(
-          (p) =>
-            p.downloadUrl === downloadUrl && p.md5 === md5
-        )
-      ) {
+      if (patches.some((p) => p.downloadUrl === downloadUrl && p.md5 === md5)) {
         continue;
       }
       const hashName = name
@@ -68,13 +66,13 @@ const sources = {
         authorName,
         downloadUrl,
         md5: md5.toLowerCase(),
-        extension: 'pocket',
+        extension: "pocket",
         originalUrl:
           (authorName === "BestPig"
             ? "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881"
             : mdUrl
                 .replace("raw.githubusercontent.com", "github.com")
-                .replace("/main", "/blob/main"))+`#${hashName}`,
+                .replace("/main", "/blob/main")) + `#${hashName}`,
       };
       patches.push(patch);
     }
