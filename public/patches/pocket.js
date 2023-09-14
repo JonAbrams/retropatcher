@@ -1,4 +1,4 @@
-export const updated = '2023-09-14T16:02:33.969Z';
+export const updated = '2023-09-14T18:02:27.579Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7443,18 +7443,18 @@ export const patches = [
   {
     "name": "Pokémon Crystal Clear 2.5.2",
     "authorName": "BestPig",
-    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Crystal_Clear(2.5.5)-12c1deeb.ips",
-    "md5": "a9ea243b844c2182a7fd240474e403aa",
-    "extension": "pocket",
-    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-252"
-  },
-  {
-    "name": "Pokémon Crystal Clear 2.5.2",
-    "authorName": "BestPig",
     "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Crystal_Clear(2.5.2)-b5847ca5.ips",
     "md5": "a9fa67d3abb5e385bfcf68bc6d8a900c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-252"
+  },
+  {
+    "name": "Pokémon Crystal Clear 2.5.5",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Crystal_Clear(2.5.5)-12c1deeb.ips",
+    "md5": "a9ea243b844c2182a7fd240474e403aa",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#pokémon-crystal-clear-255"
   },
   {
     "name": "Pokémon Gold",
@@ -10574,6 +10574,14 @@ export const patches = [
     "md5": "d42a0f2f9205e81cbbbe132711d69d58",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#urban-strike"
+  },
+  {
+    "name": "Urusei Yatsura: Miss Tomobiki o sagase! (Japan) (Italian Translation)",
+    "authorName": "megane72GH",
+    "downloadUrl": "https://github.com/megane72GH/analogue-pocket-patches/raw/main/Urusei%20Yatsura%20Miss%20Tomobiki%20o%20sagase%20(Japan)%5BITA-Pocket%20Conversion%20v1.0%5D.ips",
+    "md5": "343fc47fc8a753766cbb25e08963fd8e",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#urusei-yatsura-miss-tomobiki-o-sagase-japan-italian-translation"
   },
   {
     "name": "Usurper Ghoul",
