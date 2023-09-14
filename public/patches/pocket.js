@@ -1,4 +1,4 @@
-export const updated = '2023-09-14T18:02:27.579Z';
+export const updated = '2023-09-14T19:01:53.537Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -1775,6 +1775,14 @@ export const patches = [
     "md5": "d5f88d0799c85b6d59f12542da403691",
     "extension": "pocket",
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#choplifter-ii---rescue-and-survive"
+  },
+  {
+    "name": "Chord 1.0.6",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/chord.1.0.6-b1a5abb7.ips",
+    "md5": "9474de76249fcc91038a1cf708488ef1",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#chord-106"
   },
   {
     "name": "Classic Bubble Bobble",
