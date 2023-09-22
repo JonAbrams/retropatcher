@@ -1,4 +1,4 @@
-export const updated = '2023-09-22T09:02:15.425Z';
+export const updated = '2023-09-22T22:02:18.593Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7191,6 +7191,14 @@ export const patches = [
     "md5": "ebe0742b472b3e80a9c6749f06181073",
     "extension": "pocket",
     "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#pokemon---versione-blu-italy"
+  },
+  {
+    "name": "Pokemon - Versione Cristallo (Italy)",
+    "authorName": "megane72GH",
+    "downloadUrl": "https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Cristallo%20(Italy)%5BPocket%20Conversion%20v1.0%5D.ips",
+    "md5": "7c513823f65b92a75e29067745839cc8",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#pokemon---versione-cristallo-italy"
   },
   {
     "name": "Pokemon - Versione Rossa (Italy)",
