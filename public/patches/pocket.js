@@ -1,4 +1,4 @@
-export const updated = '2023-09-14T19:01:53.537Z';
+export const updated = '2023-09-22T09:02:15.425Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -7191,6 +7191,14 @@ export const patches = [
     "md5": "ebe0742b472b3e80a9c6749f06181073",
     "extension": "pocket",
     "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#pokemon---versione-blu-italy"
+  },
+  {
+    "name": "Pokemon - Versione Rossa (Italy)",
+    "authorName": "megane72GH",
+    "downloadUrl": "https://github.com/megane72GH/analogue-pocket-patches/raw/main/Pokemon%20-%20Versione%20Rossa%20(Italy)%20(SGB%20Enhanced)%5BPocket%20Conversion%20v1.0%5D.ips",
+    "md5": "6468fb0652dde30eb968a44f17c686f1",
+    "extension": "pocket",
+    "originalUrl": "https://github.com/megane72GH/analogue-pocket-patches/blob/main/README.md#pokemon---versione-rossa-italy"
   },
   {
     "name": "Pokemon - Yellow Version",
