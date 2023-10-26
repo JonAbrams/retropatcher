@@ -1,4 +1,4 @@
-export const updated = '2023-09-24T17:01:57.370Z';
+export const updated = '2023-10-26T18:02:31.279Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -3185,6 +3185,14 @@ export const patches = [
     "originalUrl": "https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md#frogger-gbc"
   },
   {
+    "name": "From Below Pocket",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/from-below-pocket-35ad9b5a.ips",
+    "md5": "163f99c456c8fd8936e91586356af1c4",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#from-below-pocket"
+  },
+  {
     "name": "Full Time Soccer",
     "authorName": "JoseJX",
     "downloadUrl": "https://github.com/JoseJX/analogue-pocket-patches/raw/main/FullTimeSoccer.ips",
@@ -4727,6 +4735,14 @@ export const patches = [
     "md5": "96fa4f2c0db499d48bad4ae599877fb3",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-92l"
+  },
+  {
+    "name": "LSDJ (Version 9.3.9)",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/lsdj9_3_9-1fdf91b1.ips",
+    "md5": "ba7828a5beb6388ffa3a175ec64a832e",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#lsdj-version-939"
   },
   {
     "name": "Last Action Hero",
