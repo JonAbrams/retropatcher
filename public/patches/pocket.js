@@ -1,4 +1,4 @@
-export const updated = '2023-10-26T18:02:31.279Z';
+export const updated = '2023-11-16T18:02:27.471Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2559,6 +2559,14 @@ export const patches = [
     "md5": "921bdff008475aa2c5344e1a0d110910",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario-dx-hack"
+  },
+  {
+    "name": "Dr. Mario DX Hack 2.0b",
+    "authorName": "BestPig",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Dr.%20Mario%20(World)%20(Rev%201)-f0225dd0-dx2b.ips",
+    "md5": "921bdff008475aa2c5344e1a0d110910",
+    "extension": "pocket",
+    "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#dr-mario-dx-hack-20b"
   },
   {
     "name": "Dracula - Crazy Vampire",
