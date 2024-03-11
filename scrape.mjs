@@ -1,5 +1,5 @@
-import fetch from "node-fetch";
 import fs from "fs/promises";
+import fetch from "node-fetch";
 import process from "process";
 
 const outputFile = "./public/patches/pocket.js";
@@ -49,10 +49,12 @@ const sources = {
       if (!match) continue;
       const { name, md5, url } = match.groups;
       if (!name || !md5 || !url) continue;
-      const downloadUrl =
+      let downloadUrl =
         authorName === "BestPig"
           ? url.replace("shareit.bestpig.fr/file", "shareit.bestpig.fr/get")
           : url.replace("/blob/main/", "/raw/main/");
+      // Replace + in url with %20
+      downloadUrl = downloadUrl.replace(/([^+])\+([^+])/g, "$1%20$2");
       if (patches.some((p) => p.downloadUrl === downloadUrl && p.md5 === md5)) {
         continue;
       }
@@ -101,5 +103,7 @@ const sources = {
       outputText.length
     );
     process.exit(1);
+  } else {
+    console.log("No changes found.");
   }
 })();

@@ -1,4 +1,4 @@
-export const updated = '2023-11-16T18:02:27.471Z';
+export const updated = '2024-03-11T00:10:23.530Z';
 export const patches = [
   {
     "name": "007 James Bond - The World is Not Enough",
@@ -2507,7 +2507,7 @@ export const patches = [
   {
     "name": "Double Dragon II",
     "authorName": "BestPig",
-    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Double+Dragon+II+(USA,+Europe)-5b96e474.ips",
+    "downloadUrl": "https://github.com/BestPig/analogue-pocket-patches/raw/master/Double%20Dragon%20II%20(USA,%20Europe)-5b96e474.ips",
     "md5": "4f3b84eb325f9162086fac77ac577e7c",
     "extension": "pocket",
     "originalUrl": "https://gist.github.com/BestPig/528fb9a19cbb638fac1278a641041881#double-dragon-ii"
