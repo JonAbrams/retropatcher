@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Created by
 
-[Jon Abrams](https://twitter.com/JonathanAbrams)
+[Jon Abrams](https://threads.net/@jon.abrams)
